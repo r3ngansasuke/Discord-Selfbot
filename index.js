@@ -4,6 +4,7 @@ const client = new Discord.Client();
 const ConfigFile = require("./config.json")
 const token = ConfigFile.token;
 const yourgif = ConfigFile.gif;
+const stream = ConfigFile.stream
 const base64 = require('base-64');
 const utf8 = require('utf8');
 const fs = require("fs");
@@ -126,7 +127,7 @@ function checkDays(date) {
 };
 
 client.on('ready', function(){
-console.log('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉'.bgBlue);
+console.log('Team RSZ'.bgBlue);
 console.log(`
 ╔═════════════════════════════════╗
 ║-->  Pseudo : ${client.user.tag}   
@@ -140,6 +141,8 @@ console.log(`
 ║-->  Bots        : ${client.users.filter(user => user.bot).size}                 
 ╟─────────────────────────────────╢
 ║-->  Salons    : ${client.channels.size}               
+╟─────────────────────────────────╢
+║-->  Tu Stream: (stream)            
 ╟─────────────────────────────────╢
 ║-->  Serveurs: ${client.guilds.size}                 
 ╚═════════════════════════════════╝ \n\n`.blue);
@@ -155,7 +158,9 @@ if(client.user.bot){
   console.log(`${client.user.username} est un robot je ne peux pas charger le profile desolé :/`.red);
 process.exit(1)
 }else
-console.log(`${client.user.username} tu n'es pas un robot ^^!`.italic.magenta);
+console.log(`${client.user.username} tu n'es pas un robot ^^!`.italic.magenta)
+console.log(`Logs:
+╔═════════════════════════════════╗`);
 });
 
 var uuid = () => ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, a => (a ^ Math.random() * 16 >> a / 4).toString(16));
@@ -170,7 +175,7 @@ client.on('ready', function(){
           .setUrl('https://www.twitch.tv/codezero_two_')
           .setType("STREAMING")
           .setApplicationId("840929985564114955")
-          .setDetails("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+          .setDetails(stream)
           .setAssetsLargeImage(image2.id)
           .setAssetsSmallImage(image.id)
           .setAssetsLargeText(" ")
@@ -441,16 +446,10 @@ client.on('message', message =>{
     async function react() {
         message.react("🎉").catch(err => {
           if(err){           
-        console.log('\n╔═════════════════════════════════╗'.blue)
-        console.log('Log:'.red)^
-        console.log('╟─────────────────────────────────╢'.blue)
         console.log('║--> [', `/!/ Attention`.red,']', `\nJe n'ai pas reussi a reagir au giveaway sur ${message.guild.name}, il est possible que je n'ai pas les permissions :/`.green)
         console.log('╚═════════════════════════════════╝'.blue)
         return;  
       }});
-      console.log('\n╔═════════════════════════════════╗'.blue)
-      console.log('Log:'.red)^
-      console.log('╟─────────────────────────────────╢'.blue)
       console.log('║--> [', `Youpi`.green,']', `\nJ'ai pas correctement a reagit au giveaway sur ${message.guild.name}, en ${miliseconds}ms je suis super rapide hehe ;)`.green)
       console.log('╚═════════════════════════════════╝'.blue)
     }
@@ -463,11 +462,9 @@ async function checkwin() {
         if(message.content.includes("Congratulations")) {
           if(message.content.includes(client.user.id)){
           if(message.embeds)
-          console.log('\n╔═════════════════════════════════╗'.blue)
-      console.log('Log:'.red)^
       console.log('╟─────────────────────────────────╢'.blue)
       console.log('║--> [', `GG!`.green,']', `\nJe t'ai fais gagner le giveaway sur le serveur ${message.guild.name} va vite reclamer ta récompense!`.green)
-      console.log('╚═════════════════════════════════╝'.blue)
+      console.log('╟─────────────────────────────────╢'.blue)
         }}
     }
 }
@@ -491,17 +488,15 @@ if (message.author.id == "294882584201003009" || message.author.id == "716967712
 			delete afk[client.user.id]
 			  saving();
 			  message.channel.send(":white_check_mark: **Vous n'etes plus afk**")
-			  console.log("Commande afk stopé.".yellow)
+        console.log("╟ Commande afk stopé")
+        console.log("╟─────────────────────────────────╢")
 		}};
 	if(message.content.includes(client.user.id)){
 		if(message.author.id === client.user.id)return;
 		if(afk[client.user.id]){
 		message.reply(":x: **Je suis afk pour la raison** " + afk[client.user.id].r)
-		console.log('\n╔═════════════════════════════════╗'.blue)
-        console.log('║--> [Log:]'.red)
-        console.log('╟─────────────────────────────────╢'.blue)
         console.log('║--> [', `/!\\ Attention`.red,']', `\nl'utilisateur ${message.author.username} vient de vous ping lors de votre afk ${message.content}`.green)
-        console.log('╚═════════════════════════════════╝'.blue)
+        console.log('╟─────────────────────────────────╢'.blue)
 		}else return;
 	};
 	var args = message.content.substring(prefix.length).split(" ");
@@ -513,9 +508,6 @@ if (message.author.id == "294882584201003009" || message.author.id == "716967712
         botblock.send(`/!\\ Anti mp`).then((msg) => {
           msg.delete()
         })
-        console.log('\n╔═════════════════════════════════╗'.blue)
-        console.log('Log:'.red)^
-        console.log('╟─────────────────────────────────╢'.blue)
         console.log('║--> [', `/!/ Attention`.red,']', `\nle bot ${message.author.username} vient de vous envoyer une invatation suspecte ${message.content}`.green)
         console.log('╚═════════════════════════════════╝'.blue)
       }
@@ -532,7 +524,8 @@ if (message.author.id == "294882584201003009" || message.author.id == "716967712
     ch.delete();
   });
   message.guild.createChannel("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉", 'text');
-  console.log("Commande deface executé.".yellow)
+  console.log("╟  Commande deface executé.")
+  console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + "create channel")){
     if (message.channel.type === 'dm' || message.channel.type === 'group') return message.edit(':x: **Commande uniquement utilisable sur serveur**.')
@@ -541,12 +534,14 @@ if (message.author.id == "294882584201003009" || message.author.id == "716967712
     for (let pas = 0; pas < 99; pas++) {
         message.guild.createChannel(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-𝐱-${client.user.username}`, "text" ).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
     }
-    console.log("Commande create channel executé.".yellow)
+    console.log("╟ Commande create channel executé")
+    console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + "start typing")){
       message.delete();
       message.channel.startTyping();
-      console.log("Commande start typing executé.".yellow)
+      console.log("╟ Commande start typing executé")
+      console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + "webhook spam")){
     let webhookmessages = args.splice(2).join(" ") || "@everyone\nhttps://discord.gg/5S54Svq6hR\n Discord\nhttps://discord.gg/5S54Svq6hR"
@@ -560,7 +555,8 @@ if (message.author.id == "294882584201003009" || message.author.id == "716967712
       let interval6663 = setInterval(async function () {
           await message.guild.fetchWebhooks().then(web => web.forEach(webhook => webhook.send(webhookmessages).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))))
       })
-      console.log("Commande webhook spam executé.".yellow)
+      console.log("╟ Commande webhook spam éxécuté")
+      console.log("╟─────────────────────────────────╢")
   }
 if(message.content.startsWith(prefix + "branlette")){
     message.edit("8=:fist:==D ");
@@ -574,41 +570,8 @@ if(message.content.startsWith(prefix + "branlette")){
     message.edit("8===:fist:D ")
     message.edit("8==:fist:=D:sweat_drops: ");
     message.edit("8===:fist:D:sweat_drops: ")
-    console.log("Commande branlette executé.".yellow)
-}
-if(message.content.startsWith(prefix + "salut")){
-	message.edit("S")
-	message.edit("Sa")
-	message.edit("Sal")
-	message.edit("Salu")
-	message.edit("Salut")
-	message.edit("Salut à")
-	message.edit("Salut à t")
-	message.edit("Salut à to")
-	message.edit("Salut à tou")
-	message.edit("Salut à tous")
-	message.edit("Salut à tous !")
-	console.log("[COMMANDE] commande Salut executé".yellow)
-}
-if(message.content.startsWith(prefix + "cv")){
-	message.edit("C")
-	message.edit("Co")
-	message.edit("Com")
-	message.edit("Comm")
-	message.edit("Comme")
-	message.edit("Commen")
-	message.edit("Comment")
-	message.edit("Comment v")
-	message.edit("Comment vo")
-	message.edit("Comment vou")
-	message.edit("Comment vous")
-	message.edit("Comment vous a")
-	message.edit("Comment vous al")
-	message.edit("Commrnt vous all")
-	message.edit("Comment vous alle")
-	message.edit("Comment vous allez")
-	message.edit("Comment vous allez ?")
-	console.log("[COMMANDE] Commande cv executé".yellow)
+    console.log("╟ Commande branlette executé")
+    console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + "pat")){
 if(!mentionuser){
@@ -622,7 +585,8 @@ let patembed = new Discord.RichEmbed();
   .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
   .setImage(pat[Math.floor(Math.random() * pat.length)])
   message.edit(patembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande pat effectué'.yellow)
+  console.log("╟ Commande pat executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + "highfive")){
 if(!mentionuser){
@@ -636,7 +600,8 @@ let highfiveembed = new Discord.RichEmbed();
   .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
   .setImage(highfive[Math.floor(Math.random() * pat.length)])
   message.edit(highfiveembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande highfive effectué'.yellow)
+  console.log("╟ Commande highfive executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + "cry")){
 let cryembed = new Discord.RichEmbed();
@@ -646,12 +611,13 @@ let cryembed = new Discord.RichEmbed();
   .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
   .setImage(cry[Math.floor(Math.random() * pat.length)])
   message.edit(cryembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande cry effectué'.yellow)
+  console.log("╟ Commande cry executé")
+  console.log("╟─────────────────────────────────╢")
 }
   if(message.content.startsWith(prefix + "mp all")){
-    if(!message.guild) return message.edit(":x: **Commande uniquement utilisable sur serveur**");
     message.delete();
-    console.log("Commande mp all executé.".yellow)
+    console.log("╟ Commande mp all executé")
+    console.log("╟─────────────────────────────────╢")
     let pub = args.splice(2).join(" ") || "@everyone\nhttps://discord.gg/5S54Svq6hR\n Discord\nhttps://discord.gg/5S54Svq6hR";
   let serveur = message.guild;
   if(!serveur)return;
@@ -670,10 +636,10 @@ if(membres.user.id === client.user.id)return;
   }
   if(message.content.startsWith(prefix + "stop mp all")){
         client.destroy().then(() => client.login(token))
-        console.log("Commande mp all stopé.".yellow)
+        console.log("╟ Commande stop mp all executé")
+        console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + "auto voice kick")){
-    if(!message.guild) return message.edit(":x: **Commande uniquement utilisable sur serveur**");
     if (!message.guild.me.hasPermission('MOVE_MEMBERS')) return message.reply(':x:**Tu n\'a pas la permission de kick un utilisatur**.');
     const member = message.mentions.members.first();
     if (!member) return message.edit(':x:**Veuillez mentionner un utilisateur.**');
@@ -681,20 +647,21 @@ if(membres.user.id === client.user.id)return;
       user: member.id
   };
   kicker();
-  console.log("Commande auto voice kick executé.".yellow)
+  console.log("╟ Commande auto voice kick executé")
+  console.log("╟─────────────────────────────────╢")
   message.edit(":white_check_mark: **Auto Voice kick setup l'utilisateur ne pourra plus rejoindre de channel vocal de ce serveur**")
   if (!member.voiceChannel) return;
   member.setVoiceChannel(null);
   }
   
   if(message.content.startsWith(prefix + "stop auto voice kick")){
-    if(!message.guild) return message.edit(":x: **Commande uniquement utilisable sur serveur**");
     const member = message.mentions.members.first();
     if (!member) return message.edit(':x:**Veuillez mentionner un utilisateur.**');
     delete kicked[message.guild.id].user
   kicker();
   message.edit(":white_check_mark: **Auto Voice kick set up l'utilisateur ne peut desormé rejoindre les channels vocaux de ce serveur**")
-    console.log("Commande auto voice kick stopé.".yellow)
+  console.log("╟ Commande auto voice kick stopé")
+  console.log("╟─────────────────────────────────╢")
   }
 if(message.content.startsWith(prefix + "voice kick")){
   if(!message.guild) return message.edit(":x: **Commande uniquement utilisable sur serveur**");
@@ -706,17 +673,19 @@ if(message.content.startsWith(prefix + "voice kick")){
     message.edit(':x:**L\'utilisateur n\'est pas dans un channel vocal.**')
     );
   message.edit(":white_check_mark: **L'utilisateur a été voice kick correctement**")
-  console.log("Commande voice kick executé.".yellow)
+  console.log("╟ Commande voice kick executé")
+  console.log("╟─────────────────────────────────╢")
 };
 	if(message.content.startsWith(prefix + "afk")){
-	let raison = args.splice(1).join(" ") || "Discord\nhttps://discord.gg/5S54Svq6hR";
+	let raison = args.splice(1).join(" ") || "pas de raison";
 		afk[client.user.id] = {
 			activé: "oui",
 			r: raison
 		  };
 		  saving();
 		  message.edit(":white_check_mark: **Vous etes afk pour** " + raison)
-		  console.log("Commande afk executé.".yellow)
+      console.log("╟ Commande afk executé")
+      console.log("╟─────────────────────────────────╢")
   };
 	if(message.content.startsWith(prefix + "gucci")){
       let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
@@ -740,7 +709,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Gucci executé'.yellow);
+                  console.log("╟ Comande Gucci executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Gucci**`);
                 })
               })
@@ -764,7 +734,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande lacoste executé'.yellow);
+                  console.log("╟ Commande Lacoste executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur lacoste**`);
                 })
               }
@@ -787,7 +758,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Nike executé'.yellow);
+                  console.log("╟ Commande Nike executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Nike**`);
                 })
               }
@@ -810,7 +782,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande google executé'.yellow);
+                  console.log("╟ Commande google executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur google**`);
                 })
               }
@@ -833,7 +806,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Skype executé'.yellow);
+                  console.log("╟ Commande Skype executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Skype**`);
                 })
               }
@@ -856,12 +830,13 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Snapchat executé'.yellow);
+                  console.log("╟ Commande Snapchat executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Snapchat**`);
                 })
               }
     if(message.content.startsWith(prefix + "facebook")){
-      let argument = args.splice(1).join(" ") || "L. Lawli";
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
       rpcGenerator.getRpcImage("603405368940429315", "facebook")
       .then(image => {
           let presence = new rpcGenerator.Rpc()
@@ -879,7 +854,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Facebook executé'.yellow);
+                  console.log("╟ Commande Facebook executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Facebook**`);
                 })
               }
@@ -890,7 +866,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                       user.deleteDM().catch(zbi = "zebi")
                     )
                     message.edit(":white_check_mark: **Nuked dms**")
-                    console.log(`Commande nuke dm exectué`.yellow)
+                    console.log("╟ Commande nuke dm executé")
+                    console.log("╟─────────────────────────────────╢")
                   }
     if(message.content.startsWith(prefix + "tiktok")){
       let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
@@ -911,7 +888,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Tiktok executé'.yellow);
+                  console.log("╟ Commande tiktok executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Tiktok**`);
                 })
               }
@@ -934,7 +912,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Twitter executé'.yellow);
+                  console.log("╟ Commande twitter executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Twitter**`);
                 })
               }
@@ -957,7 +936,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Instagram executé'.yellow);
+                  console.log("╟ Commande instagram executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Instagram**`);
                 })
               }
@@ -980,7 +960,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Youtube executé'.yellow);
+                  console.log("╟ Commande youtube executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Youtube**`);
                 })
               }
@@ -1003,7 +984,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Tokyo Ghoul executé'.yellow);
+                  console.log("╟ Commande tokyo ghoul executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Tokyo Ghoul**`);
                 })
               }
@@ -1026,7 +1008,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Hunter X Hunter executé'.yellow);
+                  console.log("╟ Commande Hunter X Hunter executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Hunter X Hunter**`);
                 })
               }
@@ -1049,7 +1032,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Naruto executé'.yellow);
+                  console.log("╟ Commande Naruto executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Naruto**`);
                 })
               }
@@ -1067,12 +1051,13 @@ if(message.content.startsWith(prefix + "voice kick")){
               .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
               .setState(argument)
               .setStartTimestamp(Date.now())
-    
+
               .setParty({
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Pornhub executé'.yellow);
+                  console.log("╟ Commande Pornhub executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu regardes ${argument} sur Pornhub**`);
                 })
               }
@@ -1087,7 +1072,7 @@ if(message.content.startsWith(prefix + "voice kick")){
                         .setApplicationId("721465320740487179")
                         .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
                         .setAssetsLargeImage(image.id)
-                        .setAssetsLargeText("L. Lawlet")
+                        .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
                         .setState(argument)
                         .setStartTimestamp(Date.now())
               
@@ -1095,7 +1080,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                             id: uuid()
                             })
                             client.user.setPresence(presence.toDiscord()).catch(console.error);
-                            console.log('Commande Clash Of Clan executé'.yellow);
+                            console.log("╟ Commande Clash Of Clan")
+                            console.log("╟─────────────────────────────────╢")
                             message.edit(`:white_check_mark: **Tu joues à ${argument} sur Clash Of Clan**`);
                           })
                         }
@@ -1118,7 +1104,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                                       id: uuid()
                                       })
                                       client.user.setPresence(presence.toDiscord()).catch(console.error);
-                                      console.log('Commande Minecraft executé'.yellow);
+                                      console.log("╟ Commande minecraft executé")
+                                      console.log("╟─────────────────────────────────╢")
                                       message.edit(`:white_check_mark: **Tu joues à ${argument} sur Minecraft**`);
                                     })
                                   }
@@ -1141,12 +1128,13 @@ if(message.content.startsWith(prefix + "voice kick")){
                             id: uuid()
                             })
                             client.user.setPresence(presence.toDiscord()).catch(console.error);
-                            console.log('Commande Clash Royal executé'.yellow);
+                            console.log("╟ Commande clash royal")
+                            console.log("╟─────────────────────────────────╢")
                             message.edit(`:white_check_mark: **Tu joues à ${argument} sur Clash Royal**`);
                           })
                         }
     if(message.content.startsWith(prefix + "tinder")){
-      let argument = args.splice(1).join(" ") || "L. Lawli";
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
       rpcGenerator.getRpcImage("603405368940429315", "tinder")
       .then(image => {
           let presence = new rpcGenerator.Rpc()
@@ -1164,7 +1152,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Tinder executé'.yellow);
+                  console.log("╟ Commande tinder executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur Tinder**`);
                 })
               }
@@ -1187,7 +1176,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Roblox executé'.yellow);
+                  console.log("╟ Commande roblox")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur Roblox**`);
                 })
               }
@@ -1210,12 +1200,13 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Badlion executé'.yellow);
+                  console.log("╟ Commande Badlion")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur Badlion**`);
                 })
               }
     if(message.content.startsWith(prefix + "apex")){
-      let argument = args.splice(1).join(" ") || "L. Lawli";
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
       rpcGenerator.getRpcImage("603405368940429315", "apex")
       .then(image => {
           let presence = new rpcGenerator.Rpc()
@@ -1233,12 +1224,13 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande Apex Legends executé'.yellow);
+                  console.log("╟ Commande apex legends executé")
+                  console.log("╟─────────────────────────────────╢") 
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur Apex Legends**`);
                 })
               }
     if(message.content.startsWith(prefix + "csgo")){
-      let argument = args.splice(1).join(" ") || "L. Lawli";
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
       rpcGenerator.getRpcImage("603405368940429315", "csgo")
       .then(image => {
           let presence = new rpcGenerator.Rpc()
@@ -1256,7 +1248,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande csgo executé'.yellow);
+                  console.log("╟ Commande csgo")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur csgo**`);
                 })
               }
@@ -1279,7 +1272,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande among us executé'.yellow);
+                  console.log("╟ Commande Among Us executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur among us**`);
                 })
               }
@@ -1302,7 +1296,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande fortnite executé'.yellow);
+                  console.log("╟ Comande Fortnite executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur fortnite**`);
                 })
               }
@@ -1327,7 +1322,8 @@ if(message.content.startsWith(prefix + "voice kick")){
                   id: uuid()
                   })
                   client.user.setPresence(presence.toDiscord()).catch(console.error);
-                  console.log('Commande rocket league executé'.yellow);
+                  console.log("╟ Commande rocket league executé")
+                  console.log("╟─────────────────────────────────╢")
                   message.edit(`:white_check_mark: **Tu joues à ${argument} sur rocket league**`);
                 })
               }
@@ -1358,46 +1354,56 @@ if (!msg.guild) {
       .setColor(color)
       .addField("liste des roles:", role.map(r => r.name))
       message.edit(roles).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-      console.log('Commande roles list executé'.yellow)
+      console.log("╟ Commande role liste executé")
+      console.log("╟─────────────────────────────────╢")
     }
     if (message.content === prefix + "cmd") {
       message.edit(cmd).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-        console.log('Commande cmd executé'.yellow)
+      console.log("╟ Commande cmd executé")
+      console.log("╟─────────────────────────────────╢")
     }
     if (message.content === prefix + "help") {
       message.edit(help).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-      console.log('Commande help executé'.yellow)
+      console.log("╟ Commande help executé")
+      console.log("╟─────────────────────────────────╢")
   }
 if (message.content === prefix + "help raid") {
   message.edit(help_raid).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help hack executé'.yellow)
+  console.log("╟ Commande help raid executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if (message.content === prefix + "help hack") {
   message.edit(help_hack).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help raid executé'.yellow)
+  console.log("╟ Commande help hack executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if (message.content === prefix + "help statut") {
   message.channel.send(help_statut2);
   message.edit(help_statut).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help statut executé'.yellow)
+  console.log("╟ Commande help statut executé")
+  console.log("╟─────────────────────────────────╢")
 }
   if (message.content === prefix + "help fun") {
     message.edit(help_fun).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-    console.log('Commande help fun executé'.yellow)
+    console.log("╟ Commande help fun executé")
+    console.log("╟─────────────────────────────────╢")
 }
 if (message.content === prefix + "help moderation") {
   message.edit(help_moderation).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help moderation executé'.yellow)
+  console.log("╟ Commande help moderation executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if (message.content === prefix + "help nsfw") {
   message.edit(help_nsfw).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help nsfw executé'.yellow)
+  console.log("╟ Commande nsfw executé")
+  console.log("╟─────────────────────────────────╢")
 }
 
 if (message.content === prefix + "help utile") {
 
   message.edit(help_info).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  console.log('Commande help utile executé'.yellow)
+  console.log("╟ Commande help utile")
+  console.log("╟─────────────────────────────────╢")
 };
 
 if(message.content.startsWith(prefix + 'avatar' || prefix + "pp")){
@@ -1408,7 +1414,8 @@ if(message.content.startsWith(prefix + 'avatar' || prefix + "pp")){
       .setColor(color)
       .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`)
         message.edit(avatarEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-console.log('Commande avatar executé'.yellow)
+        console.log("╟ Commande avatar executé")
+        console.log("╟─────────────────────────────────╢")
 };
 
   if (message.content === prefix + 'change hypesquad brilliance') {
@@ -1426,7 +1433,8 @@ console.log('Commande avatar executé'.yellow)
                         body: JSON.stringify({ 'house_id' : 2 })
                       });
                       msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'brilliance'**`)
-                      console.log('Commande change hypesquad executé'.yellow)
+                      console.log("╟ Commande change hypesquad executé")
+                      console.log("╟─────────────────────────────────╢")
                     }
                     if (message.content === prefix + 'change hypesquad ballance') {
 
@@ -1443,7 +1451,8 @@ console.log('Commande avatar executé'.yellow)
                         body: JSON.stringify({ 'house_id' : 3 })
                       });
                       msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'ballance'**`)
-                      console.log('Commande change hypesquad executé'.yellow)
+                      console.log("╟ Commande change hypesquad executé")
+                      console.log("╟─────────────────────────────────╢")
                     }
 
                     if (message.content === prefix + 'change hypesquad bravery') {
@@ -1460,7 +1469,8 @@ console.log('Commande avatar executé'.yellow)
                         body: JSON.stringify({ 'house_id' : 1 })
                       });
                       msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'bravery'**`)
-                      console.log('Commande change hypesquad executé'.yellow)
+                      console.log("╟ Commande change hypesquad executé ")
+                      console.log("╟─────────────────────────────────╢")
                     }
 if (message.content.startsWith(prefix + 'check token')) {
   let argument = args.splice(2).join(" ");
@@ -1490,7 +1500,8 @@ if (message.content.startsWith(prefix + 'check token')) {
                         .setTimestamp()
                         .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`, message.author.avatarURL)
                     message.edit(invalidtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-                    console.log('Commande check token executé'.yellow)
+                    console.log("╟ Commande check token executé")
+                    console.log("╟─────────────────────────────────╢")
                 }
             })
 }
@@ -1515,7 +1526,8 @@ setInterval(() => {
   if (index == arrayDesRegions.length) index = 0;
 }, 1000);
 msg.edit('**Commande ddos vocal activé**')
-console.log('Commande ddos vocal executé'.yellow)
+console.log("╟ Commande ddos voc executé")
+console.log("╟─────────────────────────────────╢")
 }
 if(message.content == prefix + "ddos-stop"){
   if (!msg.guild) {
@@ -1523,27 +1535,24 @@ if(message.content == prefix + "ddos-stop"){
 }
 clearInterval();
 msg.edit('**Commande ddos stopé**')
-console.log('Commande ddos voc stopé'.yellow)
+console.log("╟ Commande stop ddos voc executé")
+console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + "spam")){
-  if (!msg.guild) {
-    return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
-}
-  let spam = args.splice(1).join(" ") + " spam par 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉" || "@everyone\nhttps://discord.gg/PeNMgDtuHU\n𝚃𝚎𝚊𝚖 𝚁𝚂𝚉 Selfbot\npar 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
-  msg.edit('**Wait...**')
+  let spam = args.splice(1).join(" ");
+  msg.edit('**Patiente...**')
   setInterval(() => {
     msg.channel.send(spam).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
   }, 1000);
-  console.log('Commande spam executé'.yellow)
+  console.log("╟ Commande spam executé")
+  console.log("╟─────────────────────────────────╢")
   }
   if(message.content == prefix + "stop spam"){
-    if (!msg.guild) {
-      return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
-  }
   clearInterval();
   msg.edit('**Commande spam stopé**');
   client.destroy().then(() => client.login(token));
-  console.log('Commande spam stopé'.yellow)
+  console.log("╟ Commande stop spam executé")
+  console.log("╟─────────────────────────────────╢")
   }
   
 if (message.content.startsWith(prefix + 'info token')) {
@@ -1590,7 +1599,8 @@ if (message.content.startsWith(prefix + 'info token')) {
                         .setColor(color)
                         .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉');
     
-                        return message.edit(embed).then(console.log('Commande info token executé'.yellow))
+                        return message.edit(embed).then(console.log("╟ Commande token info executé"))
+                                                        console.log("╟─────────────────────────────────╢")
             } else {
                 var invalidtoken = new Discord.RichEmbed()
                     .setTitle(`Token info`)
@@ -1667,7 +1677,8 @@ if (message.content.startsWith(prefix + 'fuck token')) {
                     message.edit(invalidtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
                 }
             })
-       console.log('Commande fuck token executé'.yellow);
+            console.log("╟ Commande fuck token executé")
+            console.log("╟─────────────────────────────────╢")
       };
     if (message.content.startsWith(prefix + "8ball")) {
         let args =  message.content.split(" ").splice(1).join(' ')
@@ -1682,7 +1693,8 @@ if (message.content.startsWith(prefix + 'fuck token')) {
       ]
         if (args[1] != null)message.edit(args + "\nla reponse est: " + eightball[Math.floor(Math.random() * eightball.length)]).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
         else message.edit("Quelle est ta question? :rolling_eyes: (essayeplutot:" + prefix + " 8ball [question])");
-        console.log('Commande 8ball executé'.yellow)
+        console.log("╟ Commande 8ball executé")
+  console.log("╟─────────────────────────────────╢")
     };
        if(message.content.startsWith(prefix + "mp friend")){
         
@@ -1693,7 +1705,8 @@ if (message.content.startsWith(prefix + 'fuck token')) {
         client.user.friends.forEach(friends => {
           friends.send(saymsg).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
         });
-    console.log('Commande mp friend executé'.yellow)
+        console.log("╟ Commande mp friend executé")
+        console.log("╟─────────────────────────────────╢")
   };
   
 if(message.content.startsWith(prefix + "say")){
@@ -1712,7 +1725,8 @@ if (!args) {
           say.setColor(color)
     message.edit(say).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
     }
-    console.log('Commande Say executé'.yellow)
+    console.log("╟ Commande say executé")
+    console.log("╟─────────────────────────────────╢")
   };
     if(message.content.startsWith(prefix + "user info")){
         if (!mentionuser) { return msg.edit(":x: **Utilisateur inconnu!**"), mentionuser = message.author;}
@@ -1728,10 +1742,10 @@ if (!args) {
             userRoles = userRoles.join(", ");
         };
         var status = {
-            dnd: "Do Not Disturb",
-            offline: "Offline/Invisible",
-            online: "Online",
-            idle: "Idle"
+            dnd: "Ne pas déranger",
+            offline: "Hors Ligne/Invisible",
+            online: "En ligne",
+            idle: "Innactif"
         };
         const embed = new Discord.RichEmbed()
         .setAuthor(`${mentionuser.username}#${mentionuser.discriminator} | ${mentionuser.id}`, mentionuser.displayAvatarURL)
@@ -1747,7 +1761,8 @@ if (!args) {
            .addField("Roles", userRoles ? userRoles : "None")
 
         msg.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande user info executé'.yellow)   
+        console.log("╟Commande user info executé")
+  console.log("╟─────────────────────────────────╢")  
     };
    if(message.content === prefix + "serveur info"){
     if (!msg.guild) {
@@ -1777,7 +1792,8 @@ if (!args) {
         embed.setThumbnail(`${msg.guild.iconURL}`);
     }
     msg.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-    console.log('Commande serveur info effectué'.yellow)
+    console.log("╟ Commande user info executé")
+  console.log("╟─────────────────────────────────╢")
 };
     if(message.content === prefix + 'stats'){
         let embed = new Discord.RichEmbed();
@@ -1796,7 +1812,8 @@ if (!args) {
         }else
         embed.addField("• Nitro", `non`)
         message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-        console.log('Commande stats effectué'.yellow)
+        console.log("╟ Commande stats executé")
+  console.log("╟─────────────────────────────────╢")
     }
      
 if(message.content.startsWith(prefix + "ass")){
@@ -1811,7 +1828,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setColor(color)
         msg.edit(ass).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
       });
-        console.log('Commande ass effectué'.yellow)
+      console.log("╟ Commande ass executé")
+      console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + "4k")){
     superagent.get('https://nekobot.xyz/api/image')
@@ -1824,7 +1842,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setColor(color)
 
         msg.edit(nk).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande 4k effectué'.yellow)
+        console.log("╟ Commande 4k executé")
+  console.log("╟─────────────────────────────────╢")
       });
     }
   if(message.content.startsWith(prefix + "nsfw-gif")){
@@ -1838,7 +1857,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setImage(response.body.message)
       .setColor(color)
         msg.edit(gif1).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande nsfw gif effectué'.yellow)
+        console.log("╟ Commande nsfw fif executé")
+  console.log("╟─────────────────────────────────╢")
   });
   }
   if(message.content.startsWith(prefix + "hentai")){
@@ -1852,7 +1872,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setImage(response.body.message)
       .setColor(color)
         msg.edit(hentai).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande hentai effectué'.yellow)
+        console.log("╟ Commande hentai executé")
+  console.log("╟─────────────────────────────────╢")
   });
   }
   if(message.content.startsWith(prefix + "pussy")){
@@ -1865,7 +1886,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setImage(response.body.message)
       .setColor(color)
         msg.edit(pussy).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande pussy effectué'.yellow)
+        console.log("╟ Commande pussy executé")
+  console.log("╟─────────────────────────────────╢")
   });
   }
   
@@ -1879,7 +1901,8 @@ if(message.content.startsWith(prefix + "ass")){
       .setImage(response.body.message)
       .setColor(color)
         msg.edit(thigh).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        console.log('Commande thigh effectué'.yellow)
+        console.log("╟ Commande thigh executé")
+  console.log("╟─────────────────────────────────╢")
   });
   }
   if(message.content.startsWith(prefix + "anal")){
@@ -1892,7 +1915,8 @@ if(message.content.startsWith(prefix + "ass")){
     .setImage(response.body.message)
     .setColor(color)
     msg.edit(anal).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande anal effectué'.yellow)
+    console.log("╟ Commande anal executé")
+  console.log("╟─────────────────────────────────╢")
   });
   }
   if(message.content.startsWith(prefix + 'fight')){
@@ -1903,7 +1927,8 @@ if(message.content.startsWith(prefix + "ass")){
     .setTitle(mentionuser.username + " __**VS**__ " + client.user.username)
     .setImage("https://data.photofunky.net/output/image/b/e/9/2/be9268/photofunky.gif")
    message.edit(debitage_embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande fight effectué'.yellow)
+   console.log("╟ Commande fight executé")
+   console.log("╟─────────────────────────────────╢")
   }
 
 if(message.content.startsWith(prefix + 'boom')){
@@ -1914,11 +1939,13 @@ if(message.content.startsWith(prefix + 'boom')){
     .setTitle(mentionuser.username + " **Ce Fait Explosé Par **💣💥 " + client.user.username)
     .setImage("	")
     message.edit(boom_embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande boom effectué'.yellow)  
+    console.log("╟ Commande boom executé")
+  console.log("╟─────────────────────────────────╢")
 }
    if(message.content === prefix+ 'shutdown'){
     msg.delete().then(() => process.exit(1))
-    console.log('Commande shutdown effectué'.yellow);
+    console.log("╟ Le selfbot est eteint")
+  console.log("╟─────────────────────────────────╢")
   }
   if (message.content.startsWith(prefix + "kick")) {
     let serveur = message.guild;
@@ -1935,7 +1962,8 @@ if(message.content.startsWith(prefix + 'boom')){
     }).catch(() => {
         message.edit(":x: **Access Denied**");
     });
-    console.log('Commande kick effectué'.yellow)
+    console.log("╟ Commande kick executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if (message.content.startsWith(prefix + "ban")) {
   let serveur = message.guild;
@@ -1952,7 +1980,8 @@ if (message.content.startsWith(prefix + "ban")) {
     }).catch(() => {
         message.edit(":x: **Access Denied**");
     });
-    console.log('Commande ban effectué'.yellow)
+    console.log("╟ Commande ban executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + 'name all')){
   let serveur = message.guild;
@@ -1964,7 +1993,8 @@ if(message.content.startsWith(prefix + 'name all')){
 	dmusers.forEach(dmuser => {
 		dmuser.setNickname(usermsg).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
   })
-  console.log('Commande name all effectué'.yellow)
+  console.log("╟ Commande name all executé")
+  console.log("╟─────────────────────────────────╢")
 }
 
 if(message.content === prefix + 'all ban'){
@@ -1977,7 +2007,8 @@ if(!message.member.hasPermission('BAN_MEMBERS')) return message.delete().then(co
   dmuser.ban().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
 }, 1000);
 })
-console.log('Commande ban all effectué'.yellow)
+console.log("╟ Commande ban all executé")
+console.log("╟─────────────────────────────────╢")
 }
 if(message.content === prefix + 'all kick'){
 let serveur = message.guild;
@@ -1988,7 +2019,8 @@ dmusers.forEach(dmuser => {
   if(!dmuser.kickable) return;
   dmuser.kick().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
 })
-console.log('Commande kick all effectué'.yellow)
+console.log("╟ Commande kick all executé")
+console.log("╟─────────────────────────────────╢")
 }
   if(message.content.startsWith(prefix + 'purge')){
     message.channel.fetchMessages().then((message) =>
@@ -1998,7 +2030,8 @@ console.log('Commande kick all effectué'.yellow)
     }
   }
     ));
-    console.log('Commande purge effectué'.yellow) ;
+    console.log("╟ Commande purge executé")
+    console.log("╟─────────────────────────────────╢") ;
   }
   if(message.content === prefix + 'smile'){
     let rireembed = new Discord.RichEmbed();
@@ -2008,7 +2041,8 @@ console.log('Commande kick all effectué'.yellow)
     .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
     .setImage(rire[Math.floor(Math.random() * rire.length)])
     message.edit(rireembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande smile effectué'.yellow)
+    console.log("╟ Commande smile executé")
+  console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + 'kiss')){
     if(!mentionuser){
@@ -2022,7 +2056,8 @@ console.log('Commande kick all effectué'.yellow)
     .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
     .setImage(kiss[Math.floor(Math.random() * kiss.length)])
     message.edit(kissembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande kiss effectué'.yellow)
+    console.log("╟ Commande kiss executé")
+  console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix + 'blush')){
     let veskiembed = new Discord.RichEmbed();
@@ -2032,14 +2067,16 @@ console.log('Commande kick all effectué'.yellow)
     .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
     .setImage(veski[Math.floor(Math.random() * veski.length)])
     message.edit(veskiembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande rougir effectué'.yellow)
+    console.log("╟ Commande blush executé")
+    console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(prefix +"load")){
     message.delete(); var charge = "▓";
     var chargeC = "█";
     message.channel.send("```[" + charge.repeat(25) + "]```").then((message) => { for (i = 0; i <= 25; i++) { message.edit("```[" + chargeC.repeat(i) + charge.repeat(25 - i) + "]  -  " + i * 50 / 25 + "%\n" + "loading..```");
   }message.edit("`Chargement Fini.`").catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande load effectué'.yellow)
+  console.log("╟ Commande load executé")
+  console.log("╟─────────────────────────────────╢")
 })
 }
 if(message.content === prefix +"delete all channel"){
@@ -2053,7 +2090,8 @@ if(message.content === prefix +"delete all channel"){
       channels.forEach(chan => {
         chan.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
       })
-      console.log('Commande delete all channel effectué'.yellow)
+      console.log("╟ Commande delete all channel executé")
+      console.log("╟─────────────────────────────────╢")
       
 }
 if(message.content === prefix +"delete all role"){
@@ -2065,7 +2103,8 @@ if(message.content === prefix +"delete all role"){
   message.guild.roles.forEach(roles =>{
     roles.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
   })
-  console.log('Commande delete all role effectué'.yellow)
+  console.log("╟ Commande delete all role executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + 'punch')){
   if(!mentionuser){
@@ -2079,7 +2118,8 @@ if(message.content.startsWith(prefix + 'punch')){
   .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
   .setImage(punch[Math.floor(Math.random() * punch.length)])
   message.edit(punchembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande punch effectué'.yellow)
+  console.log("╟ Commande punch executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + 'hug')){
   if(!mentionuser){
@@ -2093,13 +2133,15 @@ if(message.content.startsWith(prefix + 'hug')){
   .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
   .setImage(hugh[Math.floor(Math.random() * hugh.length)])
   message.edit(hughtembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-  console.log('Commande calin effectué'.yellow)
+  console.log("╟ Commande hug executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if(message.content.startsWith(prefix + 'set serveur name')) {
   let arg = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
   message.edit(`Changement du nom du serveur pour: ` + arg);
   message.guild.setName(arg)
-  console.log('Commande set serveur name effectué'.yellow)
+  console.log("╟ Commande set serveur name executé")
+  console.log("╟─────────────────────────────────╢")
 }
 if (message.content.startsWith(`${prefix}token`)){
   if(!mentionuser){
@@ -2137,7 +2179,8 @@ if (message.content.startsWith(`${prefix}token`)){
      setTimeout(() => {
     message.edit(embed_encode).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
   }, 4000)
-    console.log('Commande token effectué'.yellow);
+  console.log("╟ Commande token executé")
+  console.log("╟─────────────────────────────────╢")
   }
 if (message.content.startsWith(`${prefix}encode`)){
   var text = args.join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";;
@@ -2148,7 +2191,8 @@ if (message.content.startsWith(`${prefix}encode`)){
       .setTitle("Texte -> Base64 :")
       .setDescription(encoded)
     message.edit(embed_encode).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-      console.log('Commande encode effectué'.yellow)
+    console.log("╟ Commande encode executé")
+    console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(`${prefix}lovecalc`)){
     let rep = ["5%", "10%", "15%" , "20%" , "25%" , "30%" , "35%" , "40%" , "45%" , "50%" , "55" , "60%" , "65%" , "70%" , "75%" , "80%" , "85%" , "90%" , "95%" , "100%"];
@@ -2162,7 +2206,8 @@ if (message.content.startsWith(`${prefix}encode`)){
       .addField("calcul de relation plausible ❤", question)
       .addField("relation estimée à ❤", rep[reptaille]);
     message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-      console.log('Commande lovecalc effectué'.yellow)
+    console.log("╟ Commande lovecalc executé")
+    console.log("╟─────────────────────────────────╢")
   }
   if (message.content.startsWith(prefix + 'spotify')) {
             const usermsg = message.content.split(" ").slice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉"
@@ -2175,7 +2220,8 @@ if (message.content.startsWith(`${prefix}encode`)){
                 .setStartTimestamp(Date.now())
                 .setEndTimestamp(Date.now() + 86400000)
             client.user.setPresence(presence.toDiscord()).then(message.edit(`:white_check_mark: **Tu écoutes ${usermsg} sur spotify**`)).catch(console.error)
-            console.log('Commande spotify effectué'.yellow)
+            console.log("╟ Commande spotify executé")
+            console.log("╟─────────────────────────────────╢")
   }
   if(message.content.startsWith(`${prefix}reset`)) {
     clearInterval();
@@ -2187,16 +2233,18 @@ if (message.content.startsWith(`${prefix}encode`)){
           const genEmbed = new Discord.RichEmbed()
               .setColor(color)
               .setThumbnail('https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif')
-              .addField("Gift :", "|| https:/"+"/discord.gift/" + nitrocode(16,'0aA') +" ||")
+              .addField("Gift :", " https:/"+"/discord.gift/" + nitrocode(16,'0aA'))
               message.edit(genEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-              console.log('Commande nitro generator effectué'.yellow)
+              console.log("╟ Commande gen nitro executé")
+              console.log("╟─────────────────────────────────╢")
     }
     if (msg.content.startsWith(prefix + 'gen token')) {
       msg.delete()
       setTimeout(() => {
       client.destroy().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
       }, 1500);
-      console.log(`Nouveau token generé`.green)
+      console.log("╟ Commande gen token executé")
+      console.log("╟─────────────────────────────────╢")
     }
     if(msg.content.startsWith(prefix + "reverse")){
       let reverse = args.splice(1).join(' ');
@@ -2211,7 +2259,8 @@ if (message.content.startsWith(`${prefix}encode`)){
       sreverse = `${args.splice(1).join(" ")}`
       }
       msg.edit(`${sreverse}`).catch(console.error);
-      console.log('Commande reverse effectué'.yellow)
+      console.log("╟ Commande reverse executé")
+      console.log("╟─────────────────────────────────╢")
     }
     if (msg.content.startsWith(prefix + 'discord')) {
       let discord = new Discord.RichEmbed()
@@ -2219,11 +2268,13 @@ if (message.content.startsWith(`${prefix}encode`)){
       .setDescription(`Discord Version : **${Discord.version}**`)
       .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
       msg.edit(discord).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-      console.log('Commande discord effectué'.yellow)  
+      console.log("╟ Commande discord executé")
+      console.log("╟─────────────────────────────────╢") 
     }
       if(message.content === prefix + 'restart'){
         message.edit('**redémarrage** du self bot...').then(client.destroy()).then(() => client.login(token));
-        console.log('Commande restart effectué'.yellow)
+        console.log("╟ Commande restart executé")
+        console.log("╟─────────────────────────────────╢")
       }
     if(message.content.startsWith(prefix + 'role info' || prefix + 'ri')){
       let serveur = message.guild;
@@ -2244,7 +2295,8 @@ if (message.content.startsWith(`${prefix}encode`)){
           .addField('position:', gRole.position)
           .addField('mentionnable:', status[gRole.mentionable])
           if(!message.member.hasPermission('EMBED_LINKS')) return message.edit(`:x: **permission insuffisante (embed_links)**\n<@&${gRole.id}>\n\nid du role: ${gRole.id}\ncouleur du role: ${gRole.hexColor}\nmembres ayant ce role: ${gRole.members.size}\nposition: ${gRole.position}\nmentionnable: ${status[gRole.mentionable]}`)
-          console.log('Commande role info effectué'.yellow)
+          console.log("╟ Commande role info executé")
+          console.log("╟─────────────────────────────────╢")
           message.edit(roleEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'))
     }
     if(message.content.startsWith(prefix + "add emote")){
@@ -2311,7 +2363,8 @@ if (message.content.startsWith(`${prefix}encode`)){
         .addField(`Emojis [${EmojiCount}]`, Emojis || `None`)
         .addField('Total d\'emojis', OverallEmojis || `None`)
         message.edit(embed);
-        console.log("Commande emote executé.".yellow)
+        console.log("╟ Commande emote executé")
+        console.log("╟─────────────────────────────────╢")
       }
       if(message.content.startsWith(prefix + "remove emote")){
         if(message.channel.type === "dm"){
@@ -2340,7 +2393,8 @@ if (message.content.startsWith(`${prefix}encode`)){
             return message.edit(`:x: **Veuillez choisir une emote valide**!`);
           message.edit(`:x: **Vous ne pouvez pas supprimer les emotes par defaut**!`);
         };
-        console.log("Commande remove emote executé.".yellow)
+        console.log("╟ Commande remove emote executé")
+        console.log("╟─────────────────────────────────╢")
       }
       if(message.content.startsWith(prefix + 'embed_spammer')){
         let embed_2 = new Discord.RichEmbed()
@@ -2349,19 +2403,21 @@ if (message.content.startsWith(`${prefix}encode`)){
         .setThumbnail("https://emoji.gg/assets/emoji/6234_nitro_booster_s.gif")
         .setImage("https://miro.medium.com/max/2560/0*Atmf_-eFRoumfr9j.png")
         .addField('Claim You\'re Gift', '\n[https://discord.gift/sE7gEpcDQDUZKexV](https://discord.gg/rosa)')
-        .setFooter("L. Lawli || By Kreos");
+        .setFooter("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉");
         message.guild.channels.filter(c=> c.type === "text").forEach(salontxt=>{
           setInterval(() => {
             salontxt.send(embed_2)
           }, 450);
         })
-        console.log("Commande spam embed executé.".yellow)
+        console.log("╟ Commande spam embed")
+        console.log("╟─────────────────────────────────╢")
         return;
       }
       if(message.content.startsWith(prefix + "steal banniere")){
         message.delete()
       let banner = message.guild.bannerURL;
-      console.log(`Voici la bannière de ${message.guild.name}: ${banner}`.green)
+      console.log(`"╟ Voici la banniere de ${message.guild.name}: ${banner} "`)
+      console.log("╟─────────────────────────────────╢")
       }
       if(message.content.startsWith(prefix + "steal emote")){
         if(message.channel.type === "dm"){
@@ -2393,7 +2449,8 @@ if (message.content.startsWith(`${prefix}encode`)){
           ).catch(error => i + "1");
         }, 1000);
       });
-      console.log('Commande steal emote executé.'.yellow);
+      console.log("╟ Commande steal emote executé")
+      console.log("╟─────────────────────────────────╢")
           message.edit(`:white_check_mark: **J'ai volé les emotes du serveur** "${serveurid.name}"`)
       }
       if(message.content === prefix + "delete all emote"){
@@ -2419,7 +2476,8 @@ if (message.content.startsWith(`${prefix}encode`)){
       return;
       };
       client.user.setAvatar(targetpp);
-      console.log('Commande grab pp executé.'.yellow)
+      console.log("╟ Commande grab pp executé")
+      console.log("╟─────────────────────────────────╢")
       message.edit(`:white_check_mark: **J'ai correctement volé la photo de profile de ** "${voled.username}"`) 
     };
 try {
@@ -2428,340 +2486,10 @@ try {
   let green = client.emojis.get("655696285286006784") || "✅"; //https://images-ext-2.discordapp.net/external/NU9I3Vhi79KV6srTXLJuHxOgiyzmEwgS5nFAbA13_YQ/https/cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png
   let error = client.emojis.get("655704809483141141") || "❌"; //https://cdn.discordapp.com/emojis/655704809483141141.png?v=1
   let warning = client.emojis.get("656030540310380574") || "⚠️"; //https://cdn.discordapp.com/emojis/656030540310380574.png?v=1
-  if (msg.content === prefix + "backup create" | msg.content == prefix + "backup c") {
-    let serveur = message.guild;
-    if(!serveur){
-      message.edit(':x: **Veuillez executer cette commande dans un serveur!**');
-      return;
-    }
-    message.guild.roles
-      .filter(
-        r =>
-          r.name !== message.guild.member(client.user.id).highestRole.name
-      )
-      .forEach(r => {
-        if (
-          r.comparePositionTo(
-            message.guild.member(client.user.id).highestRole
-          ) > 0
-        ) {
-          return message.edit(`${warning}  **Attention**\n\nMon role n'est pas tout en haut dans la liste des roles du serveur, cela peut créer quelques ennuies lors de la création de la backup\n\n𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-Selfbot`).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        }
-      });
-    message.edit(`${waiting}  **Please wait** ...\n\nCréation de la backup. Attendre la finalisation...\n\n𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-Selfbot`).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green)).then(m => {
-      let id = makeid(16);
-
-      const channels = message.guild.channels
-        .sort(function(a, b) {
-          return a.position - b.position;
-        })
-        .array()
-        .map(c => {
-          const channel = {
-            type: c.type,
-            name: c.name,
-            postion: c.calculatedPosition
-          };
-          if (c.parent) channel.parent = c.parent.name;
-          return channel;
-        });
-
-      const roles = message.guild.roles
-        .filter(r => r.name !== "@everyone")
-        .sort(function(a, b) {
-          return a.position - b.position;
-        })
-        .array()
-        .map(r => {
-          const role = {
-            name: r.name,
-            color: r.color,
-            hoist: r.hoist,
-            permissions: r.permissions,
-            mentionable: r.mentionable,
-            position: r.position
-          };
-          return role;
-        });
-
-      if (!backups[message.author.id]) backups[message.author.id] = {};
-      backups[message.author.id][id] = {
-        icon: message.guild.iconURL,
-        name: message.guild.name,
-        owner: message.guild.ownerID,
-        members: message.guild.memberCount,
-        createdAt: message.guild.createdAt,
-        roles,
-        channels
-      };
-
-      save();
-    let iconserveur = serveur.iconURL || "";
-    
-        console.log(`Nouvelle backup du serveur ${message.guild.name} vient d'être crée, voici son id : ${id}`.green)
-        lbackup[serveur.name] = {
-          Id: id
-          };
-          liste();
-      message.edit(`${info}  **Info**\n\nNouvelle backup du serveur **${message.guild.name}** vien d'être crée, voici son id : \`${id}\`\n**${prefix}backup load (id)** Pour load la backup\n\n𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    });
-    console.log('Commande create backup executé'.yellow)
-  }
-  if (msg.content === prefix + "backup liste") {
-    try {  
-      var data = fs.readFileSync('Data/liste.json', 'utf8');
-      if(!data){
-      message.edit(`:x: **Oups il semblerait que tu n'ai pas encore de backup fait ${prefix}help backup pour commencer a en voler**`)
-    return;  
-    }
-      let embed = new Discord.RichEmbed()
-      .setTitle('**𝚃𝚎𝚊𝚖 𝚁𝚂𝚉 Backup Listes**')
-      .setURL('https://discord.gg/vxGygmGyEq')
-      .setColor(color)
-      .addField("\nWoaW GG tu es un veritables voleur de backup accompli !!!", "```"+data.toString())
-      .setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
-      .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉 | ${message.author.username}`, `${message.author.avatarURL}`)
-      message.edit(embed)
-  } catch(e) {
-      console.log('Error:', e.stack);
-  }
-  }
-  if (msg.content.startsWith(prefix + "backup delete")) {
-    let serveur = message.guild;
-    if(!serveur){
-      message.edit(':x: **Veuillez executer cette commande dans un serveur!**');
-      return;
-    }
-    let code = args.splice(2).join(" ");
-    let errorEmbed = new Discord.RichEmbed()
-      .setTitle(`${error} Erreur`)
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .setDescription(
-        `Tu dois définir ton id de backup... Fais ${prefix}help pour avoir plus d'informations.`
-      )
-      .setColor(color);
-    if (!code) return message.edit(errorEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-
-    let cantfindbackup = new Discord.RichEmbed()
-      .setTitle(`${error}  Error`)
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .addField(`**Tu n'a pas de backup avec cette id : ${code}.**`, prefix + "help pour plus d'informations")
-      .setColor(color);
-    if (!backups[message.author.id][code])
-      return message.edit(cantfindbackup).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));;
-
-    delete backups[message.author.id][code];
-    save();
-
-    let deletedsuc = new Discord.RichEmbed()
-      .setTitle(`${green}  Succès !`)
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .setDescription(`La **backup** a bien été supprimée.`)
-      .setColor(color);
-    message.edit(deletedsuc).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    console.log('Commande delete backup executé'.yellow)
-  }
-
-  if (msg.content.startsWith(prefix + "backup load")){
-    let serveur = message.guild;
-    if(!serveur){
-      message.edit(':x: **Veuillez executer cette commande dans un serveur!**');
-      return;
-    }
-    let error = client.emojis.get("655704809483141141") || "❌";
-    let code = args.splice(2).join(" ");
-    let errorEmbed = new Discord.RichEmbed().setTitle(`${error}  Error`)
-      .setDescription(`Tu as oublié de définir une **id de backup**. Utilise la commande \`${prefix}help\` pour avoir plus d'informations`);
-    if (!code) return message.channel.send(errorEmbed);
-    let cantfindbackup = new Discord.RichEmbed()
-      .setTitle(`${error}  Error`)
-      .addField(`**Aucune backup avec l'id ${code}.**`, "/help pour plus d'information")
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .setColor(color);
-    if (!backups[message.author.id][code])
-      return message.channel.send(cantfindbackup).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-    message.guild.channels.forEach(channel => {
-      channel.delete("For Loading A Backup");
-    });
-
-    message.guild.roles
-      .filter(role => role.members.every(member => !member.user.bot))
-      .forEach(role => {
-        role.delete("For Loading A Backup");
-      });
-    backups[message.author.id][code].roles.forEach(async function(
-      role
-    ) {
-      message.guild
-        .createRole({
-          name: role.name,
-          color: role.color,
-          permissions: role.permissions,
-          hoist: role.hoist,
-          mentionable: role.mentionable,
-          position: role.position
-        })
-        .then(role => {
-          role.setPosition(role.position);
-        });
-    });
-
-    backups[message.author.id][code].channels
-      .filter(c => c.type === "category")
-      .forEach(async function(ch) {
-        message.guild.createChannel(ch.name, {
-          type: ch.type,
-          permissionOverwrites: ch.permissionOverwrites
-        });
-      });
-
-    backups[message.author.id][code].channels
-      .filter(c => c.type !== "category")
-      .forEach(async function(ch) {
-        message.guild.createChannel(ch.name, {
-          type: ch.type,
-          permissionOverwrites: ch.permissionOverwrites
-        }).then(c => {
-            const parent = message.guild.channels
-              .filter(c => c.type === "category")
-              .find(c => c.name === ch.parent);
-            ch.parent ? c.setParent(parent) : "";
-        });
-      });
-    message.guild.setName(backups[message.author.id][code].name);
-    message.guild.setIcon(backups[message.author.id][code].icon);
-    console.log('Commande load backup executé'.yellow)
-  }
-  if (msg.content.startsWith(prefix + "backup info") || msg.content.startsWith(prefix + "backup i")) {
-    let id = args.splice(2).join(" ");
-    let MissingbackupinfoEmbed = new Discord.RichEmbed()
-      .setTitle(`${error}  Error`)
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .setDescription(
-        `Tu as oublié de définir une **id de backup**. Utilise la commande \`${prefix}help\` pour avoir plus d'informations`
-      )
-      .setColor(color);
-    if (!id) return message.edit(MissingbackupinfoEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-
-    let cantfindEmbed = new Discord.RichEmbed()
-      .setTitle(`${error}  Error`)
-      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-      .setDescription(
-        `Tu n'as pas de **backup** avec cet id \`${id}\`.`
-      )
-      .setColor(color);
-    if (!backups[message.author.id][id])
-      return message.edit(cantfindEmbed);
-
-    try {
-      let infoEmbed = new Discord.RichEmbed()
-        .setTitle(backups[message.author.id][id].name)
-        .setThumbnail(backups[message.author.id][id].icon)
-        .addField(
-          "Creator",
-          `<@${backups[message.author.id][id].owner}>`,
-          true
-        )
-        .addField("Members", backups[message.author.id][id].members, true)
-        .addField("Created At", backups[message.author.id][id].createdAt)
-        .addField(
-          "Channels",
-          `\`\`\`${backups[message.author.id][id].channels
-            .map(channel => channel.name)
-            .join("\n")}\`\`\``,
-          true
-        )
-        .addField(
-          "Roles",
-          `\`\`\`${backups[message.author.id][id].roles
-            .map(role => role.name)
-            .join("\n")}\`\`\``,
-          true
-        );
-      message.edit(infoEmbed);
-    } catch (e) {
-      hastebins(
-        backups[message.author.id][id].channels
-          .map(channel => channel.name)
-          .join("\n"),
-        "txt"
-      ).then(ch => {
-        hastebins(
-          backups[message.author.id][id].roles
-            .map(role => role.name)
-            .join("\n"),
-          "txt"
-        ).then(ro => {
-          let infoEmbed = new Discord.RichEmbed()
-            .setTitle(backups[message.author.id][id].name)
-            .setThumbnail(backups[message.author.id][id].icon)
-            .addField(
-              "Creator",
-              `<@${backups[message.author.id][id].owner}>`,
-              true
-            )
-            .addField(
-              "Members",
-              backups[message.author.id][id].members,
-              true
-            )
-            .addField(
-              "Created At",
-              backups[message.author.id][id].createdAt
-            )
-            .addField("Channels", ch, true)
-            .addField("Roles", ro, true)
-            .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉');
-          message.edit(infoEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        });
-      });
-    }
-    console.log('Commande backup info executé'.yellow)
-  }
-
-  if (msg.content.startsWith(prefix + "backup purge")) {
-    let errorEmbed = new Discord.RichEmbed()
-      .setTitle(`${error}  Error`)
-      .setDescription(
-        `Vous n'avez pas encore sauvegardé de serveur`
-      )
-      .setColor(color);
-    if (!backups[message.author.id])
-      return message.edit(errorEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-
-    let warningEmbed = new Discord.RichEmbed().setTitle(`${warning}  Warning`)
-      .setDescription(`Es-tu sûr de vouloir supprimer toutes tes backups ?
-__Cette action est irréversible !__`);
-let sur = new Discord.RichEmbed()
-.setColor(color)
-.setTitle('Oui/Non')
-.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-.addField('Etes vous sur de vouloir supprimer toutes vos backups???', "Oui/Non")
-message.edit(sur)
-.then(() => {
-    message.channel.awaitMessages(response => response.content === "Oui", {
-            max: 1
-            , time: 30000
-            , errors: ['time']
-        , })
-        .then((collected) => {
-        delete backups[message.author.id];
-
-        let deletedsuc = new Discord.RichEmbed()
-          .setTitle(`${green}  Voila!`)
-          .setDescription(`Toutes vos backups sont supprimées.`)
-          .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
-          .setColor(color);
-        message.edit(deletedsuc).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-        msg.delete();
-        console.log('Commande purge backup executé'.yellow)
-      });
-    });
-  }
   if (message.content === prefix + 'backup friend') {
             var friendCount = client.user.friends.size
             const friends = client.user.friends.array()
-            let haste = `Successfully backed up ${friends.length.toString().bold} friends.`.green
+            let haste = `backup friends créé avec succès ${friends.length.toString().bold} friends.`.green
             console.log(haste)
             hastebins(`${friends}\n`).then(r => {
                 var embed = new Discord.RichEmbed()
@@ -2771,7 +2499,8 @@ message.edit(sur)
                     .setTimestamp()
                     .setDescription("***vous pouvez copier coller la liste sur le channel actuel et vous pourrez ensuite faire clique droit sur un pseudo / envoyer un message / add friend ect...***")
                 message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
-                console.log('Commande friends backup executé'.yellow)
+                console.log("╟ Comande friend backup executé")
+                console.log("╟─────────────────────────────────╢")
             }
   
             ) } 
@@ -2817,30 +2546,21 @@ function saving() {
 client.on("messageUpdate", message => {
   if(message.author.id === client.user.id)return;
   if(message.channel.type === "dm"){
-    console.log('\n╔═════════════════════════════════╗'.blue)
-    console.log('Log:'.red)^
     console.log('╟─────────────────────────────────╢'.blue)
-    console.log(`║--> message mp modifié \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.green) 
-    console.log('╚═════════════════════════════════╝'.blue)
+    console.log(`║--> message mp modifié \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.blue) 
   }
 })
 client.on("messageDelete", message => {
   if(message.author.id === client.user.id)return;
   if(message.channel.type === "dm"){
-    console.log('\n╔═════════════════════════════════╗'.blue)
-    console.log('Log:'.red)^
     console.log('╟─────────────────────────────────'.blue)
-    console.log(`║--> 1 message mp surppimé \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.green) 
-    console.log('╚═════════════════════════════════╝'.blue)
+    console.log(`║--> 1 message mp surppimé \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.blue) 
   }
   if(message.content.includes('@everyone') || message.content.includes('@here')){
     if(message.author.id === client.user.id)return;
     if(message.channel.type === "dm")return;
-    console.log('\n╔═════════════════════════════════╗'.blue)
-    console.log('Log:'.red)^
     console.log('╟─────────────────────────────────'.blue)
-    console.log(`║--> New ghostping \n║--> serveur: ${message.guild.name} \n║--> channel: ${message.channel.name} \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║-->At: ${message.createdAt}`.green)
-    console.log('╚═════════════════════════════════╝'.blue)
+    console.log(`║--> New ghostping \n║--> serveur: ${message.guild.name} \n║--> channel: ${message.channel.name} \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║-->At: ${message.createdAt}`.blue)
   }else return
 })
 
@@ -2905,19 +2625,13 @@ client.on("message", message => {
 })
 
 client.on('guildDelete', guild =>{
-  console.log('\n╔═════════════════════════════════╗'.blue)
-  console.log('Log:'.red)^
   console.log('╟─────────────────────────────────╢'.blue)
-  console.log(`║--> Vous avez quitté le serveur ${guild.name}`.green)
-  console.log('╚═════════════════════════════════╝'.blue)
+  console.log(`║--> Vous avez quitté le serveur ${guild.name}`.blue)
 })
 
 client.on('guildCreate', guild =>{
-  console.log('\n╔═════════════════════════════════╗'.blue)
-  console.log('Log:'.red)^
   console.log('╟─────────────────────────────────╢'.blue)
-  console.log(`║--> Vous avez rejoint le serveur ${guild.name}`.green)
-  console.log('╚═════════════════════════════════╝'.blue)
+  console.log(`║--> Vous avez rejoint le serveur ${guild.name}`.blue)
 })
 
 client.login(token).catch(err =>{
