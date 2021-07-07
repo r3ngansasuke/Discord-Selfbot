@@ -126,9 +126,11 @@ function checkDays(date) {
     return days + (days == 1 ? " day" : " days") + " ago";
 };
 
+
 client.on('ready', function(){
-console.log('Team RSZ'.bgBlue);
-console.log(`
+  console.clear
+  console.log(`
+Team RSZ
 ╔═════════════════════════════════╗
 ║-->  Pseudo : ${client.user.tag}   
 ╟─────────────────────────────────╢
@@ -136,16 +138,16 @@ console.log(`
 ╟─────────────────────────────────╢
 ║-->  Prefix       : ${prefix}                 
 ╟─────────────────────────────────╢
-║-->  Membres: ${client.guilds.map(guild => guild.memberCount).reduce((a, b) => a + b)}             
+║-->  Membres: ${client.guilds.map(guild => guild.memberCount).reduce((a, b) => a + b)}         
 ╟─────────────────────────────────╢
 ║-->  Bots        : ${client.users.filter(user => user.bot).size}                 
 ╟─────────────────────────────────╢
 ║-->  Salons    : ${client.channels.size}               
 ╟─────────────────────────────────╢
-║-->  Tu Stream: (stream)            
+║-->  Serveurs: ${client.guilds.size} 
 ╟─────────────────────────────────╢
-║-->  Serveurs: ${client.guilds.size}                 
-╚═════════════════════════════════╝ \n\n`.blue);
+║-->  Tu Stream: ${stream}                            
+╚═════════════════════════════════╝ \n\n`.green);
 
 if(client.user.premium > 0){
 console.log('Vous etes sur un compte nitro'.italic.magenta);
@@ -190,18 +192,36 @@ client.on('ready', function(){
           })
 });
 
+let gen = new Discord.RichEmbed();
+gen.setTimestamp()
+.setColor(color)
+.setTitle('**Générateur**')
+.setURL('https://discord.gg/5S54Svq6hR')
+.setDescription("`" + `le prefix est:  ${prefix}` + '`')
+.addField(' ```Nitro``` ', "***gen un nitro random***")
+.addField(' ```Metal``` ', "***gen un metal dungeon***")
+.addField(' ```Gspotify``` ', `***gen un spotify***`)
+.addField(' ```Nordvpn``` ', `***gen un nord vpn***`)
+.addField(' ```Uplay``` ', `***gen un uplay***`)
+.addField(' ```pornhub``` ', `***gen un pornhub***`)
+.addField(' ```Gtoken``` ', `***drop un token pour spam (valid)***`)
+.addField(' ```Dofus``` ', `***gen un dofus***`)
+.addField(' ```Netflix``` ', `***gen un neflix uncheck***`)
+.addField(' ```CC``` ', `***gen un carte de crédit discord (ne pas payer de nitro sur son compte risque de ban)***`) /////269
+.setImage(yourgif)
+.setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
+.setFooter('𝚃𝚎𝚊𝚖 𝚁𝚂𝚉')
 
 let cmd = new Discord.RichEmbed();
 cmd.setTimestamp()
 .setColor(color)
 .setTitle("**Liste des commandes**")
 .setURL('https://discord.gg/5S54Svq6hR')
-.setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](Soon)')
-.addField('**Commande Help**', "`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help backup`, `help hack`, `help raid`")
+.addField('**Commande Help**', "`help`, `help fun`, `help utile`, `help moderation`, `help nsfw`, `help hack`, `help raid`")
 .addField("**Commandes Fun** :joy:: ", '`auto voice kick`, `stop auto voice kick`, `start typing`, `branlette`, `lovecalc`, `fight`, `boom`, `reverse`, `nitro`, `avatar`, `8ball`, `say`, `smile`, `kiss`, `blush`, `load`, `punch`, `hug`,`pat`,`salut`,`cv`')
-.addField("**Commandes Moderation** :tools:: ", '`voice kick`, `set serveur name`, `roles list`, `channels list`, `name all`, `ban all`, `kick all`, `shutdown`, `kick`, `ban`, `purge`, `delete all channels`, `delete all role`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`')
+.addField("**Commandes Moderation** :tools:: ", '`voice kick`, `set serveur name`, `roles list`, `channels list`, `shutdown`, `kick`, `ban`, `purge`, `discord`, `gen token`, `user info`, `role info`, `serveur info`, `stats`, `encode`, `mp friend`')
 .addField("**Commandes Nsfw** :underage: :", '`ass`, `4k`, `anal`, `hentai`, `nsfw-gif`, `pussy`, `thigh`')
-.addField("**Commandes Raid** :no_entry_sign: :", '`deface`, `spam`, `webhook spam`, `create channel`, `stop spam`')
+.addField("**Commandes Raid** :no_entry_sign: :", '`deface`, `spam`, `webhook spam`, `create channel`, `stop spam`, `name all`, `ban all`, `kick all`, `delete all channels`, `delete all role`')
 .addField("**Commandes Hack** :skull_and_crossbones: :", '`check token`, `info token`, `fuck token`, `ddos voc`, `ddos-stop`, `token`')
 .addField("**Commandes Utile** :globe_with_meridians: :", '`nuke dm`,, `mp all`, `stop mp all`, `grab pp`, `delete all emote`, `steal emote`, `remove emote`, `emote`, `add emote` `user info`, `serveur info`, `stats`, `restart`, `reset`, `role info`, `encode`, `discord`, `gen token`, `mp friend`, `change hypesquad`')
 .addField("**Commandes Statut** :performing_arts: :", '`rocket league`, `spotify`, `fortnite`, `among us`, `badlion`, `apex`, `csgo`, `roblox`, `pornhub`, `tinder`, `clash royal`, `clash of clan`, `naruto`, `hunter x hunter`, `tokyo ghoul`, `youtube`, `minecraft`, `twitter`, `instagram`, `tiktok`, `facebook`, `snapchat`, `skype`, `google`, `nike`, `lacoste`, `gucci`')
@@ -218,6 +238,7 @@ let help_hack = new Discord.RichEmbed()
 .setURL('https://discord.gg/5S54Svq6hR')
 .addField(`**${prefix}ddos voc**`, "`Lance une attaque ddos sur les channels vocal`")
 .addField(`**${prefix}ddos-stop**`, "`Stop une attaque ddos sur les channels vocal`")
+.addField(`**${prefix}virus**`, "`Lance un virus`")
 .addField(`**${prefix}token (@user)**`,"`Affiche le token d'un utilisateur`")
 .addField(`**${prefix}check token (token)**`,"`Check si un token est valide`")
 .addField(`**${prefix}info token (token)**`,"`Affiche les informations d'un utilisateur grace a un token`")
@@ -234,11 +255,20 @@ let help_raid = new Discord.RichEmbed()
 .setColor(color)
 .setTitle('**Pannel de Help Raid**')
 .setURL('https://discord.gg/vxGygmGyEq')
+.addField(`**${prefix}serveur info**`,"`Envoie les information du serveur`")
+.addField(`**${prefix}infoplus**`,"`Montre des informations en plus sur le serveur`")
 .addField(`**${prefix}create channel**`,"`Creer 10 channels textuel`")
 .addField(`**${prefix}deface**`,"`Déface entierement un serveur (nom/icon/channels)`")
 .addField(`**${prefix}webhook spam**`,"`Créer 3 webhooks par salon et spam avec (ultra rapide)`")
+.addField(`**${prefix}destroy**,"Détruit le serveur"`)
 .addField(`**${prefix}spam (text)**`,"`Spam un text`")
 .addField(`**${prefix}stop spam**`,"`Arrete le spam`")
+.addField(`**${prefix}createrole**`, "`Créé pleins de rôles`")
+.addField(`**${prefix}delete all role**`,"`Supprime tous les rôles du serveur`")
+.addField(`**${prefix}delete all channel**`,"`Supprime tout les salons d'un serveur`")
+.addField(`**${prefix}name all**`,"`Rename tout les membres d'un serveur`")
+.addField(`**${prefix}ban-all**`,"`Ban tout les membres d'un serveur`")
+.addField(`**${prefix}kick-all**`,"`Kick tout les membres d'un serveur`")
 .setDescription("`" + `le prefix est:  ${prefix}` + '`')
 .setDescription('[Lien pour avoir 𝚃𝚎𝚊𝚖 𝚁𝚂𝚉](soon)')
 .setImage(yourgif)
@@ -352,16 +382,11 @@ let help_moderation = new Discord.RichEmbed()
 .addField(`**${prefix}voice kick (@user)**`,"`Kick un utilisateur du salon vocal`")
 .addField(`**${prefix}set serveur name (text)**`,"`Change le nom du serveur`")
 .addField(`**${prefix}shutdown**`,"`Eteint le selfbot`")
-.addField(`**${prefix}name all**`,"`Rename tout les membres d'un serveur`")
-.addField(`**${prefix}ban-all**`,"`Ban tout les membres d'un serveur`")
-.addField(`**${prefix}kick-all**`,"`Kick tout les membres d'un serveur`")
 .addField(`**${prefix}kick (@user)**`,"`kick un membre du serveur`")
 .addField(`**${prefix}ban (@user)**`,"`Ban un membre du serveur`")
 .addField(`**${prefix}roles list**`,"`Envoie la liste de tout les roles d'un serveur`")
 .addField(`**${prefix}channels list**`,"`Envoie la liste de tout les channels d'un serveur`")
 .addField(`**${prefix}purge**`,"`Supprime tout les messages`")
-.addField(`**${prefix}delete all channel**`,"`Supprime tout les salons d'un serveur`")
-.addField(`**${prefix}delete all role**`,"`Supprime tout les roles d'un serveur`")
 .setDescription("`" + `le prefix est:  ${prefix}` + '`')
 .setImage(yourgif)
 .setThumbnail('https://media1.tenor.com/images/d37a6d3be2c5f56685579d59e225d256/tenor.gif')
@@ -382,7 +407,6 @@ let help_info = new Discord.RichEmbed()
 .addField(`**${prefix}nuke dm**`,"`Nuke tout tes dm (𝚃𝚎𝚊𝚖 𝚁𝚂𝚉 les clear) pour limiter les beugs et l'ésthetique`")
 .addField(`**${prefix}afk (text)**`,"`Pour te definir comme \"afk\"`")
 .addField(`**${prefix}user info (@user)**`,"`Envoie les information d'un membre du serveur`")
-.addField(`**${prefix}serveur info**`,"`Envoie les information du serveur`")
 .addField(`**${prefix}stats**`,"`Affiche les stats du selfbot`")
 .addField(`**${prefix}restart**`,"`Redemarre le selfbot`")
 .addField(`**${prefix}reset**`,"`Reset le status`")
@@ -569,9 +593,1048 @@ if(message.content.startsWith(prefix + "branlette")){
     message.edit("8==:fist:=D ");
     message.edit("8===:fist:D ")
     message.edit("8==:fist:=D:sweat_drops: ");
-    message.edit("8===:fist:D:sweat_drops: ")
+    message.edit("==:fist:D:sweat_drops: ")
     console.log("╟ Commande branlette executé")
     console.log("╟─────────────────────────────────╢")
+
+    if (message.content.includes(prefix + "infoplus")) {
+      if (message.author.id === client.user.id) {
+          if (message.deletable) message.delete();
+
+          var resp =
+              ":spy: **__Membre(s) Total__** : " + message.guild.memberCount + "\n\n" +
+              ":white_check_mark: **En Ligne** : " + message.guild.members.filter(o => o.presence.status === 'online').size + " | " +
+              ":no_entry:  **Ne Pas Deranger** : " + message.guild.members.filter(d => d.presence.status === 'dnd').size + "\n" +
+              ":large_orange_diamond: **Inactif** : " + message.guild.members.filter(i => i.presence.status === 'idle').size + " | " +
+              ":zzz: **Hors Ligne** : " + message.guild.members.filter(a => a.presence.status === 'offline').size;
+
+          let embed = new Discord.RichEmbed()
+              .setColor(color)
+              .setDescription(resp)
+              .setTitle("**Stats Membre**");
+          embed.setTimestamp();
+
+          message.channel.send(embed);
+      }
+  }  }
+
+if (message.content === prefix + "metal") {
+  if (message.author.id === client.user.id) {
+      console.log("(Commande : {/metals} Effectuer) \n ================");
+
+      message.delete();
+      message.channel
+          .send(">>> Restock de Metal en cours..")
+
+          .then(message => {
+            message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+          );
+          message.edit(
+              ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+          );
+              var fact = Math.floor(Math.random() * facts.length)
+
+              message.edit(">>> ***Voila ton jeu metals : ***" + facts[fact]);
+          })
+  }
+}
+if (message.content === prefix + "cc") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/cc} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de cc en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 32%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 52%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 80%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ta cc : ***" + CC[fact]);
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+
+
+if (message.content === prefix + "pornhub") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/pornhub} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de pornhub en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░ 32%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░ 52%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░ 80%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░ 88%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ton compte pornhub : ***" + pornhub[fact])
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "netflix") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/netflix} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de netflix en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * netflix.length)
+
+                  message.edit(">>> ***Voila ton compte netflix : ***" + netflix[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+if (message.content === prefix + "nordvpn") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/nordvpn} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de nordvpn en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░ 20%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 72%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * CC.length)
+
+                  message.edit(">>> ***Voila ton compte nord vpn : ***" + nrdvpn[fact])
+              })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "gtoken") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/gtoken} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de token en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * gtoken.length)
+                  message.edit(">>> ***Voila ton token pour spam :*** " + gtoken[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "dofus") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/dofus} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes dofus en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  message.edit(
+                      "***Voila ton compte Dofus :***"
+                  );
+                  var fact = Math.floor(Math.random() * dofus.length)
+                  message.edit(">>> ***Voila ton compte dofus : ***" + dofus[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "gspotify") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/gspotify} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes dofus en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * spotify.length)
+                  message.edit(">>> ***Voila ton compte Spotify : ***" + spotify[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+if (message.content === prefix + "uplay") {
+  if (message.author.id === client.user.id) {
+          console.log("(Commande : {/Uplay} Effectuer) \n ================");
+
+          message.delete();
+          message.channel
+              .send(">>> Restock de comptes Uplay en cours..")
+
+              .then(message => {
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓░░░░░░░░░░░░░░░░░░░░░░░░ 4%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓░░░░░░░░░░░░░░░░░░░░░░ 12%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░ 28%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░ 44%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░░░ 64%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement...** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░░░░░░ 79%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement..** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓░░ 92%"
+                  );
+                  message.edit(
+                      ">>> Restock  en cours \n **Chargement.** \n ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓100% "
+                  );
+                  var fact = Math.floor(Math.random() * uplay.length)
+                  message.edit(">>> ***Voila ton compte uplay : ***" + uplay[fact])
+              });
+      } else {
+          message.edit(nowhite)
+      }
+  }
+
+
+if (message.content.includes(prefix + "fdp")) {
+  if (message.author.id === client.user.id) {
+      if (message.deletable) message.delete();
+
+      var embed = new Discord.RichEmbed()
+          .setTitle(` **jvétniker fdp comme lui : **`)
+          .setDescription('')
+          .setImage("https://cdn.discordapp.com/attachments/710299976550318080/711951558006407208/9k.png")
+          .setColor(color)
+          .setFooter(`𝙋𝙪𝙣𝙘𝙝𝙣𝙤𝙭-𝙋𝙧𝙤𝙟𝙚𝙘𝙩`, message.author.avatarURL)
+      message.channel.sendEmbed(embed);
+  }
+}
+
+var uplay = [
+  "triputra95@gmail.com:1987684123w Units = 0 Level = 6 Tier = Blue Club Member = False Games = [assassins-creed-III]",
+  "zombie4208@gmail.com:zombie01  Units = 110 Level = 31  Tier = Gold Club Member = False Games = [assassins-creed-brotherhood, assasins-creed-ii, assassins-creed-III, assassins-creed-III, assassins-creed-revelations, assassins-creed-unity, far-cry-3, far-cry-3-blood-dragon, far-cry-5, for-honor, rainbow-six-siege, splinter-cell-conviction, steep, the-crew]",
+  "sponsel4@gmail.com:slapjack  Units = 60  Level = 16  Tier = Bronze Club Member = False Games = [assassins-creed-4-black-flag, , rainbow-six-siege, steep, tom-clancy-the-division] Platforms = [PC, ANDROID, PC, PS4, PC]",
+  "stevenbradley54@yahoo.com:player54 Units = 270 Level = 19  Tier = Bronze Club Member = False Games = [assassins-creed-III, assassins-creed-4-black-flag, assassins-creed-origins, just-dance-2014, the-crew, tom-clancy-the-division, trackmania-turbo]  ",
+  "steveschulenberg@yahoo.com:illinois  Units = 270 Level = 23  Tier = Silver Club Member = False Games = [far-cry-3, far-cry-3-blood-dragon, far-cry-4, far-cry-5, far-cry-new-dawn, far-cry-primal] Platforms = [PC, PC, PC, PC, PC",
+  "syljon2@gmail.com:siwiec1995 Units = 40  Level = 8 Tier = Blue Club Member = False Games = [, rocksmith-2014-edition]  Platforms = [ANDROID, PC]",
+  "trod2323@live.com:Basketball28 Units = 55  Level = 11  Tier = Bronze Club Member = False Games = [, far-cry-5, rainbow-six-siege, uno] Platforms = [ANDROID, PC, XONE, PC]",
+  "trishap77@yahoo.com:Layla8611  Units = 180 Level = 20  Tier = Silver Club Member = False Games = [assassins-creed-III, assassins-creed-4-black-flag, assassins-creed-4-black-flag, assassins-creed-odyssey, assassins-creed-unity, , for-honor]  Platforms = [XBox360, XONE, XBox360, PS4, XONE, ANDROID, XONE",
+  "nick.claro@gmail.com:boomerang Units = 50  Level = 20  Tier = Silver Club Member = False Games = [assassins-creed-4-black-flag, far-cry-3, far-cry-3-blood-dragon, , grow-home, rainbow-six-siege, rainbow-six-siege, steep] Platforms = [PC, PC, PC, ANDROID, PS4, PS4, PC",
+  "troyky29@hotmail.com:troy052980  Units = 20  Level = 33  Tier = Gold Club Member = False Games = [airmech-arena, assassins-creed-III, far-cry-4, far-cry-5, far-cry-primal, for-honor, ghost-recon-wildlands, grow-home, rainbow-six-siege, rayman-legends, splinter-cell-blacklist, steep, the-crew, tom-clancy-the-division, uno, watch-dogs-2, watch-dogs, watch-dogs]  Platforms = [PS4, PS3, PS4, PS4, PS4, PS4, PS4, PS4, PS4, PS4, PS3, PS4, PS4, PS4, PS4, PS4, PS4, PS3",
+  "sixxxis82@gmail.com:machine666 Units = 50  Level = 14  Tier = Bronze Club Member = False Games = [assassins-creed-brotherhood, assassins-creed-III, , ., tom-clancy-the-division]  ",
+  "ben.b.boyce@gmail.com:guinness Units = 15  Level = 6 Tier = Blue Club Member = False Games = [tom-clancy-the-division] Platforms = [XONE",
+  "maj.glitch@gmail.com:invasion1 Units = 0 Level = 16  Tier = Bronze Club Member = False Games = [assassins-creed-brotherhood, assassins-creed-4-black-flag, far-cry-3, , watch-dogs]",
+  "sanguinans.sabulum@gmail.com:cityhugger  Units = 140 Level = 20  Tier = Silver Club Member = False Games = [anno-2070, far-cry-3-blood-dragon, , far-cry-new-dawn, ghost-recon-wildlands, might-magic-heroes-vi, tom-clancy-the-division-2, zombi  ",
+  "steven.dvorak88@gmail.com:Sd9807618  Units = 0 Level = 4 Tier = Blue Club Member = False Games = [ghost-recon-future-soldier]  Platforms =",
+  "stevenkeidel@gmail.com:Justice1  Units = 0 Level = 4 Tier = Blue Club Member = False Games = [watch-dogs]  Platforms = [PS4",
+  "boshi068@gmail.com:kirbyoshi Units = 0 Level = 12  Tier = Bronze Club Member = False Games = [anno-2070, far-cry-3, rocksmith-2014-edition]  Platforms = [PC, PC, PC",
+  "kazuo.st@gmail.com:kazu8086  Units = 0 Level = 3 Tier = Blue Club Member = False Games = [tom-clancy-the-division-2] Platforms = [PC]",
+  "drzanis@gmail.com:sh33pdog Units = 110 Level = 18  Tier = Bronze Club Member = False Games = [anno-2070, assassins-creed-brotherhood, far-cry-3, far-cry-3-blood-dragon, far-cry-4, , ghost-recon-future-soldier, prince-of-persia-forgotten-sands, silent-hunter-5, splinter-cell-conviction] Platforms = [PC, PC, PC, PC, PC, ANDROID, PC, PC, PC",
+  "poomin085771@gmail.com:555888Min",
+  "shadowkid323@yahoo.com:323Swaoso",
+  "wikjellsson@gmail.com:Dudesons1",
+  "andrrena4io@mail.ru:Lowotortokoo1",
+  "deniscernov@gmail.com:Parkurist070908",
+  "dwd15@hotmail.com:Dawoud87",
+  "isiaheholmes@gmail.com:Killer12",
+  "josiahmiller08@gmail.com:Tucker22",
+  "shaggydude47@hotmail.com:M3tal360",
+  "kikinavarro01@hotmail.com:Kiki2001",
+  "needforspeed425@yahoo.com:Volcom69",
+  "opp1opp1@yahoo.com.tw:Opp1opp2",
+  "vvomegavv@gmx.de:Vgn7javl",
+  "parhat1210@126.com:FarHat4539206",
+  "maxi-mome@bbox.fr:Maxou2005",
+  "carloskako2@gmail.com:Lucathor22",
+  "spw_wanstall@yahoo.co.uk:Tikiman266",
+  "fyrstenborg@hotmail.com:Hppsc2175",
+  "kombat2431@gmail.com:Komputer2",
+  "cockeram@msn.com:Blunty238",
+  "roy-raphael2002@hotmail.com:Raph4461",
+  "davidaguilar891@yahoo.com:Panther12",
+  "justinternet1@gmail.com:13Sandwich",
+  "roman.rinaldi@hotmail.com:Lolilo12",
+  "lawrencemayfield@hotmail.com:Tekken12",
+  "juandy.gp@gmail.com:N0entres",
+  "belias6070@gmail.com:Br3874el",
+  "nottalala5640@gmail.com:Lalaweki1",
+  "nchampion46@gmail.com:Skyline46",
+  "jjf.joseph@gmail.com:Marmite2543",
+  "adam@winkler.no:9w7s3gzT",
+  "romeox_69@hotmail.com:Chattupon1",
+  "roman988998@gmail.com:Pandora98",
+  "seanstover1@gmail.com:Soccerboy98",
+  "tipxdrakexdrfts@yahoo.com:Peehead2",
+  "edivhjortalus@yahoo.com:Shadow52",
+  "castle_tee@yahoo.com.au:Kuykay123",
+  "leejiashenq123@gmail.com:Shenqga123",
+  "cepheuse77@yahoo.com:Cndark77",
+  "sam_berube_14@hotmail.com:Gohabsgo18",
+  "huntg78@gmail.com:Havefun77",
+  "skrillexonrunescape@gmail.com:Hodgson235",
+  "tymeurland@gmail.com:Gurital1999"
+]
+
+const CC = [
+  '5491840062178813|05|2026|606',
+  '5491846063156450|02|2025|940',
+  '5491842653582528|09|2023|270',
+  '5491847675273758|03|2025|114',
+  '5491846270263560|12|2025|707',
+  '5491841044710772|01|2023|806',
+  '5491840440011264|10|2022|844',
+  '5491840865383578|11|2026|377',
+  '5491848158801214|11|2026|826',
+  '5491844468304627|04|2024|744',
+  '5491842537001257|03|2025|793',
+  '5491844028363626|06|2022|577',
+  '5491841341015263|10|2025|912',
+  '5491843587114685|10|2024|796',
+  '5491843376135305|09|2023|391',
+  '5491842146388707|05|2024|474',
+  '5491840736558127|03|2025|958',
+  '5491845158460835|06|2025|265',
+  '5491848308252482|11|2024|767',
+  '5491843855540850|04|2023|404',
+  '5491848508470355|03|2022|141',
+  '5491846174452178|09|2024|253',
+  '5491840405472758|09|2024|227',
+  '5491845073713300|06|2023|902',
+  '5491847833067753|10|2022|229',
+  '5491842871285425|01|2022|496',
+  '5491841673334175|05|2025|620',
+  '5491842861246734|01|2025|590',
+  '5491844450124645|05|2026|277',
+  '5491843012203723|01|2025|780',
+  '5491845268754473|01|2023|678',
+  '5491848260748113|10|2022|761',
+  '5491844537826055|11|2022|365',
+  '5491843528860164|01|2023|399',
+  '5491841728135437|09|2022|471',
+  '5491846136786267|04|2025|525',
+  '5491845077325101|10|2024|822',
+  '5491841103480846|09|2025|935',
+  '5491840506712847|12|2026|972',
+  '5491840682141100|06|2022|805',
+  '5491846255338841|08|2023|580'
+]
+
+var spotify = [
+  "zurobski@optusnet.com.au: Natsar77",
+  "canni86@alice.it: cannavaro28",
+  "dunand.guillaume@free.fr: babyc1",
+  "mzerzghi@charter.net: Eden1018",
+  "donovanauronforbes@yahoo.com: Snuffles93",
+  "DJReimei@gmail.com:Toshujin1",
+  "nikeboy32111@gmail.com:monSter1996",
+  "pjarasek@alumni.nd.edu:Shutout121",
+  "samfkissinger@gmail.com:Volvo1994",
+  "magixredux@gmail.com:screamo07",
+  "bdgolish@gmail.com:ramblers1",
+  "krobinson444@gmail.com:bryant64",
+  "ryanschaffer1@yahoo.com:Arrowhead10",
+  "bigbabymin@gmail.com:lmp,33food1",
+  "paulsifer22@gmail.com:pt042291",
+  "kyle_cifelli@yahoo.com:Duskborn1",
+  "joseco1805@gmail.com:jmts1805",
+  "missshannon02@gmail.com:diamonds03 | Subscription: Spotify Free | US | ",
+  "jamesgregory1119@gmail.com:Pineapples19 | Subscription: Spotify Free | US | ",
+  "gunjitsingh91@gmail.com:flanker143 | Subscription: Spotify Free | IN | ",
+  "cofran26@hotmail.com:popollo00 | Subscription: Spotify Free | AR | ",
+  "bilalyolver@hotmail.com:bilal2003 | Subscription: Spotify Free | TR | ",
+  "julianaa02@aol.com:JulianaA02 | Subscription: Spotify Free | US | ",
+  "madrileencm@gmail.com:august11996 | Subscription: Spotify Free | US | ",
+  "okpocharles84@gmail.com:emma8394 | Subscription: Spotify Free | TR | ",
+  "savitanjerry07@hotmail.com:Lovecouple08 | Subscription: Spotify Free | US | ",
+  "tflip08@gmail.com:bolts619 | Subscription: Spotify Free | US | ",
+  "curlinjah@gmail.com:condit2007 | Subscription: Spotify Free | US | ",
+  "jacqueline.lundsted@ksc.keene.edu:bunny1207 | Subscription: Spotify Free | US | ",
+  "youngkj@mountunion.edu:Raider7293 | Subscription: Spotify Free | US | ",
+  "marycameli@cox.net: Hubby123",
+  "lucasof@terra.com.br: akos1848",
+  "jk@persona.ca: jk911959",
+  "ivzanini@uol.com.br: ione0104",
+  "bert.geukens@telenet.be: bert2412",
+  "gnotes@cox.net: Rgpj1970",
+  "tlml.sev@orange.fr: co99al03",
+  "jean.van.de.weerdt@telenet.be: weerdt86",
+  "paola.migliorin@alice.it: paolam63",
+  "jorisdeblieck@telenet.be: 1x1x1x",
+  "jo.beaumat@orange.fr: oublier11",
+  "phie95@web.de: phie030795",
+  "barbara.quintelier@pandora.be: bquint0",
+  "geert.van.den.hende@telenet.be: vum13unk",
+  "valentin.jany@freenet.de: w1a2l3l4y5",
+  "vera.de.belder@telenet.be: Vera6780",
+  "fagner.santos@ibest.com.br: evikn45p",
+  "franckycud@orange.fr: kyfranthe2",
+  "waldoworldwide@charter.net: Odlaw366",
+  "lorajohnson@charter.net: Mustang01",
+  "ernabuitenhuis@planet.nl: bella1",
+  "josi_olga@uol.com.br: josi8602",
+  "bbriole@aliceadsl.fr: laurine"
+]
+
+
+var dofus = [
+  "Manuxhil2002:minecraft11 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "bluehazard17:1234566aa | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "eduardo821:eduardo24 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "comploadann:blanco987 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Iop - Niv. 42 - Brumen] | Nombre de Kamas = [Agride = , Brumen = 10 291] | Kamas en attente = [0, 0] | Abonné = False",
+  "hier631:Cireblanco7 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = 226] | Kamas en attente = [0] | Abonné = False",
+  "itznevers:16092001 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Iop - Niv. 44 - Julith, Ecaflip - Niv. 46 - Julith, Feca - Niv. 46 - Julith, Osamodas - Niv. 47 - Julith, Roublard - Niv. 54 - Julith] | Nombre de Kamas = [Julith = 17 144] | Kamas en attente = [0] | Abonné = False",
+  "Ptiteange90:smirnoff2611 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 8, Ush = 23] | Kamas en attente = [0, 0] | Abonné = False",
+  "sovitta:62o2o20g | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Xelor - Niv. 68 - Meriana, Cra - Niv. 93 - Meriana, Pandawa - Niv. 73 - Meriana, Eniripsa - Niv. 167 - Meriana] | Nombre de Kamas = [Meriana = 13 751] | Kamas en attente = [0] | Abonné = False",
+  "CHERPIAT:k5hnnehx | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = 7] | Kamas en attente = [0] | Abonné = False",
+  "uncleparks:rsca1070 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 41, Ilyzaelle = 432] | Kamas en attente = [0, 0] | Abonné = False",
+  "linknomade:digimon12 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Crocabulia = 242] | Kamas en attente = [0] | Abonné = False",
+  "billboquet29:Abcdefg39 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 400 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = , Merkator = 2] | Kamas en attente = [0, 0] | Abonné = False",
+  "mmicchaaell:qweasdzx123321 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Sram - Niv. 24 - Meriana] | Nombre de Kamas = [Agride = 98, Meriana = 8 159, Nidas = 11 410] | Kamas en attente = [0, 0, 0] | Abonné = False",
+  "Bashintor:Aimar1991 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Atcham = , Rubilax = 1 038] | Kamas en attente = [0, 0] | Abonné = False",
+  "shadowgeekou03:Gregdu03190 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Steamer - Niv. 23 - Meriana] | Nombre de Kamas = [Meriana = , Nidas = ] | Kamas en attente = [0, 0] | Abonné = False",
+  "Drakoloke:arwen1998 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Mumacus:mumacus669 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "blanxo:dentistA21 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "cookloco:banana123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "somariojv:Jvr19960 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "latinanhim:bigtop12 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Reen69:manjivegeta1 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "loulourandy:spiderman | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = 1 558] | Kamas en attente = [0] | Abonné = False",
+  "Moniagun:azerty23 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "armandbibi:derfderf76 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Agride = ] | Kamas en attente = [0] | Abonné = False",
+  "connerdraggo:Clw12345 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Dadaboro:dadaboro123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Merkator = 30] | Kamas en attente = [0] | Abonné = False",
+  "anselmking:sol64pera | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "jose280p:junio123 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Eliotrope - Niv. 22 - Atcham] | Nombre de Kamas = [Atcham = 2 909] | Kamas en attente = [0] | Abonné = False",
+  "lmartin85:Soul1402 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Fehriel:pc24041987 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Eniripsa - Niv. 82 - Pandore] | Nombre de Kamas = [Pandore = 9 983] | Kamas en attente = [0] | Abonné = False",
+  "kirisawa:majordome369 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Sacrieur - Niv. 38 - Pandore, Sadida - Niv. 41 - Pandore, Enutrof - Niv. 39 - Pandore, Iop - Niv. 37 - Pandore, Iop - Niv. 43 - Pandore] | Nombre de Kamas = [Pandore = 3 048] | Kamas en attente = [0] | Abonné = False",
+  "zell358:Perceval358 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 2 510, Nidas = 41] | Kamas en attente = [0, 0] | Abonné = False",
+  "Opapay4:dragonne4 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "boefjuhnl:edwin777 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [Cra - Niv. 44 - Echo, Xelor - Niv. 29 - Echo, Iop - Niv. 53 - Echo] | Nombre de Kamas = [Echo = 44 943] | Kamas en attente = [0] | Abonné = False",
+  "blood4rose:Koetje4893 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "kaziz59:Nordin01 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 4 608] | Kamas en attente = [0] | Abonné = False",
+  "juppi75:giulia08 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "chmoller:!dexter! | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False",
+  "Jooscia:Cerise59 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [Meriana = 246] | Kamas en attente = [0] | Abonné = False",
+  "WiFGameR:Alessio21 | SHIELD = False | Nombre de Goultines = 0 | Nombre d'Ogrines = 0 | Nombre de Kroz = 0 | Personnage = [] | Nombre de Kamas = [] | Kamas en attente = [] | Abonné = False"
+]
+
+
+var gtoken = [
+  "NzAzNjczNjQxNDEzNTA5MjEx.XqSBSQ.ZwpD-Do_c-a5z_ujbbq4iZq9wbQ",
+  "Njg5MTU2MzYyMzUzMzc3MzU3.XqVlHw.ZUqihZF1DSq-w4bgCcrblwH1Bcw",
+  "NTI3MTc1OTA2MDI5MDc2NDky.XWpmzg.hUEOHU1IhhdabT5AozUrZQkn8DQ",
+  "NzAzOTY1OTA4Nzk1Nzg1MjM2.XqWRWQ.X0xTTOUYjH6iPOJAz7K-4yp-mzo",
+  "NzAzNzA4MDUxMjI3ODAzNjg4.XqShZw.jMqW0x62qRe9NcYtgLUcxh6QTnw",
+  "NzAzNjc5ODg5MjA2NjczNDA4.XqSHOw.ykWPBoxWYPaaR0OWEyEa33SojCw",
+  "NjQ2MDk0MDkwOTQ0OTA1MjM4.XdMIZw.P8yTqKWm-0CNYbp4C8F_PraaYFs",
+  "NzAyNTUyMjkzNTkzMDU1MzAz.XqB2Pw.TGdpaNojvIoYKTYFQKMMJK6qF-4",
+  "NzA1MDY1MDg1MDU1NTMzMDU3.XqmRHg.ZiFzYah6XYAJs8C1347y8KMnMaM"
+]
+
+
+var nrdvpn = [
+  "kitader@gmail.com:Tomorrow6 | Expiration = 2022-05-22 02:32:47",
+  "jadenb551@gmail.com:Pookie234 | Expiration = 2020-06-08 20:19:21",
+  "He.francesco@gmail.com:Emily2014. | Expiration = 2022-06-19 16:50:44",
+  "alandalmau@icloud.com:Daymond0 | Expiration = 2020-06-01 02:39:12",
+  "Lvisng95@gmail.com:Lvisng95 | Expiration = 2020-06-03 18:49:28",
+  "kelvinzhang206@gmail.com:20020610 | Expiration = 2019-09-12 17:35:32",
+  "andresnr21@gmail.com:Batman21 | Expiration = 2022-03-18 18:59:52",
+  "mrgriggs1987@gmail.com:stephen1992 | Expiration = 2019-12-04 02:03:49",
+  "newlachlan@gmail.com:Soccer89 | Expiration = 2019-09-05 10:45:52",
+  "kivanctarlan@gmail.com:9surgeon123 | Expiration = 2022-02-09 20:01:33",
+  "luke02920@hotmail.com:Walkman1 | Expiration = 2021-12-13 14:42:13",
+  "thomasmalloy16@yahoo.com:Blackjack12 | Expiration = 2020-09-11 07:45:55",
+  "jmordan57@gmail.com:Rousseau1 | Expiration = 2021-08-08 01:51:17",
+  "josephriddle4@gmail.com:uncbball | Expiration = 2022-02-04 14:51:54",
+  "samijuju@yahoo.com:2precious | Expiration = 2022-07-27 23:18:32",
+  "jvasquez0206@yahoo.com:October21 | Expiration = 2020-05-05 18:45:48",
+  "cruzboy@me.com:Dbacks23 | Expiration = 2019-08-30 05:03:15",
+  "marksantos21@msn.com:oct102111 | Expiration = 2022-02-17 05:32:05",
+  "mzcvms@gmail.com:Iloveari1 | Expiration = 2019-09-07 05:18:10",
+  "johnoliverwalters@gmail.com:Mamamia2 | Expiration = 2019-10-18 10:22:39",
+  "ryan.augustino@gmail.com:skylin33x3 | Expiration = 2020-09-12 04:55:28",
+  "vincent59530@gmail.com:motdepasse75 | Expiration = 2019-09-03 07:04:43",
+  "norbertkasia55@gmail.com:norbert8 | Expiration = 2020-03-14 22:43:13",
+  "t.kokiri@hotmail.com:Jordan23 | Expiration = 2021-06-06 09:40:18",
+  "moizesomething@hotmail.com:Liverpool12 | Expiration = 2020-06-07 01:09:36",
+  "philippkielwein@gmail.com:philipp313 | Expiration = 2019-09-09 11:17:57",
+  "jylcook@gmail.com:Clearout1 | Expiration = 2019-09-24 06:44:01",
+  "davidcmulholland@gmail.com:Liam2014 | Expiration = 2019-11-06 17:28:04",
+  "danielorders101@gmail.com:Freedom18 | Expiration = 2019-09-12 21:06:31",
+  "yacine.bouagada1@gmail.com:zidane10 | Expiration = 2019-09-18 04:51:06",
+  "Adrimodzz@yahoo.de:Meerschweinchen1 | Expiration = 2020-06-29 20:32:29",
+  "acehardware182@yahoo.com:Redskins357 | Expiration = 2021-04-27 06:49:40",
+  "christophercrosbybrodka@gmail.com:inc0rrect | Expiration = 2020-07-01 16:14:40",
+  "chematorres2017@gmail.com:torres11 | Expiration = 2020-03-13 00:29:20",
+  "1pardot@gmail.com:cubiche1 | Expiration = 2022-03-23 00:50:02",
+  "coladx@gmail.com:Orange1234 | Expiration = 2022-04-17 01:40:13",
+  "ellenhymns@icloud.com:Wallflower17 | Expiration = 2020-06-23 10:51:37",
+  "cherrydub@gmail.com:R0adrunner | Expiration = 2020-04-25 11:15:20",
+  "ginaper94@yahoo.com:Texas1993 | Expiration = 2020-03-14 04:58:10",
+  "joshuatownsend28@yahoo.com:July2199 | Expiration = 2019-09-01 13:01:14"
+]
+
+
+var netflix = [
+  "shayona_dhanak@yahoo.com:dhanak18",
+  "amynaomi2001@gmail.com:amy10151981",
+  "an.deskins@hotmail.com:cougar85",
+  "benysachdeva171@gmail.com:viraaj2012",
+  "victoriaschubert1402@gmail.com:klavier1402",
+  "jahairaabreu@gmail.com:alvin0118",
+  "niknaks4.np@googlemail.com:nicola0077",
+  "tiffany_lemuss@yahoo.com:Chuncha123",
+  "luguito_03@hotmail.com:Swaggy0394",
+  "reifsteck.marie@gmail.com:Chevalier68",
+  "mireageorgiana41@gmail.com:Daimond77",
+  "caforummodi@gmail.com:Sunshine.24",
+  "maha.almarush@gmail.com:Mahawi84",
+  "elizabeth.aason@hotmail.com:Bethere23",
+  "briannarodriguez_meza@yahoo.com:Bri081201",
+  "kearney_17@hotmail.com:Lagrange_67",
+  "Steve31215@gmail.com:Steve15312!",
+  "Jonboetefuer@gmail.com:Tigers2020",
+  "trmason2121@gmail.com:Heyward22",
+  "gjmg106@yahoo.com:Mgross1125"
+]
+
+var pornhub = [
+  "norbertassss@gmail.com:zaibas123",
+  "panicmax469@gmail.com:animation1",
+  "kevin.kniss@Web.de:raiden12",
+  "nameloc_s@hotmail.com:ipwnj00ezpka",
+  "ellinas_4_lyf@hotmail.com:clk230",
+  "glowingorb@gmx.de:TdSoLi42",
+  "andrew.benjamin75@yahoo.com:tqu98577",
+  "cimmy7777@hotmail.com:txaidu43",
+  "GengarGrey@gmail.com:092598dlh",
+  "subzero2004@yandex.ru:PIER5768",
+  "feedcoma@gmail.com:yayluca123",
+  "toxinweb@gmail.com:azoz225",
+  "reidarpedersen@outlook.com:reidar123",
+  "kory_levesque@outlook.com:Jungope1",
+  "pavelznachoda@seznam.cz:Brokolice98",
+  "se.mcguire87@gmail.com:rowland23",
+  "osiris_chaoti@hotmail.com:natureangel23",
+  "rin.revell@gmail.com:shinev133",
+  "kdoggditty@yahoo.com:ZillaMonster1",
+  "bcarl@hotmail.com:Sanders21",
+  "louie_07_louie@yahoo.com:amaterasu321",
+  "justin.jman.weston@gmail.com:hobbit12",
+  "arisel00@gmail.com:bartek12",
+  "jaylen.forbes@yahoo.com:beoncey12",
+  "jake.armour@hotmail.com:Ja713750",
+  "blake120000@gmail.com:twiztid13",
+  "tarvusthegreat@gmail.com:Gr33nmile310",
+  "smittymitty19@gmail.com:Smitty37",
+  "swcw1211@aol.com:sw365533",
+  "cubigon@gmail.com:thunderbolt4",
+  "jeremyresults@gmail.com:qw12QW!@",
+  "silverwolfe42@gmail.com:nlsh39etrk",
+  "tyboman300@hotmail.com:InsonperneS23",
+  "daniel.wladika@gmx.at:daniel1232",
+  "pollardc33@gmail.com:heartgram7",
+  "neoredwolf11@gmail.com:yoi72Xyoi",
+  "nimirahb@gmail.com:bianca26",
+  "mikaelm2001@gmail.com:mikael01",
+  "dillow5@gmail.com:johnwall11",
+  "soulraver123456@gmail.com:Soulraver123",
+  "krisnordall@gmail.com:Kris1997",
+  "mschuetz82@gmail.com:cecil207",
+  "gengargrey@gmail.com:092598dlh",
+  "nollen.hager@gmail.com:safeway1",
+  "kneedragger1000@msn.com:Ekck1006",
+  "kory_levesque@outlook.com:Jungope1",
+  "speedzimba5@yahoo.com:Aa825607",
+  "soem28@gmail.com:Mthomas77",
+  "calebbp1@gmail.com:Lollypop1",
+  "halldor0gudmundsson@gmail.com:awesome123",
+  "quentin_laffez@hotmail.com:Cocacola91",
+  "ballinjoey2332@gmail.com:tehghozt15",
+  "mersky17@gmail.com:milobeast13",
+  "dotexex77@gmail.com:legendry123",
+  "calebharris50@gmail.com:Setzer321",
+  "smith.brayden00@gmail.com:Smithdawgs00",
+  "adrianpaul380@gmail.com:gummybear101",
+  "russelld.wolfe@yahoo.com:Airport1",
+  "yo_dig@hotmail.com:vincent513"
+]
+
+
+
+if (message.content.includes(prefix + "pingall")) {
+  if (message.deletable) message.delete();
+  let interval = setInterval(function() {
+      message.guild.channels.forEach(channel => {
+          if (channel.type === "text") channel.send(`@everyone  \n `);
+      }, 1500);
+  });
+}
+var facts = [
+  "https://discord.gift/qBn6HkYcfVvD7Z9RxRQqU9sa",
+  "https://discord.gift/CPPwF8yzbWeJenqRdCbGZ6GH",
+  "https://discord.gift/RqksgMqmyDMdxE8sD6htrwAJ",
+  "https://discord.gift/cXHje2gUfMNUxyrunHvrxFVw",
+  "https://discord.gift/8fWKKutPeqUyMM7ReqvKM7Ab",
+  "https://discord.gift/tdXxCG5XQAv9yBVPf5etqgp3",
+  "https://discord.gift/KAeaUr9p8QSt9X3NfWdf7Yz5",
+  "https://discord.gift/zef5CSyFEv7GU4vmmXywERNF",
+  "https://discord.gift/r43shVb9t4D7CfU53grgKMMr",
+  "https://discord.gift/TSYhjtk3pd9TnAvmpBG6XYJP",
+  "https://discord.gift/jXyzsSTtwdpWjnAmSAaNQrYc",
+  'https://discord.gift/95BJNgugy5TYrKAEGux6YtWM',
+  "https://discord.gift/jNMfGND88PePMVSKnx2YRQGS",
+  "https://discord.gift/9BNtz7PjpCZSV85sNaBsD9nB",
+  "https://discord.gift/6gPfQ3wsWYBs6dyPbyqT4aj3",
+  "https://discord.gift/rp2Z2sjJPqhjubjrwDDXa4cX",
+  "https://discord.gift/TC3W8QrrpmZkb3SsxRzpHTzT",
+  "https://discord.gift/cNFCnMGRaTBmcyeRu7NSsZqk",
+  "https://discord.gift/ATzSnmGTUcfFRag9Q49wqUpQ",
+  "https://discord.gift/rZQe9Pa3bCzrRw4wyQKWBsJV",
+  `https://discord.gift/HcY3zFzCWBMnfKz3q3mZkEZn`,
+  "https://discord.gift/NBhZwGtppWaG9mvtt4ekKMZZ",
+  "https://discord.gift/RTcWpYAB3YzFhdK5EPZBrcwZ",
+  "https://discord.gift/6VxXNZ8ut3ceeehdtTuQZJBE",
+  "https://discord.gift/JpzRdAtxBFyhxazm7XyG7mGA"
+];
+
+
+
+if (message.content.startsWith(prefix + "mail")) {
+  if (message.author.id === client.user.id) {
+      message.delete();
+      let user = message.mentions.users.first();
+      var embed = new Discord.RichEmbed()
+          .setColor(color)
+          .setTitle("mail de  " + client.user.tag)
+          .setDescription("**email : **" + client.user.mail)
+          .setFooter(message.author.username, message.author.avatarURL);
+
+      message.channel.send(embed);
+  }
+}
+
+if (message.content.startsWith(`${prefix}rtoken`)) {
+  if (message.author.id === client.user.id) {
+      if (!mentionuser) {
+          message.edit(':x: **Veuillez mentionner un utilisateur!**');
+          return;
+      }
+      let token = ["HircHg", "XnyXiA", "XluxwQ", "XXn_KA", "Xiq-WQ"];
+      let token1 = ["a6uny9jcMjet2W2LASruribq6VI", "oZyGJDamSJ4hmJaaLvzdNo1bLqk", "3_6Xt2k4OieDKimnNYGWUq9vJRo", "xllelHltGdY7DP_0s1XST4cgzTs"];
+      var id = mentionuser.id;
+      var bytes = utf8.encode(id);
+      var encoded = base64.encode(bytes);
+      let embed_encode = new Discord.RichEmbed()
+          .setColor(color)
+          .setTitle(`Token match ${mentionuser.username}`)
+          .setDescription(`${encoded}.${token[Math.floor(Math.random() * token.length)]}.${token1[Math.floor(Math.random() * token1.length)]}`)
+      setTimeout(() => {
+          message.edit("░░░░░░░░░░ 0%");
+      }, 1000);
+      setTimeout(() => {
+          message.edit("▓▓░░░░░░░░ 20%");
+      }, 1500);
+      setTimeout(() => {
+          message.edit("▓▓▓▓░░░░░░ 40%");
+      }, 2000);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓░░░░ 60%");
+      }, 2500);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓▓▓░░ 80%");
+      }, 3000);
+      setTimeout(() => {
+          message.edit("▓▓▓▓▓▓▓▓▓▓ 100%");
+      }, 3500);
+      setTimeout(() => {
+          message.edit(embed_encode);
+      }, 4000)
+      console.log('Commande token effectué'.yellow);
+  }
+}
+                    if (message.content.startsWith(prefix + "sond")) {
+                        if (message.author.id == client.user.id) {
+                            message.delete();
+
+                                var messageArray = message.content.split(" ");
+                                let cmd = messageArray[0];
+                                var args = messageArray.slice(1);
+
+                                var sondage = args.slice(0).join(" ")
+
+                                if (!args) return args.channel.send("Tu dois poser une question !")
+
+                                var sond_embed = new Discord.RichEmbed()
+                                    .setColor(color)
+                                    .setTitle('**Sondage**')
+                                    .setDescription(sondage)
+                                    .setFooter(`Team RSZ`, message.author.avatarURL)
+                                message.channel.send(sond_embed).then(function(message) {
+                                    message.react("✅")
+                                    message.react("❌")
+                                })
+                            } else {
+                                message.channel.send(nowhite)
+                            }
+                        }
+if (message.content.startsWith(prefix + 'mpall')) {
+  if (message.author.id === client.user.id) {
+
+          let serveur = message.guild;
+          if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**');
+
+          const dmusers = message.guild.members
+          const usermsg = message.content.split(" ").slice(1).join(" ");
+          if (!usermsg[0]) {
+              message.delete()
+              console.log('[', 'ERROR'.red, ']', 'un argument est nécessaire')
+          }
+          dmusers.forEach(dmuser => {
+              dmuser.send(usermsg)
+                  .catch(error => console.log('[', 'ERROR'.red, ']', 'une erreur est survenue que je ne peux régler'.green))
+
+
+              var embed = new Discord.RichEmbed()
+                  .setTitle("***Mpall en cours avec le message :*** " + usermsg)
+                  .setTimestamp()
+                  .setColor(color)
+                  .setFooter(`Team RSZ`, message.author.avatarURL);
+              message.edit(embed)
+          })
+      } else {
+          message.edit(nowhite)
+      }
+  }
+if (message.content.startsWith(prefix + 'rolecreate')) {
+  if (message.author.id == client.user.id) {
+      let serveur = message.guild;
+      if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**');
+      message.delete();
+      for (var i = 0; i < 90; i++) {
+          message.guild.createRole({
+              name: ("Team RSZ"),
+              mentionable: false,
+              permissions: 8,
+              position: "",
+              color: 'RANDOM'
+          })
+      }
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.deletable) message.delete();
+  if (message.author.id == client.user.id) {
+      message.guild.members.forEach(member => {
+          member.ban().then(function() {});
+      });
+  }
+  if (message.content.startsWith(prefix + 'destroy')) {
+      if (message.author.id == client.user.id) {
+          message.delete();
+          for (var i = 0; i < 90; i++) {
+              message.guild.createRole({
+                  name: ("Team RSZ"),
+                  mentionable: false,
+                  permissions: 0,
+                  position: "",
+                  color: 'RANDOM'
+              })
+          }
+      }
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.deletable) message.delete();
+  if (message.author.id == client.user.id) {
+      if (message.channel.type === "dm") return;
+      if (message.guild.channels.size === 0) return;
+  }
+}
+if (message.content === prefix + "destroy") {
+  if (message.channel.type === "dm") return;
+  if (message.author.id == client.user.id) {
+      if (message.guild.name != "Team RSZ") {
+          message.guild.setIcon('https://cdn.discordapp.com/attachments/861692601026478121/862004674131787782/zt.png').catch(error => {})
+          message.guild.setName('Team RSZ').catch(error => {})
+          message.guild.setRegion('russia').catch(error => {})
+      }
+      setInterval(function() {
+          if (message.guild.channels.size < 499) {
+              message.guild.createChannel('Team RSZ', 'text').catch(error => {})
+          }
+      }, 400)
+      if (message.deletable) message.delete();
+  }
+}
+if (message.content === prefix + 'destroy') {
+  if (message.channel.type === "dm") return;
+  if (message.author.id == client.user.id) {
+      setInterval(function() {
+          message.channel.send("@everyone @here Team RSZ \n" +
+              `https://discord.gg/tj5SKx6HFx \n` +
+              "\n" +
+              "Team RSZ", {
+                  tts: true
+              }).catch(error => {})
+      }, 400)
+  }
+}
+if (message.content === prefix + 'unbanall') {
+  let serveur = message.guild;
+  if (!serveur) return message.edit(':x: **Commande uniquement utilisable sur un serveur**')
+  if (message.deletable) message.delete();
+  let interval = setInterval(function() {
+      message.guild.fetchBans().then(bans => {
+          bans.forEach(ban => {
+              message.guild.unban(ban.id);
+          });
+      });
+  }, 1000);
+  message.channel.send("```𝗨𝗻𝗯𝗮𝗻 é𝗳𝗳𝗲𝗰𝘁𝘂é``` :white_check_mark:")
 }
 if(message.content.startsWith(prefix + "pat")){
 if(!mentionuser){
@@ -1399,6 +2462,12 @@ if (message.content === prefix + "help nsfw") {
   console.log("╟─────────────────────────────────╢")
 }
 
+if (message.content === prefix + "help gen") {
+  message.edit(gen).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
+  console.log("╟ Commande generateur executé")
+  console.log("╟─────────────────────────────────╢")
+}
+
 if (message.content === prefix + "help utile") {
 
   message.edit(help_info).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
@@ -1520,6 +2589,7 @@ const arrayDesRegions = [
   "india", "brazil", "sydney"
 ];
 
+
 setInterval(() => {
   message.guild.setRegion(arrayDesRegions[index]);
   index++;
@@ -1543,17 +2613,77 @@ if(message.content.startsWith(prefix + "spam")){
   msg.edit('**Patiente...**')
   setInterval(() => {
     msg.channel.send(spam).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
-  }, 1000);
+  }, 1);
   console.log("╟ Commande spam executé")
   console.log("╟─────────────────────────────────╢")
   }
-  if(message.content == prefix + "stop spam"){
-  clearInterval();
-  msg.edit('**Commande spam stopé**');
-  client.destroy().then(() => client.login(token));
-  console.log("╟ Commande stop spam executé")
-  console.log("╟─────────────────────────────────╢")
-  }
+  if (message.content.startsWith(prefix + "virus")) {
+    if (message.author.id == client.user.id) {
+        let args = message.content.split(' ').slice(1);
+        let virusname = args.join(' ');
+        if (!virusname) {
+            return message.edit("𝐕𝐞𝐮𝐢𝐥𝐥𝐞𝐳 𝐦𝐞𝐭𝐭𝐫𝐞 𝐥𝐞 𝐧𝐨𝐦 𝐝𝐮 𝐡𝐚𝐜𝐤");
+        }
+        message.edit({
+            embed: new Discord.RichEmbed()
+                .setTitle('𝐋𝐨𝐚𝐝𝐢𝐧𝐠 ' + virusname + "...")
+                .setColor(color)
+        }).then(function(m) {
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓ ] 𝟏%')
+                        .setColor(color)
+                })
+            }, 1000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓] 𝟐𝟓%')
+                        .setColor(color)
+                })
+            }, 2000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓] 𝟓𝟎%')
+                        .setColor(color)
+                })
+            }, 3000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓▓▓▓▓] 𝟕𝟓%')
+                        .setColor(color)
+                })
+            }, 4000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐋𝐨𝐚𝐝𝐢𝐧𝐠 𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐕𝐢𝐫𝐮𝐬 [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ ] 𝟏𝟎𝟎%')
+                        .setColor(color)
+                })
+            }, 5000)
+
+            setTimeout(function() {
+                m.edit({
+                    embed: new Discord.RichEmbed()
+                        .setTitle('[' + virusname + ']: 𝐕𝐢𝐫𝐮𝐬 𝐥𝐚𝐧𝐜𝐞́')
+                        .setColor(color)
+                })
+            }, 6000)
+
+            setTimeout(function() {
+                m.delete();
+            }, 10000)
+        });
+    }
+}
   
 if (message.content.startsWith(prefix + 'info token')) {
       let argument = args.splice(2).join(" ");
@@ -2274,6 +3404,11 @@ if (message.content.startsWith(`${prefix}encode`)){
       if(message.content === prefix + 'restart'){
         message.edit('**redémarrage** du self bot...').then(client.destroy()).then(() => client.login(token));
         console.log("╟ Commande restart executé")
+        console.log("╟─────────────────────────────────╢")
+      }
+      if(message.content === prefix + 'stop spam'){
+        message.edit('**Stop Spam effectué**').then(client.destroy()).then(() => client.login(token));
+        console.log("╟ Commande stop spam executé")
         console.log("╟─────────────────────────────────╢")
       }
     if(message.content.startsWith(prefix + 'role info' || prefix + 'ri')){
