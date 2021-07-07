@@ -3359,6 +3359,12 @@ if (message.content.startsWith(`${prefix}encode`)){
               console.log("╟ Commande gen nitro executé")
               console.log("╟─────────────────────────────────╢")
     }
+    if(message.content === `${prefix}nitro2`){
+          message.edit('https://support.discordapp.com/hc/article_attachments/360013500032/nitro_gif.gif')
+          .addField("Gift :", " https:/"+"/discord.gift/" + nitrocode(16,'0aA'))
+          console.log("╟ Commande gen nitro executé")
+          console.log("╟─────────────────────────────────╢")
+}
     if (msg.content.startsWith(prefix + 'gen token')) {
       msg.delete()
       setTimeout(() => {
