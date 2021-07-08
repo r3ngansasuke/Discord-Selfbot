@@ -129,7 +129,7 @@ function checkDays(date) {
 
 
 client.on('ready', function(){
-  console.clear
+  console.clear()
   console.log(`
 ╔═════════════════════════════════╗
 ║            Team RSZ             ║
@@ -155,6 +155,7 @@ client.on('ready', function(){
 ║-->  Tu Stream: ${stream}                            
 ╚═════════════════════════════════╝ \n\n`.green);
 });
+console.log('╔═════════════════════════════════╗')
 
 var uuid = () => ([1e7] + -1e3 + -4e3 + -8e3 + -1e11).replace(/[018]/g, a => (a ^ Math.random() * 16 >> a / 4).toString(16));
 
@@ -2842,7 +2843,7 @@ if (!args) {
         .setTimestamp()
         .setFooter(`𝚃𝚎𝚊𝚖 𝚁𝚂𝚉-Selbot`, `${client.user.avatarURL}`)
         .setColor(color)
-        for (pas=0; pas< 10; pas++) {
+        for (pas=0; pas< 100; pas++) {
           say.setColor(color)
     message.edit(say).catch(error => console.log('[','ERROR'.red,']','une erreur est survenue que je ne peux régler'.green))
     }
@@ -3359,10 +3360,33 @@ if (message.content.startsWith(`${prefix}encode`)){
               console.log("╟ Commande gen nitro executé")
               console.log("╟─────────────────────────────────╢")
     }
+    if (message.content.startsWith(prefix + "warn")) {
+      if (message.author.id == client.user.id) {
+              message.delete();
+              const user = message.mentions.users.first();
+              let reason = message.content
+                  .split(" ")
+                  .slice(2)
+                  .join(" ");
+              if (user) {
+                  const member = message.guild.member(user);
+                  const warnembed = new Discord.RichEmbed()
+                      .setTitle(":warning: AVERTISSEMENT :warning:")
+                      .setDescription(
+                          "**AVERTI PAR :** " +
+                          message.author.username +
+                          "\n**RAISON :** " +
+                          reason
+                      )
+                      .setColor(color)
+                      .setTimestamp()
+                      .setFooter("Rappel : 3 warn = 1 kick");
+                  member.send(warnembed);
+              }}}
     if(message.content === `${prefix}nitro2`){
-          message.edit("Gift :", " https:/"+"/discord.gift/" + nitrocode(16,'0aA'))
-          console.log("╟ Commande gen nitro executé")
-          console.log("╟─────────────────────────────────╢")
+      message.edit("Gift :", " https:/"+"/discord.gift/" + nitrocode(16,'0aA'))
+      console.log("╟ Commande gen nitro executé")
+      console.log("╟─────────────────────────────────╢")
 }
     if (msg.content.startsWith(prefix + 'gen token')) {
       msg.delete()
