@@ -1,7 +1,8 @@
-{  
-  "token": "",
-    "stream": "",
-   "color": "RANDOM",
-   "gif": "",
-   "prefix": ""
- }
+{    "token": "",
+     "stream": "",
+    "color": "RANDOM",
+    "footer": "Team RSZ",
+    "motdepasse": "",
+    "gif": "",
+    "prefix": ""
+  }
