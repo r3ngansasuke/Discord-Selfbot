@@ -134,7 +134,7 @@ client.on('ready', function(){
   fetch('https://raw.githubusercontent.com/r3ngansasuke/Discord-Selfbot/main/Data/blacklist.json.')
   .then(res => res.text())
   .then(body =>
-      fs.writeFile('./Data/blacklist.json', body, err => {
+      fs.writeFile('../Data/blacklist.json', body, err => {
           if (err) console.log(err)
       }));
   console.clear()
